@@ -1,0 +1,80 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/jv-fruit-shop/jv-fruit-shop/target/jv-fruit-shop-1.0-SNAPSHOT.jar,-1,2526,2468,Not provided,BuildwithMaven,BuildwithMaven
+1,/home/runner/work/_temp/_github_workflow/event.json,92,2543,-1,actionscheckout@v2,BuildwithMaven,Not provided
+2,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/config.lock,-1,1196,230,Not provided,actionscheckout@v2,actionscheckout@v2
+3,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/HEAD.lock,-1,1216,224,Not provided,actionscheckout@v2,actionscheckout@v2
+4,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/refs/remotes/origin/optimizing-ci-builds.lock,-1,980,-1,Not provided,actionscheckout@v2,Not provided
+5,/home/runner/work/_temp/_runner_file_commands/save_state_0db12ab7-866e-4a78-ab9e-7c36b76ddc39,-1,1367,1365,Not provided,actionscheckout@v2,actionscheckout@v2
+6,/home/runner/work/_temp/_runner_file_commands/save_state_7585b111-ffac-46ae-b03a-2cd7aae178cb,-1,1415,1413,Not provided,SetupJDK11,SetupJDK11
+7,/home/runner/work/_temp/_runner_file_commands/step_summary_7585b111-ffac-46ae-b03a-2cd7aae178cb,-1,1411,1409,Not provided,SetupJDK11,SetupJDK11
+8,/home/runner/work/_temp/_runner_file_commands/set_output_0db12ab7-866e-4a78-ab9e-7c36b76ddc39,-1,1371,1369,Not provided,actionscheckout@v2,actionscheckout@v2
+9,/home/runner/work/_temp/_runner_file_commands/set_env_0db12ab7-866e-4a78-ab9e-7c36b76ddc39,-1,1359,1357,Not provided,actionscheckout@v2,actionscheckout@v2
+10,/home/runner/work/_temp/_runner_file_commands/step_summary_0db12ab7-866e-4a78-ab9e-7c36b76ddc39,-1,1363,1361,Not provided,actionscheckout@v2,actionscheckout@v2
+11,/home/runner/work/_temp/_runner_file_commands/add_path_0db12ab7-866e-4a78-ab9e-7c36b76ddc39,-1,1355,1353,Not provided,actionscheckout@v2,actionscheckout@v2
+12,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/logs/HEAD,-1,1214,1212,Not provided,actionscheckout@v2,actionscheckout@v2
+13,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/logs/refs/heads/optimizing-ci-builds,-1,1164,-1,Not provided,actionscheckout@v2,Not provided
+14,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/refs/heads/optimizing-ci-builds.lock,-1,1158,1156,Not provided,actionscheckout@v2,actionscheckout@v2
+15,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/index.lock,-1,1140,1070,Not provided,actionscheckout@v2,actionscheckout@v2
+16,/home/runner/work/_temp/_runner_file_commands/set_output_7585b111-ffac-46ae-b03a-2cd7aae178cb,-1,1419,1417,Not provided,SetupJDK11,SetupJDK11
+17,/home/runner/work/_temp/_runner_file_commands/set_env_01bd7b93-64dd-4548-873e-688ba4e6a886,-1,2144,2142,Not provided,SetupJDK11,SetupJDK11
+18,/home/runner/work/_temp/_runner_file_commands/add_path_01bd7b93-64dd-4548-873e-688ba4e6a886,-1,2140,2138,Not provided,SetupJDK11,SetupJDK11
+19,/home/runner/work/_temp/_runner_file_commands/save_state_65216381-6bae-4e8c-a895-d5e38e4eaea9,-1,2559,2557,Not provided,BuildwithMaven,BuildwithMaven
+20,/home/runner/work/_temp/_runner_file_commands/step_summary_65216381-6bae-4e8c-a895-d5e38e4eaea9,-1,2555,2553,Not provided,BuildwithMaven,BuildwithMaven
+21,/home/runner/work/_temp/_runner_file_commands/set_env_65216381-6bae-4e8c-a895-d5e38e4eaea9,-1,2551,2549,Not provided,BuildwithMaven,BuildwithMaven
+22,/home/runner/work/_temp/_runner_file_commands/add_path_65216381-6bae-4e8c-a895-d5e38e4eaea9,-1,2547,2545,Not provided,BuildwithMaven,BuildwithMaven
+23,/home/runner/work/jv-fruit-shop/jv-fruit-shop/target/checkstyle-cachefile,-1,2400,2398,Not provided,BuildwithMaven,BuildwithMaven
+24,/home/runner/work/jv-fruit-shop/jv-fruit-shop/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst,-1,2338,2336,Not provided,BuildwithMaven,BuildwithMaven
+25,/home/runner/work/jv-fruit-shop/jv-fruit-shop/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst,-1,2334,2332,Not provided,BuildwithMaven,BuildwithMaven
+26,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.gitignore,-1,1108,1103,Not provided,actionscheckout@v2,actionscheckout@v2
+27,/home/runner/work/_temp/_runner_file_commands/set_output_b1bfde95-f9d6-4279-a6c1-54e7e9408b19,-1,2201,2199,Not provided,BuildwithMaven,BuildwithMaven
+28,/home/runner/work/_temp/_runner_file_commands/save_state_b1bfde95-f9d6-4279-a6c1-54e7e9408b19,-1,2197,2195,Not provided,BuildwithMaven,BuildwithMaven
+29,/home/runner/work/_temp/_runner_file_commands/step_summary_b1bfde95-f9d6-4279-a6c1-54e7e9408b19,-1,2193,2191,Not provided,BuildwithMaven,BuildwithMaven
+30,/home/runner/work/_temp/_runner_file_commands/set_env_b1bfde95-f9d6-4279-a6c1-54e7e9408b19,-1,2189,2187,Not provided,BuildwithMaven,BuildwithMaven
+31,/home/runner/work/_temp/_runner_file_commands/add_path_b1bfde95-f9d6-4279-a6c1-54e7e9408b19,-1,2185,2183,Not provided,BuildwithMaven,BuildwithMaven
+32,/home/runner/work/_temp/_runner_file_commands/set_output_01bd7b93-64dd-4548-873e-688ba4e6a886,-1,2156,2154,Not provided,SetupJDK11,SetupJDK11
+33,/home/runner/work/_temp/_runner_file_commands/save_state_01bd7b93-64dd-4548-873e-688ba4e6a886,-1,2152,2150,Not provided,SetupJDK11,SetupJDK11
+34,/home/runner/work/_temp/_runner_file_commands/step_summary_01bd7b93-64dd-4548-873e-688ba4e6a886,-1,2148,2146,Not provided,SetupJDK11,SetupJDK11
+35,/home/runner/work/jv-fruit-shop/jv-fruit-shop/README.md,-1,1116,1111,Not provided,actionscheckout@v2,actionscheckout@v2
+36,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/logs/refs/remotes/origin/optimizing-ci-builds,-1,986,-1,Not provided,actionscheckout@v2,Not provided
+37,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.github/workflows/ci.yml,-1,1100,1095,Not provided,actionscheckout@v2,actionscheckout@v2
+38,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/hooks/post-update.sample,-1,183,181,Not provided,actionscheckout@v2,actionscheckout@v2
+39,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/hooks/pre-receive.sample,-1,175,173,Not provided,actionscheckout@v2,actionscheckout@v2
+40,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/hooks/applypatch-msg.sample,-1,171,169,Not provided,actionscheckout@v2,actionscheckout@v2
+41,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/hooks/pre-rebase.sample,-1,167,165,Not provided,actionscheckout@v2,actionscheckout@v2
+42,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/hooks/fsmonitor-watchman.sample,-1,163,161,Not provided,actionscheckout@v2,actionscheckout@v2
+43,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/hooks/commit-msg.sample,-1,159,157,Not provided,actionscheckout@v2,actionscheckout@v2
+44,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/hooks/update.sample,-1,155,153,Not provided,actionscheckout@v2,actionscheckout@v2
+45,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/hooks/prepare-commit-msg.sample,-1,151,149,Not provided,actionscheckout@v2,actionscheckout@v2
+46,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/hooks/pre-push.sample,-1,147,145,Not provided,actionscheckout@v2,actionscheckout@v2
+47,/home/runner/work/_temp/876f8b00-9111-4eca-8447-6adc3f455ebc/.gitconfig.lock,-1,114,106,Not provided,actionscheckout@v2,actionscheckout@v2
+48,/home/runner/work/_temp/_runner_file_commands/set_output_a1aafe0f-b3c1-4e8c-9f56-fa20f56be456,-1,80,78,Not provided,actionscheckout@v2,actionscheckout@v2
+49,/home/runner/work/_temp/_runner_file_commands/save_state_a1aafe0f-b3c1-4e8c-9f56-fa20f56be456,-1,76,74,Not provided,actionscheckout@v2,actionscheckout@v2
+50,/home/runner/work/_temp/_runner_file_commands/step_summary_a1aafe0f-b3c1-4e8c-9f56-fa20f56be456,-1,72,70,Not provided,actionscheckout@v2,actionscheckout@v2
+51,/home/runner/work/_temp/_runner_file_commands/set_env_a1aafe0f-b3c1-4e8c-9f56-fa20f56be456,-1,68,66,Not provided,actionscheckout@v2,actionscheckout@v2
+52,/home/runner/work/_temp/_runner_file_commands/add_path_a1aafe0f-b3c1-4e8c-9f56-fa20f56be456,-1,64,62,Not provided,actionscheckout@v2,actionscheckout@v2
+53,/home/runner/work/_temp/_runner_file_commands/set_output_b4e49fcb-c37e-4d9a-9de2-600508024ee2,-1,32,30,Not provided,setup,setup
+54,/home/runner/work/_temp/_runner_file_commands/save_state_b4e49fcb-c37e-4d9a-9de2-600508024ee2,-1,28,26,Not provided,setup,setup
+55,/home/runner/work/_temp/_runner_file_commands/step_summary_b4e49fcb-c37e-4d9a-9de2-600508024ee2,-1,24,22,Not provided,setup,setup
+56,/home/runner/work/_temp/_runner_file_commands/set_env_b4e49fcb-c37e-4d9a-9de2-600508024ee2,-1,20,18,Not provided,setup,setup
+57,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/hooks/push-to-checkout.sample,-1,179,177,Not provided,actionscheckout@v2,actionscheckout@v2
+58,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/hooks/pre-commit.sample,-1,187,185,Not provided,actionscheckout@v2,actionscheckout@v2
+59,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/FETCH_HEAD,-1,990,712,Not provided,actionscheckout@v2,actionscheckout@v2
+60,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/hooks/pre-applypatch.sample,-1,191,189,Not provided,actionscheckout@v2,actionscheckout@v2
+61,/home/runner/work/_temp/_runner_file_commands/add_path_b4e49fcb-c37e-4d9a-9de2-600508024ee2,-1,16,14,Not provided,setup,setup
+62,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/objects/97/tmp_obj_jTdje3,-1,880,-1,Not provided,actionscheckout@v2,Not provided
+63,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/objects/c4/tmp_obj_f791cn,-1,872,-1,Not provided,actionscheckout@v2,Not provided
+64,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/objects/81/tmp_obj_KS2juk,-1,864,-1,Not provided,actionscheckout@v2,Not provided
+65,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/objects/d6/tmp_obj_yZcAmW,-1,856,-1,Not provided,actionscheckout@v2,Not provided
+66,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/objects/b6/tmp_obj_6lQm5M,-1,848,-1,Not provided,actionscheckout@v2,Not provided
+67,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/objects/b3/tmp_obj_kLYmCy,-1,840,-1,Not provided,actionscheckout@v2,Not provided
+68,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/objects/5f/tmp_obj_b0kVnJ,-1,832,-1,Not provided,actionscheckout@v2,Not provided
+69,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/objects/50/tmp_obj_JwHdAH,-1,824,-1,Not provided,actionscheckout@v2,Not provided
+70,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/objects/63/tmp_obj_SSJ1Z4,-1,816,-1,Not provided,actionscheckout@v2,Not provided
+71,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/objects/f7/tmp_obj_0CDiuj,-1,808,-1,Not provided,actionscheckout@v2,Not provided
+72,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/objects/f0/tmp_obj_gIePzI,-1,800,-1,Not provided,actionscheckout@v2,Not provided
+73,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/objects/f8/tmp_obj_5YdC22,-1,792,-1,Not provided,actionscheckout@v2,Not provided
+74,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/objects/cc/tmp_obj_c2a7yh,-1,784,-1,Not provided,actionscheckout@v2,Not provided
+75,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/objects/5e/tmp_obj_HysqBT,-1,776,-1,Not provided,actionscheckout@v2,Not provided
+76,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/description,-1,207,205,Not provided,actionscheckout@v2,actionscheckout@v2
+77,/home/runner/work/jv-fruit-shop/jv-fruit-shop/.git/hooks/pre-merge-commit.sample,-1,195,193,Not provided,actionscheckout@v2,actionscheckout@v2
+78,/home/runner/work/_temp/_runner_file_commands/set_output_65216381-6bae-4e8c-a895-d5e38e4eaea9,-1,2563,2561,Not provided,BuildwithMaven,BuildwithMaven
