@@ -1,0 +1,105 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/7.5.1/checksums/checksums.lock,-1,7466,1752,Not provided,Buildmodules,Buildmodules
+1,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/buildOutputCleanup/buildOutputCleanup.lock,-1,7458,1789,Not provided,Buildmodules,Buildmodules
+2,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/7.5.1/checksums/sha1-checksums.bin,1997,6989,1882,Buildmodules,Buildmodules,Buildmodules
+3,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/7.5.1/fileHashes/fileHashes.lock,-1,7474,1763,Not provided,Buildmodules,Buildmodules
+4,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/buildOutputCleanup/outputFiles.bin,7443,7444,1820,Buildmodules,Buildmodules,Buildmodules
+5,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/7.5.1/checksums/md5-checksums.bin,1957,6979,1897,Buildmodules,Buildmodules,Buildmodules
+6,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/7.5.1/fileHashes/fileHashes.bin,1849,7424,1846,Buildmodules,Buildmodules,Buildmodules
+7,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/7.5.1/executionHistory/executionHistory.lock,-1,7453,1814,Not provided,Buildmodules,Buildmodules
+8,/home/runner/work/_temp/_github_workflow/event.json,92,7510,-1,actionscheckout@v3,Buildmodules,Not provided
+9,/home/runner/work/GradleTestCI/GradleTestCI/.git/config.lock,-1,1403,237,Not provided,actionscheckout@v3,actionscheckout@v3
+10,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/7.5.1/executionHistory/executionHistory.bin,1835,7428,1832,Buildmodules,Buildmodules,Buildmodules
+11,/home/runner/work/GradleTestCI/GradleTestCI/.git/objects/24/tmp_obj_nyFGEc,-1,964,956,Not provided,actionscheckout@v3,actionscheckout@v3
+12,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/7.5.1/fileHashes/resourceHashesCache.bin,1873,6995,1870,Buildmodules,Buildmodules,Buildmodules
+13,/home/runner/work/GradleTestCI/GradleTestCI/gradle/wrapper/gradle-wrapper.jar,-1,1311,-1,Not provided,actionscheckout@v3,Not provided
+14,/home/runner/work/_temp/760b6fe5-7da4-48f5-b82e-cd6b7ce22990/.gitconfig.lock,-1,115,106,Not provided,actionscheckout@v3,actionscheckout@v3
+15,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock,-1,7479,1777,Not provided,Buildmodules,Buildmodules
+16,/home/runner/work/GradleTestCI/GradleTestCI/.git/refs/remotes/origin/optimizing-ci-builds.lock,-1,1105,-1,Not provided,actionscheckout@v3,Not provided
+17,/home/runner/work/GradleTestCI/GradleTestCI/.git/HEAD.lock,-1,1423,231,Not provided,actionscheckout@v3,actionscheckout@v3
+18,/home/runner/work/_temp/_runner_file_commands/set_env_7fb9d708-abb1-4e52-accc-38b42853580b,-1,1665,1663,Not provided,SetupJDK8,SetupJDK8
+19,/home/runner/work/_temp/_runner_file_commands/add_path_7fb9d708-abb1-4e52-accc-38b42853580b,-1,1661,1659,Not provided,SetupJDK8,SetupJDK8
+20,/home/runner/work/_temp/_runner_file_commands/add_path_47ec0afa-76cf-4ad8-9fad-9660c875ec7d,-1,1706,1704,Not provided,Buildmodules,Buildmodules
+21,/home/runner/work/_temp/_runner_file_commands/step_summary_7fb9d708-abb1-4e52-accc-38b42853580b,-1,1669,1667,Not provided,SetupJDK8,SetupJDK8
+22,/home/runner/work/_temp/_runner_file_commands/set_output_7fb9d708-abb1-4e52-accc-38b42853580b,-1,1677,1675,Not provided,SetupJDK8,SetupJDK8
+23,/home/runner/work/_temp/_runner_file_commands/save_state_7fb9d708-abb1-4e52-accc-38b42853580b,-1,1673,1671,Not provided,SetupJDK8,SetupJDK8
+24,/home/runner/work/_temp/_runner_file_commands/set_output_d50b8eac-9c16-4611-b0c8-7d3ead26e015,-1,1624,1622,Not provided,SetupJDK8,SetupJDK8
+25,/home/runner/work/_temp/_runner_file_commands/save_state_d50b8eac-9c16-4611-b0c8-7d3ead26e015,-1,1620,1618,Not provided,SetupJDK8,SetupJDK8
+26,/home/runner/work/_temp/_runner_file_commands/step_summary_d50b8eac-9c16-4611-b0c8-7d3ead26e015,-1,1616,1614,Not provided,SetupJDK8,SetupJDK8
+27,/home/runner/work/_temp/_runner_file_commands/step_summary_47ec0afa-76cf-4ad8-9fad-9660c875ec7d,-1,1714,1712,Not provided,Buildmodules,Buildmodules
+28,/home/runner/work/_temp/_runner_file_commands/set_output_88a516d0-ff6f-40ef-8685-b8b9374ab721,-1,1577,1575,Not provided,actionscheckout@v3,actionscheckout@v3
+29,/home/runner/work/_temp/_runner_file_commands/save_state_88a516d0-ff6f-40ef-8685-b8b9374ab721,-1,1573,1571,Not provided,actionscheckout@v3,actionscheckout@v3
+30,/home/runner/work/_temp/_runner_file_commands/step_summary_88a516d0-ff6f-40ef-8685-b8b9374ab721,-1,1569,1567,Not provided,actionscheckout@v3,actionscheckout@v3
+31,/home/runner/work/_temp/_runner_file_commands/set_env_88a516d0-ff6f-40ef-8685-b8b9374ab721,-1,1565,1563,Not provided,actionscheckout@v3,actionscheckout@v3
+32,/home/runner/work/_temp/_runner_file_commands/add_path_88a516d0-ff6f-40ef-8685-b8b9374ab721,-1,1561,1559,Not provided,actionscheckout@v3,actionscheckout@v3
+33,/home/runner/work/GradleTestCI/GradleTestCI/.git/logs/HEAD,-1,1421,1419,Not provided,actionscheckout@v3,actionscheckout@v3
+34,/home/runner/work/_temp/_runner_file_commands/set_env_47ec0afa-76cf-4ad8-9fad-9660c875ec7d,-1,1710,1708,Not provided,Buildmodules,Buildmodules
+35,/home/runner/work/_temp/_runner_file_commands/save_state_202c8d53-2018-45e8-b60c-8ccfb1712123,-1,7526,7524,Not provided,Buildmodules,Buildmodules
+36,/home/runner/work/_temp/_runner_file_commands/save_state_47ec0afa-76cf-4ad8-9fad-9660c875ec7d,-1,1718,1716,Not provided,Buildmodules,Buildmodules
+37,/home/runner/work/_temp/_runner_file_commands/set_output_47ec0afa-76cf-4ad8-9fad-9660c875ec7d,-1,1722,1720,Not provided,Buildmodules,Buildmodules
+38,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/file-system.probe,-1,1867,1865,Not provided,Buildmodules,Buildmodules
+39,/home/runner/work/GradleTestCI/GradleTestCI/.git/refs/heads/optimizing-ci-builds.lock,-1,1364,1362,Not provided,actionscheckout@v3,actionscheckout@v3
+40,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/7.5.1/fileChanges/last-build.bin,-1,7448,7446,Not provided,Buildmodules,Buildmodules
+41,/home/runner/work/_temp/_runner_file_commands/add_path_202c8d53-2018-45e8-b60c-8ccfb1712123,-1,7514,7512,Not provided,Buildmodules,Buildmodules
+42,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/buildOutputCleanup/cache.properties,-1,1807,1805,Not provided,Buildmodules,Buildmodules
+43,/home/runner/work/_temp/_runner_file_commands/set_env_202c8d53-2018-45e8-b60c-8ccfb1712123,-1,7518,7516,Not provided,Buildmodules,Buildmodules
+44,/home/runner/work/_temp/_runner_file_commands/step_summary_202c8d53-2018-45e8-b60c-8ccfb1712123,-1,7522,7520,Not provided,Buildmodules,Buildmodules
+45,/home/runner/work/GradleTestCI/GradleTestCI/.git/logs/refs/heads/optimizing-ci-builds,-1,1370,-1,Not provided,actionscheckout@v3,Not provided
+46,/home/runner/work/GradleTestCI/GradleTestCI/gradle/wrapper/gradle-wrapper.properties,-1,1319,1314,Not provided,actionscheckout@v3,actionscheckout@v3
+47,/home/runner/work/GradleTestCI/GradleTestCI/.git/index.lock,-1,1346,1196,Not provided,actionscheckout@v3,actionscheckout@v3
+48,/home/runner/work/GradleTestCI/GradleTestCI/.git/objects/62/tmp_obj_uysSFh,-1,808,-1,Not provided,actionscheckout@v3,Not provided
+49,/home/runner/work/GradleTestCI/GradleTestCI/.git/objects/09/tmp_obj_faGD1o,-1,800,-1,Not provided,actionscheckout@v3,Not provided
+50,/home/runner/work/GradleTestCI/GradleTestCI/.git/objects/5f/tmp_obj_4wRr6L,-1,792,-1,Not provided,actionscheckout@v3,Not provided
+51,/home/runner/work/GradleTestCI/GradleTestCI/.git/objects/17/tmp_obj_4O0mPy,-1,784,-1,Not provided,actionscheckout@v3,Not provided
+52,/home/runner/work/GradleTestCI/GradleTestCI/.git/description,-1,214,212,Not provided,actionscheckout@v3,actionscheckout@v3
+53,/home/runner/work/GradleTestCI/GradleTestCI/.git/hooks/pre-merge-commit.sample,-1,202,200,Not provided,actionscheckout@v3,actionscheckout@v3
+54,/home/runner/work/GradleTestCI/GradleTestCI/.git/hooks/pre-applypatch.sample,-1,198,196,Not provided,actionscheckout@v3,actionscheckout@v3
+55,/home/runner/work/GradleTestCI/GradleTestCI/.git/hooks/pre-commit.sample,-1,194,192,Not provided,actionscheckout@v3,actionscheckout@v3
+56,/home/runner/work/GradleTestCI/GradleTestCI/.git/hooks/post-update.sample,-1,190,188,Not provided,actionscheckout@v3,actionscheckout@v3
+57,/home/runner/work/GradleTestCI/GradleTestCI/.git/hooks/push-to-checkout.sample,-1,186,184,Not provided,actionscheckout@v3,actionscheckout@v3
+58,/home/runner/work/GradleTestCI/GradleTestCI/.git/hooks/pre-receive.sample,-1,182,180,Not provided,actionscheckout@v3,actionscheckout@v3
+59,/home/runner/work/GradleTestCI/GradleTestCI/.git/hooks/applypatch-msg.sample,-1,178,176,Not provided,actionscheckout@v3,actionscheckout@v3
+60,/home/runner/work/GradleTestCI/GradleTestCI/.git/hooks/pre-rebase.sample,-1,174,172,Not provided,actionscheckout@v3,actionscheckout@v3
+61,/home/runner/work/GradleTestCI/GradleTestCI/.git/hooks/fsmonitor-watchman.sample,-1,170,168,Not provided,actionscheckout@v3,actionscheckout@v3
+62,/home/runner/work/GradleTestCI/GradleTestCI/.git/hooks/commit-msg.sample,-1,166,164,Not provided,actionscheckout@v3,actionscheckout@v3
+63,/home/runner/work/GradleTestCI/GradleTestCI/.git/hooks/update.sample,-1,162,160,Not provided,actionscheckout@v3,actionscheckout@v3
+64,/home/runner/work/GradleTestCI/GradleTestCI/.git/hooks/prepare-commit-msg.sample,-1,158,156,Not provided,actionscheckout@v3,actionscheckout@v3
+65,/home/runner/work/GradleTestCI/GradleTestCI/.git/hooks/pre-push.sample,-1,154,152,Not provided,actionscheckout@v3,actionscheckout@v3
+66,/home/runner/work/_temp/_runner_file_commands/set_output_95de833e-1d49-4127-a6d9-56f62a016f67,-1,77,75,Not provided,actionscheckout@v3,actionscheckout@v3
+67,/home/runner/work/_temp/_runner_file_commands/step_summary_95de833e-1d49-4127-a6d9-56f62a016f67,-1,69,67,Not provided,actionscheckout@v3,actionscheckout@v3
+68,/home/runner/work/_temp/_runner_file_commands/set_env_95de833e-1d49-4127-a6d9-56f62a016f67,-1,65,63,Not provided,actionscheckout@v3,actionscheckout@v3
+69,/home/runner/work/_temp/_runner_file_commands/add_path_95de833e-1d49-4127-a6d9-56f62a016f67,-1,61,59,Not provided,actionscheckout@v3,actionscheckout@v3
+70,/home/runner/work/_temp/_runner_file_commands/set_output_e02aa2bf-d35f-482a-8295-b19ea3d5deab,-1,29,27,Not provided,setup,setup
+71,/home/runner/work/_temp/_runner_file_commands/save_state_e02aa2bf-d35f-482a-8295-b19ea3d5deab,-1,25,23,Not provided,setup,setup
+72,/home/runner/work/_temp/_runner_file_commands/step_summary_e02aa2bf-d35f-482a-8295-b19ea3d5deab,-1,21,19,Not provided,setup,setup
+73,/home/runner/work/_temp/_runner_file_commands/set_env_e02aa2bf-d35f-482a-8295-b19ea3d5deab,-1,17,15,Not provided,setup,setup
+74,/home/runner/work/GradleTestCI/GradleTestCI/.git/objects/47/tmp_obj_nxBMc4,-1,816,-1,Not provided,actionscheckout@v3,Not provided
+75,/home/runner/work/GradleTestCI/GradleTestCI/.git/objects/95/tmp_obj_8TR0dQ,-1,824,-1,Not provided,actionscheckout@v3,Not provided
+76,/home/runner/work/GradleTestCI/GradleTestCI/.git/objects/1b/tmp_obj_UpyEQd,-1,832,-1,Not provided,actionscheckout@v3,Not provided
+77,/home/runner/work/GradleTestCI/GradleTestCI/.git/objects/f1/tmp_obj_9lPeUt,-1,988,-1,Not provided,actionscheckout@v3,Not provided
+78,/home/runner/work/GradleTestCI/GradleTestCI/gradlew.bat,-1,1335,1330,Not provided,actionscheckout@v3,actionscheckout@v3
+79,/home/runner/work/GradleTestCI/GradleTestCI/gradlew,-1,1327,1322,Not provided,actionscheckout@v3,actionscheckout@v3
+80,/home/runner/work/_temp/_runner_file_commands/add_path_e02aa2bf-d35f-482a-8295-b19ea3d5deab,-1,13,11,Not provided,setup,setup
+81,/home/runner/work/GradleTestCI/GradleTestCI/README.md,-1,1261,1256,Not provided,actionscheckout@v3,actionscheckout@v3
+82,/home/runner/work/GradleTestCI/GradleTestCI/.gitignore,-1,1253,1248,Not provided,actionscheckout@v3,actionscheckout@v3
+83,/home/runner/work/GradleTestCI/GradleTestCI/.github/workflows/ci.yml,-1,1245,-1,Not provided,actionscheckout@v3,Not provided
+84,/home/runner/work/GradleTestCI/GradleTestCI/.gitattributes,-1,1234,1229,Not provided,actionscheckout@v3,actionscheckout@v3
+85,/home/runner/work/GradleTestCI/GradleTestCI/.git/FETCH_HEAD,-1,1116,720,Not provided,actionscheckout@v3,actionscheckout@v3
+86,/home/runner/work/GradleTestCI/GradleTestCI/.git/logs/refs/remotes/origin/optimizing-ci-builds,-1,1112,-1,Not provided,actionscheckout@v3,Not provided
+87,/home/runner/work/GradleTestCI/GradleTestCI/.git/objects/02/tmp_obj_gNsJAP,-1,996,-1,Not provided,actionscheckout@v3,Not provided
+88,/home/runner/work/GradleTestCI/GradleTestCI/.git/objects/a6/tmp_obj_igV9ca,-1,980,-1,Not provided,actionscheckout@v3,Not provided
+89,/home/runner/work/GradleTestCI/GradleTestCI/.git/objects/76/tmp_obj_dgsdqA,-1,840,-1,Not provided,actionscheckout@v3,Not provided
+90,/home/runner/work/GradleTestCI/GradleTestCI/.git/objects/ae/tmp_obj_6ElFxo,-1,972,-1,Not provided,actionscheckout@v3,Not provided
+91,/home/runner/work/GradleTestCI/GradleTestCI/.git/objects/cb/tmp_obj_Kt350K,-1,948,946,Not provided,actionscheckout@v3,actionscheckout@v3
+92,/home/runner/work/GradleTestCI/GradleTestCI/.git/objects/e2/tmp_obj_C1593K,-1,938,936,Not provided,actionscheckout@v3,actionscheckout@v3
+93,/home/runner/work/GradleTestCI/GradleTestCI/.git/objects/c6/tmp_obj_ykfG6C,-1,928,926,Not provided,actionscheckout@v3,actionscheckout@v3
+94,/home/runner/work/GradleTestCI/GradleTestCI/.git/objects/4c/tmp_obj_6hu3mX,-1,912,-1,Not provided,actionscheckout@v3,Not provided
+95,/home/runner/work/GradleTestCI/GradleTestCI/.git/objects/ff/tmp_obj_0bv7iQ,-1,904,-1,Not provided,actionscheckout@v3,Not provided
+96,/home/runner/work/GradleTestCI/GradleTestCI/.git/objects/5e/tmp_obj_gt5pwv,-1,896,-1,Not provided,actionscheckout@v3,Not provided
+97,/home/runner/work/GradleTestCI/GradleTestCI/.git/objects/52/tmp_obj_eHAOJi,-1,888,-1,Not provided,actionscheckout@v3,Not provided
+98,/home/runner/work/GradleTestCI/GradleTestCI/.git/objects/39/tmp_obj_NBFAKi,-1,880,-1,Not provided,actionscheckout@v3,Not provided
+99,/home/runner/work/GradleTestCI/GradleTestCI/.git/objects/fd/tmp_obj_oNxTDA,-1,872,-1,Not provided,actionscheckout@v3,Not provided
+100,/home/runner/work/GradleTestCI/GradleTestCI/.git/objects/a9/tmp_obj_cyYov5,-1,864,-1,Not provided,actionscheckout@v3,Not provided
+101,/home/runner/work/GradleTestCI/GradleTestCI/.git/objects/a5/tmp_obj_uGnqfh,-1,856,-1,Not provided,actionscheckout@v3,Not provided
+102,/home/runner/work/GradleTestCI/GradleTestCI/.git/objects/9a/tmp_obj_B3q5TT,-1,848,-1,Not provided,actionscheckout@v3,Not provided
+103,/home/runner/work/_temp/_runner_file_commands/set_output_202c8d53-2018-45e8-b60c-8ccfb1712123,-1,7530,7528,Not provided,Buildmodules,Buildmodules
