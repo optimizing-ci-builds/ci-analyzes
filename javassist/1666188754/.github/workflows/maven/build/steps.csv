@@ -1,0 +1,6 @@
+,step_name,number_of_created_files,number_of_files_created_never_accessed,number_files_modified_after_accessed,time
+0,setup,5,0,5,0
+1,uses,71,0,71,1
+2,SetupJDKmatrixjavaversion,223,0,223,7
+3,BuildwithMaven,164,0,164,38
+4,finished,5,0,5,0
