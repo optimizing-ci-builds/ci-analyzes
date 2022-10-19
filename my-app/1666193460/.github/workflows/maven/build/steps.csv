@@ -1,0 +1,6 @@
+,step_name,number_of_created_files,number_of_files_created_never_accessed,number_files_modified_after_accessed,time
+0,setup,5,0,5,0
+1,uses,63,0,63,2
+2,SetupJDK18,10,0,10,5
+3,BuildwithMaven,18,0,18,10
+4,finished,5,0,5,0
