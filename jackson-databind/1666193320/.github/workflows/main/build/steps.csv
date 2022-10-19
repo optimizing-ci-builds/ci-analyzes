@@ -1,0 +1,10 @@
+,step_name,number_of_created_files,number_of_files_created_never_accessed,number_files_modified_after_accessed,time
+0,setup,5,0,5,0
+1,uses,16233,0,16233,8
+2,SetupJDK,6,0,6,3
+3,Build,2539,0,2539,76
+4,ExtractprojectMavenversion,10,0,10,6
+5,Deploysnapshot,5,0,5,1
+6,Generatecodecoverage,5,0,5,0
+7,Publishcodecoverage,5,0,5,0
+8,finished,5,0,5,0
