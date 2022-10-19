@@ -1,0 +1,7 @@
+,step_name,number_of_created_files,number_of_files_created_never_accessed,number_files_modified_after_accessed,time
+0,setup,5,0,5,0
+1,uses,75,0,75,0
+2,SetupJDK18,215,0,215,6
+3,TestwithMaven,13,0,13,7
+4,Codecov,10,0,10,2
+5,finished,5,0,5,0
