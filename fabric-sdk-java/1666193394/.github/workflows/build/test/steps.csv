@@ -1,6 +1,6 @@
 ,step_name,number_of_created_files,number_of_files_created_never_accessed,number_files_modified_after_accessed,time
 0,setup,5,0,5,0
-1,uses,745,0,745,2
+1,uses,685,0,685,1
 2,SetupJDKmatrixjavaversion,6,0,6,1
-3,Integrationtests,1917,0,1917,1036
+3,Integrationtests,1950,0,1950,1024
 4,finished,5,0,5,0
