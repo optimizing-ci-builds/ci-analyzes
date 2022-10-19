@@ -1,0 +1,6 @@
+,step_name,number_of_created_files,number_of_files_created_never_accessed,number_files_modified_after_accessed,time
+0,setup,5,0,5,0
+1,uses,119,0,119,1
+2,SetupJDK18,11,0,11,5
+3,CodeStyleCheck,12,0,12,9
+4,finished,5,0,5,0
