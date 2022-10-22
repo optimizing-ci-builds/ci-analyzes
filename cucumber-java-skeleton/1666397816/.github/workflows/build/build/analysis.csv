@@ -1,0 +1,53 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.git/config.lock,-1,1418,102,Not provided,uses14,uses14
+1,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.git/HEAD.lock,-1,1438,96,Not provided,uses14,uses14
+2,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/maven/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst,-1,2466,2464,Not provided,testmaven,testmaven
+3,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/maven/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst,-1,2470,2468,Not provided,testmaven,testmaven
+4,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.git/logs/HEAD,-1,1436,1434,Not provided,uses14,uses14
+5,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/maven/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst,-1,2685,2683,Not provided,testmaven,testmaven
+6,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/maven/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst,-1,2689,2687,Not provided,testmaven,testmaven
+7,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.git/refs/heads/optimizing-ci-builds.lock,-1,1381,1379,Not provided,uses14,uses14
+8,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/LICENCE,-1,1152,1147,Not provided,uses14,uses14
+9,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/README.md,-1,1160,1155,Not provided,uses14,uses14
+10,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/gradle/gradlew.bat,-1,1216,1211,Not provided,uses14,uses14
+11,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/maven/mvnw.cmd,-1,1325,1320,Not provided,uses14,uses14
+12,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/maven/target/surefire-reports/TEST-io.cucumber.skeleton.RunCucumberTest.xml,-1,3112,2863,Not provided,testmaven,testmaven
+13,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/gradle/.gradle/7.5.1/checksums/checksums.lock,-1,5398,3229,Not provided,testgradle,testgradle
+14,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.github/renovate.json,-1,1126,1121,Not provided,uses14,uses14
+15,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/gradle/.gradle/7.5.1/fileChanges/last-build.bin,-1,5380,5378,Not provided,testgradle,testgradle
+16,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/gradle/.gradle/7.5.1/executionHistory/executionHistory.bin,3380,5366,3377,testgradle,testgradle,testgradle
+17,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/gradle/.gradle/7.5.1/fileHashes/fileHashes.lock,-1,5406,3240,Not provided,testgradle,testgradle
+18,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/gradle/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock,-1,5411,3251,Not provided,testgradle,testgradle
+19,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/gradle/.gradle/buildOutputCleanup/buildOutputCleanup.lock,-1,5390,3263,Not provided,testgradle,testgradle
+20,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/gradle/.gradle/buildOutputCleanup/cache.properties,-1,3281,3279,Not provided,testgradle,testgradle
+21,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/gradle/.gradle/buildOutputCleanup/outputFiles.bin,5375,5376,3285,testgradle,testgradle,testgradle
+22,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/gradle/.gradle/7.5.1/executionHistory/executionHistory.lock,-1,5385,3369,Not provided,testgradle,testgradle
+23,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/gradle/.gradle/7.5.1/fileHashes/fileHashes.bin,3406,5351,3399,testgradle,testgradle,testgradle
+24,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/gradle/.gradle/file-system.probe,-1,3433,3431,Not provided,testgradle,testgradle
+25,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/gradle/.gradle/7.5.1/fileHashes/resourceHashesCache.bin,3444,4984,3436,testgradle,testgradle,testgradle
+26,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/gradle/.gradle/7.5.1/checksums/md5-checksums.bin,3823,4839,3815,testgradle,testgradle,testgradle
+27,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/gradle/.gradle/7.5.1/checksums/sha1-checksums.bin,3830,4842,3827,testgradle,testgradle,testgradle
+28,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.gitignore,-1,1144,1139,Not provided,uses14,uses14
+29,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.git/index.lock,-1,1363,1034,Not provided,uses14,uses14
+30,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.git/hooks/update.sample,-1,18,16,Not provided,uses14,uses14
+31,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.git/hooks/prepare-commit-msg.sample,-1,46,44,Not provided,uses14,uses14
+32,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.git/hooks/pre-applypatch.sample,-1,22,20,Not provided,uses14,uses14
+33,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.git/hooks/commit-msg.sample,-1,26,24,Not provided,uses14,uses14
+34,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.git/hooks/pre-push.sample,-1,30,28,Not provided,uses14,uses14
+35,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.git/hooks/pre-merge-commit.sample,-1,34,32,Not provided,uses14,uses14
+36,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.git/hooks/applypatch-msg.sample,-1,38,36,Not provided,uses14,uses14
+37,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.git/hooks/pre-rebase.sample,-1,42,40,Not provided,uses14,uses14
+38,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.git/hooks/fsmonitor-watchman.sample,-1,50,48,Not provided,uses14,uses14
+39,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.git/FETCH_HEAD,-1,972,427,Not provided,uses14,uses14
+40,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.git/hooks/post-update.sample,-1,54,52,Not provided,uses14,uses14
+41,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.git/hooks/pre-receive.sample,-1,58,56,Not provided,uses14,uses14
+42,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.git/hooks/push-to-checkout.sample,-1,62,60,Not provided,uses14,uses14
+43,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.git/hooks/pre-commit.sample,-1,66,64,Not provided,uses14,uses14
+44,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.git/description,-1,82,80,Not provided,uses14,uses14
+45,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.git/objects/7c/tmp_obj_fgg5gb,-1,797,795,Not provided,uses14,uses14
+46,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.git/objects/c3/tmp_obj_OJNREJ,-1,769,767,Not provided,uses14,uses14
+47,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.git/objects/fe/tmp_obj_32IF2x,-1,783,781,Not provided,uses14,uses14
+48,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.git/objects/64/tmp_obj_9NcDs9,-1,820,818,Not provided,uses14,uses14
+49,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.git/objects/0f/tmp_obj_J60Cln,-1,711,709,Not provided,uses14,uses14
+50,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.git/objects/0f/tmp_obj_wOthbf,-1,733,731,Not provided,uses14,uses14
+51,/home/runner/work/cucumber-java-skeleton/cucumber-java-skeleton/.git/objects/bc/tmp_obj_2L7ksT,-1,739,737,Not provided,uses14,uses14
