@@ -1,5 +1,0 @@
-,step_name,number_of_created_files,number_of_files_created_never_accessed,number_files_modified_after_accessed,time
-0,setup,0,0,0,0
-1,uses10,17,17,17,2
-2,uses11,0,0,0,1
-3,BuildwithMaven,1753,1753,1753,28

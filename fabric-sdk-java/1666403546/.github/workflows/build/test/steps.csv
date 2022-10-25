@@ -1,5 +1,0 @@
-,step_name,number_of_created_files,number_of_files_created_never_accessed,number_files_modified_after_accessed,time
-0,setup,0,0,0,0
-1,uses26,743,743,743,1
-2,SetupJDKmatrixjavaversion,0,0,0,2
-3,Integrationtests,1925,1913,1925,991

@@ -1,5 +1,0 @@
-,step_name,number_of_created_files,number_of_files_created_never_accessed,number_files_modified_after_accessed,time
-0,setup,0,0,0,0
-1,uses15,17,17,17,1
-2,SetupJDK11,0,0,0,5
-3,BuildwithMaven,197,197,197,51
