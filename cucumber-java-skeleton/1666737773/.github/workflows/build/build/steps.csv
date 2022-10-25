@@ -1,0 +1,10 @@
+,step_name,#c,#m,cma,cma_,cmt,cm_a,cm_a_,cm_t,c_ma,c_ma_,c_mt,c_m_a,c_m_a_,c_m_t,time
+0,setup,0,0,0,0,0,0,0,0,0,0,0,6,23,0,0
+1,uses14,6,10,0,6,0,0,0,0,0,4,0,6,13,0,1
+2,CachelocalMavenrepository,0,0,0,0,0,0,0,0,0,0,0,6,23,0,1
+3,uses22,0,0,0,0,0,0,0,0,0,0,0,6,23,0,7
+4,testmaven,5,5,0,5,0,0,0,0,0,0,0,6,18,0,6
+5,grepqThestepIwait1hourand1otherstepsareundefinedmaventargetsurefirereportsiocucumberskeletonRunCucumberTesttxtechomvntestdidntfailasexpectedfalse,0,0,0,0,0,0,0,0,0,0,0,6,23,0,0
+6,testgradle,14,14,6,8,0,0,0,0,0,0,0,0,15,0,40
+7,grepqThestepIwait1hourand1otherstepsareundefinedgradlebuildreportsteststestclassesiocucumberskeletonRunCucumberTesthtmlechogradletestdidntfailasexpectedfalse,0,0,0,0,0,0,0,0,0,0,0,6,23,0,0
+8,comparegradleandmavensources,0,0,0,0,0,0,0,0,0,0,0,6,23,0,0
