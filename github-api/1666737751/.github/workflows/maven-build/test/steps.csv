@@ -1,0 +1,6 @@
+,step_name,#c,#m,cma,cma_,cmt,cm_a,cm_a_,cm_t,c_ma,c_ma_,c_mt,c_m_a,c_m_a_,c_m_t,time
+0,setup,0,0,0,0,0,0,0,0,0,0,0,0,1346,0,0
+1,uses87,484,499,0,484,0,0,0,0,0,15,0,0,847,0,2
+2,SetupJDK,0,0,0,0,0,0,0,0,0,0,0,0,1346,0,14
+3,MavenInstallwithoutCodeCoverage,0,0,0,0,0,0,0,0,0,0,0,0,1346,0,0
+4,MavenInstallwithCodeCoverage,839,847,0,839,0,0,0,0,0,8,0,0,499,0,358
