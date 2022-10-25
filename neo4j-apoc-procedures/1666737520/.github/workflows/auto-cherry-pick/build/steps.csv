@@ -1,0 +1,9 @@
+,step_name,#c,#m,cma,cma_,cmt,cm_a,cm_a_,cm_t,c_ma,c_ma_,c_mt,c_m_a,c_m_a_,c_m_t,time
+0,setup,0,0,0,0,0,0,0,0,0,0,0,155,699,0,0
+1,uses13,392,243,0,228,0,0,164,0,0,15,0,155,292,0,2
+2,SetupJDK11,0,0,0,0,0,0,0,0,0,0,0,155,699,0,0
+3,uses19,0,0,0,0,0,0,0,0,0,0,0,155,699,0,10
+4,Grantexecutepermissionforgradlew,0,0,0,0,0,0,0,0,0,0,0,155,699,0,0
+5,BuildwithGradle,432,611,151,281,0,0,0,0,4,175,0,0,243,0,951
+6,Checkproceduresincludedinapocfull,0,0,0,0,0,0,0,0,0,0,0,155,699,0,1
+7,Archivetestresults,0,0,0,0,0,0,0,0,0,0,0,155,699,0,14
