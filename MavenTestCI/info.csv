@@ -1,269 +1,271 @@
 ,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
-0,/home/runner/work/MavenTestCI/MavenTestCI/.git/config.lock,-1,1683,481,Not provided,setup,setup
-1,/home/runner/work/_temp/_github_workflow/event.json,50,50831,-1,setup,setup,Not provided
-2,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/prettify.js,-1,50760,50751,Not provided,setup,setup
-3,/home/runner/work/MavenTestCI/MavenTestCI/.git/index.lock,-1,1627,178,Not provided,setup,setup
-4,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-sessions.html,305,50812,50808,setup,setup,setup
-5,/home/runner/work/MavenTestCI/MavenTestCI/.git/logs/HEAD,-1,1700,-1,Not provided,setup,Not provided
-6,/home/runner/work/MavenTestCI/MavenTestCI/.git/HEAD.lock,-1,1702,337,Not provided,setup,setup
-7,/home/runner/work/MavenTestCI/MavenTestCI/.git/refs/heads/optimizing-ci-builds-patch-1.lock,-1,1646,465,Not provided,setup,setup
-8,/home/runner/work/MavenTestCI/MavenTestCI/.git/FETCH_HEAD,-1,1534,-1,Not provided,setup,Not provided
-9,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.smartcardio/ADDITIONAL_LICENSE_INFO,-1,47677,47676,Not provided,setup,setup
-10,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.internal.vm.ci/LICENSE,-1,47692,47691,Not provided,setup,setup
-11,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.internal.vm.compiler.management/ADDITIONAL_LICENSE_INFO,-1,47767,47766,Not provided,setup,setup
-12,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.unsupported.desktop/LICENSE,-1,47764,47763,Not provided,setup,setup
-13,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.smartcardio/ASSEMBLY_EXCEPTION,-1,47680,47679,Not provided,setup,setup
-14,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.internal.vm.ci/ASSEMBLY_EXCEPTION,-1,47689,47688,Not provided,setup,setup
-15,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.smartcardio/LICENSE,-1,47683,47682,Not provided,setup,setup
-16,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.unsupported.desktop/ASSEMBLY_EXCEPTION,-1,47761,47760,Not provided,setup,setup
-17,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.unsupported.desktop/ADDITIONAL_LICENSE_INFO,-1,47758,47757,Not provided,setup,setup
-18,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.internal.vm.ci/ADDITIONAL_LICENSE_INFO,-1,47686,47685,Not provided,setup,setup
-19,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.prefs/ADDITIONAL_LICENSE_INFO,-1,47695,47694,Not provided,setup,setup
-20,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.naming.rmi/ASSEMBLY_EXCEPTION,-1,47743,47742,Not provided,setup,setup
-21,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.compiler/LICENSE,-1,47755,47754,Not provided,setup,setup
-22,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.prefs/ASSEMBLY_EXCEPTION,-1,47698,47697,Not provided,setup,setup
-23,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.prefs/LICENSE,-1,47701,47700,Not provided,setup,setup
-24,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.incubator.foreign/LICENSE,-1,47737,47736,Not provided,setup,setup
-25,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.internal.le/ASSEMBLY_EXCEPTION,-1,47671,46914,Not provided,setup,setup
-26,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.incubator.foreign/ASSEMBLY_EXCEPTION,-1,47734,47733,Not provided,setup,setup
-27,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.incubator.foreign/ADDITIONAL_LICENSE_INFO,-1,47731,47730,Not provided,setup,setup
-28,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.naming.rmi/LICENSE,-1,47746,47745,Not provided,setup,setup
-29,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.xml.crypto/LICENSE,-1,47728,47727,Not provided,setup,setup
-30,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.compiler/ADDITIONAL_LICENSE_INFO,-1,47749,47748,Not provided,setup,setup
-31,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.xml.crypto/ASSEMBLY_EXCEPTION,-1,47725,47724,Not provided,setup,setup
-32,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.xml.crypto/ADDITIONAL_LICENSE_INFO,-1,47722,47721,Not provided,setup,setup
-33,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.management.agent/LICENSE,-1,47719,47718,Not provided,setup,setup
-34,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.management.agent/ASSEMBLY_EXCEPTION,-1,47716,47715,Not provided,setup,setup
-35,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.management.agent/ADDITIONAL_LICENSE_INFO,-1,47713,46832,Not provided,setup,setup
-36,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jconsole/LICENSE,-1,47710,47709,Not provided,setup,setup
-37,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jconsole/ASSEMBLY_EXCEPTION,-1,47707,46883,Not provided,setup,setup
-38,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.compiler/ASSEMBLY_EXCEPTION,-1,47752,47751,Not provided,setup,setup
-39,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.naming.rmi/ADDITIONAL_LICENSE_INFO,-1,47740,47739,Not provided,setup,setup
-40,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jconsole/ADDITIONAL_LICENSE_INFO,-1,47704,46886,Not provided,setup,setup
-41,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.internal.le/LICENSE,-1,47674,46911,Not provided,setup,setup
-42,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.scripting/ADDITIONAL_LICENSE_INFO,-1,47614,46960,Not provided,setup,setup
-43,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.internal.le/ADDITIONAL_LICENSE_INFO,-1,47668,46917,Not provided,setup,setup
-44,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.sql/LICENSE,-1,47611,47610,Not provided,setup,setup
-45,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.sql/ADDITIONAL_LICENSE_INFO,-1,47605,47604,Not provided,setup,setup
-46,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.httpserver/LICENSE,-1,47602,47601,Not provided,setup,setup
-47,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.httpserver/ASSEMBLY_EXCEPTION,-1,47599,47598,Not provided,setup,setup
-48,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.httpserver/ADDITIONAL_LICENSE_INFO,-1,47596,47595,Not provided,setup,setup
-49,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jdeps/LICENSE,-1,47593,47592,Not provided,setup,setup
-50,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jdeps/ASSEMBLY_EXCEPTION,-1,47590,47589,Not provided,setup,setup
-51,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jdeps/ADDITIONAL_LICENSE_INFO,-1,47587,47586,Not provided,setup,setup
-52,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.logging/LICENSE,-1,47584,47583,Not provided,setup,setup
-53,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.logging/ASSEMBLY_EXCEPTION,-1,47581,47580,Not provided,setup,setup
-54,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.logging/ADDITIONAL_LICENSE_INFO,-1,47578,46979,Not provided,setup,setup
-55,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.security.auth/LICENSE,-1,47575,47574,Not provided,setup,setup
-56,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.security.auth/ASSEMBLY_EXCEPTION,-1,47572,47571,Not provided,setup,setup
-57,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.security.auth/ADDITIONAL_LICENSE_INFO,-1,47569,47568,Not provided,setup,setup
-58,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.naming/LICENSE,-1,47566,47565,Not provided,setup,setup
-59,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.naming/ASSEMBLY_EXCEPTION,-1,47563,47562,Not provided,setup,setup
-60,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.sql/ASSEMBLY_EXCEPTION,-1,47608,47607,Not provided,setup,setup
-61,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.internal.vm.compiler.management/LICENSE,-1,47773,47772,Not provided,setup,setup
-62,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.net.http/LICENSE,-1,47665,47664,Not provided,setup,setup
-63,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.scripting/ASSEMBLY_EXCEPTION,-1,47617,46957,Not provided,setup,setup
-64,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.net.http/ASSEMBLY_EXCEPTION,-1,47662,47661,Not provided,setup,setup
-65,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.net.http/ADDITIONAL_LICENSE_INFO,-1,47659,46924,Not provided,setup,setup
-66,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.security.sasl/LICENSE,-1,47656,47655,Not provided,setup,setup
-67,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.security.sasl/ASSEMBLY_EXCEPTION,-1,47653,47652,Not provided,setup,setup
-68,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.security.sasl/ADDITIONAL_LICENSE_INFO,-1,47650,47649,Not provided,setup,setup
-69,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.crypto.cryptoki/LICENSE,-1,47647,47646,Not provided,setup,setup
-70,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.crypto.cryptoki/ASSEMBLY_EXCEPTION,-1,47644,46939,Not provided,setup,setup
-71,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.crypto.cryptoki/ADDITIONAL_LICENSE_INFO,-1,47641,46942,Not provided,setup,setup
-72,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.security.jgss/LICENSE,-1,47638,47637,Not provided,setup,setup
-73,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.security.jgss/ASSEMBLY_EXCEPTION,-1,47635,47634,Not provided,setup,setup
-74,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.security.jgss/ADDITIONAL_LICENSE_INFO,-1,47632,47631,Not provided,setup,setup
-75,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.internal.vm.compiler/LICENSE,-1,47629,47628,Not provided,setup,setup
-76,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.internal.vm.compiler/ASSEMBLY_EXCEPTION,-1,47626,47625,Not provided,setup,setup
-77,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.internal.vm.compiler/ADDITIONAL_LICENSE_INFO,-1,47623,47622,Not provided,setup,setup
-78,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.scripting/LICENSE,-1,47620,47619,Not provided,setup,setup
-79,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.internal.vm.compiler.management/ASSEMBLY_EXCEPTION,-1,47770,47769,Not provided,setup,setup
-80,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/branchnc.gif,249,50733,50731,setup,setup,setup
-81,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.nio.mapmode/ADDITIONAL_LICENSE_INFO,-1,47776,47775,Not provided,setup,setup
-82,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.nio.mapmode/ASSEMBLY_EXCEPTION,-1,47779,47778,Not provided,setup,setup
-83,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/default/Indicator.html,231,50798,50796,setup,setup,setup
-84,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/default/index.html,237,50802,50800,setup,setup,setup
-85,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/index.html,243,50806,50804,setup,setup,setup
-86,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco.xml,311,50814,50766,setup,setup,setup
-87,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco.csv,308,50816,50768,setup,setup,setup
-88,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/redbar.gif,281,50741,50739,setup,setup,setup
-89,/home/runner/work/_temp/_runner_file_commands/add_path_5ec6ee55-9306-42bd-84eb-4132ca7a0fd5,-1,50835,50833,Not provided,setup,setup
-90,/home/runner/work/_temp/_runner_file_commands/set_env_5ec6ee55-9306-42bd-84eb-4132ca7a0fd5,-1,50839,50837,Not provided,setup,setup
-91,/home/runner/work/_temp/_runner_file_commands/step_summary_5ec6ee55-9306-42bd-84eb-4132ca7a0fd5,-1,50843,50841,Not provided,setup,setup
-92,/home/runner/work/MavenTestCI/MavenTestCI/target/surefire-reports/TEST-Test.xml,314,50103,-1,setup,setup,Not provided
-93,/home/runner/work/_temp/_runner_file_commands/save_state_5ec6ee55-9306-42bd-84eb-4132ca7a0fd5,-1,50847,50845,Not provided,setup,setup
-94,/home/runner/work/MavenTestCI/MavenTestCI/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst,228,49903,49901,setup,setup,setup
-95,/home/runner/work/MavenTestCI/MavenTestCI/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst,225,49899,49897,setup,setup,setup
-96,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/branchfc.gif,246,50729,50727,setup,setup,setup
-97,/home/runner/work/MavenTestCI/MavenTestCI/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst,222,49797,49795,setup,setup,setup
-98,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/default/index.source.html,240,50794,50792,setup,setup,setup
-99,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/default/Indicator.java.html,234,50790,-1,setup,setup,Not provided
-100,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/sort.js,296,50764,50762,setup,setup,setup
-101,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.localedata/LICENSE,-1,47557,47556,Not provided,setup,setup
-102,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/down.gif,261,50725,50723,setup,setup,setup
-103,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/up.gif,302,50721,50719,setup,setup,setup
-104,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/sort.gif,293,50717,50715,setup,setup,setup
-105,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/session.gif,290,50713,50711,setup,setup,setup
-106,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/method.gif,270,50709,50707,setup,setup,setup
-107,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/class.gif,258,50705,50703,setup,setup,setup
-108,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/source.gif,299,50701,50699,setup,setup,setup
-109,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/prettify.css,276,50749,50747,setup,setup,setup
-110,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/package.gif,273,50697,50695,setup,setup,setup
-111,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/bundle.gif,255,50693,50691,setup,setup,setup
-112,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/group.gif,267,50689,50687,setup,setup,setup
-113,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/report.gif,287,50685,50683,setup,setup,setup
-114,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/report.css,284,50681,50679,setup,setup,setup
-115,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/greenbar.gif,264,50745,50743,setup,setup,setup
-116,/home/runner/work/MavenTestCI/MavenTestCI/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst,219,49793,49791,setup,setup,setup
-117,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/branchpc.gif,252,50737,50735,setup,setup,setup
-118,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.management/ADDITIONAL_LICENSE_INFO,-1,47803,46785,Not provided,setup,setup
-119,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.management.rmi/ADDITIONAL_LICENSE_INFO,-1,47821,47820,Not provided,setup,setup
-120,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.transaction.xa/LICENSE,-1,47818,47817,Not provided,setup,setup
-121,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.transaction.xa/ASSEMBLY_EXCEPTION,-1,47815,47814,Not provided,setup,setup
-122,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.transaction.xa/ADDITIONAL_LICENSE_INFO,-1,47812,47811,Not provided,setup,setup
-123,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.management/LICENSE,-1,47809,47808,Not provided,setup,setup
-124,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.management/ASSEMBLY_EXCEPTION,-1,47806,47805,Not provided,setup,setup
-125,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jartool/LICENSE,-1,47800,47799,Not provided,setup,setup
-126,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.management.rmi/LICENSE,-1,47827,47826,Not provided,setup,setup
-127,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jartool/ASSEMBLY_EXCEPTION,-1,47797,47796,Not provided,setup,setup
-128,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jartool/ADDITIONAL_LICENSE_INFO,-1,47794,47793,Not provided,setup,setup
-129,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.naming.dns/LICENSE,-1,47791,47790,Not provided,setup,setup
-130,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.naming.dns/ASSEMBLY_EXCEPTION,-1,47788,47787,Not provided,setup,setup
-131,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.naming.dns/ADDITIONAL_LICENSE_INFO,-1,47785,47784,Not provided,setup,setup
-132,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.nio.mapmode/LICENSE,-1,47782,47781,Not provided,setup,setup
-133,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.management.rmi/ASSEMBLY_EXCEPTION,-1,47824,47823,Not provided,setup,setup
-134,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jfr/ADDITIONAL_LICENSE_INFO,-1,47830,47829,Not provided,setup,setup
-135,/home/runner/work/_temp/_runner_file_commands/set_output_5d2554df-0b8a-4167-9500-6f0f18e2056a,-1,49507,49505,Not provided,setup,setup
-136,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.crypto.ec/ADDITIONAL_LICENSE_INFO,-1,47857,46755,Not provided,setup,setup
-137,/home/runner/work/_temp/_runner_file_commands/save_state_5d2554df-0b8a-4167-9500-6f0f18e2056a,-1,49503,49501,Not provided,setup,setup
-138,/home/runner/work/_temp/_runner_file_commands/step_summary_5d2554df-0b8a-4167-9500-6f0f18e2056a,-1,49499,49497,Not provided,setup,setup
-139,/home/runner/work/_temp/_runner_file_commands/set_env_5d2554df-0b8a-4167-9500-6f0f18e2056a,-1,49495,49493,Not provided,setup,setup
-140,/home/runner/work/_temp/_runner_file_commands/add_path_5d2554df-0b8a-4167-9500-6f0f18e2056a,-1,49491,49489,Not provided,setup,setup
-141,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.crypto.ec/LICENSE,-1,47863,46749,Not provided,setup,setup
-142,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.crypto.ec/ASSEMBLY_EXCEPTION,-1,47860,46752,Not provided,setup,setup
-143,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.dynalink/LICENSE,-1,47854,47853,Not provided,setup,setup
-144,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jfr/ASSEMBLY_EXCEPTION,-1,47833,47832,Not provided,setup,setup
-145,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.dynalink/ASSEMBLY_EXCEPTION,-1,47851,47850,Not provided,setup,setup
-146,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.dynalink/ADDITIONAL_LICENSE_INFO,-1,47848,47847,Not provided,setup,setup
-147,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.incubator.vector/LICENSE,-1,47845,47844,Not provided,setup,setup
-148,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.incubator.vector/ASSEMBLY_EXCEPTION,-1,47842,47841,Not provided,setup,setup
-149,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.incubator.vector/ADDITIONAL_LICENSE_INFO,-1,47839,46766,Not provided,setup,setup
-150,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jfr/LICENSE,-1,47836,47835,Not provided,setup,setup
-151,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.naming/ADDITIONAL_LICENSE_INFO,-1,47560,47559,Not provided,setup,setup
-152,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.attach/ASSEMBLY_EXCEPTION,-1,47254,47253,Not provided,setup,setup
-153,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.localedata/ASSEMBLY_EXCEPTION,-1,47554,47553,Not provided,setup,setup
-154,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.internal.opt/ADDITIONAL_LICENSE_INFO,-1,47260,47229,Not provided,setup,setup
-155,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.attach/LICENSE,-1,47257,47256,Not provided,setup,setup
-156,/home/runner/work/_temp/_runner_file_commands/add_path_8b574463-9682-4027-8af7-68876badf716,-1,19,17,Not provided,setup,setup
-157,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.attach/ADDITIONAL_LICENSE_INFO,-1,47251,47250,Not provided,setup,setup
-158,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.management/LICENSE,-1,47248,47247,Not provided,setup,setup
-159,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.management/ASSEMBLY_EXCEPTION,-1,47245,47244,Not provided,setup,setup
-160,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.management/ADDITIONAL_LICENSE_INFO,-1,47242,47241,Not provided,setup,setup
-161,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jshell/ADDITIONAL_LICENSE_INFO,-1,47323,47322,Not provided,setup,setup
-162,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.internal.opt/ASSEMBLY_EXCEPTION,-1,47263,47226,Not provided,setup,setup
-163,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.internal.opt/LICENSE,-1,47266,47265,Not provided,setup,setup
-164,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.charsets/ADDITIONAL_LICENSE_INFO,-1,47269,47219,Not provided,setup,setup
-165,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.charsets/ASSEMBLY_EXCEPTION,-1,47272,47271,Not provided,setup,setup
-166,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.rmi/ASSEMBLY_EXCEPTION,-1,47317,47316,Not provided,setup,setup
-167,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.rmi/ADDITIONAL_LICENSE_INFO,-1,47314,47184,Not provided,setup,setup
-168,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.javadoc/LICENSE,-1,47311,47310,Not provided,setup,setup
-169,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.javadoc/ASSEMBLY_EXCEPTION,-1,47308,47191,Not provided,setup,setup
-170,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.javadoc/ADDITIONAL_LICENSE_INFO,-1,47305,47194,Not provided,setup,setup
-171,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.internal.jvmstat/LICENSE,-1,47302,47301,Not provided,setup,setup
-172,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.internal.jvmstat/ASSEMBLY_EXCEPTION,-1,47299,47298,Not provided,setup,setup
-173,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.internal.jvmstat/ADDITIONAL_LICENSE_INFO,-1,47296,47295,Not provided,setup,setup
-174,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.unsupported/LICENSE,-1,47293,47292,Not provided,setup,setup
-175,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.unsupported/ASSEMBLY_EXCEPTION,-1,47290,47205,Not provided,setup,setup
-176,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.unsupported/ADDITIONAL_LICENSE_INFO,-1,47287,47208,Not provided,setup,setup
-177,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.sql.rowset/LICENSE,-1,47284,47283,Not provided,setup,setup
-178,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.sql.rowset/ASSEMBLY_EXCEPTION,-1,47281,47280,Not provided,setup,setup
-179,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.sql.rowset/ADDITIONAL_LICENSE_INFO,-1,47278,47277,Not provided,setup,setup
-180,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.charsets/LICENSE,-1,47275,47274,Not provided,setup,setup
-181,/home/runner/work/_temp/_runner_file_commands/save_state_20de7d42-82dc-4266-9734-70b0baededf6,-1,1863,1861,Not provided,setup,setup
-182,/home/runner/work/_temp/_runner_file_commands/step_summary_20de7d42-82dc-4266-9734-70b0baededf6,-1,1859,1857,Not provided,setup,setup
-183,/home/runner/work/MavenTestCI/MavenTestCI/.git/logs/refs/heads/optimizing-ci-builds-patch-1,-1,1650,1648,Not provided,setup,setup
-184,/home/runner/work/MavenTestCI/MavenTestCI/.git/ORIG_HEAD.lock,-1,893,891,Not provided,setup,setup
-185,/home/runner/work/MavenTestCI/MavenTestCI/.git/packed-refs.new,-1,457,455,Not provided,setup,setup
-186,/home/runner/work/_temp/e10215f3-0e2a-44c1-add5-46bbf01b7dce/.gitconfig.lock,-1,82,70,Not provided,setup,setup
-187,/home/runner/work/_temp/_runner_file_commands/set_output_8b574463-9682-4027-8af7-68876badf716,-1,35,33,Not provided,setup,setup
-188,/home/runner/work/_temp/_runner_file_commands/step_summary_8b574463-9682-4027-8af7-68876badf716,-1,27,25,Not provided,setup,setup
-189,/home/runner/work/_temp/_runner_file_commands/set_env_8b574463-9682-4027-8af7-68876badf716,-1,23,21,Not provided,setup,setup
-190,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.rmi/LICENSE,-1,47320,47319,Not provided,setup,setup
-191,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jshell/ASSEMBLY_EXCEPTION,-1,47326,47325,Not provided,setup,setup
-192,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.localedata/cldr.md,-1,47551,46994,Not provided,setup,setup
-193,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.compiler/ASSEMBLY_EXCEPTION,-1,47470,47469,Not provided,setup,setup
-194,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jpackage/LICENSE,-1,47491,47490,Not provided,setup,setup
-195,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jpackage/ASSEMBLY_EXCEPTION,-1,47488,47487,Not provided,setup,setup
-196,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jpackage/ADDITIONAL_LICENSE_INFO,-1,47485,47484,Not provided,setup,setup
-197,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.zipfs/LICENSE,-1,47482,47481,Not provided,setup,setup
-198,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.zipfs/ASSEMBLY_EXCEPTION,-1,47479,47478,Not provided,setup,setup
-199,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.zipfs/ADDITIONAL_LICENSE_INFO,-1,47476,47475,Not provided,setup,setup
-200,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.compiler/LICENSE,-1,47473,47472,Not provided,setup,setup
-201,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.compiler/ADDITIONAL_LICENSE_INFO,-1,47467,47466,Not provided,setup,setup
-202,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jshell/LICENSE,-1,47329,47328,Not provided,setup,setup
-203,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.management.jfr/LICENSE,-1,47464,47463,Not provided,setup,setup
-204,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.management.jfr/ASSEMBLY_EXCEPTION,-1,47461,47460,Not provided,setup,setup
-205,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.management.jfr/ADDITIONAL_LICENSE_INFO,-1,47458,47457,Not provided,setup,setup
-206,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.se/LICENSE,-1,47455,47454,Not provided,setup,setup
-207,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.se/ASSEMBLY_EXCEPTION,-1,47452,47451,Not provided,setup,setup
-208,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.se/ADDITIONAL_LICENSE_INFO,-1,47449,47448,Not provided,setup,setup
-209,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.xml/LICENSE,-1,47446,47086,Not provided,setup,setup
-210,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jsobject/ADDITIONAL_LICENSE_INFO,-1,47494,47493,Not provided,setup,setup
-211,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jsobject/ASSEMBLY_EXCEPTION,-1,47497,47496,Not provided,setup,setup
-212,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jsobject/LICENSE,-1,47500,47499,Not provided,setup,setup
-213,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.desktop/ADDITIONAL_LICENSE_INFO,-1,47503,47049,Not provided,setup,setup
-214,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.localedata/ADDITIONAL_LICENSE_INFO,-1,47548,46997,Not provided,setup,setup
-215,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jdi/LICENSE,-1,47545,47544,Not provided,setup,setup
-216,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jdi/ASSEMBLY_EXCEPTION,-1,47542,47541,Not provided,setup,setup
-217,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jdi/ADDITIONAL_LICENSE_INFO,-1,47539,47538,Not provided,setup,setup
-218,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.instrument/LICENSE,-1,47536,47535,Not provided,setup,setup
-219,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.instrument/ASSEMBLY_EXCEPTION,-1,47533,47532,Not provided,setup,setup
-220,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.instrument/ADDITIONAL_LICENSE_INFO,-1,47530,47529,Not provided,setup,setup
-221,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.xml.dom/LICENSE,-1,47527,47526,Not provided,setup,setup
-222,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.xml.dom/ASSEMBLY_EXCEPTION,-1,47524,47523,Not provided,setup,setup
-223,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.xml.dom/ADDITIONAL_LICENSE_INFO,-1,47521,47520,Not provided,setup,setup
-224,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.accessibility/LICENSE,-1,47518,47517,Not provided,setup,setup
-225,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.accessibility/ASSEMBLY_EXCEPTION,-1,47515,47514,Not provided,setup,setup
-226,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.accessibility/ADDITIONAL_LICENSE_INFO,-1,47512,47511,Not provided,setup,setup
-227,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.desktop/LICENSE,-1,47509,47035,Not provided,setup,setup
-228,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.desktop/ASSEMBLY_EXCEPTION,-1,47506,47042,Not provided,setup,setup
-229,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.xml/ASSEMBLY_EXCEPTION,-1,47443,47105,Not provided,setup,setup
-230,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.xml/ADDITIONAL_LICENSE_INFO,-1,47440,47113,Not provided,setup,setup
-231,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jlink/LICENSE,-1,47437,47436,Not provided,setup,setup
-232,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jcmd/ASSEMBLY_EXCEPTION,-1,47380,47379,Not provided,setup,setup
-233,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jdwp.agent/LICENSE,-1,47374,47373,Not provided,setup,setup
-234,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jdwp.agent/ASSEMBLY_EXCEPTION,-1,47371,47370,Not provided,setup,setup
-235,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jdwp.agent/ADDITIONAL_LICENSE_INFO,-1,47368,47367,Not provided,setup,setup
-236,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.datatransfer/LICENSE,-1,47365,47364,Not provided,setup,setup
-237,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.datatransfer/ASSEMBLY_EXCEPTION,-1,47362,47361,Not provided,setup,setup
-238,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/java.datatransfer/ADDITIONAL_LICENSE_INFO,-1,47359,47158,Not provided,setup,setup
-239,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.editpad/LICENSE,-1,47356,47355,Not provided,setup,setup
-240,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.editpad/ASSEMBLY_EXCEPTION,-1,47353,47352,Not provided,setup,setup
-241,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.editpad/ADDITIONAL_LICENSE_INFO,-1,47350,47349,Not provided,setup,setup
-242,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.random/LICENSE,-1,47347,47346,Not provided,setup,setup
-243,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.random/ASSEMBLY_EXCEPTION,-1,47344,47343,Not provided,setup,setup
-244,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.random/ADDITIONAL_LICENSE_INFO,-1,47341,47169,Not provided,setup,setup
-245,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.sctp/LICENSE,-1,47338,47337,Not provided,setup,setup
-246,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.sctp/ASSEMBLY_EXCEPTION,-1,47335,47334,Not provided,setup,setup
-247,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.sctp/ADDITIONAL_LICENSE_INFO,-1,47332,47331,Not provided,setup,setup
-248,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jcmd/ADDITIONAL_LICENSE_INFO,-1,47377,47376,Not provided,setup,setup
-249,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jcmd/LICENSE,-1,47383,47382,Not provided,setup,setup
-250,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jlink/ASSEMBLY_EXCEPTION,-1,47434,47433,Not provided,setup,setup
-251,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.hotspot.agent/ADDITIONAL_LICENSE_INFO,-1,47386,47385,Not provided,setup,setup
-252,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jlink/ADDITIONAL_LICENSE_INFO,-1,47431,47120,Not provided,setup,setup
-253,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.internal.ed/LICENSE,-1,47428,47427,Not provided,setup,setup
-254,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.internal.ed/ASSEMBLY_EXCEPTION,-1,47425,47424,Not provided,setup,setup
-255,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.internal.ed/ADDITIONAL_LICENSE_INFO,-1,47422,47421,Not provided,setup,setup
-256,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.security.jgss/LICENSE,-1,47419,47418,Not provided,setup,setup
-257,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.security.jgss/ASSEMBLY_EXCEPTION,-1,47416,47415,Not provided,setup,setup
-258,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.security.jgss/ADDITIONAL_LICENSE_INFO,-1,47413,47412,Not provided,setup,setup
-259,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jstatd/LICENSE,-1,47410,47409,Not provided,setup,setup
-260,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jstatd/ASSEMBLY_EXCEPTION,-1,47407,47406,Not provided,setup,setup
-261,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.jstatd/ADDITIONAL_LICENSE_INFO,-1,47404,47135,Not provided,setup,setup
-262,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.net/LICENSE,-1,47401,47400,Not provided,setup,setup
-263,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.net/ASSEMBLY_EXCEPTION,-1,47398,47397,Not provided,setup,setup
-264,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.net/ADDITIONAL_LICENSE_INFO,-1,47395,47394,Not provided,setup,setup
-265,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.hotspot.agent/LICENSE,-1,47392,47391,Not provided,setup,setup
-266,/home/runner/work/_temp/1a8a1c34-5382-4dda-946d-0c3d26e7be0f/jdk-18.0.2.1+1/legal/jdk.hotspot.agent/ASSEMBLY_EXCEPTION,-1,47389,47388,Not provided,setup,setup
-267,/home/runner/work/_temp/_runner_file_commands/set_output_5ec6ee55-9306-42bd-84eb-4132ca7a0fd5,-1,50851,50849,Not provided,setup,setup
+0,/home/runner/work/_temp/_github_workflow/event.json,49,50138,-1,setup,setup,Not provided
+1,/home/runner/work/MavenTestCI/MavenTestCI/.git/config.lock,-1,1678,480,Not provided,setup,setup
+2,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/prettify.js,-1,50024,50015,Not provided,setup,setup
+3,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-sessions.html,304,50076,50072,setup,setup,setup
+4,/home/runner/work/MavenTestCI/MavenTestCI/.git/index.lock,-1,1624,177,Not provided,setup,setup
+5,/home/runner/work/MavenTestCI/MavenTestCI/.git/logs/HEAD,-1,1695,-1,Not provided,setup,Not provided
+6,/home/runner/work/MavenTestCI/MavenTestCI/.git/HEAD.lock,-1,1697,336,Not provided,setup,setup
+7,/home/runner/work/MavenTestCI/MavenTestCI/.git/FETCH_HEAD,-1,1532,-1,Not provided,setup,Not provided
+8,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.prefs/ASSEMBLY_EXCEPTION,-1,47189,47188,Not provided,setup,setup
+9,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jconsole/ASSEMBLY_EXCEPTION,-1,47198,47197,Not provided,setup,setup
+10,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.management.agent/LICENSE,-1,47210,47209,Not provided,setup,setup
+11,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.prefs/LICENSE,-1,47192,47191,Not provided,setup,setup
+12,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.xml.crypto/ADDITIONAL_LICENSE_INFO,-1,47213,47212,Not provided,setup,setup
+13,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.management.agent/ASSEMBLY_EXCEPTION,-1,47207,47206,Not provided,setup,setup
+14,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.management.agent/ADDITIONAL_LICENSE_INFO,-1,47204,46385,Not provided,setup,setup
+15,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jconsole/LICENSE,-1,47201,47200,Not provided,setup,setup
+16,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.xml.crypto/ASSEMBLY_EXCEPTION,-1,47216,47215,Not provided,setup,setup
+17,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.xml.crypto/LICENSE,-1,47219,47218,Not provided,setup,setup
+18,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jconsole/ADDITIONAL_LICENSE_INFO,-1,47195,47194,Not provided,setup,setup
+19,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.httpserver/ASSEMBLY_EXCEPTION,-1,47090,47089,Not provided,setup,setup
+20,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.incubator.foreign/ADDITIONAL_LICENSE_INFO,-1,47222,47221,Not provided,setup,setup
+21,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.unsupported.desktop/LICENSE,-1,47255,47254,Not provided,setup,setup
+22,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.naming.dns/ASSEMBLY_EXCEPTION,-1,47279,47278,Not provided,setup,setup
+23,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.naming.dns/ADDITIONAL_LICENSE_INFO,-1,47276,47275,Not provided,setup,setup
+24,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.nio.mapmode/LICENSE,-1,47273,47272,Not provided,setup,setup
+25,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.nio.mapmode/ASSEMBLY_EXCEPTION,-1,47270,47269,Not provided,setup,setup
+26,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.nio.mapmode/ADDITIONAL_LICENSE_INFO,-1,47267,47266,Not provided,setup,setup
+27,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.internal.vm.compiler.management/LICENSE,-1,47264,47263,Not provided,setup,setup
+28,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.internal.vm.compiler.management/ASSEMBLY_EXCEPTION,-1,47261,47260,Not provided,setup,setup
+29,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.internal.vm.compiler.management/ADDITIONAL_LICENSE_INFO,-1,47258,47257,Not provided,setup,setup
+30,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.unsupported.desktop/ASSEMBLY_EXCEPTION,-1,47252,47251,Not provided,setup,setup
+31,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.incubator.foreign/ASSEMBLY_EXCEPTION,-1,47225,47224,Not provided,setup,setup
+32,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.unsupported.desktop/ADDITIONAL_LICENSE_INFO,-1,47249,46357,Not provided,setup,setup
+33,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.compiler/LICENSE,-1,47246,47245,Not provided,setup,setup
+34,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.compiler/ASSEMBLY_EXCEPTION,-1,47243,47242,Not provided,setup,setup
+35,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.compiler/ADDITIONAL_LICENSE_INFO,-1,47240,47239,Not provided,setup,setup
+36,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.naming.rmi/LICENSE,-1,47237,47236,Not provided,setup,setup
+37,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jdeps/ADDITIONAL_LICENSE_INFO,-1,47078,47077,Not provided,setup,setup
+38,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.naming.rmi/ADDITIONAL_LICENSE_INFO,-1,47231,46368,Not provided,setup,setup
+39,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.incubator.foreign/LICENSE,-1,47228,47227,Not provided,setup,setup
+40,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.naming.rmi/ASSEMBLY_EXCEPTION,-1,47234,47233,Not provided,setup,setup
+41,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.net.http/ASSEMBLY_EXCEPTION,-1,47153,47152,Not provided,setup,setup
+42,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.prefs/ADDITIONAL_LICENSE_INFO,-1,47186,47185,Not provided,setup,setup
+43,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.internal.vm.ci/LICENSE,-1,47183,47182,Not provided,setup,setup
+44,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jdeps/ASSEMBLY_EXCEPTION,-1,47081,47080,Not provided,setup,setup
+45,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.security.jgss/ADDITIONAL_LICENSE_INFO,-1,47123,47122,Not provided,setup,setup
+46,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jdeps/LICENSE,-1,47084,47083,Not provided,setup,setup
+47,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.internal.vm.compiler/LICENSE,-1,47120,47119,Not provided,setup,setup
+48,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.internal.vm.compiler/ASSEMBLY_EXCEPTION,-1,47117,47116,Not provided,setup,setup
+49,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.internal.vm.compiler/ADDITIONAL_LICENSE_INFO,-1,47114,47113,Not provided,setup,setup
+50,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.httpserver/ADDITIONAL_LICENSE_INFO,-1,47087,47086,Not provided,setup,setup
+51,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.scripting/LICENSE,-1,47111,47110,Not provided,setup,setup
+52,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.scripting/ASSEMBLY_EXCEPTION,-1,47108,47107,Not provided,setup,setup
+53,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.scripting/ADDITIONAL_LICENSE_INFO,-1,47105,47104,Not provided,setup,setup
+54,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.sql/LICENSE,-1,47102,47101,Not provided,setup,setup
+55,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.sql/ASSEMBLY_EXCEPTION,-1,47099,47098,Not provided,setup,setup
+56,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.sql/ADDITIONAL_LICENSE_INFO,-1,47096,47095,Not provided,setup,setup
+57,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.httpserver/LICENSE,-1,47093,47092,Not provided,setup,setup
+58,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jartool/ADDITIONAL_LICENSE_INFO,-1,47285,47284,Not provided,setup,setup
+59,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.security.jgss/ASSEMBLY_EXCEPTION,-1,47126,47125,Not provided,setup,setup
+60,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.security.jgss/LICENSE,-1,47129,47128,Not provided,setup,setup
+61,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.crypto.cryptoki/ADDITIONAL_LICENSE_INFO,-1,47132,46473,Not provided,setup,setup
+62,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.internal.le/ASSEMBLY_EXCEPTION,-1,47162,46452,Not provided,setup,setup
+63,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.internal.vm.ci/ASSEMBLY_EXCEPTION,-1,47180,47179,Not provided,setup,setup
+64,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.internal.vm.ci/ADDITIONAL_LICENSE_INFO,-1,47177,47176,Not provided,setup,setup
+65,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.smartcardio/LICENSE,-1,47174,47173,Not provided,setup,setup
+66,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.smartcardio/ASSEMBLY_EXCEPTION,-1,47171,47170,Not provided,setup,setup
+67,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.smartcardio/ADDITIONAL_LICENSE_INFO,-1,47168,47167,Not provided,setup,setup
+68,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.internal.le/LICENSE,-1,47165,47164,Not provided,setup,setup
+69,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.internal.le/ADDITIONAL_LICENSE_INFO,-1,47159,46455,Not provided,setup,setup
+70,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.crypto.cryptoki/ASSEMBLY_EXCEPTION,-1,47135,46470,Not provided,setup,setup
+71,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.net.http/LICENSE,-1,47156,47155,Not provided,setup,setup
+72,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.net.http/ADDITIONAL_LICENSE_INFO,-1,47150,47149,Not provided,setup,setup
+73,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.security.sasl/LICENSE,-1,47147,47146,Not provided,setup,setup
+74,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.security.sasl/ASSEMBLY_EXCEPTION,-1,47144,47143,Not provided,setup,setup
+75,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.security.sasl/ADDITIONAL_LICENSE_INFO,-1,47141,47140,Not provided,setup,setup
+76,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.crypto.cryptoki/LICENSE,-1,47138,47137,Not provided,setup,setup
+77,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.naming.dns/LICENSE,-1,47282,47281,Not provided,setup,setup
+78,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/branchfc.gif,245,49993,49991,setup,setup,setup
+79,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jartool/ASSEMBLY_EXCEPTION,-1,47288,47287,Not provided,setup,setup
+80,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/sort.gif,292,49981,49979,setup,setup,setup
+81,/home/runner/work/_temp/_runner_file_commands/set_env_030f49c9-76df-48c2-9979-39680ec1cdc0,-1,50146,50144,Not provided,setup,setup
+82,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/redbar.gif,280,50005,50003,setup,setup,setup
+83,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/branchpc.gif,251,50001,49999,setup,setup,setup
+84,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/branchnc.gif,248,49997,49995,setup,setup,setup
+85,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/down.gif,260,49989,49987,setup,setup,setup
+86,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/up.gif,301,49985,49983,setup,setup,setup
+87,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/session.gif,289,49977,49975,setup,setup,setup
+88,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/method.gif,269,49973,49971,setup,setup,setup
+89,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/class.gif,257,49969,49967,setup,setup,setup
+90,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/source.gif,298,49965,49963,setup,setup,setup
+91,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/package.gif,272,49961,49959,setup,setup,setup
+92,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/bundle.gif,254,49957,49955,setup,setup,setup
+93,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/group.gif,266,49953,49951,setup,setup,setup
+94,/home/runner/work/_temp/_runner_file_commands/add_path_030f49c9-76df-48c2-9979-39680ec1cdc0,-1,50142,50140,Not provided,setup,setup
+95,/home/runner/work/_temp/_runner_file_commands/set_output_284e5953-87a8-4fbf-b7a1-2eae4ad834b6,-1,50115,50113,Not provided,setup,setup
+96,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/report.css,283,49945,-1,setup,setup,Not provided
+97,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/default/Indicator.html,230,50062,50060,setup,setup,setup
+98,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/sort.js,295,50028,50026,setup,setup,setup
+99,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/prettify.css,275,50013,50011,setup,setup,setup
+100,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/greenbar.gif,263,50009,50007,setup,setup,setup
+101,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/default/Indicator.java.html,233,50054,-1,setup,setup,Not provided
+102,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.logging/ASSEMBLY_EXCEPTION,-1,47072,47071,Not provided,setup,setup
+103,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/default/index.source.html,239,50058,50056,setup,setup,setup
+104,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/default/index.html,236,50066,50064,setup,setup,setup
+105,/home/runner/work/_temp/_runner_file_commands/save_state_284e5953-87a8-4fbf-b7a1-2eae4ad834b6,-1,50111,50109,Not provided,setup,setup
+106,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/index.html,242,50070,50068,setup,setup,setup
+107,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco.xml,310,50078,50030,setup,setup,setup
+108,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco.csv,307,50080,50032,setup,setup,setup
+109,/home/runner/work/_temp/_runner_file_commands/add_path_284e5953-87a8-4fbf-b7a1-2eae4ad834b6,-1,50099,50097,Not provided,setup,setup
+110,/home/runner/work/_temp/_runner_file_commands/set_env_284e5953-87a8-4fbf-b7a1-2eae4ad834b6,-1,50103,50101,Not provided,setup,setup
+111,/home/runner/work/_temp/_runner_file_commands/step_summary_284e5953-87a8-4fbf-b7a1-2eae4ad834b6,-1,50107,50105,Not provided,setup,setup
+112,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco-resources/report.gif,286,49949,49947,setup,setup,setup
+113,/home/runner/work/_temp/_runner_file_commands/step_summary_030f49c9-76df-48c2-9979-39680ec1cdc0,-1,50150,50148,Not provided,setup,setup
+114,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jartool/LICENSE,-1,47291,47290,Not provided,setup,setup
+115,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.management.rmi/ASSEMBLY_EXCEPTION,-1,47315,47314,Not provided,setup,setup
+116,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.incubator.vector/ASSEMBLY_EXCEPTION,-1,47333,47332,Not provided,setup,setup
+117,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.incubator.vector/ADDITIONAL_LICENSE_INFO,-1,47330,47329,Not provided,setup,setup
+118,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jfr/LICENSE,-1,47327,47326,Not provided,setup,setup
+119,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jfr/ASSEMBLY_EXCEPTION,-1,47324,47323,Not provided,setup,setup
+120,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jfr/ADDITIONAL_LICENSE_INFO,-1,47321,47320,Not provided,setup,setup
+121,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.management.rmi/LICENSE,-1,47318,47317,Not provided,setup,setup
+122,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.management.rmi/ADDITIONAL_LICENSE_INFO,-1,47312,47311,Not provided,setup,setup
+123,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.dynalink/ADDITIONAL_LICENSE_INFO,-1,47339,46313,Not provided,setup,setup
+124,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.transaction.xa/LICENSE,-1,47309,47308,Not provided,setup,setup
+125,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.transaction.xa/ASSEMBLY_EXCEPTION,-1,47306,47305,Not provided,setup,setup
+126,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.transaction.xa/ADDITIONAL_LICENSE_INFO,-1,47303,47302,Not provided,setup,setup
+127,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.management/LICENSE,-1,47300,47299,Not provided,setup,setup
+128,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.management/ASSEMBLY_EXCEPTION,-1,47297,47296,Not provided,setup,setup
+129,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.management/ADDITIONAL_LICENSE_INFO,-1,47294,47293,Not provided,setup,setup
+130,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.incubator.vector/LICENSE,-1,47336,47335,Not provided,setup,setup
+131,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.dynalink/ASSEMBLY_EXCEPTION,-1,47342,46310,Not provided,setup,setup
+132,/home/runner/work/MavenTestCI/MavenTestCI/target/surefire-reports/TEST-Test.xml,313,49471,-1,setup,setup,Not provided
+133,/home/runner/work/_temp/_runner_file_commands/set_output_722e5def-3340-4efe-b901-6edfa4141392,-1,49000,48998,Not provided,setup,setup
+134,/home/runner/work/_temp/_runner_file_commands/save_state_030f49c9-76df-48c2-9979-39680ec1cdc0,-1,50154,50152,Not provided,setup,setup
+135,/home/runner/work/MavenTestCI/MavenTestCI/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst,227,49376,49374,setup,setup,setup
+136,/home/runner/work/MavenTestCI/MavenTestCI/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst,224,49372,49370,setup,setup,setup
+137,/home/runner/work/MavenTestCI/MavenTestCI/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst,221,49270,49268,setup,setup,setup
+138,/home/runner/work/MavenTestCI/MavenTestCI/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst,218,49266,49264,setup,setup,setup
+139,/home/runner/work/_temp/_runner_file_commands/save_state_722e5def-3340-4efe-b901-6edfa4141392,-1,48996,48994,Not provided,setup,setup
+140,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.dynalink/LICENSE,-1,47345,46303,Not provided,setup,setup
+141,/home/runner/work/_temp/_runner_file_commands/step_summary_722e5def-3340-4efe-b901-6edfa4141392,-1,48992,48990,Not provided,setup,setup
+142,/home/runner/work/_temp/_runner_file_commands/set_env_722e5def-3340-4efe-b901-6edfa4141392,-1,48988,48986,Not provided,setup,setup
+143,/home/runner/work/_temp/_runner_file_commands/add_path_722e5def-3340-4efe-b901-6edfa4141392,-1,48984,48982,Not provided,setup,setup
+144,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.crypto.ec/LICENSE,-1,47354,46290,Not provided,setup,setup
+145,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.crypto.ec/ASSEMBLY_EXCEPTION,-1,47351,46293,Not provided,setup,setup
+146,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.crypto.ec/ADDITIONAL_LICENSE_INFO,-1,47348,46296,Not provided,setup,setup
+147,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.logging/LICENSE,-1,47075,47074,Not provided,setup,setup
+148,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.charsets/LICENSE,-1,46766,46765,Not provided,setup,setup
+149,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.logging/ADDITIONAL_LICENSE_INFO,-1,47069,46505,Not provided,setup,setup
+150,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.unsupported/LICENSE,-1,46784,46783,Not provided,setup,setup
+151,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.unsupported/ADDITIONAL_LICENSE_INFO,-1,46778,46777,Not provided,setup,setup
+152,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.sql.rowset/LICENSE,-1,46775,46774,Not provided,setup,setup
+153,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.sql.rowset/ASSEMBLY_EXCEPTION,-1,46772,46771,Not provided,setup,setup
+154,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.sql.rowset/ADDITIONAL_LICENSE_INFO,-1,46769,46768,Not provided,setup,setup
+155,/home/runner/work/_temp/_runner_file_commands/add_path_98ee047d-cd78-4d46-a1e1-e0b6cd337e15,-1,18,16,Not provided,setup,setup
+156,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.charsets/ASSEMBLY_EXCEPTION,-1,46763,46762,Not provided,setup,setup
+157,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.charsets/ADDITIONAL_LICENSE_INFO,-1,46760,46759,Not provided,setup,setup
+158,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.internal.opt/LICENSE,-1,46757,46756,Not provided,setup,setup
+159,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.internal.opt/ASSEMBLY_EXCEPTION,-1,46754,46753,Not provided,setup,setup
+160,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.internal.opt/ADDITIONAL_LICENSE_INFO,-1,46751,46750,Not provided,setup,setup
+161,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.attach/LICENSE,-1,46748,46745,Not provided,setup,setup
+162,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.attach/ASSEMBLY_EXCEPTION,-1,46741,46740,Not provided,setup,setup
+163,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.attach/ADDITIONAL_LICENSE_INFO,-1,46738,46737,Not provided,setup,setup
+164,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.unsupported/ASSEMBLY_EXCEPTION,-1,46781,46780,Not provided,setup,setup
+165,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.internal.jvmstat/ADDITIONAL_LICENSE_INFO,-1,46787,46786,Not provided,setup,setup
+166,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.internal.jvmstat/ASSEMBLY_EXCEPTION,-1,46790,46789,Not provided,setup,setup
+167,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.random/ASSEMBLY_EXCEPTION,-1,46835,46834,Not provided,setup,setup
+168,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.random/ADDITIONAL_LICENSE_INFO,-1,46832,46831,Not provided,setup,setup
+169,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.sctp/LICENSE,-1,46829,46828,Not provided,setup,setup
+170,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.sctp/ASSEMBLY_EXCEPTION,-1,46826,46825,Not provided,setup,setup
+171,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.sctp/ADDITIONAL_LICENSE_INFO,-1,46823,46822,Not provided,setup,setup
+172,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jshell/LICENSE,-1,46820,46819,Not provided,setup,setup
+173,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jshell/ASSEMBLY_EXCEPTION,-1,46817,46816,Not provided,setup,setup
+174,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jshell/ADDITIONAL_LICENSE_INFO,-1,46814,46813,Not provided,setup,setup
+175,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.rmi/LICENSE,-1,46811,46810,Not provided,setup,setup
+176,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.rmi/ASSEMBLY_EXCEPTION,-1,46808,46807,Not provided,setup,setup
+177,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.rmi/ADDITIONAL_LICENSE_INFO,-1,46805,46804,Not provided,setup,setup
+178,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.javadoc/LICENSE,-1,46802,46801,Not provided,setup,setup
+179,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.javadoc/ASSEMBLY_EXCEPTION,-1,46799,46705,Not provided,setup,setup
+180,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.javadoc/ADDITIONAL_LICENSE_INFO,-1,46796,46708,Not provided,setup,setup
+181,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.internal.jvmstat/LICENSE,-1,46793,46792,Not provided,setup,setup
+182,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.editpad/ADDITIONAL_LICENSE_INFO,-1,46841,46840,Not provided,setup,setup
+183,/home/runner/work/_temp/_runner_file_commands/save_state_026accd1-edbb-43ca-8d64-ddf2ae9e94c8,-1,1858,1856,Not provided,setup,setup
+184,/home/runner/work/_temp/_runner_file_commands/step_summary_026accd1-edbb-43ca-8d64-ddf2ae9e94c8,-1,1854,1852,Not provided,setup,setup
+185,/home/runner/work/MavenTestCI/MavenTestCI/.git/logs/refs/heads/optimizing-ci-builds-patch-1,-1,1646,1644,Not provided,setup,setup
+186,/home/runner/work/MavenTestCI/MavenTestCI/.git/refs/heads/optimizing-ci-builds-patch-1.lock,-1,1642,464,Not provided,setup,setup
+187,/home/runner/work/MavenTestCI/MavenTestCI/.git/ORIG_HEAD.lock,-1,892,890,Not provided,setup,setup
+188,/home/runner/work/MavenTestCI/MavenTestCI/.git/packed-refs.new,-1,456,454,Not provided,setup,setup
+189,/home/runner/work/_temp/0cc341a8-3dda-40d5-9187-90336218ea33/.gitconfig.lock,-1,81,69,Not provided,setup,setup
+190,/home/runner/work/_temp/_runner_file_commands/set_output_98ee047d-cd78-4d46-a1e1-e0b6cd337e15,-1,34,32,Not provided,setup,setup
+191,/home/runner/work/_temp/_runner_file_commands/step_summary_98ee047d-cd78-4d46-a1e1-e0b6cd337e15,-1,26,24,Not provided,setup,setup
+192,/home/runner/work/_temp/_runner_file_commands/set_env_98ee047d-cd78-4d46-a1e1-e0b6cd337e15,-1,22,20,Not provided,setup,setup
+193,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.random/LICENSE,-1,46838,46837,Not provided,setup,setup
+194,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.editpad/ASSEMBLY_EXCEPTION,-1,46844,46843,Not provided,setup,setup
+195,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.security.auth/LICENSE,-1,47066,47065,Not provided,setup,setup
+196,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.xml.dom/ADDITIONAL_LICENSE_INFO,-1,47012,47011,Not provided,setup,setup
+197,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.accessibility/ASSEMBLY_EXCEPTION,-1,47006,47005,Not provided,setup,setup
+198,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.accessibility/ADDITIONAL_LICENSE_INFO,-1,47003,47002,Not provided,setup,setup
+199,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.desktop/LICENSE,-1,47000,46563,Not provided,setup,setup
+200,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.desktop/ASSEMBLY_EXCEPTION,-1,46997,46570,Not provided,setup,setup
+201,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.desktop/ADDITIONAL_LICENSE_INFO,-1,46994,46577,Not provided,setup,setup
+202,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jsobject/LICENSE,-1,46991,46990,Not provided,setup,setup
+203,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jsobject/ASSEMBLY_EXCEPTION,-1,46988,46987,Not provided,setup,setup
+204,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jsobject/ADDITIONAL_LICENSE_INFO,-1,46985,46984,Not provided,setup,setup
+205,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jpackage/LICENSE,-1,46982,46981,Not provided,setup,setup
+206,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jpackage/ASSEMBLY_EXCEPTION,-1,46979,46978,Not provided,setup,setup
+207,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jpackage/ADDITIONAL_LICENSE_INFO,-1,46976,46975,Not provided,setup,setup
+208,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.zipfs/LICENSE,-1,46973,46972,Not provided,setup,setup
+209,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.zipfs/ASSEMBLY_EXCEPTION,-1,46970,46969,Not provided,setup,setup
+210,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.zipfs/ADDITIONAL_LICENSE_INFO,-1,46967,46966,Not provided,setup,setup
+211,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.compiler/LICENSE,-1,46964,46963,Not provided,setup,setup
+212,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.accessibility/LICENSE,-1,47009,47008,Not provided,setup,setup
+213,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.xml.dom/ASSEMBLY_EXCEPTION,-1,47015,47014,Not provided,setup,setup
+214,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.compiler/ADDITIONAL_LICENSE_INFO,-1,46958,46957,Not provided,setup,setup
+215,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.xml.dom/LICENSE,-1,47018,47017,Not provided,setup,setup
+216,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.security.auth/ASSEMBLY_EXCEPTION,-1,47063,47062,Not provided,setup,setup
+217,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.security.auth/ADDITIONAL_LICENSE_INFO,-1,47060,47059,Not provided,setup,setup
+218,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.naming/LICENSE,-1,47057,47056,Not provided,setup,setup
+219,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.naming/ASSEMBLY_EXCEPTION,-1,47054,47053,Not provided,setup,setup
+220,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.naming/ADDITIONAL_LICENSE_INFO,-1,47051,47050,Not provided,setup,setup
+221,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.localedata/LICENSE,-1,47048,47047,Not provided,setup,setup
+222,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.localedata/ASSEMBLY_EXCEPTION,-1,47045,47044,Not provided,setup,setup
+223,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.localedata/cldr.md,-1,47042,46520,Not provided,setup,setup
+224,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.localedata/ADDITIONAL_LICENSE_INFO,-1,47039,46523,Not provided,setup,setup
+225,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jdi/LICENSE,-1,47036,47035,Not provided,setup,setup
+226,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jdi/ASSEMBLY_EXCEPTION,-1,47033,47032,Not provided,setup,setup
+227,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jdi/ADDITIONAL_LICENSE_INFO,-1,47030,47029,Not provided,setup,setup
+228,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.instrument/LICENSE,-1,47027,47026,Not provided,setup,setup
+229,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.instrument/ASSEMBLY_EXCEPTION,-1,47024,47023,Not provided,setup,setup
+230,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.instrument/ADDITIONAL_LICENSE_INFO,-1,47021,46534,Not provided,setup,setup
+231,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.compiler/ASSEMBLY_EXCEPTION,-1,46961,46960,Not provided,setup,setup
+232,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.management.jfr/LICENSE,-1,46955,46954,Not provided,setup,setup
+233,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.editpad/LICENSE,-1,46847,46846,Not provided,setup,setup
+234,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jstatd/ASSEMBLY_EXCEPTION,-1,46898,46897,Not provided,setup,setup
+235,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.net/LICENSE,-1,46892,46891,Not provided,setup,setup
+236,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.net/ASSEMBLY_EXCEPTION,-1,46889,46888,Not provided,setup,setup
+237,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.net/ADDITIONAL_LICENSE_INFO,-1,46886,46885,Not provided,setup,setup
+238,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.hotspot.agent/LICENSE,-1,46883,46882,Not provided,setup,setup
+239,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.hotspot.agent/ASSEMBLY_EXCEPTION,-1,46880,46879,Not provided,setup,setup
+240,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.hotspot.agent/ADDITIONAL_LICENSE_INFO,-1,46877,46876,Not provided,setup,setup
+241,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jcmd/LICENSE,-1,46874,46873,Not provided,setup,setup
+242,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jcmd/ASSEMBLY_EXCEPTION,-1,46871,46870,Not provided,setup,setup
+243,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jcmd/ADDITIONAL_LICENSE_INFO,-1,46868,46867,Not provided,setup,setup
+244,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jdwp.agent/LICENSE,-1,46865,46864,Not provided,setup,setup
+245,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jdwp.agent/ASSEMBLY_EXCEPTION,-1,46862,46861,Not provided,setup,setup
+246,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jdwp.agent/ADDITIONAL_LICENSE_INFO,-1,46859,46858,Not provided,setup,setup
+247,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.datatransfer/LICENSE,-1,46856,46855,Not provided,setup,setup
+248,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.datatransfer/ASSEMBLY_EXCEPTION,-1,46853,46852,Not provided,setup,setup
+249,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.datatransfer/ADDITIONAL_LICENSE_INFO,-1,46850,46849,Not provided,setup,setup
+250,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jstatd/ADDITIONAL_LICENSE_INFO,-1,46895,46894,Not provided,setup,setup
+251,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jstatd/LICENSE,-1,46901,46900,Not provided,setup,setup
+252,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.management.jfr/ASSEMBLY_EXCEPTION,-1,46952,46951,Not provided,setup,setup
+253,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.security.jgss/ADDITIONAL_LICENSE_INFO,-1,46904,46903,Not provided,setup,setup
+254,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.management.jfr/ADDITIONAL_LICENSE_INFO,-1,46949,46948,Not provided,setup,setup
+255,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.se/LICENSE,-1,46946,46945,Not provided,setup,setup
+256,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.se/ASSEMBLY_EXCEPTION,-1,46943,46942,Not provided,setup,setup
+257,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.se/ADDITIONAL_LICENSE_INFO,-1,46940,46939,Not provided,setup,setup
+258,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.xml/LICENSE,-1,46937,46614,Not provided,setup,setup
+259,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.xml/ASSEMBLY_EXCEPTION,-1,46934,46630,Not provided,setup,setup
+260,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/java.xml/ADDITIONAL_LICENSE_INFO,-1,46931,46637,Not provided,setup,setup
+261,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jlink/LICENSE,-1,46928,46927,Not provided,setup,setup
+262,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jlink/ASSEMBLY_EXCEPTION,-1,46925,46924,Not provided,setup,setup
+263,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.jlink/ADDITIONAL_LICENSE_INFO,-1,46922,46645,Not provided,setup,setup
+264,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.internal.ed/LICENSE,-1,46919,46918,Not provided,setup,setup
+265,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.internal.ed/ASSEMBLY_EXCEPTION,-1,46916,46915,Not provided,setup,setup
+266,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.internal.ed/ADDITIONAL_LICENSE_INFO,-1,46913,46912,Not provided,setup,setup
+267,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.security.jgss/LICENSE,-1,46910,46909,Not provided,setup,setup
+268,/home/runner/work/_temp/b555d3e4-c22a-47ae-8204-4bbfc8b8b83c/jdk-18.0.2.1+1/legal/jdk.security.jgss/ASSEMBLY_EXCEPTION,-1,46907,46906,Not provided,setup,setup
+269,/home/runner/work/_temp/_runner_file_commands/set_output_030f49c9-76df-48c2-9979-39680ec1cdc0,-1,50158,50156,Not provided,setup,setup
