@@ -1,0 +1,40 @@
+
+â””â”€â”€ home
+    â””â”€â”€ runner
+        â””â”€â”€ work
+            â””â”€â”€ GradleTestCI
+                â””â”€â”€ GradleTestCI
+                    â”œâ”€â”€ .gradle
+                    â”‚   â”œâ”€â”€ 7.5.1
+                    â”‚   â”‚   â”œâ”€â”€ checksums
+                    â”‚   â”‚   â”‚   â”œâ”€â”€ checksums.lock
+                    â”‚   â”‚   â”‚   â”œâ”€â”€ sha1-checksums.bin
+                    â”‚   â”‚   â”‚   â””â”€â”€ md5-checksums.bin
+                    â”‚   â”‚   â”œâ”€â”€ fileHashes
+                    â”‚   â”‚   â”‚   â”œâ”€â”€ fileHashes.lock
+                    â”‚   â”‚   â”‚   â”œâ”€â”€ fileHashes.bin
+                    â”‚   â”‚   â”‚   â””â”€â”€ resourceHashesCache.bin
+                    â”‚   â”‚   â”œâ”€â”€ executionHistory
+                    â”‚   â”‚   â”‚   â”œâ”€â”€ executionHistory.lock
+                    â”‚   â”‚   â”‚   â””â”€â”€ executionHistory.bin
+                    â”‚   â”‚   â”œâ”€â”€ dependencies-accessors
+                    â”‚   â”‚   â”‚   â””â”€â”€ dependencies-accessors.lock
+                    â”‚   â”‚   â””â”€â”€ fileChanges
+                    â”‚   â”‚       â””â”€â”€ last-build.bin
+                    â”‚   â”œâ”€â”€ buildOutputCleanup
+                    â”‚   â”‚   â”œâ”€â”€ outputFiles.bin
+                    â”‚   â”‚   â”œâ”€â”€ buildOutputCleanup.lock
+                    â”‚   â”‚   â””â”€â”€ cache.properties
+                    â”‚   â””â”€â”€ file-system.probe
+                    â”œâ”€â”€ gradle
+                    â”‚   â””â”€â”€ wrapper
+                    â”‚       â”œâ”€â”€ gradle-wrapper.jar
+                    â”‚       â””â”€â”€ gradle-wrapper.properties
+                    â”œâ”€â”€ gradlew.bat
+                    â”œâ”€â”€ gradlew
+                    â”œâ”€â”€ README.md
+                    â”œâ”€â”€ .github
+                    â”‚   â””â”€â”€ workflows
+                    â”‚       â””â”€â”€ ci.yml
+                    â”œâ”€â”€ .gitignore
+                    â””â”€â”€ .gitattributes
