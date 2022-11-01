@@ -1,0 +1,2175 @@
+
+└── home
+    └── runner
+        └── work
+            └── JSqlParser
+                └── JSqlParser
+                    ├── target
+                    │   ├── jsqlparser-4.6-SNAPSHOT.jar
+                    │   ├── classes
+                    │   │   └── META-INF
+                    │   │       └── MANIFEST.MF
+                    │   ├── site
+                    │   │   ├── jacoco
+                    │   │   │   ├── jacoco.xml
+                    │   │   │   ├── net.sf.jsqlparser.parser
+                    │   │   │   │   ├── CCJSqlParser.java.html
+                    │   │   │   │   ├── CCJSqlParser.html
+                    │   │   │   │   ├── CCJSqlParserTokenManager.java.html
+                    │   │   │   │   ├── CCJSqlParserConstants.java.html
+                    │   │   │   │   ├── CCJSqlParserTokenManager.html
+                    │   │   │   │   ├── SimpleCharStream.html
+                    │   │   │   │   ├── SimpleCharStream.java.html
+                    │   │   │   │   ├── CCJSqlParserUtil.java.html
+                    │   │   │   │   ├── index.html
+                    │   │   │   │   ├── SimpleNode.html
+                    │   │   │   │   ├── CCJSqlParserUtil.html
+                    │   │   │   │   ├── JJTCCJSqlParserState.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── ParseException.java.html
+                    │   │   │   │   ├── BaseToken.java.html
+                    │   │   │   │   ├── ASTNodeAccessImpl.java.html
+                    │   │   │   │   ├── StringProvider.java.html
+                    │   │   │   │   ├── CCJSqlParserManager.java.html
+                    │   │   │   │   ├── TokenMgrException.java.html
+                    │   │   │   │   ├── AbstractJSqlParser.java.html
+                    │   │   │   │   ├── SimpleNode.java.html
+                    │   │   │   │   ├── Token.java.html
+                    │   │   │   │   ├── CCJSqlParserDefaultVisitor.java.html
+                    │   │   │   │   ├── JJTCCJSqlParserState.java.html
+                    │   │   │   │   ├── StreamProvider.java.html
+                    │   │   │   │   ├── CCJSqlParserUtil$2.html
+                    │   │   │   │   ├── CCJSqlParserUtil$1.html
+                    │   │   │   │   ├── TokenMgrException.html
+                    │   │   │   │   ├── CCJSqlParserDefaultVisitor.html
+                    │   │   │   │   ├── StreamProvider.html
+                    │   │   │   │   ├── CCJSqlParserTreeConstants.html
+                    │   │   │   │   ├── CCJSqlParser$JJCalls.html
+                    │   │   │   │   ├── CCJSqlParserTreeConstants.java.html
+                    │   │   │   │   ├── CCJSqlParser$LookaheadSuccess.html
+                    │   │   │   │   ├── Token.html
+                    │   │   │   │   ├── BaseToken.html
+                    │   │   │   │   ├── CCJSqlParserManager.html
+                    │   │   │   │   ├── ParseException.html
+                    │   │   │   │   ├── ASTNodeAccessImpl.html
+                    │   │   │   │   ├── AbstractJSqlParser.html
+                    │   │   │   │   ├── CCJSqlParserConstants.html
+                    │   │   │   │   └── StringProvider.html
+                    │   │   │   ├── jacoco-sessions.html
+                    │   │   │   ├── net.sf.jsqlparser.util
+                    │   │   │   │   ├── TablesNamesFinder.html
+                    │   │   │   │   ├── TablesNamesFinder.java.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── SelectUtils.java.html
+                    │   │   │   │   ├── AddAliasesVisitor.java.html
+                    │   │   │   │   ├── ConnectExpressionsVisitor.java.html
+                    │   │   │   │   ├── ConnectExpressionsVisitor.html
+                    │   │   │   │   ├── SelectUtils.html
+                    │   │   │   │   ├── AddAliasesVisitor.html
+                    │   │   │   │   └── index.html
+                    │   │   │   ├── jacoco-resources
+                    │   │   │   │   ├── prettify.js
+                    │   │   │   │   ├── package.gif
+                    │   │   │   │   ├── bundle.gif
+                    │   │   │   │   ├── group.gif
+                    │   │   │   │   ├── down.gif
+                    │   │   │   │   ├── up.gif
+                    │   │   │   │   ├── sort.gif
+                    │   │   │   │   ├── branchfc.gif
+                    │   │   │   │   ├── prettify.css
+                    │   │   │   │   ├── greenbar.gif
+                    │   │   │   │   ├── redbar.gif
+                    │   │   │   │   ├── sort.js
+                    │   │   │   │   ├── branchnc.gif
+                    │   │   │   │   ├── branchpc.gif
+                    │   │   │   │   ├── session.gif
+                    │   │   │   │   ├── method.gif
+                    │   │   │   │   ├── class.gif
+                    │   │   │   │   ├── source.gif
+                    │   │   │   │   ├── report.gif
+                    │   │   │   │   └── report.css
+                    │   │   │   ├── net.sf.jsqlparser.statement.select
+                    │   │   │   │   ├── PlainSelect.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── PlainSelect.java.html
+                    │   │   │   │   ├── index.html
+                    │   │   │   │   ├── Join.html
+                    │   │   │   │   ├── SetOperationList.html
+                    │   │   │   │   ├── Join.java.html
+                    │   │   │   │   ├── Select.html
+                    │   │   │   │   ├── ValuesList.html
+                    │   │   │   │   ├── SpecialSubSelect.html
+                    │   │   │   │   ├── OrderByElement.html
+                    │   │   │   │   ├── UnPivot.html
+                    │   │   │   │   ├── SubJoin.html
+                    │   │   │   │   ├── SubSelect.html
+                    │   │   │   │   ├── KSQLWindow.html
+                    │   │   │   │   ├── WithItem.html
+                    │   │   │   │   ├── PivotXml.html
+                    │   │   │   │   ├── GroupByElement.html
+                    │   │   │   │   ├── Fetch.html
+                    │   │   │   │   ├── First.html
+                    │   │   │   │   ├── Pivot.java.html
+                    │   │   │   │   ├── WithItem.java.html
+                    │   │   │   │   ├── GroupByElement.java.html
+                    │   │   │   │   ├── SetOperationList.java.html
+                    │   │   │   │   ├── SubSelect.java.html
+                    │   │   │   │   ├── ParenthesisFromItem.html
+                    │   │   │   │   ├── Pivot.html
+                    │   │   │   │   ├── KSQLJoinWindow.html
+                    │   │   │   │   ├── Limit.html
+                    │   │   │   │   ├── Top.html
+                    │   │   │   │   ├── WithIsolation.java.html
+                    │   │   │   │   ├── UnionOp.java.html
+                    │   │   │   │   ├── FunctionItem.java.html
+                    │   │   │   │   ├── PivotVisitorAdapter.java.html
+                    │   │   │   │   ├── OrderByVisitorAdapter.java.html
+                    │   │   │   │   ├── Distinct.java.html
+                    │   │   │   │   ├── AllTableColumns.java.html
+                    │   │   │   │   ├── First.java.html
+                    │   │   │   │   ├── KSQLWindow.java.html
+                    │   │   │   │   ├── Wait.html
+                    │   │   │   │   ├── IntersectOp.html
+                    │   │   │   │   ├── SetOperationList$SetOperationType.html
+                    │   │   │   │   ├── Offset.html
+                    │   │   │   │   ├── WithIsolation.html
+                    │   │   │   │   ├── LateralSubSelect.html
+                    │   │   │   │   ├── SelectItemVisitorAdapter.html
+                    │   │   │   │   ├── Skip.html
+                    │   │   │   │   ├── UnionOp.html
+                    │   │   │   │   ├── PivotVisitorAdapter.html
+                    │   │   │   │   ├── SelectVisitorAdapter.html
+                    │   │   │   │   ├── KSQLWindow$TimeUnit.html
+                    │   │   │   │   ├── KSQLJoinWindow$TimeUnit.html
+                    │   │   │   │   ├── First$Keyword.html
+                    │   │   │   │   ├── SetOperation.html
+                    │   │   │   │   ├── SelectExpressionItem.html
+                    │   │   │   │   ├── IntoTableVisitorAdapter.html
+                    │   │   │   │   ├── TableFunction.html
+                    │   │   │   │   ├── MinusOp.html
+                    │   │   │   │   ├── FunctionItem.html
+                    │   │   │   │   ├── FromItem.html
+                    │   │   │   │   ├── OptimizeFor.html
+                    │   │   │   │   ├── OrderByElement$NullOrdering.html
+                    │   │   │   │   ├── MySqlSqlCacheFlags.html
+                    │   │   │   │   ├── MySqlSqlCacheFlags.java.html
+                    │   │   │   │   ├── ValuesList.java.html
+                    │   │   │   │   ├── Select.java.html
+                    │   │   │   │   ├── Skip.java.html
+                    │   │   │   │   ├── KSQLJoinWindow.java.html
+                    │   │   │   │   ├── Fetch.java.html
+                    │   │   │   │   ├── PivotXml.java.html
+                    │   │   │   │   ├── ExceptOp.java.html
+                    │   │   │   │   ├── ExpressionListItem.html
+                    │   │   │   │   ├── Offset.java.html
+                    │   │   │   │   ├── FromItem.java.html
+                    │   │   │   │   ├── ParenthesisFromItem.java.html
+                    │   │   │   │   ├── UnPivot.java.html
+                    │   │   │   │   ├── Wait.java.html
+                    │   │   │   │   ├── FromItemVisitorAdapter.java.html
+                    │   │   │   │   ├── MinusOp.java.html
+                    │   │   │   │   ├── Top.java.html
+                    │   │   │   │   ├── IntersectOp.java.html
+                    │   │   │   │   ├── ExpressionListItem.java.html
+                    │   │   │   │   ├── IntoTableVisitorAdapter.java.html
+                    │   │   │   │   ├── TableFunction.java.html
+                    │   │   │   │   ├── AllColumns.java.html
+                    │   │   │   │   ├── FromItemVisitorAdapter.html
+                    │   │   │   │   ├── KSQLWindow$WindowType.html
+                    │   │   │   │   ├── Distinct.html
+                    │   │   │   │   ├── AllColumns.html
+                    │   │   │   │   ├── AllTableColumns.html
+                    │   │   │   │   ├── OrderByVisitorAdapter.html
+                    │   │   │   │   ├── SubJoin.java.html
+                    │   │   │   │   ├── ExceptOp.html
+                    │   │   │   │   ├── SelectItemVisitorAdapter.java.html
+                    │   │   │   │   ├── OptimizeFor.java.html
+                    │   │   │   │   ├── SetOperation.java.html
+                    │   │   │   │   ├── SelectExpressionItem.java.html
+                    │   │   │   │   ├── SelectVisitorAdapter.java.html
+                    │   │   │   │   ├── OrderByElement.java.html
+                    │   │   │   │   ├── SpecialSubSelect.java.html
+                    │   │   │   │   ├── Limit.java.html
+                    │   │   │   │   └── LateralSubSelect.java.html
+                    │   │   │   ├── net.sf.jsqlparser.util.deparser
+                    │   │   │   │   ├── ExpressionDeParser.java.html
+                    │   │   │   │   ├── ExpressionDeParser.html
+                    │   │   │   │   ├── SelectDeParser.java.html
+                    │   │   │   │   ├── StatementDeParser.html
+                    │   │   │   │   ├── SelectDeParser.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── StatementDeParser.java.html
+                    │   │   │   │   ├── index.html
+                    │   │   │   │   ├── UpsertDeParser.html
+                    │   │   │   │   ├── ReplaceDeParser.html
+                    │   │   │   │   ├── UpdateDeParser.java.html
+                    │   │   │   │   ├── CreateTableDeParser.java.html
+                    │   │   │   │   ├── UpsertDeParser.java.html
+                    │   │   │   │   ├── InsertDeParser.java.html
+                    │   │   │   │   ├── ReplaceDeParser.java.html
+                    │   │   │   │   ├── CreateSequenceDeParser.java.html
+                    │   │   │   │   ├── AlterDeParser.java.html
+                    │   │   │   │   ├── ShowStatementDeParser.java.html
+                    │   │   │   │   ├── SetStatementDeParser.java.html
+                    │   │   │   │   ├── ShowTablesStatementDeparser.java.html
+                    │   │   │   │   ├── OrderByDeParser.java.html
+                    │   │   │   │   ├── ExecuteDeParser.java.html
+                    │   │   │   │   ├── DeclareStatementDeParser.java.html
+                    │   │   │   │   ├── AlterViewDeParser.java.html
+                    │   │   │   │   ├── AlterSequenceDeParser.java.html
+                    │   │   │   │   ├── ResetStatementDeParser.java.html
+                    │   │   │   │   ├── LimitDeparser.java.html
+                    │   │   │   │   ├── AbstractDeParser.java.html
+                    │   │   │   │   ├── GroupByDeParser.java.html
+                    │   │   │   │   ├── DropDeParser.java.html
+                    │   │   │   │   ├── CreateSynonymDeparser.java.html
+                    │   │   │   │   ├── AlterSessionDeParser.java.html
+                    │   │   │   │   ├── ShowColumnsStatementDeParser.java.html
+                    │   │   │   │   ├── GrantDeParser.java.html
+                    │   │   │   │   ├── DeleteDeParser.java.html
+                    │   │   │   │   ├── CreateIndexDeParser.java.html
+                    │   │   │   │   ├── DeclareStatementDeParser.html
+                    │   │   │   │   ├── UseStatementDeParser.java.html
+                    │   │   │   │   ├── CreateViewDeParser.java.html
+                    │   │   │   │   ├── ValuesStatementDeParser.java.html
+                    │   │   │   │   ├── AlterSessionDeParser.html
+                    │   │   │   │   ├── CreateSequenceDeParser.html
+                    │   │   │   │   ├── CreateViewDeParser.html
+                    │   │   │   │   ├── DropDeParser.html
+                    │   │   │   │   ├── DeleteDeParser.html
+                    │   │   │   │   ├── UseStatementDeParser.html
+                    │   │   │   │   ├── ValuesStatementDeParser.html
+                    │   │   │   │   ├── InsertDeParser.html
+                    │   │   │   │   ├── AlterSequenceDeParser.html
+                    │   │   │   │   ├── CreateSynonymDeparser.html
+                    │   │   │   │   ├── CreateIndexDeParser.html
+                    │   │   │   │   ├── ResetStatementDeParser.html
+                    │   │   │   │   ├── GroupByDeParser.html
+                    │   │   │   │   ├── AlterViewDeParser.html
+                    │   │   │   │   ├── OrderByDeParser.html
+                    │   │   │   │   ├── AlterDeParser.html
+                    │   │   │   │   ├── GrantDeParser.html
+                    │   │   │   │   ├── CreateTableDeParser.html
+                    │   │   │   │   ├── ShowStatementDeParser.html
+                    │   │   │   │   ├── AbstractDeParser.html
+                    │   │   │   │   ├── LimitDeparser.html
+                    │   │   │   │   ├── ExecuteDeParser.html
+                    │   │   │   │   ├── SetStatementDeParser.html
+                    │   │   │   │   ├── ShowColumnsStatementDeParser.html
+                    │   │   │   │   ├── ShowTablesStatementDeparser.html
+                    │   │   │   │   └── UpdateDeParser.html
+                    │   │   │   ├── net.sf.jsqlparser.statement.alter
+                    │   │   │   │   ├── AlterExpression.html
+                    │   │   │   │   ├── AlterExpression.java.html
+                    │   │   │   │   ├── index.html
+                    │   │   │   │   ├── Alter.html
+                    │   │   │   │   ├── RenameTableStatement.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── RenameTableStatement.java.html
+                    │   │   │   │   ├── AlterSession.java.html
+                    │   │   │   │   ├── AlterSystemStatement.html
+                    │   │   │   │   ├── AlterExpression$ColumnDropDefault.html
+                    │   │   │   │   ├── ValidateConstraint.html
+                    │   │   │   │   ├── AlterSessionOperation.html
+                    │   │   │   │   ├── AlterOperation.html
+                    │   │   │   │   ├── AlterExpression$ColumnDataType.html
+                    │   │   │   │   ├── AlterSystemOperation.html
+                    │   │   │   │   ├── AlterSession.html
+                    │   │   │   │   ├── AlterExpression$ColumnDropNotNull.html
+                    │   │   │   │   ├── DeferrableConstraint.html
+                    │   │   │   │   ├── ValidateConstraint.java.html
+                    │   │   │   │   ├── EnableConstraint.html
+                    │   │   │   │   ├── EnableConstraint.java.html
+                    │   │   │   │   ├── Alter.java.html
+                    │   │   │   │   ├── AlterOperation.java.html
+                    │   │   │   │   ├── AlterSystemOperation.java.html
+                    │   │   │   │   ├── AlterSessionOperation.java.html
+                    │   │   │   │   ├── AlterSystemStatement.java.html
+                    │   │   │   │   └── DeferrableConstraint.java.html
+                    │   │   │   ├── net.sf.jsqlparser.expression
+                    │   │   │   │   ├── ExpressionVisitorAdapter.html
+                    │   │   │   │   ├── index.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── AnalyticExpression.html
+                    │   │   │   │   ├── JsonAggregateFunction.html
+                    │   │   │   │   ├── JsonFunction.html
+                    │   │   │   │   ├── Function.html
+                    │   │   │   │   ├── ExpressionVisitorAdapter.java.html
+                    │   │   │   │   ├── AnalyticExpression.java.html
+                    │   │   │   │   ├── JsonAggregateFunction.java.html
+                    │   │   │   │   ├── Function.java.html
+                    │   │   │   │   ├── JsonFunction.java.html
+                    │   │   │   │   ├── TryCastExpression.html
+                    │   │   │   │   ├── JsonKeyValuePair.html
+                    │   │   │   │   ├── OracleHierarchicalExpression.html
+                    │   │   │   │   ├── CaseExpression.html
+                    │   │   │   │   ├── ArrayExpression.html
+                    │   │   │   │   ├── StringValue.html
+                    │   │   │   │   ├── LongValue.html
+                    │   │   │   │   ├── IntervalExpression.html
+                    │   │   │   │   ├── NotExpression.html
+                    │   │   │   │   ├── OracleHint.html
+                    │   │   │   │   ├── WindowDefinition.html
+                    │   │   │   │   ├── MySQLGroupConcat.html
+                    │   │   │   │   ├── KeepExpression.html
+                    │   │   │   │   ├── FilterOverImpl.html
+                    │   │   │   │   ├── AnyComparisonExpression.html
+                    │   │   │   │   ├── CastExpression.html
+                    │   │   │   │   ├── Alias.html
+                    │   │   │   │   ├── JdbcParameter.java.html
+                    │   │   │   │   ├── UserVariable.html
+                    │   │   │   │   ├── WindowElement.html
+                    │   │   │   │   ├── WindowOffset$Type.html
+                    │   │   │   │   ├── HexValue.html
+                    │   │   │   │   ├── NextValExpression.html
+                    │   │   │   │   ├── JsonFunctionExpression.html
+                    │   │   │   │   ├── OrderByClause.html
+                    │   │   │   │   ├── NumericBind.html
+                    │   │   │   │   ├── CollateExpression.html
+                    │   │   │   │   ├── TimestampValue.html
+                    │   │   │   │   ├── ValueListExpression.html
+                    │   │   │   │   ├── RowGetExpression.html
+                    │   │   │   │   ├── AnalyticType.html
+                    │   │   │   │   ├── ExtractExpression.html
+                    │   │   │   │   ├── OverlapsCondition.html
+                    │   │   │   │   ├── SignedExpression.html
+                    │   │   │   │   ├── RowConstructor.html
+                    │   │   │   │   ├── ConnectByRootOperator.html
+                    │   │   │   │   ├── DateValue.html
+                    │   │   │   │   ├── JsonFunctionType.html
+                    │   │   │   │   ├── JdbcParameter.html
+                    │   │   │   │   ├── Parenthesis.html
+                    │   │   │   │   ├── OracleHint.java.html
+                    │   │   │   │   ├── JsonAggregateOnNullType.java.html
+                    │   │   │   │   ├── StringValue.java.html
+                    │   │   │   │   ├── DateTimeLiteralExpression.java.html
+                    │   │   │   │   ├── TimestampValue.java.html
+                    │   │   │   │   ├── HexValue.java.html
+                    │   │   │   │   ├── JdbcNamedParameter.java.html
+                    │   │   │   │   ├── OrderByClause.java.html
+                    │   │   │   │   ├── JsonExpression.java.html
+                    │   │   │   │   ├── BinaryExpression.java.html
+                    │   │   │   │   ├── CaseExpression.java.html
+                    │   │   │   │   ├── SignedExpression.java.html
+                    │   │   │   │   ├── ArrayExpression.java.html
+                    │   │   │   │   ├── MySQLIndexHint.java.html
+                    │   │   │   │   ├── ConnectByRootOperator.java.html
+                    │   │   │   │   ├── AnyComparisonExpression.java.html
+                    │   │   │   │   ├── TimeKeyExpression.java.html
+                    │   │   │   │   ├── AnyType.java.html
+                    │   │   │   │   ├── WindowDefinition.java.html
+                    │   │   │   │   ├── OverlapsCondition.java.html
+                    │   │   │   │   ├── NumericBind.java.html
+                    │   │   │   │   ├── MySQLGroupConcat.java.html
+                    │   │   │   │   ├── FilterOverImpl.java.html
+                    │   │   │   │   ├── RowConstructor.java.html
+                    │   │   │   │   ├── NotExpression.java.html
+                    │   │   │   │   ├── Alias.java.html
+                    │   │   │   │   ├── ExtractExpression.java.html
+                    │   │   │   │   ├── CollateExpression.java.html
+                    │   │   │   │   ├── JsonFunctionExpression.java.html
+                    │   │   │   │   ├── ValueListExpression.java.html
+                    │   │   │   │   ├── WindowRange.java.html
+                    │   │   │   │   ├── WindowElement.java.html
+                    │   │   │   │   ├── WhenClause.java.html
+                    │   │   │   │   ├── CastExpression.java.html
+                    │   │   │   │   ├── LongValue.java.html
+                    │   │   │   │   ├── TryCastExpression.java.html
+                    │   │   │   │   ├── PartitionByClause.java.html
+                    │   │   │   │   ├── AnalyticType.java.html
+                    │   │   │   │   ├── NextValExpression.java.html
+                    │   │   │   │   ├── AllValue.java.html
+                    │   │   │   │   ├── JsonKeyValuePair.java.html
+                    │   │   │   │   ├── JsonAggregateUniqueKeysType.java.html
+                    │   │   │   │   ├── AnyType.html
+                    │   │   │   │   ├── JdbcNamedParameter.html
+                    │   │   │   │   ├── OracleNamedFunctionParameter.html
+                    │   │   │   │   ├── JsonAggregateOnNullType.html
+                    │   │   │   │   ├── WhenClause.html
+                    │   │   │   │   ├── BinaryExpression.html
+                    │   │   │   │   ├── DateTimeLiteralExpression$DateTime.html
+                    │   │   │   │   ├── AllValue.html
+                    │   │   │   │   ├── NullValue.html
+                    │   │   │   │   ├── JsonAggregateUniqueKeysType.html
+                    │   │   │   │   ├── TimeValue.html
+                    │   │   │   │   ├── SQLServerHints.html
+                    │   │   │   │   ├── VariableAssignment.html
+                    │   │   │   │   ├── MySQLIndexHint.html
+                    │   │   │   │   ├── DoubleValue.html
+                    │   │   │   │   ├── PartitionByClause.html
+                    │   │   │   │   ├── WindowElement$Type.html
+                    │   │   │   │   ├── TimeKeyExpression.html
+                    │   │   │   │   ├── ArrayConstructor.html
+                    │   │   │   │   ├── TimezoneExpression.html
+                    │   │   │   │   ├── JsonExpression.html
+                    │   │   │   │   ├── DateTimeLiteralExpression.html
+                    │   │   │   │   ├── WindowOffset.java.html
+                    │   │   │   │   ├── DoubleValue.java.html
+                    │   │   │   │   ├── IntervalExpression.java.html
+                    │   │   │   │   ├── OracleHierarchicalExpression.java.html
+                    │   │   │   │   ├── ArrayConstructor.java.html
+                    │   │   │   │   ├── XMLSerializeExpr.java.html
+                    │   │   │   │   ├── RowGetExpression.java.html
+                    │   │   │   │   ├── JsonFunctionType.java.html
+                    │   │   │   │   ├── TimeValue.java.html
+                    │   │   │   │   ├── UserVariable.java.html
+                    │   │   │   │   ├── NullValue.java.html
+                    │   │   │   │   ├── Alias$AliasColumn.html
+                    │   │   │   │   ├── SQLServerHints.java.html
+                    │   │   │   │   ├── KeepExpression.java.html
+                    │   │   │   │   ├── Parenthesis.java.html
+                    │   │   │   │   ├── TimezoneExpression.java.html
+                    │   │   │   │   ├── DateValue.java.html
+                    │   │   │   │   ├── WindowRange.html
+                    │   │   │   │   ├── XMLSerializeExpr.html
+                    │   │   │   │   ├── WindowOffset.html
+                    │   │   │   │   ├── VariableAssignment.java.html
+                    │   │   │   │   └── OracleNamedFunctionParameter.java.html
+                    │   │   │   ├── net.sf.jsqlparser.util.validation.validator
+                    │   │   │   │   ├── ExpressionValidator.html
+                    │   │   │   │   ├── SelectValidator.html
+                    │   │   │   │   ├── ExpressionValidator.java.html
+                    │   │   │   │   ├── index.html
+                    │   │   │   │   ├── StatementValidator.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── AbstractValidator.java.html
+                    │   │   │   │   ├── SelectValidator.java.html
+                    │   │   │   │   ├── StatementValidator.java.html
+                    │   │   │   │   ├── AlterViewValidator.html
+                    │   │   │   │   ├── GrantValidator.html
+                    │   │   │   │   ├── InsertValidator.html
+                    │   │   │   │   ├── ReplaceValidator.html
+                    │   │   │   │   ├── DeclareStatementValidator.html
+                    │   │   │   │   ├── UseStatementValidator.html
+                    │   │   │   │   ├── UpsertValidator.html
+                    │   │   │   │   ├── CreateIndexValidator.html
+                    │   │   │   │   ├── ShowStatementValidator.html
+                    │   │   │   │   ├── ValuesStatementValidator.html
+                    │   │   │   │   ├── CreateSequenceValidator.html
+                    │   │   │   │   ├── CreateTableValidator.html
+                    │   │   │   │   ├── ItemsListValidator.html
+                    │   │   │   │   ├── ShowColumnsStatementValidator.html
+                    │   │   │   │   ├── AlterSequenceValidator.html
+                    │   │   │   │   ├── AbstractValidator.html
+                    │   │   │   │   ├── CreateSynonymValidator.html
+                    │   │   │   │   ├── DeleteValidator.html
+                    │   │   │   │   ├── UpdateValidator.html
+                    │   │   │   │   ├── ShowTablesStatementValidator.html
+                    │   │   │   │   ├── AnalyzeValidator.html
+                    │   │   │   │   ├── MergeValidator.html
+                    │   │   │   │   ├── ResetStatementValidator.html
+                    │   │   │   │   ├── AlterSessionValidator.html
+                    │   │   │   │   ├── DropValidator.html
+                    │   │   │   │   ├── ExecuteValidator.html
+                    │   │   │   │   ├── AlterValidator.html
+                    │   │   │   │   ├── SetStatementValidator.html
+                    │   │   │   │   ├── ExecuteValidator.java.html
+                    │   │   │   │   ├── OrderByValidator.html
+                    │   │   │   │   ├── DropValidator.java.html
+                    │   │   │   │   ├── ItemsListValidator.java.html
+                    │   │   │   │   ├── SetStatementValidator.java.html
+                    │   │   │   │   ├── LimitValidator.java.html
+                    │   │   │   │   ├── UseStatementValidator.java.html
+                    │   │   │   │   ├── ResetStatementValidator.java.html
+                    │   │   │   │   ├── AlterSequenceValidator.java.html
+                    │   │   │   │   ├── ShowColumnsStatementValidator.java.html
+                    │   │   │   │   ├── InsertValidator.java.html
+                    │   │   │   │   ├── CreateIndexValidator.java.html
+                    │   │   │   │   ├── UpdateValidator.java.html
+                    │   │   │   │   ├── GrantValidator.java.html
+                    │   │   │   │   ├── AlterValidator.java.html
+                    │   │   │   │   ├── ReplaceValidator.java.html
+                    │   │   │   │   ├── UpsertValidator.java.html
+                    │   │   │   │   ├── CreateViewValidator.html
+                    │   │   │   │   ├── OrderByValidator.java.html
+                    │   │   │   │   ├── CreateTableValidator.java.html
+                    │   │   │   │   ├── CreateSynonymValidator.java.html
+                    │   │   │   │   ├── CreateSequenceValidator.java.html
+                    │   │   │   │   ├── ValuesStatementValidator.java.html
+                    │   │   │   │   ├── MergeValidator.java.html
+                    │   │   │   │   ├── ShowStatementValidator.java.html
+                    │   │   │   │   ├── AlterViewValidator.java.html
+                    │   │   │   │   ├── GroupByValidator.html
+                    │   │   │   │   ├── LimitValidator.html
+                    │   │   │   │   ├── GroupByValidator.java.html
+                    │   │   │   │   ├── DeclareStatementValidator.java.html
+                    │   │   │   │   ├── AlterSessionValidator.java.html
+                    │   │   │   │   ├── ShowTablesStatementValidator.java.html
+                    │   │   │   │   ├── DeleteValidator.java.html
+                    │   │   │   │   ├── CreateViewValidator.java.html
+                    │   │   │   │   └── AnalyzeValidator.java.html
+                    │   │   │   ├── jacoco.csv
+                    │   │   │   ├── net.sf.jsqlparser.statement.update
+                    │   │   │   │   ├── Update.html
+                    │   │   │   │   ├── Update.java.html
+                    │   │   │   │   ├── UpdateSet.html
+                    │   │   │   │   ├── UpdateSet.java.html
+                    │   │   │   │   ├── UpdateModifierPriority.java.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── UpdateModifierPriority.html
+                    │   │   │   │   └── index.html
+                    │   │   │   ├── net.sf.jsqlparser.statement.insert
+                    │   │   │   │   ├── Insert.html
+                    │   │   │   │   ├── Insert.java.html
+                    │   │   │   │   ├── InsertConflictTarget.html
+                    │   │   │   │   ├── InsertConflictAction.html
+                    │   │   │   │   ├── InsertModifierPriority.java.html
+                    │   │   │   │   ├── ConflictActionType.java.html
+                    │   │   │   │   ├── InsertConflictAction.java.html
+                    │   │   │   │   ├── InsertConflictTarget.java.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── InsertModifierPriority.html
+                    │   │   │   │   ├── index.html
+                    │   │   │   │   └── ConflictActionType.html
+                    │   │   │   ├── net.sf.jsqlparser.statement.create.table
+                    │   │   │   │   ├── CreateTable.html
+                    │   │   │   │   ├── Index.html~1
+                    │   │   │   │   ├── ForeignKeyIndex.html
+                    │   │   │   │   ├── Index.java.html
+                    │   │   │   │   ├── CreateTable.java.html
+                    │   │   │   │   ├── ForeignKeyIndex.java.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── ColDataType.html
+                    │   │   │   │   ├── ColumnDefinition.html
+                    │   │   │   │   ├── index.html
+                    │   │   │   │   ├── ExcludeConstraint.html
+                    │   │   │   │   ├── CheckConstraint.html
+                    │   │   │   │   ├── ExcludeConstraint.java.html
+                    │   │   │   │   ├── RowMovement.java.html
+                    │   │   │   │   ├── ColDataType.java.html
+                    │   │   │   │   ├── RowMovementMode.java.html
+                    │   │   │   │   ├── CheckConstraint.java.html
+                    │   │   │   │   ├── NamedConstraint.java.html
+                    │   │   │   │   ├── ColumnDefinition.java.html
+                    │   │   │   │   ├── RowMovementMode.html
+                    │   │   │   │   ├── Index$ColumnParams.html
+                    │   │   │   │   ├── NamedConstraint.html
+                    │   │   │   │   └── RowMovement.html
+                    │   │   │   ├── net.sf.jsqlparser.statement.delete
+                    │   │   │   │   ├── Delete.html
+                    │   │   │   │   ├── Delete.java.html
+                    │   │   │   │   ├── DeleteModifierPriority.java.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── DeleteModifierPriority.html
+                    │   │   │   │   └── index.html
+                    │   │   │   ├── net.sf.jsqlparser.statement
+                    │   │   │   │   ├── StatementVisitorAdapter.html
+                    │   │   │   │   ├── index.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── DeclareStatement.java.html
+                    │   │   │   │   ├── SetStatement.html
+                    │   │   │   │   ├── StatementVisitorAdapter.java.html
+                    │   │   │   │   ├── DeclareStatement.html
+                    │   │   │   │   ├── ReferentialAction.html
+                    │   │   │   │   ├── RollbackStatement.html
+                    │   │   │   │   ├── IfElseStatement.html
+                    │   │   │   │   ├── CreateFunctionalStatement.html
+                    │   │   │   │   ├── ShowStatement.html
+                    │   │   │   │   ├── Block.html
+                    │   │   │   │   ├── DeclareStatement$TypeDefExpr.html
+                    │   │   │   │   ├── ExplainStatement.html
+                    │   │   │   │   ├── PurgeStatement.html
+                    │   │   │   │   ├── SavepointStatement.html
+                    │   │   │   │   ├── SetStatement$NameExpr.html
+                    │   │   │   │   ├── ResetStatement.html
+                    │   │   │   │   ├── Statements.html
+                    │   │   │   │   ├── PurgeObjectType.html
+                    │   │   │   │   ├── ExplainStatement$OptionType.html
+                    │   │   │   │   ├── DescribeStatement.html
+                    │   │   │   │   ├── ExplainStatement$Option.html
+                    │   │   │   │   ├── OutputClause.html
+                    │   │   │   │   ├── UnsupportedStatement.html
+                    │   │   │   │   ├── DeclareType.html
+                    │   │   │   │   ├── ShowColumnsStatement.html
+                    │   │   │   │   ├── ReferentialAction$Type.html
+                    │   │   │   │   ├── ReferentialAction$Action.html
+                    │   │   │   │   ├── ShowStatement.java.html
+                    │   │   │   │   ├── RollbackStatement.java.html
+                    │   │   │   │   ├── ReferentialAction.java.html
+                    │   │   │   │   ├── PurgeObjectType.java.html
+                    │   │   │   │   ├── Commit.java.html
+                    │   │   │   │   ├── Block.java.html
+                    │   │   │   │   ├── DescribeStatement.java.html
+                    │   │   │   │   ├── UnsupportedStatement.java.html
+                    │   │   │   │   ├── Statements.java.html
+                    │   │   │   │   ├── SetStatement.java.html
+                    │   │   │   │   ├── DeclareType.java.html
+                    │   │   │   │   ├── PurgeStatement.java.html
+                    │   │   │   │   ├── ExplainStatement.java.html
+                    │   │   │   │   ├── SavepointStatement.java.html
+                    │   │   │   │   ├── CreateFunctionalStatement.java.html
+                    │   │   │   │   ├── UseStatement.java.html
+                    │   │   │   │   ├── ResetStatement.java.html
+                    │   │   │   │   ├── Commit.html
+                    │   │   │   │   ├── UseStatement.html
+                    │   │   │   │   ├── ShowColumnsStatement.java.html
+                    │   │   │   │   ├── OutputClause.java.html
+                    │   │   │   │   └── IfElseStatement.java.html
+                    │   │   │   ├── index.html
+                    │   │   │   ├── net.sf.jsqlparser.util.cnfexpression
+                    │   │   │   │   ├── CNFConverter.java.html
+                    │   │   │   │   ├── CNFConverter.html
+                    │   │   │   │   ├── CloneHelper.java.html
+                    │   │   │   │   ├── MultiAndExpression.java.html
+                    │   │   │   │   ├── MultiOrExpression.java.html
+                    │   │   │   │   ├── MultipleExpression.java.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── CNFConverter$Mule.html
+                    │   │   │   │   ├── MultiAndExpression.html
+                    │   │   │   │   ├── MultiOrExpression.html
+                    │   │   │   │   ├── MultipleExpression.html
+                    │   │   │   │   ├── CloneHelper.html
+                    │   │   │   │   └── index.html
+                    │   │   │   ├── net.sf.jsqlparser.expression.operators.relational
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── index.html
+                    │   │   │   │   ├── LikeExpression.html
+                    │   │   │   │   ├── SimilarToExpression.html
+                    │   │   │   │   ├── IsBooleanExpression.html
+                    │   │   │   │   ├── ExpressionList.html
+                    │   │   │   │   ├── Between.html
+                    │   │   │   │   ├── IsNullExpression.html
+                    │   │   │   │   ├── FullTextSearch.html
+                    │   │   │   │   ├── InExpression.html
+                    │   │   │   │   ├── NamedExpressionList.html
+                    │   │   │   │   ├── MultiExpressionList.html
+                    │   │   │   │   ├── RegExpMatchOperatorType.html
+                    │   │   │   │   ├── RegExpMatchOperator.html
+                    │   │   │   │   ├── ItemsListVisitorAdapter.html
+                    │   │   │   │   ├── Matches.html
+                    │   │   │   │   ├── EqualsTo.html
+                    │   │   │   │   ├── GreaterThanEquals.html
+                    │   │   │   │   ├── GeometryDistance.html
+                    │   │   │   │   ├── RegExpMySQLOperator.html
+                    │   │   │   │   ├── GreaterThan.html
+                    │   │   │   │   ├── OldOracleJoinBinaryExpression.html
+                    │   │   │   │   ├── MinorThanEquals.html
+                    │   │   │   │   ├── NotEqualsTo.html
+                    │   │   │   │   ├── MinorThanEquals.java.html
+                    │   │   │   │   ├── GreaterThanEquals.java.html
+                    │   │   │   │   ├── Between.java.html
+                    │   │   │   │   ├── FullTextSearch.java.html
+                    │   │   │   │   ├── IsNullExpression.java.html
+                    │   │   │   │   ├── MultiExpressionList.java.html
+                    │   │   │   │   ├── SimilarToExpression.java.html
+                    │   │   │   │   ├── MinorThan.java.html
+                    │   │   │   │   ├── RegExpMatchOperator.java.html
+                    │   │   │   │   ├── RegExpMatchOperatorType.java.html
+                    │   │   │   │   ├── IsDistinctExpression.html
+                    │   │   │   │   ├── EqualsTo.java.html
+                    │   │   │   │   ├── LikeExpression.java.html
+                    │   │   │   │   ├── NotEqualsTo.java.html
+                    │   │   │   │   ├── ItemsListVisitorAdapter.java.html
+                    │   │   │   │   ├── JsonOperator.html
+                    │   │   │   │   ├── ComparisonOperator.html
+                    │   │   │   │   ├── MinorThan.html
+                    │   │   │   │   ├── ExistsExpression.html
+                    │   │   │   │   ├── JsonOperator.java.html
+                    │   │   │   │   ├── OldOracleJoinBinaryExpression.java.html
+                    │   │   │   │   ├── Matches.java.html
+                    │   │   │   │   ├── GreaterThan.java.html
+                    │   │   │   │   ├── ComparisonOperator.java.html
+                    │   │   │   │   ├── RegExpMySQLOperator.java.html
+                    │   │   │   │   ├── ExistsExpression.java.html
+                    │   │   │   │   ├── NamedExpressionList.java.html
+                    │   │   │   │   ├── GeometryDistance.java.html
+                    │   │   │   │   ├── ExpressionList.java.html
+                    │   │   │   │   ├── IsDistinctExpression.java.html
+                    │   │   │   │   ├── InExpression.java.html
+                    │   │   │   │   └── IsBooleanExpression.java.html
+                    │   │   │   ├── net.sf.jsqlparser.statement.merge
+                    │   │   │   │   ├── Merge.html
+                    │   │   │   │   ├── MergeInsert.html
+                    │   │   │   │   ├── MergeUpdate.html
+                    │   │   │   │   ├── Merge.java.html
+                    │   │   │   │   ├── MergeUpdate.java.html
+                    │   │   │   │   ├── MergeInsert.java.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   └── index.html
+                    │   │   │   ├── net.sf.jsqlparser.schema
+                    │   │   │   │   ├── Table.html
+                    │   │   │   │   ├── Sequence.html
+                    │   │   │   │   ├── Column.html
+                    │   │   │   │   ├── Synonym.html
+                    │   │   │   │   ├── Sequence.java.html
+                    │   │   │   │   ├── Table.java.html
+                    │   │   │   │   ├── Server.java.html
+                    │   │   │   │   ├── Synonym.java.html
+                    │   │   │   │   ├── Database.java.html
+                    │   │   │   │   ├── Column.java.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── Server.html
+                    │   │   │   │   ├── Sequence$ParameterType.html
+                    │   │   │   │   ├── Database.html
+                    │   │   │   │   ├── Sequence$Parameter.html
+                    │   │   │   │   └── index.html
+                    │   │   │   ├── net.sf.jsqlparser.statement.create.view
+                    │   │   │   │   ├── CreateView.html
+                    │   │   │   │   ├── AlterView.html
+                    │   │   │   │   ├── CreateView.java.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── ForceOption.html
+                    │   │   │   │   ├── TemporaryOption.html
+                    │   │   │   │   ├── index.html
+                    │   │   │   │   ├── AlterView.java.html
+                    │   │   │   │   ├── TemporaryOption.java.html
+                    │   │   │   │   └── ForceOption.java.html
+                    │   │   │   ├── net.sf.jsqlparser.statement.upsert
+                    │   │   │   │   ├── Upsert.html
+                    │   │   │   │   ├── Upsert.java.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   └── index.html
+                    │   │   │   ├── net.sf.jsqlparser.parser.feature
+                    │   │   │   │   ├── Feature.java.html
+                    │   │   │   │   ├── index.html
+                    │   │   │   │   ├── FeatureSet.html
+                    │   │   │   │   ├── Feature.html
+                    │   │   │   │   ├── FeatureConfiguration.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── FeatureSet.java.html
+                    │   │   │   │   └── FeatureConfiguration.java.html
+                    │   │   │   ├── net.sf.jsqlparser.util.validation
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── ValidationContext.html
+                    │   │   │   │   ├── ValidationError.html
+                    │   │   │   │   ├── Validation.html
+                    │   │   │   │   ├── index.html
+                    │   │   │   │   ├── ValidationContext.java.html
+                    │   │   │   │   ├── Validation.java.html
+                    │   │   │   │   ├── ValidationException.java.html
+                    │   │   │   │   ├── ParseCapability.java.html
+                    │   │   │   │   ├── ValidationError.java.html
+                    │   │   │   │   ├── UnexpectedValidationException.java.html
+                    │   │   │   │   ├── ParseContext.java.html
+                    │   │   │   │   ├── ParseContext.html
+                    │   │   │   │   ├── Validator.java.html
+                    │   │   │   │   ├── ParseException.java.html
+                    │   │   │   │   ├── ValidationCapability.java.html
+                    │   │   │   │   ├── ValidationUtil.java.html
+                    │   │   │   │   ├── ValidationException.html
+                    │   │   │   │   ├── ParseCapability.html
+                    │   │   │   │   ├── UnexpectedValidationException.html
+                    │   │   │   │   ├── Validator.html
+                    │   │   │   │   ├── ParseException.html
+                    │   │   │   │   ├── ValidationUtil.html
+                    │   │   │   │   └── ValidationCapability.html
+                    │   │   │   ├── net.sf.jsqlparser.expression.operators.arithmetic
+                    │   │   │   │   ├── index.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── Modulo.java.html
+                    │   │   │   │   ├── Addition.java.html
+                    │   │   │   │   ├── Concat.java.html
+                    │   │   │   │   ├── BitwiseXor.java.html
+                    │   │   │   │   ├── BitwiseLeftShift.java.html
+                    │   │   │   │   ├── BitwiseRightShift.java.html
+                    │   │   │   │   ├── BitwiseOr.java.html
+                    │   │   │   │   ├── Subtraction.java.html
+                    │   │   │   │   ├── Modulo.html
+                    │   │   │   │   ├── IntegerDivision.java.html
+                    │   │   │   │   ├── Division.java.html
+                    │   │   │   │   ├── Multiplication.java.html
+                    │   │   │   │   ├── BitwiseAnd.java.html
+                    │   │   │   │   ├── BitwiseRightShift.html
+                    │   │   │   │   ├── Multiplication.html
+                    │   │   │   │   ├── Concat.html
+                    │   │   │   │   ├── BitwiseAnd.html
+                    │   │   │   │   ├── Subtraction.html
+                    │   │   │   │   ├── BitwiseOr.html
+                    │   │   │   │   ├── BitwiseLeftShift.html
+                    │   │   │   │   ├── BitwiseXor.html
+                    │   │   │   │   ├── Addition.html
+                    │   │   │   │   ├── IntegerDivision.html
+                    │   │   │   │   └── Division.html
+                    │   │   │   ├── net.sf.jsqlparser.statement.replace
+                    │   │   │   │   ├── Replace.java.html
+                    │   │   │   │   ├── Replace.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   └── index.html
+                    │   │   │   ├── net.sf.jsqlparser.statement.comment
+                    │   │   │   │   ├── Comment.html
+                    │   │   │   │   ├── Comment.java.html
+                    │   │   │   │   ├── index.html
+                    │   │   │   │   └── index.source.html
+                    │   │   │   ├── net.sf.jsqlparser.statement.create.schema
+                    │   │   │   │   ├── CreateSchema.html
+                    │   │   │   │   ├── CreateSchema.java.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   └── index.html
+                    │   │   │   ├── net.sf.jsqlparser.util.validation.feature
+                    │   │   │   │   ├── SqlServerVersion.java.html
+                    │   │   │   │   ├── MariaDbVersion.java.html
+                    │   │   │   │   ├── H2Version.java.html
+                    │   │   │   │   ├── OracleVersion.java.html
+                    │   │   │   │   ├── FeaturesAllowed.java.html
+                    │   │   │   │   ├── index.html
+                    │   │   │   │   ├── FeaturesAllowed.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── PostgresqlVersion.java.html
+                    │   │   │   │   ├── MySqlVersion.java.html
+                    │   │   │   │   ├── Version.java.html
+                    │   │   │   │   ├── DatabaseType.java.html
+                    │   │   │   │   ├── SQLVersion.java.html
+                    │   │   │   │   ├── FeatureSetValidation.java.html
+                    │   │   │   │   ├── FeatureContext.java.html
+                    │   │   │   │   ├── H2Version.html
+                    │   │   │   │   ├── DatabaseType.html
+                    │   │   │   │   ├── MySqlVersion.html
+                    │   │   │   │   ├── MariaDbVersion.html
+                    │   │   │   │   ├── FeatureContext.html
+                    │   │   │   │   ├── SqlServerVersion.html
+                    │   │   │   │   ├── FeatureSetValidation.html
+                    │   │   │   │   ├── Version.html
+                    │   │   │   │   ├── SQLVersion.html
+                    │   │   │   │   ├── PostgresqlVersion.html
+                    │   │   │   │   └── OracleVersion.html
+                    │   │   │   ├── net.sf.jsqlparser.statement.drop
+                    │   │   │   │   ├── Drop.html
+                    │   │   │   │   ├── Drop.java.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   └── index.html
+                    │   │   │   ├── net.sf.jsqlparser.statement.create.synonym
+                    │   │   │   │   ├── CreateSynonym.html
+                    │   │   │   │   ├── index.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   └── CreateSynonym.java.html
+                    │   │   │   ├── net.sf.jsqlparser.statement.show
+                    │   │   │   │   ├── ShowTablesStatement.html
+                    │   │   │   │   ├── index.html
+                    │   │   │   │   ├── ShowTablesStatement$Modifiers.html
+                    │   │   │   │   ├── ShowTablesStatement$SelectionMode.html
+                    │   │   │   │   ├── ShowTablesStatement.java.html
+                    │   │   │   │   └── index.source.html
+                    │   │   │   ├── net.sf.jsqlparser.statement.execute
+                    │   │   │   │   ├── Execute.html
+                    │   │   │   │   ├── index.html
+                    │   │   │   │   ├── Execute$ExecType.html
+                    │   │   │   │   ├── Execute.java.html
+                    │   │   │   │   └── index.source.html
+                    │   │   │   ├── net.sf.jsqlparser.util.validation.metadata
+                    │   │   │   │   ├── index.html
+                    │   │   │   │   ├── AbstractDatabaseMetaDataCapability.html
+                    │   │   │   │   ├── Named.html
+                    │   │   │   │   ├── JdbcDatabaseMetaDataCapability.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── AbstractDatabaseMetaDataCapability.java.html
+                    │   │   │   │   ├── JdbcDatabaseMetaDataCapability.java.html
+                    │   │   │   │   ├── MetadataContext.java.html
+                    │   │   │   │   ├── Named.java.html
+                    │   │   │   │   ├── DatabaseMetaDataValidation.java.html
+                    │   │   │   │   ├── NamesLookup.java.html
+                    │   │   │   │   ├── DatabaseException.java.html
+                    │   │   │   │   ├── NamedObject.java.html
+                    │   │   │   │   ├── NamedObject.html
+                    │   │   │   │   ├── DatabaseException.html
+                    │   │   │   │   ├── DatabaseMetaDataValidation.html
+                    │   │   │   │   ├── NamesLookup.html
+                    │   │   │   │   └── MetadataContext.html
+                    │   │   │   ├── net.sf.jsqlparser.statement.grant
+                    │   │   │   │   ├── Grant.html
+                    │   │   │   │   ├── Grant.java.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   └── index.html
+                    │   │   │   ├── net.sf.jsqlparser.statement.create.index
+                    │   │   │   │   ├── CreateIndex.html
+                    │   │   │   │   ├── CreateIndex.java.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   └── index.html
+                    │   │   │   ├── net.sf.jsqlparser.statement.truncate
+                    │   │   │   │   ├── Truncate.html
+                    │   │   │   │   ├── Truncate.java.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   └── index.html
+                    │   │   │   ├── net.sf.jsqlparser.statement.values
+                    │   │   │   │   ├── index.html
+                    │   │   │   │   ├── ValuesStatement.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   └── ValuesStatement.java.html
+                    │   │   │   ├── net.sf.jsqlparser.statement.create.sequence
+                    │   │   │   │   ├── CreateSequence.java.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── CreateSequence.html
+                    │   │   │   │   └── index.html
+                    │   │   │   ├── net.sf.jsqlparser.statement.create.procedure
+                    │   │   │   │   ├── CreateProcedure.java.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── CreateProcedure.html
+                    │   │   │   │   └── index.html
+                    │   │   │   ├── net.sf.jsqlparser.util.validation.allowedtypes
+                    │   │   │   │   ├── index.html
+                    │   │   │   │   ├── AllowedTypesContext.java.html
+                    │   │   │   │   ├── AllowedTypesValidation.java.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── AllowedTypesContext.html
+                    │   │   │   │   └── AllowedTypesValidation.html
+                    │   │   │   ├── net.sf.jsqlparser.statement.create.function
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── CreateFunction.html
+                    │   │   │   │   ├── index.html
+                    │   │   │   │   └── CreateFunction.java.html
+                    │   │   │   ├── net.sf.jsqlparser.statement.alter.sequence
+                    │   │   │   │   ├── AlterSequence.java.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── AlterSequence.html
+                    │   │   │   │   └── index.html
+                    │   │   │   ├── net.sf.jsqlparser.expression.operators.conditional
+                    │   │   │   │   ├── XorExpression.java.html
+                    │   │   │   │   ├── OrExpression.java.html
+                    │   │   │   │   ├── AndExpression.java.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── AndExpression.html
+                    │   │   │   │   ├── XorExpression.html
+                    │   │   │   │   ├── OrExpression.html
+                    │   │   │   │   └── index.html
+                    │   │   │   ├── net.sf.jsqlparser.statement.analyze
+                    │   │   │   │   ├── Analyze.java.html
+                    │   │   │   │   ├── index.source.html
+                    │   │   │   │   ├── Analyze.html
+                    │   │   │   │   └── index.html
+                    │   │   │   └── net.sf.jsqlparser
+                    │   │   │       ├── index.html
+                    │   │   │       ├── JSQLParserException.java.html
+                    │   │   │       ├── index.source.html
+                    │   │   │       └── JSQLParserException.html
+                    │   │   └── pmd.html
+                    │   ├── generated-sources
+                    │   │   ├── javacc
+                    │   │   │   └── net
+                    │   │   │       └── sf
+                    │   │   │           └── jsqlparser
+                    │   │   │               └── parser
+                    │   │   │                   ├── CCJSqlParser.java_353194985375
+                    │   │   │                   ├── CCJSqlParserTokenManager.java_353194985375
+                    │   │   │                   ├── ParseException.java_353194985375
+                    │   │   │                   ├── CCJSqlParserConstants.java_353194985375
+                    │   │   │                   ├── StreamProvider.java_353194985375
+                    │   │   │                   ├── TokenMgrException.java_353194985375
+                    │   │   │                   ├── StringProvider.java_353194985375
+                    │   │   │                   ├── Token.java_353194985375
+                    │   │   │                   └── Provider.java_353194985375
+                    │   │   ├── jjtree-timestamp
+                    │   │   │   └── net
+                    │   │   │       └── sf
+                    │   │   │           └── jsqlparser
+                    │   │   │               └── parser
+                    │   │   │                   └── JSqlParserCC.jjt
+                    │   │   └── jjtree
+                    │   │       └── net
+                    │   │           └── sf
+                    │   │               └── jsqlparser
+                    │   │                   └── parser
+                    │   │                       ├── CCJSqlParserTreeConstants.java_353194985375
+                    │   │                       ├── JJTCCJSqlParserState.java_353194985375
+                    │   │                       ├── CCJSqlParserVisitor.java_353194985375
+                    │   │                       ├── Node.java_353194985375
+                    │   │                       ├── CCJSqlParserDefaultVisitor.java_353194985375
+                    │   │                       └── SimpleNode.java_353194985375
+                    │   ├── jsqlparser-4.6-SNAPSHOT-javadoc.jar
+                    │   ├── javacc-1667301857188
+                    │   │   └── parser
+                    │   │       └── SimpleCharStream.java
+                    │   ├── test-classes
+                    │   │   └── net
+                    │   │       └── sf
+                    │   │           └── jsqlparser
+                    │   │               └── statement
+                    │   │                   └── select
+                    │   │                       └── large-sql-issue-923.txt
+                    │   ├── surefire-reports
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.builder.ReflectionModelTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.expression.TimestampValueTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.alter.AlterTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.select.SelectTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.schema.TableTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.select.KSQLTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.alter.AlterTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.alter.RenameTableStatementTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.alter.AlterSessionTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.PurgeStatementTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.PurgeStatementTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.builder.JSQLParserFluentModelTests.xml
+                    │   │   ├── net.sf.jsqlparser.statement.builder.JSQLParserFluentModelTests.txt
+                    │   │   ├── net.sf.jsqlparser.statement.builder.ReflectionModelTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.alter.AlterSessionTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.StatementValidatorTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.IfElseStatementTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.DeclareStatementTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.DeclareStatementTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.show.ShowTablesStatementTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.show.ShowTablesStatementTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.upsert.UpsertTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.upsert.UpsertTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.StatementsTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.StatementsTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.ResetStatementTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.ResetStatementTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.UseStatementTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.UseStatementTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.IfElseStatementTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.SetStatementTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.create.CreateIndexTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.create.CreateFunctionalStatementTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.create.CreateIndexTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.SetStatementTest.txt
+                    │   │   ├── net.sf.jsqlparser.statement.create.CreateSequenceTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.create.CreateSequenceTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.create.schema.CreateSchemaTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.create.schema.CreateSchemaTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.create.AlterViewTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.create.AlterViewTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.analyze.AnalyzeTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.analyze.AnalyzeTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.create.CreateViewTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.RollbackStatementTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.expression.CaseExpressionTest.xml
+                    │   │   ├── net.sf.jsqlparser.expression.LikeExpressionTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.expression.LikeExpressionTest.xml
+                    │   │   ├── net.sf.jsqlparser.expression.StringValueTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.expression.StringValueTest.xml
+                    │   │   ├── net.sf.jsqlparser.expression.OracleNamedFunctionParameterTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.expression.OracleNamedFunctionParameterTest.xml
+                    │   │   ├── net.sf.jsqlparser.expression.operators.relational.LikeExpressionTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.expression.operators.relational.LikeExpressionTest.xml
+                    │   │   ├── net.sf.jsqlparser.expression.operators.relational.FullTextSearchExpressionTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.expression.operators.relational.FullTextSearchExpressionTest.xml
+                    │   │   ├── net.sf.jsqlparser.expression.operators.arithmetic.ArithmethicTests.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.expression.operators.arithmetic.ArithmethicTests.xml
+                    │   │   ├── net.sf.jsqlparser.expression.TimestampValueTest.txt
+                    │   │   ├── net.sf.jsqlparser.expression.CaseExpressionTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.expression.JsonFunctionTest.xml
+                    │   │   ├── net.sf.jsqlparser.expression.JsonFunctionTest.txt
+                    │   │   ├── net.sf.jsqlparser.parser.JSQLParserExceptionTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.RollbackStatementTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.truncate.TruncateTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.truncate.TruncateTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.ShowColumnsStatementTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.ShowColumnsStatementTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.execute.ExecuteTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.execute.ExecuteTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.parser.JSQLParserExceptionTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.expression.ExpressionVisitorAdapterTest.xml
+                    │   │   ├── net.sf.jsqlparser.parser.CCJSqlParserUtilTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.parser.CCJSqlParserUtilTest.xml
+                    │   │   ├── net.sf.jsqlparser.parser.feature.FeatureSetTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.parser.feature.FeatureSetTest.xml
+                    │   │   ├── net.sf.jsqlparser.test.TestUtils.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.test.TestUtils.xml
+                    │   │   ├── net.sf.jsqlparser.expression.ExpressionVisitorAdapterTest.txt
+                    │   │   ├── net.sf.jsqlparser.statement.create.CreateFunctionalStatementTest.txt
+                    │   │   ├── net.sf.jsqlparser.expression.LimitExpressionTest.txt
+                    │   │   ├── net.sf.jsqlparser.statement.select.SpeedTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.select.SpecialOracleTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.select.SelectXMLSerializeTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.select.SelectXMLSerializeTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.select.SelectTest.txt
+                    │   │   ├── net.sf.jsqlparser.statement.select.SelectASTTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.select.SelectASTTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.select.HiveTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.select.HiveTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.select.KSQLTest.txt
+                    │   │   ├── net.sf.jsqlparser.statement.select.SpecialOracleTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.select.PostgresTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.select.NestedBracketsPerformanceTest.txt
+                    │   │   ├── net.sf.jsqlparser.statement.select.PostgresTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.select.NestedBracketsPerformanceTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.select.SpeedTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.simpleparsing.CCJSqlParserManagerTest.txt
+                    │   │   ├── net.sf.jsqlparser.statement.BlockTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.BlockTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.create.synonym.CreateSynonymTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.create.synonym.CreateSynonymTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.create.CreateTableTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.create.CreateTableTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.create.AlterSequenceTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.create.AlterSequenceTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.create.CreateViewTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.ShowStatementTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.ShowStatementTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.update.UpdateTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.simpleparsing.CCJSqlParserManagerTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.replace.ReplaceTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.replace.ReplaceTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.DescribeTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.DescribeTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.update.UpdateTest.txt
+                    │   │   ├── net.sf.jsqlparser.statement.UnsupportedStatementTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.delete.DeleteTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.UnsupportedStatementTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.drop.DropTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.drop.DropTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.delete.DeleteTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.expression.LimitExpressionTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.GrantValidatorTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.SelectValidatorTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.InsertValidatorTest.txt
+                    │   │   ├── net.sf.jsqlparser.statement.comment.CommentTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.InsertValidatorTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.ShowTablesStatementValidatorTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.ShowTablesStatementValidatorTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.comment.CommentTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.CreateViewValidatorTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.CreateViewValidatorTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.insert.InsertTest.txt
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.ReplaceValidatorTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.ReplaceValidatorTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.DropValidatorTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.insert.InsertTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.DropValidatorTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.DeleteValidatorTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.DeleteValidatorTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.values.ValuesTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.SelectValidatorTest.txt
+                    │   │   ├── net.sf.jsqlparser.statement.values.ValuesTest.txt
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.ItemsListValidatorTest.txt
+                    │   │   ├── net.sf.jsqlparser.statement.grant.GrantTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.grant.GrantTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.CreateIndexValidatorTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.CreateIndexValidatorTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.ShowColumnsStatementValidatorTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.ShowColumnsStatementValidatorTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.ItemsListValidatorTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.ExplainTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.AdaptersTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.AdaptersTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.SavepointRollbackCommitTest.txt
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.UpdateValidatorTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.UpdateValidatorTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.SavepointRollbackCommitTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.ExplainTest.txt
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.GrantValidatorTest.txt
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.ExpressionValidatorTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.merge.MergeTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.alter.AlterSystemTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.AlterValidatorTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.LimitValidatorTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.LimitValidatorTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.alter.RenameTableStatementTest.txt
+                    │   │   ├── net.sf.jsqlparser.util.deparser.ExpressionDeParserTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.deparser.ExpressionDeParserTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.deparser.ExecuteDeParserTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.deparser.ExecuteDeParserTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.deparser.CreateViewDeParserTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.deparser.CreateViewDeParserTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.deparser.StatementDeParserTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.deparser.StatementDeParserTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.SelectUtilsTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.SelectUtilsTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.AlterValidatorTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.ExecuteValidatorTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.ExecuteValidatorTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.OrderByValidatorTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.alter.AlterSystemTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.alter.AlterSequenceTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.ExpressionValidatorTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.CreateTableValidatorTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.CreateTableValidatorTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.statement.alter.AlterSequenceTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.OrderByValidatorTest.txt
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.ValuesStatementValidatorTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.AlterViewValidatorTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.ValuesStatementValidatorTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.StatementValidatorTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.UseStatementValidatorTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.UseStatementValidatorTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.AlterViewValidatorTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.GroupByValidatorTest.xml
+                    │   │   ├── net.sf.jsqlparser.statement.merge.MergeTest.txt
+                    │   │   ├── net.sf.jsqlparser.expression.OverlapsConditionTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.ConnectExpressionsVisitorTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.schema.ColumnTest.xml
+                    │   │   ├── net.sf.jsqlparser.schema.ServerTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.schema.ServerTest.xml
+                    │   │   ├── net.sf.jsqlparser.schema.TableTest.txt
+                    │   │   ├── net.sf.jsqlparser.schema.DatabaseTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.schema.DatabaseTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.cnfexpression.CloneHelperTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.cnfexpression.CloneHelperTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.cnfexpression.CNFTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.cnfexpression.CNFTest.xml
+                    │   │   ├── net.sf.jsqlparser.schema.ColumnTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.schema.SequenceTest.xml
+                    │   │   ├── net.sf.jsqlparser.expression.mysql.MySqlSqlCalcFoundRowsTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.expression.OverlapsConditionTest.xml
+                    │   │   ├── net.sf.jsqlparser.expression.LongValueTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.expression.LongValueTest.xml
+                    │   │   ├── net.sf.jsqlparser.expression.CastExpressionTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.expression.CastExpressionTest.xml
+                    │   │   ├── net.sf.jsqlparser.expression.ExpressionPrecedenceTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.expression.ExpressionPrecedenceTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.expression.mysql.MySqlSqlCalcFoundRowsTest.xml
+                    │   │   ├── net.sf.jsqlparser.schema.SequenceTest.txt
+                    │   │   ├── net.sf.jsqlparser.expression.SignedExpressionTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.expression.SignedExpressionTest.xml
+                    │   │   ├── net.sf.jsqlparser.expression.FunctionWithBooleanParameterTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.expression.FunctionWithBooleanParameterTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.ConnectExpressionsVisitorTest.txt
+                    │   │   ├── net.sf.jsqlparser.util.AddAliasesVisitorTest.txt
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.GroupByValidatorTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.AddAliasesVisitorTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.DeclareStatementValidatorTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.DeclareStatementValidatorTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.UpsertValidatorTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.UpsertValidatorTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.ShowStatementValidatorTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.ShowStatementValidatorTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.CreateSequenceValidatorTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.CreateSequenceValidatorTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.SetStatementValidatorTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.SetStatementValidatorTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.MergeValidatorTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.MergeValidatorTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.validator.AlterSequenceValidatorTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.validation.ValidationUtilTest.txt
+                    │   │   ├── net.sf.jsqlparser.util.TablesNamesFinderTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.TablesNamesFinderTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.validation.metadata.DatabaseMetaDataValidationTest.txt
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.metadata.DatabaseMetaDataValidationTest.xml
+                    │   │   ├── TEST-net.sf.jsqlparser.util.validation.ValidationUtilTest.xml
+                    │   │   ├── net.sf.jsqlparser.util.validation.validator.AlterSequenceValidatorTest.txt
+                    │   │   ├── net.sf.jsqlparser.util.validation.ValidationTest.txt
+                    │   │   └── TEST-net.sf.jsqlparser.util.validation.ValidationTest.xml
+                    │   ├── jsqlparser-4.6-SNAPSHOT-sources.jar
+                    │   ├── checkstyle-cachefile
+                    │   ├── maven-status
+                    │   │   └── maven-compiler-plugin
+                    │   │       ├── compile
+                    │   │       │   └── default-compile
+                    │   │       │       ├── inputFiles.lst
+                    │   │       │       └── createdFiles.lst
+                    │   │       └── testCompile
+                    │   │           └── default-testCompile
+                    │   │               ├── createdFiles.lst
+                    │   │               └── inputFiles.lst
+                    │   └── javadoc-bundle-options
+                    │       └── javadoc-options-javadoc-resources.xml
+                    ├── src
+                    │   ├── test
+                    │   │   ├── java
+                    │   │   │   └── net
+                    │   │   │       └── sf
+                    │   │   │           └── jsqlparser
+                    │   │   │               ├── statement
+                    │   │   │               │   ├── select
+                    │   │   │               │   │   ├── SelectTest.java_353194985375
+                    │   │   │               │   │   ├── NestedBracketsPerformanceTest.java_353194985375
+                    │   │   │               │   │   ├── SelectASTTest.java_353194985375
+                    │   │   │               │   │   ├── SpecialOracleTest.java_353194985375
+                    │   │   │               │   │   ├── MemoryTest.java_353194985375
+                    │   │   │               │   │   ├── SelectXMLSerializeTest.java_353194985375
+                    │   │   │               │   │   ├── SpeedTest.java_353194985375
+                    │   │   │               │   │   ├── HiveTest.java_353194985375
+                    │   │   │               │   │   ├── PostgresTest.java_353194985375
+                    │   │   │               │   │   └── KSQLTest.java_353194985375
+                    │   │   │               │   ├── create
+                    │   │   │               │   │   ├── CreateTableTest.java_353194985375
+                    │   │   │               │   │   ├── CreateSequenceTest.java_353194985375
+                    │   │   │               │   │   ├── CreateViewTest.java_353194985375
+                    │   │   │               │   │   ├── schema
+                    │   │   │               │   │   │   └── CreateSchemaTest.java_353194985375
+                    │   │   │               │   │   ├── AlterViewTest.java_353194985375
+                    │   │   │               │   │   ├── AlterSequenceTest.java_353194985375
+                    │   │   │               │   │   ├── CreateIndexTest.java_353194985375
+                    │   │   │               │   │   ├── CreateFunctionalStatementTest.java_353194985375
+                    │   │   │               │   │   └── synonym
+                    │   │   │               │   │       └── CreateSynonymTest.java_353194985375
+                    │   │   │               │   ├── alter
+                    │   │   │               │   │   ├── AlterTest.java_353194985375
+                    │   │   │               │   │   ├── AlterSystemTest.java_353194985375
+                    │   │   │               │   │   ├── AlterSequenceTest.java_353194985375
+                    │   │   │               │   │   ├── AlterSessionTest.java_353194985375
+                    │   │   │               │   │   └── RenameTableStatementTest.java_353194985375
+                    │   │   │               │   ├── insert
+                    │   │   │               │   │   └── InsertTest.java_353194985375
+                    │   │   │               │   ├── builder
+                    │   │   │               │   │   ├── ReflectionModelTest.java_353194985375
+                    │   │   │               │   │   └── JSQLParserFluentModelTests.java_353194985375
+                    │   │   │               │   ├── update
+                    │   │   │               │   │   └── UpdateTest.java_353194985375
+                    │   │   │               │   ├── delete
+                    │   │   │               │   │   └── DeleteTest.java_353194985375
+                    │   │   │               │   ├── SavepointRollbackCommitTest.java_353194985375
+                    │   │   │               │   ├── comment
+                    │   │   │               │   │   └── CommentTest.java_353194985375
+                    │   │   │               │   ├── BlockTest.java_353194985375
+                    │   │   │               │   ├── ResetStatementTest.java_353194985375
+                    │   │   │               │   ├── values
+                    │   │   │               │   │   └── ValuesTest.java_353194985375
+                    │   │   │               │   ├── ExplainTest.java_353194985375
+                    │   │   │               │   ├── grant
+                    │   │   │               │   │   └── GrantTest.java_353194985375
+                    │   │   │               │   ├── merge
+                    │   │   │               │   │   └── MergeTest.java_353194985375
+                    │   │   │               │   ├── RollbackStatementTest.java_353194985375
+                    │   │   │               │   ├── ShowStatementTest.java_353194985375
+                    │   │   │               │   ├── replace
+                    │   │   │               │   │   └── ReplaceTest.java_353194985375
+                    │   │   │               │   ├── AdaptersTest.java_353194985375
+                    │   │   │               │   ├── PurgeStatementTest.java_353194985375
+                    │   │   │               │   ├── ShowColumnsStatementTest.java_353194985375
+                    │   │   │               │   ├── simpleparsing
+                    │   │   │               │   │   └── CCJSqlParserManagerTest.java_353194985375
+                    │   │   │               │   ├── DescribeTest.java_353194985375
+                    │   │   │               │   ├── DeclareStatementTest.java_353194985375
+                    │   │   │               │   ├── drop
+                    │   │   │               │   │   └── DropTest.java_353194985375
+                    │   │   │               │   ├── IfElseStatementTest.java_353194985375
+                    │   │   │               │   ├── truncate
+                    │   │   │               │   │   └── TruncateTest.java_353194985375
+                    │   │   │               │   ├── analyze
+                    │   │   │               │   │   └── AnalyzeTest.java_353194985375
+                    │   │   │               │   ├── upsert
+                    │   │   │               │   │   └── UpsertTest.java_353194985375
+                    │   │   │               │   ├── show
+                    │   │   │               │   │   └── ShowTablesStatementTest.java_353194985375
+                    │   │   │               │   ├── SetStatementTest.java_353194985375
+                    │   │   │               │   ├── UnsupportedStatementTest.java_353194985375
+                    │   │   │               │   ├── StatementsTest.java_353194985375
+                    │   │   │               │   ├── UseStatementTest.java_353194985375
+                    │   │   │               │   └── execute
+                    │   │   │               │       └── ExecuteTest.java_353194985375
+                    │   │   │               ├── util
+                    │   │   │               │   ├── TablesNamesFinderTest.java_353194985375
+                    │   │   │               │   ├── deparser
+                    │   │   │               │   │   ├── StatementDeParserTest.java_353194985375
+                    │   │   │               │   │   ├── ExpressionDeParserTest.java_353194985375
+                    │   │   │               │   │   ├── ExecuteDeParserTest.java_353194985375
+                    │   │   │               │   │   └── CreateViewDeParserTest.java_353194985375
+                    │   │   │               │   ├── cnfexpression
+                    │   │   │               │   │   ├── CNFTest.java_353194985375
+                    │   │   │               │   │   └── CloneHelperTest.java_353194985375
+                    │   │   │               │   ├── validation
+                    │   │   │               │   │   ├── ValidationUtilTest.java_353194985375
+                    │   │   │               │   │   ├── ValidationTestAsserts.java_353194985375
+                    │   │   │               │   │   ├── ValidationTest.java_353194985375
+                    │   │   │               │   │   ├── validator
+                    │   │   │               │   │   │   ├── DeclareStatementValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── OrderByValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── InsertValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── CreateViewValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── CreateTableValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── LimitValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── ShowTablesStatementValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── ValuesStatementValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── SelectValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── AlterViewValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── ShowStatementValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── DeleteValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── SetStatementValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── UpsertValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── ShowColumnsStatementValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── MergeValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── ItemsListValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── AlterValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── GroupByValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── ExpressionValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── DropValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── CreateSequenceValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── CreateIndexValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── StatementValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── ExecuteValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── GrantValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── UpdateValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── ReplaceValidatorTest.java_353194985375
+                    │   │   │               │   │   │   ├── AlterSequenceValidatorTest.java_353194985375
+                    │   │   │               │   │   │   └── UseStatementValidatorTest.java_353194985375
+                    │   │   │               │   │   └── metadata
+                    │   │   │               │   │       └── DatabaseMetaDataValidationTest.java_353194985375
+                    │   │   │               │   ├── SelectUtilsTest.java_353194985375
+                    │   │   │               │   ├── ReflectionTestUtils.java_353194985375
+                    │   │   │               │   ├── ConnectExpressionsVisitorTest.java_353194985375
+                    │   │   │               │   ├── AddAliasesVisitorTest.java_353194985375
+                    │   │   │               │   └── RandomUtils.java_353194985375
+                    │   │   │               ├── expression
+                    │   │   │               │   ├── JsonFunctionTest.java_353194985375
+                    │   │   │               │   ├── ExpressionVisitorAdapterTest.java_353194985375
+                    │   │   │               │   ├── FunctionWithBooleanParameterTest.java_353194985375
+                    │   │   │               │   ├── mysql
+                    │   │   │               │   │   └── MySqlSqlCalcFoundRowsTest.java_353194985375
+                    │   │   │               │   ├── TimestampValueTest.java_353194985375
+                    │   │   │               │   ├── ExpressionPrecedenceTest.java_353194985375
+                    │   │   │               │   ├── OracleNamedFunctionParameterTest.java_353194985375
+                    │   │   │               │   ├── operators
+                    │   │   │               │   │   ├── arithmetic
+                    │   │   │               │   │   │   └── ArithmethicTests.java_353194985375
+                    │   │   │               │   │   └── relational
+                    │   │   │               │   │       ├── LikeExpressionTest.java_353194985375
+                    │   │   │               │   │       └── FullTextSearchExpressionTest.java_353194985375
+                    │   │   │               │   ├── OverlapsConditionTest.java_353194985375
+                    │   │   │               │   ├── SignedExpressionTest.java_353194985375
+                    │   │   │               │   ├── LongValueTest.java_353194985375
+                    │   │   │               │   ├── LimitExpressionTest.java_353194985375
+                    │   │   │               │   ├── CaseExpressionTest.java_353194985375
+                    │   │   │               │   ├── StringValueTest.java_353194985375
+                    │   │   │               │   ├── CastExpressionTest.java_353194985375
+                    │   │   │               │   └── LikeExpressionTest.java_353194985375
+                    │   │   │               ├── test
+                    │   │   │               │   ├── TestUtils.java_353194985375
+                    │   │   │               │   ├── TestException.java_353194985375
+                    │   │   │               │   └── MemoryLeakVerifier.java_353194985375
+                    │   │   │               ├── parser
+                    │   │   │               │   ├── CCJSqlParserUtilTest.java_353194985375
+                    │   │   │               │   ├── JSQLParserExceptionTest.java_353194985375
+                    │   │   │               │   └── feature
+                    │   │   │               │       └── FeatureSetTest.java_353194985375
+                    │   │   │               └── schema
+                    │   │   │                   ├── ColumnTest.java_353194985375
+                    │   │   │                   ├── DatabaseTest.java_353194985375
+                    │   │   │                   ├── ServerTest.java_353194985375
+                    │   │   │                   ├── TableTest.java_353194985375
+                    │   │   │                   └── SequenceTest.java_353194985375
+                    │   │   └── resources
+                    │   │       └── net
+                    │   │           └── sf
+                    │   │               └── jsqlparser
+                    │   │                   └── statement
+                    │   │                       └── select
+                    │   │                           ├── oracle-tests
+                    │   │                           │   ├── cast_multiset11.sql_353194985375
+                    │   │                           │   ├── model_clause04.sql_353194985375
+                    │   │                           │   ├── groupby01.sql_353194985375
+                    │   │                           │   ├── cast_multiset28.sql_353194985375
+                    │   │                           │   ├── condition04.sql_353194985375
+                    │   │                           │   ├── pivot07.sql_353194985375
+                    │   │                           │   ├── model_clause15.sql_353194985375
+                    │   │                           │   ├── cast_multiset25.sql_353194985375
+                    │   │                           │   ├── for_update01.sql_353194985375
+                    │   │                           │   ├── groupby13.sql_353194985375
+                    │   │                           │   ├── merge03.sql_353194985375
+                    │   │                           │   ├── condition05.sql_353194985375
+                    │   │                           │   ├── cast_multiset31.sql_353194985375
+                    │   │                           │   ├── bindvar01.sql_353194985375
+                    │   │                           │   ├── bindvar05.sql_353194985375
+                    │   │                           │   ├── datetime02.sql_353194985375
+                    │   │                           │   ├── function02.sql_353194985375
+                    │   │                           │   ├── cast_multiset19.sql_353194985375
+                    │   │                           │   ├── insert01.sql_353194985375
+                    │   │                           │   ├── condition14.sql_353194985375
+                    │   │                           │   ├── lexer05.sql_353194985375
+                    │   │                           │   ├── simple06.sql_353194985375
+                    │   │                           │   ├── connect_by07.sql_353194985375
+                    │   │                           │   ├── cast_multiset38.sql_353194985375
+                    │   │                           │   ├── cast_multiset23.sql_353194985375
+                    │   │                           │   ├── condition20.sql_353194985375
+                    │   │                           │   ├── model_clause14.sql_353194985375
+                    │   │                           │   ├── xmltable01.sql_353194985375
+                    │   │                           │   ├── model_clause10.sql_353194985375
+                    │   │                           │   ├── cast_multiset12.sql_353194985375
+                    │   │                           │   ├── condition06.sql_353194985375
+                    │   │                           │   ├── function05.sql_353194985375
+                    │   │                           │   ├── insert08.sql_353194985375
+                    │   │                           │   ├── order_by02.sql_353194985375
+                    │   │                           │   ├── keywordasidentifier02.sql_353194985375
+                    │   │                           │   ├── aggregate01.sql_353194985375
+                    │   │                           │   ├── union10.sql_353194985375
+                    │   │                           │   ├── connect_by04.sql_353194985375
+                    │   │                           │   ├── join06.sql_353194985375
+                    │   │                           │   ├── join15.sql_353194985375
+                    │   │                           │   ├── pivot03.sql_353194985375
+                    │   │                           │   ├── function07.sql_353194985375
+                    │   │                           │   ├── for_update04.sql_353194985375
+                    │   │                           │   ├── insert04.sql_353194985375
+                    │   │                           │   ├── groupby15.sql_353194985375
+                    │   │                           │   ├── xmltable02.sql_353194985375
+                    │   │                           │   ├── cast_multiset13.sql_353194985375
+                    │   │                           │   ├── cast_multiset07.sql_353194985375
+                    │   │                           │   ├── keywordasidentifier03.sql_353194985375
+                    │   │                           │   ├── dblink01.sql_353194985375
+                    │   │                           │   ├── condition02.sql_353194985375
+                    │   │                           │   ├── groupby10.sql_353194985375
+                    │   │                           │   ├── like01.sql_353194985375
+                    │   │                           │   ├── groupby07.sql_353194985375
+                    │   │                           │   ├── groupby18.sql_353194985375
+                    │   │                           │   ├── condition07.sql_353194985375
+                    │   │                           │   ├── interval04.sql_353194985375
+                    │   │                           │   ├── query_factoring13.sql_353194985375
+                    │   │                           │   ├── cast_multiset34.sql_353194985375
+                    │   │                           │   ├── join12.sql_353194985375
+                    │   │                           │   ├── union06.sql_353194985375
+                    │   │                           │   ├── cast_multiset29.sql_353194985375
+                    │   │                           │   ├── join17.sql_353194985375
+                    │   │                           │   ├── groupby11.sql_353194985375
+                    │   │                           │   ├── model_clause16.sql_353194985375
+                    │   │                           │   ├── case_when05.sql_353194985375
+                    │   │                           │   ├── merge04.sql_353194985375
+                    │   │                           │   ├── connect_by01.sql_353194985375
+                    │   │                           │   ├── analytic_query10.sql_353194985375
+                    │   │                           │   ├── groupby17.sql_353194985375
+                    │   │                           │   ├── insert02.sql_353194985375
+                    │   │                           │   ├── groupby14.sql_353194985375
+                    │   │                           │   ├── groupby06.sql_353194985375
+                    │   │                           │   ├── simple11.sql_353194985375
+                    │   │                           │   ├── model_clause08.sql_353194985375
+                    │   │                           │   ├── query_factoring02.sql_353194985375
+                    │   │                           │   ├── model_clause13.sql_353194985375
+                    │   │                           │   ├── set02.sql_353194985375
+                    │   │                           │   ├── model_clause09.sql_353194985375
+                    │   │                           │   ├── model_clause01.sql_353194985375
+                    │   │                           │   ├── set01.sql_353194985375
+                    │   │                           │   ├── pivot02.sql_353194985375
+                    │   │                           │   ├── keywordasidentifier01.sql_353194985375
+                    │   │                           │   ├── condition19.sql_353194985375
+                    │   │                           │   ├── condition17.sql_353194985375
+                    │   │                           │   ├── cast_multiset30.sql_353194985375
+                    │   │                           │   ├── cast_multiset08.sql_353194985375
+                    │   │                           │   ├── simple05.sql_353194985375
+                    │   │                           │   ├── cast_multiset10.sql_353194985375
+                    │   │                           │   ├── simple07.sql_353194985375
+                    │   │                           │   ├── lexer03.sql_353194985375
+                    │   │                           │   ├── cast_multiset41.sql_353194985375
+                    │   │                           │   ├── cast_multiset02.sql_353194985375
+                    │   │                           │   ├── cast_multiset17.sql_353194985375
+                    │   │                           │   ├── cast_multiset22.sql_353194985375
+                    │   │                           │   ├── cast_multiset03.sql_353194985375
+                    │   │                           │   ├── simple03.sql_353194985375
+                    │   │                           │   ├── cluster_set01.sql_353194985375
+                    │   │                           │   ├── condition03.sql_353194985375
+                    │   │                           │   ├── analytic_query06.sql_353194985375
+                    │   │                           │   ├── query_factoring01.sql_353194985375
+                    │   │                           │   ├── query_factoring10.sql_353194985375
+                    │   │                           │   ├── join08.sql_353194985375
+                    │   │                           │   ├── pivot08.sql_353194985375
+                    │   │                           │   ├── pivot10.sql_353194985375
+                    │   │                           │   ├── groupby20.sql_353194985375
+                    │   │                           │   ├── join03.sql_353194985375
+                    │   │                           │   ├── order_by05.sql_353194985375
+                    │   │                           │   ├── query_factoring09.sql_353194985375
+                    │   │                           │   ├── bindvar03.sql_353194985375
+                    │   │                           │   ├── pivot05.sql_353194985375
+                    │   │                           │   ├── for_update08.sql_353194985375
+                    │   │                           │   ├── analytic_query02.sql_353194985375
+                    │   │                           │   ├── join20.sql_353194985375
+                    │   │                           │   ├── cast_multiset09.sql_353194985375
+                    │   │                           │   ├── connect_by02.sql_353194985375
+                    │   │                           │   ├── cast_multiset43.sql_353194985375
+                    │   │                           │   ├── function01.sql_353194985375
+                    │   │                           │   ├── condition01.sql_353194985375
+                    │   │                           │   ├── cast_multiset33.sql_353194985375
+                    │   │                           │   ├── condition08.sql_353194985375
+                    │   │                           │   ├── condition11.sql_353194985375
+                    │   │                           │   ├── bindvar04.sql_353194985375
+                    │   │                           │   ├── lexer02.sql_353194985375
+                    │   │                           │   ├── groupby08.sql_353194985375
+                    │   │                           │   ├── insert05.sql_353194985375
+                    │   │                           │   ├── datetime03.sql_353194985375
+                    │   │                           │   ├── function04.sql_353194985375
+                    │   │                           │   ├── analytic_query09.sql_353194985375
+                    │   │                           │   ├── pivot09.sql_353194985375
+                    │   │                           │   ├── model_clause07.sql_353194985375
+                    │   │                           │   ├── insert12.sql_353194985375
+                    │   │                           │   ├── query_factoring04.sql_353194985375
+                    │   │                           │   ├── interval02.sql_353194985375
+                    │   │                           │   ├── groupby23.sql_353194985375
+                    │   │                           │   ├── simple09.sql_353194985375
+                    │   │                           │   ├── cast_multiset14.sql_353194985375
+                    │   │                           │   ├── insert06.sql_353194985375
+                    │   │                           │   ├── condition12.sql_353194985375
+                    │   │                           │   ├── query_factoring14.sql_353194985375
+                    │   │                           │   ├── columns01.sql_353194985375
+                    │   │                           │   ├── join19.sql_353194985375
+                    │   │                           │   ├── union04.sql_353194985375
+                    │   │                           │   ├── groupby04.sql_353194985375
+                    │   │                           │   ├── model_clause06.sql_353194985375
+                    │   │                           │   ├── insert10.sql_353194985375
+                    │   │                           │   ├── cast_multiset36.sql_353194985375
+                    │   │                           │   ├── join09.sql_353194985375
+                    │   │                           │   ├── cast_multiset20.sql_353194985375
+                    │   │                           │   ├── query_factoring03.sql_353194985375
+                    │   │                           │   ├── union02.sql_353194985375
+                    │   │                           │   ├── union09.sql_353194985375
+                    │   │                           │   ├── join04.sql_353194985375
+                    │   │                           │   ├── datetime01.sql_353194985375
+                    │   │                           │   ├── join01.sql_353194985375
+                    │   │                           │   ├── union05.sql_353194985375
+                    │   │                           │   ├── model_clause12.sql_353194985375
+                    │   │                           │   ├── loop01.sql_353194985375
+                    │   │                           │   ├── cast_multiset04.sql_353194985375
+                    │   │                           │   ├── order_by04.sql_353194985375
+                    │   │                           │   ├── cast_multiset32.sql_353194985375
+                    │   │                           │   ├── query_factoring07.sql_353194985375
+                    │   │                           │   ├── join11.sql_353194985375
+                    │   │                           │   ├── for_update05.sql_353194985375
+                    │   │                           │   ├── groupby09.sql_353194985375
+                    │   │                           │   ├── groupby05.sql_353194985375
+                    │   │                           │   ├── union08.sql_353194985375
+                    │   │                           │   ├── loop02.sql_353194985375
+                    │   │                           │   ├── pivot06.sql_353194985375
+                    │   │                           │   ├── cast_multiset06.sql_353194985375
+                    │   │                           │   ├── groupby03.sql_353194985375
+                    │   │                           │   ├── explain01.sql_353194985375
+                    │   │                           │   ├── cast_multiset24.sql_353194985375
+                    │   │                           │   ├── cast_multiset39.sql_353194985375
+                    │   │                           │   ├── join18.sql_353194985375
+                    │   │                           │   ├── cast_multiset42.sql_353194985375
+                    │   │                           │   ├── analytic_query04.sql_353194985375
+                    │   │                           │   ├── query_factoring11.sql_353194985375
+                    │   │                           │   ├── for_update02.sql_353194985375
+                    │   │                           │   ├── case_when04.sql_353194985375
+                    │   │                           │   ├── analytic_query07.sql_353194985375
+                    │   │                           │   ├── for_update07.sql_353194985375
+                    │   │                           │   ├── compound_statements03.sql_353194985375
+                    │   │                           │   ├── condition10.sql_353194985375
+                    │   │                           │   ├── string01.sql_353194985375
+                    │   │                           │   ├── simple04.sql_353194985375
+                    │   │                           │   ├── groupby22.sql_353194985375
+                    │   │                           │   ├── pivot04.sql_353194985375
+                    │   │                           │   ├── condition18.sql_353194985375
+                    │   │                           │   ├── simple10.sql_353194985375
+                    │   │                           │   ├── groupby12.sql_353194985375
+                    │   │                           │   ├── cast_multiset35.sql_353194985375
+                    │   │                           │   ├── model_clause02.sql_353194985375
+                    │   │                           │   ├── analytic_query08.sql_353194985375
+                    │   │                           │   ├── flashback01.sql_353194985375
+                    │   │                           │   ├── model_clause05.sql_353194985375
+                    │   │                           │   ├── datetime05.sql_353194985375
+                    │   │                           │   ├── insert03.sql_353194985375
+                    │   │                           │   ├── pivot11.sql_353194985375
+                    │   │                           │   ├── pivot07_Parenthesis.sql_353194985375
+                    │   │                           │   ├── case_when03.sql_353194985375
+                    │   │                           │   ├── order_by01.sql_353194985375
+                    │   │                           │   ├── compound_statements01.sql_353194985375
+                    │   │                           │   ├── merge02.sql_353194985375
+                    │   │                           │   ├── insert09.sql_353194985375
+                    │   │                           │   ├── union03.sql_353194985375
+                    │   │                           │   ├── query_factoring06.sql_353194985375
+                    │   │                           │   ├── keywordasidentifier04.sql_353194985375
+                    │   │                           │   ├── connect_by06.sql_353194985375
+                    │   │                           │   ├── condition16.sql_353194985375
+                    │   │                           │   ├── cast_multiset37.sql_353194985375
+                    │   │                           │   ├── join05.sql_353194985375
+                    │   │                           │   ├── condition09.sql_353194985375
+                    │   │                           │   ├── interval05.sql_353194985375
+                    │   │                           │   ├── analytic_query03.sql_353194985375
+                    │   │                           │   ├── simple08.sql_353194985375
+                    │   │                           │   ├── connect_by05.sql_353194985375
+                    │   │                           │   ├── function06.sql_353194985375
+                    │   │                           │   ├── simple13.sql_353194985375
+                    │   │                           │   ├── join14.sql_353194985375
+                    │   │                           │   ├── pivot01.sql_353194985375
+                    │   │                           │   ├── groupby02.sql_353194985375
+                    │   │                           │   ├── order_by03.sql_353194985375
+                    │   │                           │   ├── cast_multiset18.sql_353194985375
+                    │   │                           │   ├── cast_multiset16.sql_353194985375
+                    │   │                           │   ├── merge01.sql_353194985375
+                    │   │                           │   ├── interval03.sql_353194985375
+                    │   │                           │   ├── query_factoring12.sql_353194985375
+                    │   │                           │   ├── function03.sql_353194985375
+                    │   │                           │   ├── only-parse-test
+                    │   │                           │   │   ├── numbers02.sql_353194985375
+                    │   │                           │   │   ├── comment02.sql_353194985375
+                    │   │                           │   │   └── comment01.sql_353194985375
+                    │   │                           │   ├── sample01.sql_353194985375
+                    │   │                           │   ├── model_clause03.sql_353194985375
+                    │   │                           │   ├── order_by06.sql_353194985375
+                    │   │                           │   ├── query_factoring05.sql_353194985375
+                    │   │                           │   ├── lexer04.sql_353194985375
+                    │   │                           │   ├── cast_multiset26.sql_353194985375
+                    │   │                           │   ├── cast_multiset40.sql_353194985375
+                    │   │                           │   ├── cast_multiset27.sql_353194985375
+                    │   │                           │   ├── case_when02.sql_353194985375
+                    │   │                           │   ├── join16.sql_353194985375
+                    │   │                           │   ├── analytic_query05.sql_353194985375
+                    │   │                           │   ├── groupby19.sql_353194985375
+                    │   │                           │   ├── cast_multiset01.sql_353194985375
+                    │   │                           │   ├── case_when01.sql_353194985375
+                    │   │                           │   ├── insert11.sql_353194985375
+                    │   │                           │   ├── query_factoring08.sql_353194985375
+                    │   │                           │   ├── insert07.sql_353194985375
+                    │   │                           │   ├── pivot12.sql_353194985375
+                    │   │                           │   ├── object_access01.sql_353194985375
+                    │   │                           │   ├── cast_multiset15.sql_353194985375
+                    │   │                           │   ├── condition15.sql_353194985375
+                    │   │                           │   ├── compound_statements02.sql_353194985375
+                    │   │                           │   ├── for_update03.sql_353194985375
+                    │   │                           │   ├── keywordasidentifier05.sql_353194985375
+                    │   │                           │   ├── join07.sql_353194985375
+                    │   │                           │   ├── bindvar02.sql_353194985375
+                    │   │                           │   ├── for_update06.sql_353194985375
+                    │   │                           │   ├── join21.sql_353194985375
+                    │   │                           │   ├── simple02.sql_353194985375
+                    │   │                           │   ├── datetime06.sql_353194985375
+                    │   │                           │   ├── numbers01.sql_353194985375
+                    │   │                           │   ├── cast_multiset21.sql_353194985375
+                    │   │                           │   ├── join10.sql_353194985375
+                    │   │                           │   ├── simple12.sql_353194985375
+                    │   │                           │   ├── groupby16.sql_353194985375
+                    │   │                           │   ├── connect_by03.sql_353194985375
+                    │   │                           │   ├── lexer01.sql_353194985375
+                    │   │                           │   ├── datetime04.sql_353194985375
+                    │   │                           │   ├── union07.sql_353194985375
+                    │   │                           │   ├── interval01.sql_353194985375
+                    │   │                           │   ├── model_clause11.sql_353194985375
+                    │   │                           │   ├── join13.sql_353194985375
+                    │   │                           │   ├── join02.sql_353194985375
+                    │   │                           │   ├── cast_multiset05.sql_353194985375
+                    │   │                           │   ├── returning01.sql_353194985375
+                    │   │                           │   ├── union01.sql_353194985375
+                    │   │                           │   └── groupby21.sql_353194985375
+                    │   │                           └── performanceIssue1397.sql_353194985375
+                    │   ├── main
+                    │   │   └── java
+                    │   │       └── net
+                    │   │           └── sf
+                    │   │               └── jsqlparser
+                    │   │                   ├── statement
+                    │   │                   │   ├── alter
+                    │   │                   │   │   ├── AlterExpression.java_353194985375
+                    │   │                   │   │   ├── ValidateConstraint.java_353194985375
+                    │   │                   │   │   ├── AlterSessionOperation.java_353194985375
+                    │   │                   │   │   ├── AlterOperation.java_353194985375
+                    │   │                   │   │   ├── Alter.java_353194985375
+                    │   │                   │   │   ├── RenameTableStatement.java_353194985375
+                    │   │                   │   │   ├── AlterSystemOperation.java_353194985375
+                    │   │                   │   │   ├── DeferrableConstraint.java_353194985375
+                    │   │                   │   │   ├── ConstraintState.java_353194985375
+                    │   │                   │   │   ├── sequence
+                    │   │                   │   │   │   └── AlterSequence.java_353194985375
+                    │   │                   │   │   ├── AlterSession.java_353194985375
+                    │   │                   │   │   ├── EnableConstraint.java_353194985375
+                    │   │                   │   │   └── AlterSystemStatement.java_353194985375
+                    │   │                   │   ├── select
+                    │   │                   │   │   ├── PlainSelect.java_353194985375
+                    │   │                   │   │   ├── Select.java_353194985375
+                    │   │                   │   │   ├── Top.java_353194985375
+                    │   │                   │   │   ├── TableFunction.java_353194985375
+                    │   │                   │   │   ├── Distinct.java_353194985375
+                    │   │                   │   │   ├── SubJoin.java_353194985375
+                    │   │                   │   │   ├── OptimizeFor.java_353194985375
+                    │   │                   │   │   ├── PivotVisitorAdapter.java_353194985375
+                    │   │                   │   │   ├── AllColumns.java_353194985375
+                    │   │                   │   │   ├── ValuesList.java_353194985375
+                    │   │                   │   │   ├── SetOperationList.java_353194985375
+                    │   │                   │   │   ├── UnionOp.java_353194985375
+                    │   │                   │   │   ├── SelectVisitor.java_353194985375
+                    │   │                   │   │   ├── SelectBody.java_353194985375
+                    │   │                   │   │   ├── SpecialSubSelect.java_353194985375
+                    │   │                   │   │   ├── FromItemVisitorAdapter.java_353194985375
+                    │   │                   │   │   ├── WithIsolation.java_353194985375
+                    │   │                   │   │   ├── PivotVisitor.java_353194985375
+                    │   │                   │   │   ├── SelectItemVisitor.java_353194985375
+                    │   │                   │   │   ├── PivotXml.java_353194985375
+                    │   │                   │   │   ├── Fetch.java_353194985375
+                    │   │                   │   │   ├── GroupByElement.java_353194985375
+                    │   │                   │   │   ├── SelectVisitorAdapter.java_353194985375
+                    │   │                   │   │   ├── IntoTableVisitorAdapter.java_353194985375
+                    │   │                   │   │   ├── First.java_353194985375
+                    │   │                   │   │   ├── OrderByElement.java_353194985375
+                    │   │                   │   │   ├── Limit.java_353194985375
+                    │   │                   │   │   ├── ExpressionListItem.java_353194985375
+                    │   │                   │   │   ├── FunctionItem.java_353194985375
+                    │   │                   │   │   ├── UnPivot.java_353194985375
+                    │   │                   │   │   ├── SelectExpressionItem.java_353194985375
+                    │   │                   │   │   ├── Join.java_353194985375
+                    │   │                   │   │   ├── SelectItemVisitorAdapter.java_353194985375
+                    │   │                   │   │   ├── MySqlSqlCacheFlags.java_353194985375
+                    │   │                   │   │   ├── MinusOp.java_353194985375
+                    │   │                   │   │   ├── Wait.java_353194985375
+                    │   │                   │   │   ├── Offset.java_353194985375
+                    │   │                   │   │   ├── SetOperation.java_353194985375
+                    │   │                   │   │   ├── IntersectOp.java_353194985375
+                    │   │                   │   │   ├── Pivot.java_353194985375
+                    │   │                   │   │   ├── SubSelect.java_353194985375
+                    │   │                   │   │   ├── IntoTableVisitor.java_353194985375
+                    │   │                   │   │   ├── SelectItem.java_353194985375
+                    │   │                   │   │   ├── KSQLJoinWindow.java_353194985375
+                    │   │                   │   │   ├── FromItem.java_353194985375
+                    │   │                   │   │   ├── OrderByVisitor.java_353194985375
+                    │   │                   │   │   ├── AllTableColumns.java_353194985375
+                    │   │                   │   │   ├── ExceptOp.java_353194985375
+                    │   │                   │   │   ├── WithItem.java_353194985375
+                    │   │                   │   │   ├── ParenthesisFromItem.java_353194985375
+                    │   │                   │   │   ├── LateralSubSelect.java_353194985375
+                    │   │                   │   │   ├── KSQLWindow.java_353194985375
+                    │   │                   │   │   ├── GroupByVisitor.java_353194985375
+                    │   │                   │   │   ├── Skip.java_353194985375
+                    │   │                   │   │   ├── OrderByVisitorAdapter.java_353194985375
+                    │   │                   │   │   └── FromItemVisitor.java_353194985375
+                    │   │                   │   ├── update
+                    │   │                   │   │   ├── Update.java_353194985375
+                    │   │                   │   │   ├── UpdateModifierPriority.java_353194985375
+                    │   │                   │   │   └── UpdateSet.java_353194985375
+                    │   │                   │   ├── insert
+                    │   │                   │   │   ├── Insert.java_353194985375
+                    │   │                   │   │   ├── InsertConflictAction.java_353194985375
+                    │   │                   │   │   ├── InsertModifierPriority.java_353194985375
+                    │   │                   │   │   ├── InsertConflictTarget.java_353194985375
+                    │   │                   │   │   └── ConflictActionType.java_353194985375
+                    │   │                   │   ├── ShowStatement.java_353194985375
+                    │   │                   │   ├── values
+                    │   │                   │   │   └── ValuesStatement.java_353194985375
+                    │   │                   │   ├── Statements.java_353194985375
+                    │   │                   │   ├── OutputClause.java_353194985375
+                    │   │                   │   ├── DeclareType.java_353194985375
+                    │   │                   │   ├── comment
+                    │   │                   │   │   └── Comment.java_353194985375
+                    │   │                   │   ├── StatementVisitor.java_353194985375
+                    │   │                   │   ├── grant
+                    │   │                   │   │   └── Grant.java_353194985375
+                    │   │                   │   ├── merge
+                    │   │                   │   │   ├── MergeUpdate.java_353194985375
+                    │   │                   │   │   ├── MergeInsert.java_353194985375
+                    │   │                   │   │   └── Merge.java_353194985375
+                    │   │                   │   ├── Statement.java_353194985375
+                    │   │                   │   ├── PurgeObjectType.java_353194985375
+                    │   │                   │   ├── StatementVisitorAdapter.java_353194985375
+                    │   │                   │   ├── DeclareStatement.java_353194985375
+                    │   │                   │   ├── create
+                    │   │                   │   │   ├── index
+                    │   │                   │   │   │   └── CreateIndex.java_353194985375
+                    │   │                   │   │   ├── function
+                    │   │                   │   │   │   └── CreateFunction.java_353194985375
+                    │   │                   │   │   ├── synonym
+                    │   │                   │   │   │   └── CreateSynonym.java_353194985375
+                    │   │                   │   │   ├── sequence
+                    │   │                   │   │   │   └── CreateSequence.java_353194985375
+                    │   │                   │   │   ├── table
+                    │   │                   │   │   │   ├── RowMovementMode.java_353194985375
+                    │   │                   │   │   │   ├── CreateTable.java_353194985375
+                    │   │                   │   │   │   ├── RowMovement.java_353194985375
+                    │   │                   │   │   │   ├── ColDataType.java_353194985375
+                    │   │                   │   │   │   ├── NamedConstraint.java_353194985375
+                    │   │                   │   │   │   ├── ForeignKeyIndex.java_353194985375
+                    │   │                   │   │   │   ├── ExcludeConstraint.java_353194985375
+                    │   │                   │   │   │   ├── ColumnDefinition.java_353194985375
+                    │   │                   │   │   │   ├── Index.java_353194985375
+                    │   │                   │   │   │   └── CheckConstraint.java_353194985375
+                    │   │                   │   │   ├── schema
+                    │   │                   │   │   │   └── CreateSchema.java_353194985375
+                    │   │                   │   │   ├── view
+                    │   │                   │   │   │   ├── AlterView.java_353194985375
+                    │   │                   │   │   │   ├── TemporaryOption.java_353194985375
+                    │   │                   │   │   │   ├── ForceOption.java_353194985375
+                    │   │                   │   │   │   └── CreateView.java_353194985375
+                    │   │                   │   │   └── procedure
+                    │   │                   │   │       └── CreateProcedure.java_353194985375
+                    │   │                   │   ├── Block.java_353194985375
+                    │   │                   │   ├── delete
+                    │   │                   │   │   ├── DeleteModifierPriority.java_353194985375
+                    │   │                   │   │   └── Delete.java_353194985375
+                    │   │                   │   ├── PurgeStatement.java_353194985375
+                    │   │                   │   ├── drop
+                    │   │                   │   │   └── Drop.java_353194985375
+                    │   │                   │   ├── ExplainStatement.java_353194985375
+                    │   │                   │   ├── ReferentialAction.java_353194985375
+                    │   │                   │   ├── IfElseStatement.java_353194985375
+                    │   │                   │   ├── UseStatement.java_353194985375
+                    │   │                   │   ├── replace
+                    │   │                   │   │   └── Replace.java_353194985375
+                    │   │                   │   ├── DescribeStatement.java_353194985375
+                    │   │                   │   ├── ShowColumnsStatement.java_353194985375
+                    │   │                   │   ├── RollbackStatement.java_353194985375
+                    │   │                   │   ├── UnsupportedStatement.java_353194985375
+                    │   │                   │   ├── CreateFunctionalStatement.java_353194985375
+                    │   │                   │   ├── Commit.java_353194985375
+                    │   │                   │   ├── show
+                    │   │                   │   │   └── ShowTablesStatement.java_353194985375
+                    │   │                   │   ├── upsert
+                    │   │                   │   │   └── Upsert.java_353194985375
+                    │   │                   │   ├── SetStatement.java_353194985375
+                    │   │                   │   ├── analyze
+                    │   │                   │   │   └── Analyze.java_353194985375
+                    │   │                   │   ├── truncate
+                    │   │                   │   │   └── Truncate.java_353194985375
+                    │   │                   │   ├── SavepointStatement.java_353194985375
+                    │   │                   │   ├── ResetStatement.java_353194985375
+                    │   │                   │   └── execute
+                    │   │                   │       └── Execute.java_353194985375
+                    │   │                   ├── util
+                    │   │                   │   ├── cnfexpression
+                    │   │                   │   │   ├── CNFConverter.java_353194985375
+                    │   │                   │   │   ├── CloneHelper.java_353194985375
+                    │   │                   │   │   ├── MultiAndExpression.java_353194985375
+                    │   │                   │   │   ├── MultiOrExpression.java_353194985375
+                    │   │                   │   │   └── MultipleExpression.java_353194985375
+                    │   │                   │   ├── deparser
+                    │   │                   │   │   ├── ExpressionDeParser.java_353194985375
+                    │   │                   │   │   ├── SelectDeParser.java_353194985375
+                    │   │                   │   │   ├── StatementDeParser.java_353194985375
+                    │   │                   │   │   ├── AlterSessionDeParser.java_353194985375
+                    │   │                   │   │   ├── ResetStatementDeParser.java_353194985375
+                    │   │                   │   │   ├── ShowTablesStatementDeparser.java_353194985375
+                    │   │                   │   │   ├── UseStatementDeParser.java_353194985375
+                    │   │                   │   │   ├── AlterDeParser.java_353194985375
+                    │   │                   │   │   ├── AlterViewDeParser.java_353194985375
+                    │   │                   │   │   ├── UpsertDeParser.java_353194985375
+                    │   │                   │   │   ├── DeclareStatementDeParser.java_353194985375
+                    │   │                   │   │   ├── SetStatementDeParser.java_353194985375
+                    │   │                   │   │   ├── ReplaceDeParser.java_353194985375
+                    │   │                   │   │   ├── CreateSynonymDeparser.java_353194985375
+                    │   │                   │   │   ├── UpdateDeParser.java_353194985375
+                    │   │                   │   │   ├── AlterSequenceDeParser.java_353194985375
+                    │   │                   │   │   ├── CreateIndexDeParser.java_353194985375
+                    │   │                   │   │   ├── ShowStatementDeParser.java_353194985375
+                    │   │                   │   │   ├── GrantDeParser.java_353194985375
+                    │   │                   │   │   ├── CreateViewDeParser.java_353194985375
+                    │   │                   │   │   ├── OrderByDeParser.java_353194985375
+                    │   │                   │   │   ├── ValuesStatementDeParser.java_353194985375
+                    │   │                   │   │   ├── CreateSequenceDeParser.java_353194985375
+                    │   │                   │   │   ├── AbstractDeParser.java_353194985375
+                    │   │                   │   │   ├── InsertDeParser.java_353194985375
+                    │   │                   │   │   ├── ExecuteDeParser.java_353194985375
+                    │   │                   │   │   ├── LimitDeparser.java_353194985375
+                    │   │                   │   │   ├── DeleteDeParser.java_353194985375
+                    │   │                   │   │   ├── GroupByDeParser.java_353194985375
+                    │   │                   │   │   ├── CreateTableDeParser.java_353194985375
+                    │   │                   │   │   ├── DropDeParser.java_353194985375
+                    │   │                   │   │   └── ShowColumnsStatementDeParser.java_353194985375
+                    │   │                   │   ├── TablesNamesFinder.java_353194985375
+                    │   │                   │   ├── validation
+                    │   │                   │   │   ├── validator
+                    │   │                   │   │   │   ├── ExpressionValidator.java_353194985375
+                    │   │                   │   │   │   ├── StatementValidator.java_353194985375
+                    │   │                   │   │   │   ├── SelectValidator.java_353194985375
+                    │   │                   │   │   │   ├── AbstractValidator.java_353194985375
+                    │   │                   │   │   │   ├── DropValidator.java_353194985375
+                    │   │                   │   │   │   ├── CreateSequenceValidator.java_353194985375
+                    │   │                   │   │   │   ├── ResetStatementValidator.java_353194985375
+                    │   │                   │   │   │   ├── ReplaceValidator.java_353194985375
+                    │   │                   │   │   │   ├── AlterViewValidator.java_353194985375
+                    │   │                   │   │   │   ├── MergeValidator.java_353194985375
+                    │   │                   │   │   │   ├── AlterSequenceValidator.java_353194985375
+                    │   │                   │   │   │   ├── CreateIndexValidator.java_353194985375
+                    │   │                   │   │   │   ├── ItemsListValidator.java_353194985375
+                    │   │                   │   │   │   ├── ShowColumnsStatementValidator.java_353194985375
+                    │   │                   │   │   │   ├── DeleteValidator.java_353194985375
+                    │   │                   │   │   │   ├── AlterValidator.java_353194985375
+                    │   │                   │   │   │   ├── ValuesStatementValidator.java_353194985375
+                    │   │                   │   │   │   ├── CreateTableValidator.java_353194985375
+                    │   │                   │   │   │   ├── SetStatementValidator.java_353194985375
+                    │   │                   │   │   │   ├── GroupByValidator.java_353194985375
+                    │   │                   │   │   │   ├── CreateViewValidator.java_353194985375
+                    │   │                   │   │   │   ├── GrantValidator.java_353194985375
+                    │   │                   │   │   │   ├── AlterSessionValidator.java_353194985375
+                    │   │                   │   │   │   ├── UseStatementValidator.java_353194985375
+                    │   │                   │   │   │   ├── AnalyzeValidator.java_353194985375
+                    │   │                   │   │   │   ├── DeclareStatementValidator.java_353194985375
+                    │   │                   │   │   │   ├── OrderByValidator.java_353194985375
+                    │   │                   │   │   │   ├── ShowTablesStatementValidator.java_353194985375
+                    │   │                   │   │   │   ├── LimitValidator.java_353194985375
+                    │   │                   │   │   │   ├── UpsertValidator.java_353194985375
+                    │   │                   │   │   │   ├── UpdateValidator.java_353194985375
+                    │   │                   │   │   │   ├── CreateSynonymValidator.java_353194985375
+                    │   │                   │   │   │   ├── ExecuteValidator.java_353194985375
+                    │   │                   │   │   │   ├── ShowStatementValidator.java_353194985375
+                    │   │                   │   │   │   └── InsertValidator.java_353194985375
+                    │   │                   │   │   ├── feature
+                    │   │                   │   │   │   ├── MySqlVersion.java_353194985375
+                    │   │                   │   │   │   ├── FeaturesAllowed.java_353194985375
+                    │   │                   │   │   │   ├── SqlServerVersion.java_353194985375
+                    │   │                   │   │   │   ├── Version.java_353194985375
+                    │   │                   │   │   │   ├── PostgresqlVersion.java_353194985375
+                    │   │                   │   │   │   ├── SQLVersion.java_353194985375
+                    │   │                   │   │   │   ├── MariaDbVersion.java_353194985375
+                    │   │                   │   │   │   ├── OracleVersion.java_353194985375
+                    │   │                   │   │   │   ├── DatabaseType.java_353194985375
+                    │   │                   │   │   │   ├── H2Version.java_353194985375
+                    │   │                   │   │   │   ├── FeatureContext.java_353194985375
+                    │   │                   │   │   │   └── FeatureSetValidation.java_353194985375
+                    │   │                   │   │   ├── UnexpectedValidationException.java_353194985375
+                    │   │                   │   │   ├── allowedtypes
+                    │   │                   │   │   │   ├── AllowedTypesValidation.java_353194985375
+                    │   │                   │   │   │   └── AllowedTypesContext.java_353194985375
+                    │   │                   │   │   ├── ContextKey.java_353194985375
+                    │   │                   │   │   ├── ParseException.java_353194985375
+                    │   │                   │   │   ├── metadata
+                    │   │                   │   │   │   ├── AbstractDatabaseMetaDataCapability.java_353194985375
+                    │   │                   │   │   │   ├── MetadataContext.java_353194985375
+                    │   │                   │   │   │   ├── NamedObject.java_353194985375
+                    │   │                   │   │   │   ├── DatabaseMetaDataValidation.java_353194985375
+                    │   │                   │   │   │   ├── Named.java_353194985375
+                    │   │                   │   │   │   ├── NamesLookup.java_353194985375
+                    │   │                   │   │   │   ├── DatabaseException.java_353194985375
+                    │   │                   │   │   │   └── JdbcDatabaseMetaDataCapability.java_353194985375
+                    │   │                   │   │   ├── ValidationContext.java_353194985375
+                    │   │                   │   │   ├── ValidationError.java_353194985375
+                    │   │                   │   │   ├── ParseContext.java_353194985375
+                    │   │                   │   │   ├── ValidationException.java_353194985375
+                    │   │                   │   │   ├── ValidationCapability.java_353194985375
+                    │   │                   │   │   ├── ParseCapability.java_353194985375
+                    │   │                   │   │   ├── Validator.java_353194985375
+                    │   │                   │   │   ├── Validation.java_353194985375
+                    │   │                   │   │   └── ValidationUtil.java_353194985375
+                    │   │                   │   ├── SelectUtils.java_353194985375
+                    │   │                   │   ├── ConnectExpressionsVisitor.java_353194985375
+                    │   │                   │   └── AddAliasesVisitor.java_353194985375
+                    │   │                   ├── expression
+                    │   │                   │   ├── ExpressionVisitorAdapter.java_353194985375
+                    │   │                   │   ├── JsonAggregateFunction.java_353194985375
+                    │   │                   │   ├── AnalyticExpression.java_353194985375
+                    │   │                   │   ├── operators
+                    │   │                   │   │   ├── conditional
+                    │   │                   │   │   │   ├── XorExpression.java_353194985375
+                    │   │                   │   │   │   ├── AndExpression.java_353194985375
+                    │   │                   │   │   │   └── OrExpression.java_353194985375
+                    │   │                   │   │   ├── arithmetic
+                    │   │                   │   │   │   ├── Multiplication.java_353194985375
+                    │   │                   │   │   │   ├── Concat.java_353194985375
+                    │   │                   │   │   │   ├── BitwiseAnd.java_353194985375
+                    │   │                   │   │   │   ├── BitwiseRightShift.java_353194985375
+                    │   │                   │   │   │   ├── Subtraction.java_353194985375
+                    │   │                   │   │   │   ├── Division.java_353194985375
+                    │   │                   │   │   │   ├── BitwiseXor.java_353194985375
+                    │   │                   │   │   │   ├── Addition.java_353194985375
+                    │   │                   │   │   │   ├── Modulo.java_353194985375
+                    │   │                   │   │   │   ├── IntegerDivision.java_353194985375
+                    │   │                   │   │   │   ├── BitwiseLeftShift.java_353194985375
+                    │   │                   │   │   │   └── BitwiseOr.java_353194985375
+                    │   │                   │   │   └── relational
+                    │   │                   │   │       ├── GreaterThan.java_353194985375
+                    │   │                   │   │       ├── LikeExpression.java_353194985375
+                    │   │                   │   │       ├── GeometryDistance.java_353194985375
+                    │   │                   │   │       ├── ItemsListVisitor.java_353194985375
+                    │   │                   │   │       ├── InExpression.java_353194985375
+                    │   │                   │   │       ├── RegExpMatchOperatorType.java_353194985375
+                    │   │                   │   │       ├── EqualsTo.java_353194985375
+                    │   │                   │   │       ├── ExpressionList.java_353194985375
+                    │   │                   │   │       ├── ExistsExpression.java_353194985375
+                    │   │                   │   │       ├── MinorThanEquals.java_353194985375
+                    │   │                   │   │       ├── RegExpMatchOperator.java_353194985375
+                    │   │                   │   │       ├── RegExpMySQLOperator.java_353194985375
+                    │   │                   │   │       ├── Matches.java_353194985375
+                    │   │                   │   │       ├── SimilarToExpression.java_353194985375
+                    │   │                   │   │       ├── OldOracleJoinBinaryExpression.java_353194985375
+                    │   │                   │   │       ├── MinorThan.java_353194985375
+                    │   │                   │   │       ├── ItemsList.java_353194985375
+                    │   │                   │   │       ├── SupportsOldOracleJoinSyntax.java_353194985375
+                    │   │                   │   │       ├── JsonOperator.java_353194985375
+                    │   │                   │   │       ├── MultiExpressionList.java_353194985375
+                    │   │                   │   │       ├── ComparisonOperator.java_353194985375
+                    │   │                   │   │       ├── IsNullExpression.java_353194985375
+                    │   │                   │   │       ├── NotEqualsTo.java_353194985375
+                    │   │                   │   │       ├── NamedExpressionList.java_353194985375
+                    │   │                   │   │       ├── GreaterThanEquals.java_353194985375
+                    │   │                   │   │       ├── Between.java_353194985375
+                    │   │                   │   │       ├── ItemsListVisitorAdapter.java_353194985375
+                    │   │                   │   │       ├── IsDistinctExpression.java_353194985375
+                    │   │                   │   │       ├── IsBooleanExpression.java_353194985375
+                    │   │                   │   │       └── FullTextSearch.java_353194985375
+                    │   │                   │   ├── DateTimeLiteralExpression.java_353194985375
+                    │   │                   │   ├── SignedExpression.java_353194985375
+                    │   │                   │   ├── ExtractExpression.java_353194985375
+                    │   │                   │   ├── AnyType.java_353194985375
+                    │   │                   │   ├── OracleHint.java_353194985375
+                    │   │                   │   ├── StringValue.java_353194985375
+                    │   │                   │   ├── RowConstructor.java_353194985375
+                    │   │                   │   ├── NumericBind.java_353194985375
+                    │   │                   │   ├── DoubleValue.java_353194985375
+                    │   │                   │   ├── WindowRange.java_353194985375
+                    │   │                   │   ├── JsonAggregateOnNullType.java_353194985375
+                    │   │                   │   ├── CastExpression.java_353194985375
+                    │   │                   │   ├── OverlapsCondition.java_353194985375
+                    │   │                   │   ├── WindowDefinition.java_353194985375
+                    │   │                   │   ├── NullValue.java_353194985375
+                    │   │                   │   ├── XMLSerializeExpr.java_353194985375
+                    │   │                   │   ├── IntervalExpression.java_353194985375
+                    │   │                   │   ├── FilterOverImpl.java_353194985375
+                    │   │                   │   ├── JsonKeyValuePair.java_353194985375
+                    │   │                   │   ├── NextValExpression.java_353194985375
+                    │   │                   │   ├── JsonExpression.java_353194985375
+                    │   │                   │   ├── AllValue.java_353194985375
+                    │   │                   │   ├── OracleNamedFunctionParameter.java_353194985375
+                    │   │                   │   ├── TryCastExpression.java_353194985375
+                    │   │                   │   ├── ConnectByRootOperator.java_353194985375
+                    │   │                   │   ├── AnyComparisonExpression.java_353194985375
+                    │   │                   │   ├── RowGetExpression.java_353194985375
+                    │   │                   │   ├── AnalyticType.java_353194985375
+                    │   │                   │   ├── TimeValue.java_353194985375
+                    │   │                   │   ├── OracleHierarchicalExpression.java_353194985375
+                    │   │                   │   ├── NotExpression.java_353194985375
+                    │   │                   │   ├── WindowOffset.java_353194985375
+                    │   │                   │   ├── ExpressionVisitor.java_353194985375
+                    │   │                   │   ├── WindowElement.java_353194985375
+                    │   │                   │   ├── CollateExpression.java_353194985375
+                    │   │                   │   ├── MySQLIndexHint.java_353194985375
+                    │   │                   │   ├── TimezoneExpression.java_353194985375
+                    │   │                   │   ├── PartitionByClause.java_353194985375
+                    │   │                   │   ├── UserVariable.java_353194985375
+                    │   │                   │   ├── DateValue.java_353194985375
+                    │   │                   │   ├── ValueListExpression.java_353194985375
+                    │   │                   │   ├── HexValue.java_353194985375
+                    │   │                   │   ├── ArrayExpression.java_353194985375
+                    │   │                   │   ├── CaseExpression.java_353194985375
+                    │   │                   │   ├── KeepExpression.java_353194985375
+                    │   │                   │   ├── Function.java_353194985375
+                    │   │                   │   ├── SQLServerHints.java_353194985375
+                    │   │                   │   ├── MySQLGroupConcat.java_353194985375
+                    │   │                   │   ├── VariableAssignment.java_353194985375
+                    │   │                   │   ├── Parenthesis.java_353194985375
+                    │   │                   │   ├── JsonAggregateUniqueKeysType.java_353194985375
+                    │   │                   │   ├── JsonFunctionExpression.java_353194985375
+                    │   │                   │   ├── Expression.java_353194985375
+                    │   │                   │   ├── TimestampValue.java_353194985375
+                    │   │                   │   ├── TimeKeyExpression.java_353194985375
+                    │   │                   │   ├── WhenClause.java_353194985375
+                    │   │                   │   ├── BinaryExpression.java_353194985375
+                    │   │                   │   ├── ArrayConstructor.java_353194985375
+                    │   │                   │   ├── LongValue.java_353194985375
+                    │   │                   │   ├── OrderByClause.java_353194985375
+                    │   │                   │   ├── JsonFunction.java_353194985375
+                    │   │                   │   ├── Alias.java_353194985375
+                    │   │                   │   ├── JdbcNamedParameter.java_353194985375
+                    │   │                   │   ├── JdbcParameter.java_353194985375
+                    │   │                   │   └── JsonFunctionType.java_353194985375
+                    │   │                   ├── parser
+                    │   │                   │   ├── CCJSqlParserUtil.java_353194985375
+                    │   │                   │   ├── feature
+                    │   │                   │   │   ├── Feature.java_353194985375
+                    │   │                   │   │   ├── FeatureConfiguration.java_353194985375
+                    │   │                   │   │   ├── ModifyableFeatureSet.java_353194985375
+                    │   │                   │   │   └── FeatureSet.java_353194985375
+                    │   │                   │   ├── SimpleCharStream.java_353194985375
+                    │   │                   │   ├── StatementListener.java_353194985375
+                    │   │                   │   ├── BaseToken.java_353194985375
+                    │   │                   │   ├── ASTNodeAccess.java_353194985375
+                    │   │                   │   ├── ASTNodeAccessImpl.java_353194985375
+                    │   │                   │   ├── JSqlParser.java_353194985375
+                    │   │                   │   ├── AbstractJSqlParser.java_353194985375
+                    │   │                   │   └── CCJSqlParserManager.java_353194985375
+                    │   │                   ├── schema
+                    │   │                   │   ├── MultiPartName.java_353194985375
+                    │   │                   │   ├── Synonym.java_353194985375
+                    │   │                   │   ├── Sequence.java_353194985375
+                    │   │                   │   ├── Database.java_353194985375
+                    │   │                   │   ├── Column.java_353194985375
+                    │   │                   │   ├── Table.java_353194985375
+                    │   │                   │   └── Server.java_353194985375
+                    │   │                   ├── JSQLParserException.java_353194985375
+                    │   │                   └── Model.java_353194985375
+                    │   ├── license
+                    │   │   ├── dual_lgpl_ap2
+                    │   │   │   └── license.txt
+                    │   │   └── licenses.properties_353194985375
+                    │   └── site
+                    │       └── site.xml_353194985375
+                    ├── gradle
+                    │   └── wrapper
+                    │       ├── gradle-wrapper.jar
+                    │       └── gradle-wrapper.properties
+                    ├── config
+                    │   ├── formatter
+                    │   │   └── eclipse-java-google-style.xml
+                    │   ├── checkstyle
+                    │   │   ├── suppressions.xml
+                    │   │   ├── checkstyle_checks.xml
+                    │   │   ├── sun_checks.xml
+                    │   │   ├── google_checks.xml
+                    │   │   └── checkstyle.xml
+                    │   └── spotbugs
+                    │       └── spotBugsExcludeFilter.xml
+                    ├── LICENSE_LGPLV21
+                    ├── settings.gradle
+                    ├── nbactions.xml
+                    ├── nb-configuration.xml
+                    ├── gradlew.bat
+                    ├── gradlew
+                    ├── gradle.properties
+                    ├── .travis.yml
+                    ├── build.gradle
+                    ├── README.md
+                    ├── LICENSE_APACHEV2
+                    ├── .gitignore
+                    └── .github
+                        ├── workflows
+                        │   └── maven.yml
+                        ├── release.yml
+                        ├── ISSUE_TEMPLATE
+                        │   └── bug_report.md
+                        └── FUNDING.yml
