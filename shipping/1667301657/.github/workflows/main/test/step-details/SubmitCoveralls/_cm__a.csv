@@ -1,0 +1,11 @@
+,file_name
+5,/home/runner/work/shipping/shipping/target/surefire-reports/TEST-works.weave.socks.shipping.entities.UnitPojo.xml
+6,/home/runner/work/shipping/shipping/target/surefire-reports/works.weave.socks.shipping.entities.UnitPojo.txt
+7,/home/runner/work/shipping/shipping/target/failsafe-reports/TEST-works.weave.socks.shipping.controllers.ITShippingController.xml
+8,/home/runner/work/shipping/shipping/target/failsafe-reports/works.weave.socks.shipping.controllers.ITShippingController.txt
+12,/home/runner/work/shipping/shipping/target/site/jacoco/.resources/report.css
+15,/home/runner/work/shipping/shipping/target/site/jacoco/works.weave.socks.shipping.controllers/ShippingController.java.html
+19,/home/runner/work/shipping/shipping/target/site/jacoco/works.weave.socks.shipping.entities/Shipment.java.html
+30,/home/runner/work/shipping/shipping/target/site/jacoco/works.weave.socks.shipping.middleware/HTTPMonitoringInterceptor.java.html
+36,/home/runner/work/shipping/shipping/target/site/jacoco/works.weave.socks.shipping/ShippingServiceApplication.java.html
+55,/home/runner/work/shipping/shipping/target/site/jacoco/works.weave.socks.shipping.configuration/RabbitMqConfiguration.java.html
