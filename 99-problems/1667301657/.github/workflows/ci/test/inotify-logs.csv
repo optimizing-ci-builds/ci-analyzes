@@ -1,0 +1,9 @@
+13:01:03;/home/runner/work/99-problems/99-problems/;starting_test_uses18_18;CREATE
+13:01:03;/home/runner/work/99-problems/99-problems/;starting_test_uses18_18;OPEN
+13:01:03;/home/runner/work/99-problems/99-problems/;starting_test_uses18_18;ATTRIB
+13:01:03;/home/runner/work/99-problems/99-problems/;starting_test_uses18_18;CLOSE_WRITE,CLOSE
+13:01:03;/home/runner/work/99-problems/99-problems/;starting_test_uses18_18;DELETE
+13:01:03;/home/runner/work/99-problems/99-problems/;;OPEN,ISDIR
+13:01:03;/home/runner/work/99-problems/99-problems/;;ACCESS,ISDIR
+13:01:03;/home/runner/work/99-problems/99-problems/;;ACCESS,ISDIR
+13:01:03;/home/runner/work/99-problems/99-problems/;;CLOSE_NOWRITE,CLOSE,ISDIR
