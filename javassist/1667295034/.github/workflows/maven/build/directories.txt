@@ -1,0 +1,280 @@
+
+└── home
+    └── runner
+        └── work
+            └── javassist
+                └── javassist
+                    ├── target
+                    │   ├── javassist-3.29.2-GA.jar
+                    │   ├── javassist-3.29.2-GA-sources.jar
+                    │   ├── classes
+                    │   │   └── META-INF
+                    │   │       └── MANIFEST.MF
+                    │   ├── runtest
+                    │   │   ├── test1
+                    │   │   │   ├── AnnoTest.class
+                    │   │   │   ├── Freeze.class
+                    │   │   │   ├── SetName3.class
+                    │   │   │   ├── SetName2.class
+                    │   │   │   ├── MySerializableClass.class
+                    │   │   │   ├── NewInterface2.class
+                    │   │   │   ├── NewInterface.class
+                    │   │   │   └── LocalVars2.class
+                    │   │   ├── TooManyConstPoolItems.class
+                    │   │   ├── test-hibernate.class
+                    │   │   ├── test3
+                    │   │   │   ├── JIRA63.class
+                    │   │   │   ├── Clazz67.class
+                    │   │   │   ├── StaticFinalField.class
+                    │   │   │   ├── PublicInner$Inner.class
+                    │   │   │   └── PublicInner.class
+                    │   │   ├── test2
+                    │   │   │   ├── Inner.class
+                    │   │   │   ├── Inherit.class
+                    │   │   │   ├── SuperInterface3.class
+                    │   │   │   ├── NullArgTest.class
+                    │   │   │   ├── NewOp.class
+                    │   │   │   └── MethodCall.class
+                    │   │   ├── test5
+                    │   │   │   ├── InnerModifier.class
+                    │   │   │   ├── InnerModifier$Static.class
+                    │   │   │   ├── InnerModifier$NonStatic.class
+                    │   │   │   └── NestHost4$InnerClass1$InnerClass5.class
+                    │   │   ├── javassist
+                    │   │   │   └── bytecode
+                    │   │   │       ├── StackMapTest$C6.class
+                    │   │   │       ├── Gap0Example2.class
+                    │   │   │       ├── Gap0Example.class
+                    │   │   │       └── StackMapTest$T8d.class
+                    │   │   ├── proxy
+                    │   │   │   ├── test
+                    │   │   │   │   └── javassist
+                    │   │   │   │       └── proxy
+                    │   │   │   │           ├── ProxySimpleTest$Default3_$$_jvst655_273d.class
+                    │   │   │   │           ├── ProxySimpleTest$Default2_$$_jvst655_273b.class
+                    │   │   │   │           ├── ProxySimpleTest$PubProxy_$$_jvst655_2734.class
+                    │   │   │   │           └── ProxySimpleTest$Foo_$$_jvst655_2733.class
+                    │   │   │   └── javassist
+                    │   │   │       └── util
+                    │   │   │           └── proxy
+                    │   │   │               └── test_javassist_proxy_ProxySimpleTest$PubProxy2_$$_jvst655_273c.class
+                    │   │   ├── testproxy
+                    │   │   │   ├── Target_$$_jvst655_11.class
+                    │   │   │   └── BridgeMethod_$$_jvst655_7.class
+                    │   │   ├── reflected
+                    │   │   │   └── javassist
+                    │   │   │       └── tools
+                    │   │   │           └── reflect
+                    │   │   │               └── SuperClass.class
+                    │   │   └── test4
+                    │   │       ├── WrittenFile2sub.class
+                    │   │       ├── AnnoLoad.class
+                    │   │       ├── AnnoLoadAnno.class
+                    │   │       └── TestDeadcode.class
+                    │   ├── surefire-reports
+                    │   │   ├── TEST-javassist.JvstTest.xml
+                    │   │   └── javassist.JvstTest.txt
+                    │   ├── maven-status
+                    │   │   └── maven-compiler-plugin
+                    │   │       ├── compile
+                    │   │       │   └── default-compile
+                    │   │       │       ├── inputFiles.lst
+                    │   │       │       └── createdFiles.lst
+                    │   │       └── testCompile
+                    │   │           └── default-testCompile
+                    │   │               ├── createdFiles.lst
+                    │   │               └── inputFiles.lst
+                    │   └── test-classes
+                    │       ├── scoped
+                    │       │   ├── UnscopedAnnotationDefaultUsage.class
+                    │       │   ├── jar1
+                    │       │   │   ├── ScopedTestAnnotation.class
+                    │       │   │   ├── FullyScopedAnnotationUsage.class
+                    │       │   │   ├── FullyScopedAnnotationDefaultUsage.class
+                    │       │   │   ├── ScopedAnnotationDefaultUsage.class
+                    │       │   │   ├── ScopedAnnotationUsage.class
+                    │       │   │   └── TestClass1.class
+                    │       │   ├── UnscopedAnnotationUsage.class
+                    │       │   ├── TestAnnotation.class
+                    │       │   └── ScopedRepositoryTestCase.class
+                    │       ├── test1
+                    │       │   ├── BenchProceedNew.class
+                    │       │   ├── BenchProceedNew3.class
+                    │       │   ├── BenchProceedNew2.class
+                    │       │   ├── GetThrow2.class
+                    │       │   ├── GetThrow1.class
+                    │       │   ├── StaticField.class
+                    │       │   ├── BenchProceed2.class
+                    │       │   ├── BenchStaticMethod.class
+                    │       │   ├── RenameClass2.class
+                    │       │   ├── BenchProceed.class
+                    │       │   └── Point.class
+                    │       ├── javassist
+                    │       │   ├── compiler
+                    │       │   │   ├── CodeTest.class
+                    │       │   │   ├── ParseTest.class
+                    │       │   │   └── LexTest.class
+                    │       │   ├── ClassPoolBench.class
+                    │       │   ├── Bench$1.class
+                    │       │   ├── JvstTest4$Inner1.class
+                    │       │   ├── Bench$3.class
+                    │       │   ├── bytecode
+                    │       │   │   ├── StackMapTest$T8dd.class
+                    │       │   │   ├── StackMapTest$I8d.class
+                    │       │   │   └── CodeAnalyzerTest.class
+                    │       │   ├── Bench$2.class
+                    │       │   ├── Bench$4.class
+                    │       │   ├── Bench$5.class
+                    │       │   ├── HotswapTest$Foo.class
+                    │       │   ├── ConcurrentClassDefinitionTest.class
+                    │       │   ├── ConcurrentClassDefinitionTest$Worker.class
+                    │       │   ├── Bench.class
+                    │       │   ├── Bench$7.class
+                    │       │   ├── Bench$6.class
+                    │       │   └── tools
+                    │       │       └── reflect
+                    │       │           ├── ClassMetaobjectTest.class
+                    │       │           └── Person.class
+                    │       ├── test3
+                    │       │   ├── Visible2.class
+                    │       │   ├── NewClass2.class
+                    │       │   ├── InnerClass.class
+                    │       │   ├── Enhancer.class
+                    │       │   ├── Enhancer$Interceptor.class
+                    │       │   ├── Enhancer$1.class
+                    │       │   ├── EnhanceTest.class
+                    │       │   ├── NewExprTryCatch2.class
+                    │       │   ├── PublicInner2$PS.class
+                    │       │   ├── NestedClass$1Local.class
+                    │       │   ├── NestedClass$1.class
+                    │       │   ├── NestedClass$StaticNested.class
+                    │       │   ├── NestedClass$Inner.class
+                    │       │   └── PackName2.class
+                    │       ├── test
+                    │       │   └── javassist
+                    │       │       ├── bytecode
+                    │       │       │   └── analysis
+                    │       │       │       ├── AnalyzerTest$Dummy$A3.class
+                    │       │       │       ├── AnalyzerTest$Dummy$A2.class
+                    │       │       │       ├── ErrorFinder.class
+                    │       │       │       ├── ScannerTest.class
+                    │       │       │       └── DomTreePrinter.class
+                    │       │       ├── convert
+                    │       │       │   └── InstrumentationTarget$Itr.class
+                    │       │       └── proxy
+                    │       │           └── ProxySimpleTest$Default4.class
+                    │       ├── VisibleTop2.class
+                    │       ├── test5
+                    │       │   ├── JIRA246.class
+                    │       │   ├── InnerClassRemove$C.class
+                    │       │   ├── InnerClassRemove$B.class
+                    │       │   ├── InnerClassRemove$A.class
+                    │       │   ├── NestHost2$Bar.class
+                    │       │   ├── InnerModifier2.class
+                    │       │   ├── NestHost$Bar.class
+                    │       │   ├── RemoveAnno2.class
+                    │       │   ├── RemoveAnno1.class
+                    │       │   └── JIRA242.class
+                    │       ├── test4
+                    │       │   ├── GetAllRefInnerTest$2.class
+                    │       │   ├── GetAllRefInnerTest$1.class
+                    │       │   ├── GetAllRefInnerTest2.class
+                    │       │   ├── GetAllRefInnerTest2$1.class
+                    │       │   ├── Signature$Foo.class
+                    │       │   ├── NestedClass$S.class
+                    │       │   ├── NestedClass$S$S2.class
+                    │       │   ├── NestedClass$N.class
+                    │       │   ├── JIRA220intf.class
+                    │       │   ├── ImportPac.class
+                    │       │   ├── JIRA181$B.class
+                    │       │   ├── JIRA181$ICondition.class
+                    │       │   ├── GetAllRefAnnoC4.class
+                    │       │   ├── GetAllRefAnnoC3.class
+                    │       │   ├── GetAllRefAnnoC2.class
+                    │       │   ├── GetAllRefAnnoC.class
+                    │       │   ├── GetAllRefAnno.class
+                    │       │   └── GetAllRefEnum.class
+                    │       ├── testproxy
+                    │       │   ├── Target127.class
+                    │       │   ├── Target127$RealSub.class
+                    │       │   ├── Target189.class
+                    │       │   └── sub
+                    │       │       └── TargetSuper.class
+                    │       ├── Readme.txt
+                    │       ├── test2
+                    │       │   ├── ReplaceClassName3.class
+                    │       │   ├── ReplaceClassName2.class
+                    │       │   ├── Nested$Inner2.class
+                    │       │   ├── StaticArraysMem.class
+                    │       │   └── Inner2$Child.class
+                    │       ├── Jassist150.class
+                    │       ├── Jassist150$1.class
+                    │       ├── Test.class
+                    │       ├── InvalidStackMapFrame.class
+                    │       └── annotation
+                    │           ├── Tag.class
+                    │           ├── EnumTest.class
+                    │           └── Id.class
+                    ├── tutorial
+                    │   ├── tutorial2.html
+                    │   ├── tutorial.html
+                    │   └── tutorial3.html
+                    ├── License.html
+                    ├── src
+                    │   └── test
+                    │       ├── javassist
+                    │       │   └── bytecode
+                    │       │       └── Gap0Example.class
+                    │       └── Readme.txt
+                    ├── sample
+                    │   ├── vector
+                    │   │   ├── VectorAssistant.java
+                    │   │   ├── Sample2.java
+                    │   │   ├── Test.j
+                    │   │   └── Sample.java
+                    │   ├── Test.java
+                    │   ├── duplicate
+                    │   │   ├── Ball.java
+                    │   │   ├── DuplicatedObject.java
+                    │   │   ├── Viewer.java
+                    │   │   └── Main.java
+                    │   ├── rmi
+                    │   │   ├── webdemo.html
+                    │   │   ├── start.html
+                    │   │   ├── inside.gif
+                    │   │   ├── Counter.java
+                    │   │   ├── CountApplet.java
+                    │   │   └── AlertDialog.java
+                    │   ├── evolve
+                    │   │   ├── update.html
+                    │   │   ├── start.html
+                    │   │   ├── sample
+                    │   │   │   └── evolve
+                    │   │   │       └── WebPage.java
+                    │   │   ├── demo.html
+                    │   │   ├── WebPage.java
+                    │   │   ├── VersionManager.java
+                    │   │   ├── Sample.java
+                    │   │   ├── Evolution.java
+                    │   │   ├── DemoServer.java
+                    │   │   ├── DemoLoader.java
+                    │   │   ├── CannotUpdateException.java
+                    │   │   └── CannotCreateException.java
+                    │   ├── reflect
+                    │   │   ├── VerboseMetaobj.java
+                    │   │   ├── Person.java
+                    │   │   └── Main.java
+                    │   ├── preproc
+                    │   │   ├── package.html
+                    │   │   ├── Compiler.java
+                    │   │   └── Assistant.java
+                    │   └── hotswap
+                    │       └── Test.java
+                    ├── build.xml
+                    ├── README.md
+                    ├── Examples.md
+                    ├── Changes.md
+                    ├── .gitignore
+                    └── .github
+                        └── workflows
+                            └── maven.yml
