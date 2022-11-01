@@ -1,0 +1,7 @@
+,file_name
+6044,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/deser/inject/InvalidInjectionTest$BadBean1.class
+6562,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/jsontype/deftyping/TestDefaultForLists$ListOfLongs.class
+7299,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/util/TestObjectBuffer.class
+10466,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/contextual/TestContextAttributeWithDeser$PrefixStringDeserializer.class
+11853,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/big/TestBiggerData$Citm.class
+13297,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/jsontype/vld/ValidatePolymBaseTypeTest$BaseValue.class

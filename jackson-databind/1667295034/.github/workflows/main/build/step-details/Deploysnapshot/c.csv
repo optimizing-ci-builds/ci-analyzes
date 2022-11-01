@@ -1,0 +1,14 @@
+,file_name
+10,/home/runner/work/jackson-databind/jackson-databind/target/modules/zipfstmp1487378382699643870.tmp
+28,/home/runner/work/jackson-databind/jackson-databind/target/nexus-staging/deferred/com/fasterxml/jackson/core/jackson-databind/2.14.0-rc1-SNAPSHOT/jackson-databind-2.14.0-rc1-SNAPSHOT.jar
+1182,/home/runner/work/jackson-databind/jackson-databind/target/nexus-staging/deferred/com/fasterxml/jackson/core/jackson-databind/2.14.0-rc1-SNAPSHOT/maven-metadata-nexus.xml
+1185,/home/runner/work/jackson-databind/jackson-databind/target/nexus-staging/deferred/com/fasterxml/jackson/core/jackson-databind/maven-metadata-nexus.xml
+6044,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/deser/inject/InvalidInjectionTest$BadBean1.class
+6562,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/jsontype/deftyping/TestDefaultForLists$ListOfLongs.class
+7299,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/util/TestObjectBuffer.class
+7307,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/failing/TestObjectIdWithInjectables639$Context.class
+10466,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/contextual/TestContextAttributeWithDeser$PrefixStringDeserializer.class
+11853,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/big/TestBiggerData$Citm.class
+13296,/home/runner/work/jackson-databind/jackson-databind/target/nexus-staging/deferred/com/fasterxml/jackson/core/jackson-databind/2.14.0-rc1-SNAPSHOT/jackson-databind-2.14.0-rc1-SNAPSHOT.pom
+13297,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/jsontype/vld/ValidatePolymBaseTypeTest$BaseValue.class
+22800,/home/runner/work/jackson-databind/jackson-databind/target/nexus-staging/deferred/com/fasterxml/jackson/core/jackson-databind/2.14.0-rc1-SNAPSHOT/jackson-databind-2.14.0-rc1-SNAPSHOT.module
