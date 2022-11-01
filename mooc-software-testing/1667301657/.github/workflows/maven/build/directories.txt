@@ -1,0 +1,306 @@
+
+└── home
+    └── runner
+        └── work
+            └── mooc-software-testing
+                └── mooc-software-testing
+                    ├── target
+                    │   ├── testing-mooc-1.0-SNAPSHOT.jar
+                    │   ├── jacoco-ut
+                    │   │   ├── jacoco-sessions.html
+                    │   │   ├── jacoco.xml
+                    │   │   ├── jacoco-resources
+                    │   │   │   ├── prettify.js
+                    │   │   │   ├── up.gif
+                    │   │   │   ├── sort.js
+                    │   │   │   ├── prettify.css
+                    │   │   │   ├── greenbar.gif
+                    │   │   │   ├── redbar.gif
+                    │   │   │   ├── branchpc.gif
+                    │   │   │   ├── branchnc.gif
+                    │   │   │   ├── branchfc.gif
+                    │   │   │   ├── down.gif
+                    │   │   │   ├── sort.gif
+                    │   │   │   ├── session.gif
+                    │   │   │   ├── method.gif
+                    │   │   │   ├── class.gif
+                    │   │   │   ├── source.gif
+                    │   │   │   ├── package.gif
+                    │   │   │   ├── bundle.gif
+                    │   │   │   ├── group.gif
+                    │   │   │   ├── report.gif
+                    │   │   │   └── report.css
+                    │   │   ├── index.html
+                    │   │   ├── tudelft.invoicemocked
+                    │   │   │   ├── Invoice.java.html
+                    │   │   │   ├── index.html
+                    │   │   │   ├── Invoice.html
+                    │   │   │   ├── InvoiceFilter.html
+                    │   │   │   ├── InvoiceDao.html
+                    │   │   │   ├── index.source.html
+                    │   │   │   ├── InvoiceFilter.java.html
+                    │   │   │   └── InvoiceDao.java.html
+                    │   │   ├── tudelft.sum
+                    │   │   │   ├── TwoNumbersSum.html
+                    │   │   │   ├── index.source.html
+                    │   │   │   ├── TwoNumbersSum.java.html
+                    │   │   │   └── index.html
+                    │   │   ├── tudelft.christmas
+                    │   │   │   ├── ChristmasDiscountRefactored.java.html
+                    │   │   │   ├── ChristmasDiscount.html
+                    │   │   │   ├── index.html
+                    │   │   │   ├── ChristmasDiscountRefactored.html
+                    │   │   │   ├── DefaultClock.java.html
+                    │   │   │   ├── DefaultClock.html
+                    │   │   │   ├── index.source.html
+                    │   │   │   └── ChristmasDiscount.java.html
+                    │   │   ├── tudelft.numfinder
+                    │   │   │   ├── index.html
+                    │   │   │   ├── NumFinderMain.html
+                    │   │   │   ├── NumFinder.html
+                    │   │   │   ├── index.source.html
+                    │   │   │   ├── NumFinderMain.java.html
+                    │   │   │   └── NumFinder.java.html
+                    │   │   ├── tudelft.gettingstarted
+                    │   │   │   ├── index.html
+                    │   │   │   ├── GettingStarted.html
+                    │   │   │   ├── index.source.html
+                    │   │   │   └── GettingStarted.java.html
+                    │   │   ├── tudelft.discount
+                    │   │   │   ├── Product.html
+                    │   │   │   ├── DiscountApplier.java.html
+                    │   │   │   ├── Product.java.html
+                    │   │   │   ├── index.source.html
+                    │   │   │   ├── DiscountApplier.html
+                    │   │   │   └── index.html
+                    │   │   ├── tudelft.mirror
+                    │   │   │   ├── Mirror.html
+                    │   │   │   ├── index.source.html
+                    │   │   │   ├── Mirror.java.html
+                    │   │   │   └── index.html
+                    │   │   ├── tudelft.echo
+                    │   │   │   ├── index.html
+                    │   │   │   ├── SystemWrapper.html
+                    │   │   │   ├── Echo.html
+                    │   │   │   ├── index.source.html
+                    │   │   │   ├── SystemWrapper.java.html
+                    │   │   │   └── Echo.java.html
+                    │   │   ├── tudelft.roman
+                    │   │   │   ├── RomanNumeral.html
+                    │   │   │   ├── index.html
+                    │   │   │   ├── index.source.html
+                    │   │   │   └── RomanNumeral.java.html
+                    │   │   ├── tudelft.blackjack
+                    │   │   │   ├── index.source.html
+                    │   │   │   ├── index.html
+                    │   │   │   ├── BlackJack.html
+                    │   │   │   └── BlackJack.java.html
+                    │   │   ├── tudelft.chocolate
+                    │   │   │   ├── index.source.html
+                    │   │   │   ├── ChocolateBags.java.html
+                    │   │   │   ├── index.html
+                    │   │   │   └── ChocolateBags.html
+                    │   │   ├── tudelft.leapyear
+                    │   │   │   ├── LeapYear.java.html
+                    │   │   │   ├── index.source.html
+                    │   │   │   ├── index.html
+                    │   │   │   └── LeapYear.html
+                    │   │   ├── tudelft.invoice
+                    │   │   │   ├── InvoiceFilter.java.html
+                    │   │   │   ├── index.html
+                    │   │   │   ├── InvoiceDao.html
+                    │   │   │   ├── InvoiceFilter.html
+                    │   │   │   ├── Invoice.html
+                    │   │   │   ├── index.source.html
+                    │   │   │   ├── InvoiceDao.java.html
+                    │   │   │   └── Invoice.java.html
+                    │   │   ├── tudelft.countletters
+                    │   │   │   ├── CountLetters.java.html
+                    │   │   │   ├── index.source.html
+                    │   │   │   ├── CountLetters.html
+                    │   │   │   └── index.html
+                    │   │   ├── tudelft.ghappy
+                    │   │   │   ├── index.html
+                    │   │   │   ├── GHappy.html
+                    │   │   │   ├── index.source.html
+                    │   │   │   └── GHappy.java.html
+                    │   │   ├── tudelft.caesarshift
+                    │   │   │   ├── index.html
+                    │   │   │   ├── CaesarShiftCipher.html
+                    │   │   │   ├── index.source.html
+                    │   │   │   └── CaesarShiftCipher.java.html
+                    │   │   └── jacoco.csv
+                    │   ├── site
+                    │   │   └── jacoco
+                    │   │       ├── jacoco-sessions.html
+                    │   │       ├── jacoco-resources
+                    │   │       │   ├── prettify.js
+                    │   │       │   ├── sort.js
+                    │   │       │   ├── prettify.css
+                    │   │       │   ├── greenbar.gif
+                    │   │       │   ├── redbar.gif
+                    │   │       │   ├── branchpc.gif
+                    │   │       │   ├── branchnc.gif
+                    │   │       │   ├── branchfc.gif
+                    │   │       │   ├── down.gif
+                    │   │       │   ├── up.gif
+                    │   │       │   ├── sort.gif
+                    │   │       │   ├── session.gif
+                    │   │       │   ├── method.gif
+                    │   │       │   ├── class.gif
+                    │   │       │   ├── source.gif
+                    │   │       │   ├── package.gif
+                    │   │       │   ├── bundle.gif
+                    │   │       │   ├── group.gif
+                    │   │       │   ├── report.gif
+                    │   │       │   └── report.css
+                    │   │       ├── jacoco.xml
+                    │   │       ├── index.html
+                    │   │       ├── jacoco.csv
+                    │   │       ├── tudelft.christmas
+                    │   │       │   ├── ChristmasDiscount.java.html
+                    │   │       │   ├── ChristmasDiscountRefactored.java.html
+                    │   │       │   ├── DefaultClock.java.html
+                    │   │       │   ├── index.source.html
+                    │   │       │   ├── DefaultClock.html
+                    │   │       │   ├── index.html
+                    │   │       │   ├── ChristmasDiscount.html
+                    │   │       │   └── ChristmasDiscountRefactored.html
+                    │   │       ├── tudelft.sum
+                    │   │       │   ├── index.html
+                    │   │       │   ├── TwoNumbersSum.html
+                    │   │       │   ├── index.source.html
+                    │   │       │   └── TwoNumbersSum.java.html
+                    │   │       ├── tudelft.invoicemocked
+                    │   │       │   ├── index.html
+                    │   │       │   ├── Invoice.html
+                    │   │       │   ├── InvoiceFilter.html
+                    │   │       │   ├── InvoiceDao.html
+                    │   │       │   ├── index.source.html
+                    │   │       │   ├── InvoiceFilter.java.html
+                    │   │       │   ├── Invoice.java.html
+                    │   │       │   └── InvoiceDao.java.html
+                    │   │       ├── tudelft.numfinder
+                    │   │       │   ├── index.html
+                    │   │       │   ├── NumFinderMain.html
+                    │   │       │   ├── NumFinder.html
+                    │   │       │   ├── index.source.html
+                    │   │       │   ├── NumFinderMain.java.html
+                    │   │       │   └── NumFinder.java.html
+                    │   │       ├── tudelft.gettingstarted
+                    │   │       │   ├── index.html
+                    │   │       │   ├── GettingStarted.html
+                    │   │       │   ├── index.source.html
+                    │   │       │   └── GettingStarted.java.html
+                    │   │       ├── tudelft.roman
+                    │   │       │   ├── RomanNumeral.html
+                    │   │       │   ├── index.html
+                    │   │       │   ├── index.source.html
+                    │   │       │   └── RomanNumeral.java.html
+                    │   │       ├── tudelft.countletters
+                    │   │       │   ├── index.html
+                    │   │       │   ├── CountLetters.html
+                    │   │       │   ├── index.source.html
+                    │   │       │   └── CountLetters.java.html
+                    │   │       ├── tudelft.discount
+                    │   │       │   ├── index.html
+                    │   │       │   ├── Product.html
+                    │   │       │   ├── DiscountApplier.html
+                    │   │       │   ├── index.source.html
+                    │   │       │   ├── Product.java.html
+                    │   │       │   └── DiscountApplier.java.html
+                    │   │       ├── tudelft.mirror
+                    │   │       │   ├── index.html
+                    │   │       │   ├── Mirror.html
+                    │   │       │   ├── index.source.html
+                    │   │       │   └── Mirror.java.html
+                    │   │       ├── tudelft.echo
+                    │   │       │   ├── index.html
+                    │   │       │   ├── SystemWrapper.html
+                    │   │       │   ├── Echo.html
+                    │   │       │   ├── index.source.html
+                    │   │       │   ├── SystemWrapper.java.html
+                    │   │       │   └── Echo.java.html
+                    │   │       ├── tudelft.chocolate
+                    │   │       │   ├── ChocolateBags.html
+                    │   │       │   ├── ChocolateBags.java.html
+                    │   │       │   ├── index.source.html
+                    │   │       │   └── index.html
+                    │   │       ├── tudelft.leapyear
+                    │   │       │   ├── LeapYear.java.html
+                    │   │       │   ├── index.html
+                    │   │       │   ├── LeapYear.html
+                    │   │       │   └── index.source.html
+                    │   │       ├── tudelft.blackjack
+                    │   │       │   ├── index.html
+                    │   │       │   ├── BlackJack.html
+                    │   │       │   ├── index.source.html
+                    │   │       │   └── BlackJack.java.html
+                    │   │       ├── tudelft.invoice
+                    │   │       │   ├── index.html
+                    │   │       │   ├── InvoiceDao.html
+                    │   │       │   ├── InvoiceFilter.html
+                    │   │       │   ├── Invoice.html
+                    │   │       │   ├── index.source.html
+                    │   │       │   ├── InvoiceDao.java.html
+                    │   │       │   ├── InvoiceFilter.java.html
+                    │   │       │   └── Invoice.java.html
+                    │   │       ├── tudelft.ghappy
+                    │   │       │   ├── index.html
+                    │   │       │   ├── GHappy.html
+                    │   │       │   ├── index.source.html
+                    │   │       │   └── GHappy.java.html
+                    │   │       └── tudelft.caesarshift
+                    │   │           ├── index.html
+                    │   │           ├── CaesarShiftCipher.html
+                    │   │           ├── index.source.html
+                    │   │           └── CaesarShiftCipher.java.html
+                    │   ├── surefire-reports
+                    │   │   ├── tudelft.invoice.InvoiceFilterTest.txt
+                    │   │   ├── TEST-tudelft.invoice.InvoiceFilterTest.xml
+                    │   │   ├── tudelft.roman.RomanNumeralTest.txt
+                    │   │   ├── TEST-tudelft.countletters.CountLettersTest.xml
+                    │   │   ├── tudelft.countletters.CountLettersTest.txt
+                    │   │   ├── TEST-tudelft.echo.EchoTest.xml
+                    │   │   ├── tudelft.echo.EchoTest.txt
+                    │   │   ├── TEST-tudelft.christmas.ChristmasDiscountRefactoredTest.xml
+                    │   │   ├── tudelft.christmas.ChristmasDiscountRefactoredTest.txt
+                    │   │   ├── TEST-tudelft.invoicemocked.InvoiceFilterTest.xml
+                    │   │   ├── tudelft.invoicemocked.InvoiceFilterTest.txt
+                    │   │   ├── TEST-tudelft.leapyear.LeapYearTest.xml
+                    │   │   ├── tudelft.leapyear.LeapYearTest.txt
+                    │   │   ├── TEST-tudelft.chocolate.ChocolateBagsBeforeBoundaryTest.xml
+                    │   │   ├── tudelft.chocolate.ChocolateBagsBeforeBoundaryTest.txt
+                    │   │   ├── TEST-tudelft.chocolate.ChocolateBagsTest.xml
+                    │   │   ├── tudelft.chocolate.ChocolateBagsTest.txt
+                    │   │   ├── TEST-tudelft.gettingstarted.GettingStartedTest.xml
+                    │   │   ├── tudelft.gettingstarted.GettingStartedTest.txt
+                    │   │   ├── TEST-tudelft.blackjack.BlackJackLineCoverageTest.xml
+                    │   │   ├── tudelft.blackjack.BlackJackLineCoverageTest.txt
+                    │   │   └── TEST-tudelft.roman.RomanNumeralTest.xml
+                    │   ├── test-classes
+                    │   │   └── tudelft
+                    │   │       ├── chocolate
+                    │   │       │   ├── ChocolateBagsTest2.class
+                    │   │       │   └── ChocolateBagsTest3.class
+                    │   │       └── roman
+                    │   │           └── RomanNumeralTestWithBeforeEach.class
+                    │   └── maven-status
+                    │       └── maven-compiler-plugin
+                    │           ├── compile
+                    │           │   └── default-compile
+                    │           │       ├── inputFiles.lst
+                    │           │       └── createdFiles.lst
+                    │           └── testCompile
+                    │               └── default-testCompile
+                    │                   ├── inputFiles.lst
+                    │                   └── createdFiles.lst
+                    ├── mymemdb.db.lck
+                    ├── mymemdb.db.properties.new
+                    ├── mymemdb.db.log
+                    ├── mymemdb.db.script.new
+                    ├── README.md
+                    ├── .gitignore
+                    └── .github
+                        └── workflows
+                            └── maven.yml
