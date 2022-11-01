@@ -1,0 +1,31 @@
+
+└── home
+    └── runner
+        └── work
+            └── ysoserial
+                └── ysoserial
+                    ├── target
+                    │   ├── ysoserial-optimizing-ci-builds-all.jar
+                    │   └── maven-status
+                    │       └── maven-compiler-plugin
+                    │           ├── testCompile
+                    │           │   └── default-testCompile
+                    │           │       ├── createdFiles.lst
+                    │           │       └── inputFiles.lst
+                    │           └── compile
+                    │               └── default-compile
+                    │                   ├── createdFiles.lst
+                    │                   └── inputFiles.lst
+                    ├── ysoserial.png
+                    ├── pom.xml.versionsBackup
+                    ├── appveyor.yml
+                    ├── README.md
+                    ├── LICENSE.txt
+                    ├── .editorconfig
+                    ├── .github
+                    │   └── workflows
+                    │       └── publish.yml
+                    ├── .gitignore
+                    ├── .travis.yml
+                    ├── DISCLAIMER.txt
+                    └── Dockerfile
