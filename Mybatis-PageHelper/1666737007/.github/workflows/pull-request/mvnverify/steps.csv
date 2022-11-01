@@ -1,5 +1,0 @@
-,step_name,#c,#m,cma,cma_,cmt,cm_a,cm_a_,cm_t,c_ma,c_ma_,c_mt,c_m_a,c_m_a_,c_m_t,time
-0,setup,0,0,0,0,0,0,0,0,0,0,0,0,154,0,0
-1,uses9,16,19,0,16,0,0,0,0,0,3,0,0,135,0,2
-2,SetupMavenCentralRepository,0,0,0,0,0,0,0,0,0,0,0,0,154,0,0
-3,RuntheMavenverifyphase,133,135,0,133,0,0,0,0,0,2,0,0,19,0,13
