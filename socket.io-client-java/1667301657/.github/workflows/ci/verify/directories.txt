@@ -1,0 +1,397 @@
+
+└── home
+    └── runner
+        └── work
+            └── socket.io-client-java
+                └── socket.io-client-java
+                    ├── target
+                    │   ├── test.log
+                    │   ├── socket.io-client-2.1.1-SNAPSHOT.jar
+                    │   ├── socket.io-client-2.1.1-SNAPSHOT-javadoc.jar
+                    │   ├── test-classes
+                    │   │   ├── package-lock.json
+                    │   │   ├── io
+                    │   │   │   └── socket
+                    │   │   │       ├── Fiddle.class
+                    │   │   │       ├── Fiddle$3.class
+                    │   │   │       ├── Fiddle$2.class
+                    │   │   │       └── Fiddle$1.class
+                    │   │   ├── cert.pem
+                    │   │   ├── package.json
+                    │   │   ├── keystore.jks
+                    │   │   ├── logging.properties
+                    │   │   ├── server.js
+                    │   │   └── key.pem
+                    │   ├── socket.io-client-2.1.1-SNAPSHOT-sources.jar
+                    │   ├── surefire-reports
+                    │   │   ├── io.socket.client.ExecutionTest.txt
+                    │   │   ├── TEST-io.socket.client.ExecutionTest.xml
+                    │   │   ├── io.socket.client.UrlTest.txt
+                    │   │   ├── TEST-io.socket.client.UrlTest.xml
+                    │   │   ├── io.socket.client.ConnectionTest.txt
+                    │   │   ├── TEST-io.socket.client.ConnectionTest.xml
+                    │   │   ├── io.socket.client.SSLConnectionTest.txt
+                    │   │   ├── TEST-io.socket.client.SSLConnectionTest.xml
+                    │   │   ├── TEST-io.socket.client.ServerConnectionTest.xml
+                    │   │   ├── io.socket.client.ServerConnectionTest.txt
+                    │   │   ├── TEST-io.socket.client.SocketTest.xml
+                    │   │   ├── io.socket.client.SocketTest.txt
+                    │   │   ├── TEST-io.socket.hasbinary.HasBinaryTest.xml
+                    │   │   ├── io.socket.parser.ByteArrayTest.txt
+                    │   │   ├── TEST-io.socket.parser.ByteArrayTest.xml
+                    │   │   ├── io.socket.parser.ParserTest.txt
+                    │   │   ├── TEST-io.socket.parser.ParserTest.xml
+                    │   │   ├── io.socket.backo.BackoffTest.txt
+                    │   │   ├── TEST-io.socket.backo.BackoffTest.xml
+                    │   │   ├── io.socket.client.ServerConnectionNamespaceTest.txt
+                    │   │   └── TEST-io.socket.client.ServerConnectionNamespaceTest.xml
+                    │   ├── javadoc-bundle-options
+                    │   │   └── javadoc-options-javadoc-resources.xml
+                    │   └── maven-status
+                    │       └── maven-compiler-plugin
+                    │           ├── testCompile
+                    │           │   └── default-testCompile
+                    │           │       ├── createdFiles.lst
+                    │           │       └── inputFiles.lst
+                    │           └── compile
+                    │               └── default-compile
+                    │                   ├── createdFiles.lst
+                    │                   └── inputFiles.lst
+                    ├── src
+                    │   ├── test
+                    │   │   └── resources
+                    │   │       └── node_modules
+                    │   │           ├── .staging
+                    │   │           │   ├── socket.io-5163ba59
+                    │   │           │   │   ├── client-dist
+                    │   │           │   │   │   ├── socket.io.js
+                    │   │           │   │   │   ├── socket.io.js.map
+                    │   │           │   │   │   ├── socket.io.min.js.map
+                    │   │           │   │   │   ├── socket.io.msgpack.min.js.map
+                    │   │           │   │   │   ├── socket.io.min.js
+                    │   │           │   │   │   └── socket.io.msgpack.min.js
+                    │   │           │   │   ├── dist
+                    │   │           │   │   │   ├── index.js
+                    │   │           │   │   │   ├── socket.d.ts
+                    │   │           │   │   │   ├── socket.js
+                    │   │           │   │   │   ├── client.js
+                    │   │           │   │   │   ├── parent-namespace.js
+                    │   │           │   │   │   ├── index.d.ts
+                    │   │           │   │   │   ├── parent-namespace.d.ts
+                    │   │           │   │   │   ├── namespace.d.ts
+                    │   │           │   │   │   ├── client.d.ts
+                    │   │           │   │   │   └── namespace.js
+                    │   │           │   │   ├── CHANGELOG.md
+                    │   │           │   │   ├── Readme.md
+                    │   │           │   │   ├── package.json
+                    │   │           │   │   ├── wrapper.mjs
+                    │   │           │   │   └── LICENSE
+                    │   │           │   ├── mime-db-808171c8
+                    │   │           │   │   ├── db.json
+                    │   │           │   │   ├── HISTORY.md
+                    │   │           │   │   ├── README.md
+                    │   │           │   │   ├── package.json
+                    │   │           │   │   ├── LICENSE
+                    │   │           │   │   └── index.js
+                    │   │           │   ├── @types
+                    │   │           │   │   ├── node-9adcbe09
+                    │   │           │   │   │   ├── fs.d.ts
+                    │   │           │   │   │   ├── inspector.d.ts
+                    │   │           │   │   │   ├── http2.d.ts
+                    │   │           │   │   │   ├── crypto.d.ts
+                    │   │           │   │   │   ├── globals.d.ts
+                    │   │           │   │   │   ├── tls.d.ts
+                    │   │           │   │   │   ├── fs
+                    │   │           │   │   │   │   └── promises.d.ts
+                    │   │           │   │   │   ├── cluster.d.ts
+                    │   │           │   │   │   ├── http.d.ts
+                    │   │           │   │   │   ├── child_process.d.ts
+                    │   │           │   │   │   ├── async_hooks.d.ts
+                    │   │           │   │   │   ├── process.d.ts
+                    │   │           │   │   │   ├── console.d.ts
+                    │   │           │   │   │   ├── buffer.d.ts
+                    │   │           │   │   │   ├── dns.d.ts
+                    │   │           │   │   │   ├── zlib.d.ts
+                    │   │           │   │   │   ├── net.d.ts
+                    │   │           │   │   │   ├── wasi.d.ts
+                    │   │           │   │   │   ├── path.d.ts
+                    │   │           │   │   │   ├── util.d.ts
+                    │   │           │   │   │   ├── readline.d.ts
+                    │   │           │   │   │   ├── repl.d.ts
+                    │   │           │   │   │   ├── stream.d.ts
+                    │   │           │   │   │   ├── events.d.ts
+                    │   │           │   │   │   ├── index.d.ts
+                    │   │           │   │   │   ├── dgram.d.ts
+                    │   │           │   │   │   ├── worker_threads.d.ts
+                    │   │           │   │   │   ├── vm.d.ts
+                    │   │           │   │   │   ├── v8.d.ts
+                    │   │           │   │   │   ├── url.d.ts
+                    │   │           │   │   │   ├── tty.d.ts
+                    │   │           │   │   │   ├── ts3.6
+                    │   │           │   │   │   │   ├── index.d.ts
+                    │   │           │   │   │   │   └── base.d.ts
+                    │   │           │   │   │   ├── ts3.4
+                    │   │           │   │   │   │   ├── globals.global.d.ts
+                    │   │           │   │   │   │   ├── index.d.ts
+                    │   │           │   │   │   │   ├── base.d.ts
+                    │   │           │   │   │   │   └── assert.d.ts
+                    │   │           │   │   │   ├── assert.d.ts
+                    │   │           │   │   │   ├── README.md
+                    │   │           │   │   │   ├── constants.d.ts
+                    │   │           │   │   │   ├── domain.d.ts
+                    │   │           │   │   │   ├── globals.global.d.ts
+                    │   │           │   │   │   ├── https.d.ts
+                    │   │           │   │   │   ├── module.d.ts
+                    │   │           │   │   │   ├── os.d.ts
+                    │   │           │   │   │   ├── package.json
+                    │   │           │   │   │   ├── perf_hooks.d.ts
+                    │   │           │   │   │   ├── punycode.d.ts
+                    │   │           │   │   │   ├── querystring.d.ts
+                    │   │           │   │   │   ├── string_decoder.d.ts
+                    │   │           │   │   │   ├── timers.d.ts
+                    │   │           │   │   │   ├── trace_events.d.ts
+                    │   │           │   │   │   ├── base.d.ts
+                    │   │           │   │   │   └── LICENSE
+                    │   │           │   │   ├── cookie-f3bba1bc
+                    │   │           │   │   │   ├── index.d.ts
+                    │   │           │   │   │   ├── package.json
+                    │   │           │   │   │   ├── README.md
+                    │   │           │   │   │   └── LICENSE
+                    │   │           │   │   ├── cors-dd8a313b
+                    │   │           │   │   │   ├── package.json
+                    │   │           │   │   │   ├── index.d.ts
+                    │   │           │   │   │   ├── LICENSE
+                    │   │           │   │   │   └── README.md
+                    │   │           │   │   └── component-emitter-1c86a660
+                    │   │           │   │       ├── index.d.ts
+                    │   │           │   │       ├── package.json
+                    │   │           │   │       ├── LICENSE
+                    │   │           │   │       └── README.md
+                    │   │           │   ├── engine.io-dd75bff9
+                    │   │           │   │   ├── README.md
+                    │   │           │   │   ├── lib
+                    │   │           │   │   │   ├── server.js
+                    │   │           │   │   │   ├── socket.js
+                    │   │           │   │   │   ├── transports
+                    │   │           │   │   │   │   ├── polling.js
+                    │   │           │   │   │   │   ├── polling-jsonp.js
+                    │   │           │   │   │   │   ├── index.js
+                    │   │           │   │   │   │   └── websocket.js
+                    │   │           │   │   │   ├── engine.io.js
+                    │   │           │   │   │   └── transport.js
+                    │   │           │   │   ├── CHANGELOG.md
+                    │   │           │   │   ├── LICENSE
+                    │   │           │   │   └── package.json
+                    │   │           │   ├── debug-1e45bc67
+                    │   │           │   │   ├── dist
+                    │   │           │   │   │   └── debug.js
+                    │   │           │   │   ├── README.md
+                    │   │           │   │   ├── CHANGELOG.md
+                    │   │           │   │   ├── src
+                    │   │           │   │   │   ├── common.js
+                    │   │           │   │   │   ├── browser.js
+                    │   │           │   │   │   ├── node.js
+                    │   │           │   │   │   └── index.js
+                    │   │           │   │   ├── LICENSE
+                    │   │           │   │   └── package.json
+                    │   │           │   ├── ws-e71e4163
+                    │   │           │   │   ├── lib
+                    │   │           │   │   │   ├── websocket.js
+                    │   │           │   │   │   ├── receiver.js
+                    │   │           │   │   │   ├── permessage-deflate.js
+                    │   │           │   │   │   ├── websocket-server.js
+                    │   │           │   │   │   ├── sender.js
+                    │   │           │   │   │   ├── stream.js
+                    │   │           │   │   │   ├── extension.js
+                    │   │           │   │   │   ├── buffer-util.js
+                    │   │           │   │   │   ├── constants.js
+                    │   │           │   │   │   ├── event-target.js
+                    │   │           │   │   │   ├── limiter.js
+                    │   │           │   │   │   └── validation.js
+                    │   │           │   │   ├── README.md
+                    │   │           │   │   ├── LICENSE
+                    │   │           │   │   ├── browser.js
+                    │   │           │   │   ├── package.json
+                    │   │           │   │   └── index.js
+                    │   │           │   ├── socket.io-parser-673f0b35
+                    │   │           │   │   ├── dist
+                    │   │           │   │   │   ├── index.js
+                    │   │           │   │   │   ├── binary.js
+                    │   │           │   │   │   ├── is-binary.js
+                    │   │           │   │   │   ├── binary.d.ts
+                    │   │           │   │   │   ├── index.d.ts
+                    │   │           │   │   │   └── is-binary.d.ts
+                    │   │           │   │   ├── Readme.md
+                    │   │           │   │   ├── LICENSE
+                    │   │           │   │   ├── package.json
+                    │   │           │   │   └── CHANGELOG.md
+                    │   │           │   ├── cors-e45a4ed8
+                    │   │           │   │   ├── README.md
+                    │   │           │   │   ├── lib
+                    │   │           │   │   │   └── index.js
+                    │   │           │   │   ├── HISTORY.md
+                    │   │           │   │   ├── LICENSE
+                    │   │           │   │   ├── CONTRIBUTING.md
+                    │   │           │   │   └── package.json
+                    │   │           │   ├── cookie-cc3a8c17
+                    │   │           │   │   ├── README.md
+                    │   │           │   │   ├── HISTORY.md
+                    │   │           │   │   ├── package.json
+                    │   │           │   │   ├── index.js
+                    │   │           │   │   └── LICENSE
+                    │   │           │   ├── base64id-cca5f1c6
+                    │   │           │   │   ├── LICENSE
+                    │   │           │   │   ├── package.json
+                    │   │           │   │   ├── CHANGELOG.md
+                    │   │           │   │   ├── README.md
+                    │   │           │   │   └── lib
+                    │   │           │   │       └── base64id.js
+                    │   │           │   ├── engine.io-parser-18de4b8c
+                    │   │           │   │   ├── Readme.md
+                    │   │           │   │   ├── lib
+                    │   │           │   │   │   ├── encodePacket.js
+                    │   │           │   │   │   ├── decodePacket.js
+                    │   │           │   │   │   ├── encodePacket.browser.js
+                    │   │           │   │   │   ├── decodePacket.browser.js
+                    │   │           │   │   │   ├── commons.js
+                    │   │           │   │   │   └── index.js
+                    │   │           │   │   ├── CHANGELOG.md
+                    │   │           │   │   ├── package.json
+                    │   │           │   │   └── LICENSE
+                    │   │           │   ├── negotiator-19325a83
+                    │   │           │   │   ├── README.md
+                    │   │           │   │   ├── lib
+                    │   │           │   │   │   ├── mediaType.js
+                    │   │           │   │   │   ├── charset.js
+                    │   │           │   │   │   ├── encoding.js
+                    │   │           │   │   │   └── language.js
+                    │   │           │   │   ├── index.js
+                    │   │           │   │   ├── HISTORY.md
+                    │   │           │   │   ├── LICENSE
+                    │   │           │   │   └── package.json
+                    │   │           │   ├── vary-e6604976
+                    │   │           │   │   ├── HISTORY.md
+                    │   │           │   │   ├── LICENSE
+                    │   │           │   │   ├── index.js
+                    │   │           │   │   ├── README.md
+                    │   │           │   │   └── package.json
+                    │   │           │   ├── accepts-adc31efe
+                    │   │           │   │   ├── LICENSE
+                    │   │           │   │   ├── HISTORY.md
+                    │   │           │   │   ├── README.md
+                    │   │           │   │   ├── index.js
+                    │   │           │   │   └── package.json
+                    │   │           │   ├── base64-arraybuffer-a8e43fe0
+                    │   │           │   │   ├── lib
+                    │   │           │   │   │   └── base64-arraybuffer.js
+                    │   │           │   │   ├── .travis.yml
+                    │   │           │   │   ├── LICENSE-MIT
+                    │   │           │   │   ├── README.md
+                    │   │           │   │   ├── package.json
+                    │   │           │   │   └── .npmignore
+                    │   │           │   ├── mime-types-07e49e6a
+                    │   │           │   │   ├── README.md
+                    │   │           │   │   ├── HISTORY.md
+                    │   │           │   │   ├── package.json
+                    │   │           │   │   ├── LICENSE
+                    │   │           │   │   └── index.js
+                    │   │           │   ├── component-emitter-ba521bd7
+                    │   │           │   │   ├── LICENSE
+                    │   │           │   │   ├── History.md
+                    │   │           │   │   ├── index.js
+                    │   │           │   │   ├── Readme.md
+                    │   │           │   │   └── package.json
+                    │   │           │   ├── ms-4f6cb476
+                    │   │           │   │   ├── index.js
+                    │   │           │   │   ├── license.md
+                    │   │           │   │   ├── readme.md
+                    │   │           │   │   └── package.json
+                    │   │           │   ├── socket.io-adapter-e820b68c
+                    │   │           │   │   ├── CHANGELOG.md
+                    │   │           │   │   ├── Readme.md
+                    │   │           │   │   ├── dist
+                    │   │           │   │   │   ├── index.d.ts
+                    │   │           │   │   │   └── index.js
+                    │   │           │   │   ├── package.json
+                    │   │           │   │   └── LICENSE
+                    │   │           │   └── object-assign-f00c971f
+                    │   │           │       ├── license
+                    │   │           │       ├── readme.md
+                    │   │           │       ├── index.js
+                    │   │           │       └── package.json
+                    │   │           ├── socket.io-parser
+                    │   │           │   └── package.json.3019723947
+                    │   │           ├── engine.io
+                    │   │           │   └── package.json.3731035523
+                    │   │           ├── cors
+                    │   │           │   └── package.json.400498605
+                    │   │           ├── vary
+                    │   │           │   └── package.json.1559173791
+                    │   │           ├── socket.io-adapter
+                    │   │           │   └── package.json.263034450
+                    │   │           ├── object-assign
+                    │   │           │   └── package.json.3938568774
+                    │   │           ├── accepts
+                    │   │           │   └── package.json.778755623
+                    │   │           ├── negotiator
+                    │   │           │   └── package.json.3627579076
+                    │   │           ├── debug
+                    │   │           │   └── package.json.4101152814
+                    │   │           ├── ms
+                    │   │           │   └── package.json.3437125363
+                    │   │           ├── mime-types
+                    │   │           │   └── package.json.2984937052
+                    │   │           ├── mime-db
+                    │   │           │   └── package.json.3112128651
+                    │   │           ├── engine.io-parser
+                    │   │           │   └── package.json.1757707398
+                    │   │           ├── cookie
+                    │   │           │   └── package.json.4229466165
+                    │   │           ├── component-emitter
+                    │   │           │   └── package.json.2097174809
+                    │   │           ├── base64id
+                    │   │           │   └── package.json.4112219138
+                    │   │           ├── base64-arraybuffer
+                    │   │           │   └── package.json.2154814453
+                    │   │           ├── ws
+                    │   │           │   └── package.json.1604627667
+                    │   │           ├── socket.io
+                    │   │           │   └── package.json.1838885154
+                    │   │           └── @types
+                    │   │               ├── component-emitter
+                    │   │               │   └── package.json.145687888
+                    │   │               ├── node
+                    │   │               │   └── package.json.741797538
+                    │   │               ├── cors
+                    │   │               │   └── package.json.3663515536
+                    │   │               └── cookie
+                    │   │                   └── package.json.2100397719
+                    │   └── site
+                    │       ├── resources
+                    │       │   └── images
+                    │       │       └── client_socket_events.png
+                    │       ├── markdown
+                    │       │   ├── android.md
+                    │       │   ├── changelog.md
+                    │       │   ├── emitting_events.md
+                    │       │   ├── faq.md
+                    │       │   ├── initialization.md
+                    │       │   ├── installation.md
+                    │       │   ├── listening_to_events.md
+                    │       │   ├── logging.md
+                    │       │   ├── migrating_from_1_x.md
+                    │       │   ├── socket_instance.md
+                    │       │   └── usage.md
+                    │       └── site.xml
+                    ├── README.md
+                    ├── .github
+                    │   ├── ISSUE_TEMPLATE
+                    │   │   ├── bug_report.md
+                    │   │   ├── feature_request.md
+                    │   │   └── question.md
+                    │   └── workflows
+                    │       └── ci.yml
+                    ├── .gitignore
+                    ├── History.md
+                    ├── LICENSE
+                    └── Makefile
