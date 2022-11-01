@@ -4,467 +4,467 @@
         └── work
             └── bytecode-viewer
                 └── bytecode-viewer
-                    ├── src
-                    │   ├── main
-                    │   │   ├── resources
-                    │   │   │   ├── enjarify-4.zip
-                    │   │   │   ├── Krakatau-12.zip
-                    │   │   │   ├── LICENSES
-                    │   │   │   │   ├── BCV.txt
-                    │   │   │   │   ├── krakata-license.txt
-                    │   │   │   │   ├── jd-gui-license.txt
-                    │   │   │   │   ├── byteanalysis-license.txt
-                    │   │   │   │   ├── apktool-license.txt
-                    │   │   │   │   ├── ASM.txt
-                    │   │   │   │   ├── commons-license.txt
-                    │   │   │   │   ├── cfr-license.txt
-                    │   │   │   │   ├── dex2jar-license.txt
-                    │   │   │   │   ├── enjarif-license.txt
-                    │   │   │   │   ├── smali.txt
-                    │   │   │   │   ├── rsyntaxtextarea-license.txt
-                    │   │   │   │   ├── procyon-license.txt
-                    │   │   │   │   ├── jgraphx-license.txt
-                    │   │   │   │   ├── janino-license.txt
-                    │   │   │   │   ├── imgscalr-license.txt
-                    │   │   │   │   └── fernflower-license.txt
-                    │   │   │   ├── translations
-                    │   │   │   │   ├── greek.json
-                    │   │   │   │   ├── japanese.json
-                    │   │   │   │   ├── italian.json
-                    │   │   │   │   ├── indonesian.json
-                    │   │   │   │   ├── hungarian.json
-                    │   │   │   │   ├── html
-                    │   │   │   │   │   ├── intro.mandarin.html
-                    │   │   │   │   │   ├── intro.german.html
-                    │   │   │   │   │   └── intro.english.html
-                    │   │   │   │   ├── hindi.json
-                    │   │   │   │   ├── hebrew.json
-                    │   │   │   │   ├── hausa.json
-                    │   │   │   │   ├── german.json
-                    │   │   │   │   ├── korean.json
-                    │   │   │   │   ├── georgian.json
-                    │   │   │   │   ├── french.json
-                    │   │   │   │   ├── finnish.json
-                    │   │   │   │   ├── farsi.json
-                    │   │   │   │   ├── estonian.json
-                    │   │   │   │   ├── english.json
-                    │   │   │   │   ├── danish.json
-                    │   │   │   │   ├── czech.json
-                    │   │   │   │   ├── croatian.json
-                    │   │   │   │   ├── bulgarian.json
-                    │   │   │   │   ├── javanese.json
-                    │   │   │   │   ├── lativan.json
-                    │   │   │   │   ├── arabic.json
-                    │   │   │   │   ├── spanish.json
-                    │   │   │   │   ├── vietnamese.json
-                    │   │   │   │   ├── ukrainian.json
-                    │   │   │   │   ├── turkish.json
-                    │   │   │   │   ├── thai.json
-                    │   │   │   │   ├── swedish.json
-                    │   │   │   │   ├── swahili.json
-                    │   │   │   │   ├── slovenian.json
-                    │   │   │   │   ├── lithuanian.json
-                    │   │   │   │   ├── slovak.json
-                    │   │   │   │   ├── serbian.json
-                    │   │   │   │   ├── russian.json
-                    │   │   │   │   ├── romanian.json
-                    │   │   │   │   ├── portuguese.json
-                    │   │   │   │   ├── polish.json
-                    │   │   │   │   ├── norwegian.json
-                    │   │   │   │   ├── nederlands.json
-                    │   │   │   │   ├── mandarin.json
-                    │   │   │   │   ├── malay.json
-                    │   │   │   │   └── bengali.json
-                    │   │   │   ├── the
-                    │   │   │   │   └── bytecode
-                    │   │   │   │       └── club
-                    │   │   │   │           └── bytecodeviewer
-                    │   │   │   │               └── gui
-                    │   │   │   │                   └── hexviewer
-                    │   │   │   │                       └── resources
-                    │   │   │   │                           └── bined-linewrap.png
-                    │   │   │   ├── templates
-                    │   │   │   │   ├── Template_Plugin.js
-                    │   │   │   │   └── Template_Plugin.java
-                    │   │   │   └── gui
-                    │   │   │       ├── config.svg
-                    │   │   │       ├── previous.svg
-                    │   │   │       ├── package.svg
-                    │   │   │       ├── next.svg
-                    │   │   │       ├── javaClass.svg
-                    │   │   │       ├── java.svg
-                    │   │   │       ├── jarDirectory.svg
-                    │   │   │       ├── decodedResource.svg
-                    │   │   │       ├── cs.svg
-                    │   │   │       ├── cpp.svg
-                    │   │   │       ├── bcv_icon.png
-                    │   │   │       ├── bat.svg
-                    │   │   │       ├── archive.svg
-                    │   │   │       └── android.svg
-                    │   │   └── java
-                    │   │       ├── the
-                    │   │       │   └── bytecode
-                    │   │       │       └── club
-                    │   │       │           └── bytecodeviewer
-                    │   │       │               ├── gui
-                    │   │       │               │   ├── MainViewerGUI.java
-                    │   │       │               │   ├── hexviewer
-                    │   │       │               │   │   ├── ValuesPanel.java
-                    │   │       │               │   │   ├── BinaryStatusPanel.java
-                    │   │       │               │   │   ├── StatusDocumentSizeFormat.java
-                    │   │       │               │   │   ├── StatusCursorPositionFormat.java
-                    │   │       │               │   │   ├── OkCancelPanel.java
-                    │   │       │               │   │   ├── HexViewer.java
-                    │   │       │               │   │   ├── GoToBinaryPositionMode.java
-                    │   │       │               │   │   ├── GoToBinaryPanel.java
-                    │   │       │               │   │   ├── BinaryStatusApi.java
-                    │   │       │               │   │   └── BaseSwitchableSpinnerPanel.java
-                    │   │       │               │   ├── util
-                    │   │       │               │   │   ├── DelayTabbedPaneThread.java
-                    │   │       │               │   │   ├── StringMetricsUtil.java
-                    │   │       │               │   │   └── BytecodeViewPanelUpdater.java
-                    │   │       │               │   ├── resourceviewer
-                    │   │       │               │   │   ├── viewer
-                    │   │       │               │   │   │   ├── ComponentViewer.java
-                    │   │       │               │   │   │   ├── synchronizedscroll
-                    │   │       │               │   │   │   │   └── MethodData.java
-                    │   │       │               │   │   │   ├── ResourceViewer.java
-                    │   │       │               │   │   │   ├── FileViewer.java
-                    │   │       │               │   │   │   └── ClassViewer.java
-                    │   │       │               │   │   ├── TabRemovalEvent.java
-                    │   │       │               │   │   ├── WorkspaceRefreshEvent.java
-                    │   │       │               │   │   ├── WorkspaceRefresh.java
-                    │   │       │               │   │   ├── Workspace.java
-                    │   │       │               │   │   ├── TabbedPane.java
-                    │   │       │               │   │   ├── TabExitButton.java
-                    │   │       │               │   │   ├── DecompilerSelectionPane.java
-                    │   │       │               │   │   └── BytecodeViewPanel.java
-                    │   │       │               │   ├── theme
-                    │   │       │               │   │   ├── RSTATheme.java
-                    │   │       │               │   │   └── LAFTheme.java
-                    │   │       │               │   ├── contextmenu
-                    │   │       │               │   │   ├── searchbox
-                    │   │       │               │   │   │   ├── QuickOpen.java
-                    │   │       │               │   │   │   ├── QuickEdit.java
-                    │   │       │               │   │   │   └── Open.java
-                    │   │       │               │   │   ├── resourcelist
-                    │   │       │               │   │   │   ├── QuickOpen.java
-                    │   │       │               │   │   │   ├── QuickEdit.java
-                    │   │       │               │   │   │   ├── Open.java
-                    │   │       │               │   │   │   ├── New.java
-                    │   │       │               │   │   │   ├── Expand.java
-                    │   │       │               │   │   │   ├── Delete.java
-                    │   │       │               │   │   │   └── Collapse.java
-                    │   │       │               │   │   ├── ContextMenuType.java
-                    │   │       │               │   │   ├── ContextMenuItem.java
-                    │   │       │               │   │   ├── ContextMenu.java
-                    │   │       │               │   │   └── BuildContextMenuItem.java
-                    │   │       │               │   ├── components
-                    │   │       │               │   │   ├── listeners
-                    │   │       │               │   │   │   ├── ReleaseKeyListener.java
-                    │   │       │               │   │   │   ├── PressKeyListener.java
-                    │   │       │               │   │   │   └── MouseClickedListener.java
-                    │   │       │               │   │   ├── WaitBusyIcon.java
-                    │   │       │               │   │   ├── VisibleComponent.java
-                    │   │       │               │   │   ├── JFrameConsoleTabbed.java
-                    │   │       │               │   │   ├── SystemConsole.java
-                    │   │       │               │   │   ├── SettingsDialog.java
-                    │   │       │               │   │   ├── SearchableRSyntaxTextArea.java
-                    │   │       │               │   │   ├── SearchableJTextArea.java
-                    │   │       │               │   │   ├── RunOptions.java
-                    │   │       │               │   │   ├── MultipleChoiceDialog.java
-                    │   │       │               │   │   ├── MethodsRenderer.java
-                    │   │       │               │   │   ├── MaxWidthJLabel.java
-                    │   │       │               │   │   ├── JTextAreaOutputStream.java
-                    │   │       │               │   │   ├── JMenuItemIcon.java
-                    │   │       │               │   │   ├── JFrameConsolePrintStream.java
-                    │   │       │               │   │   ├── JFrameConsole.java
-                    │   │       │               │   │   ├── ImageJLabel.java
-                    │   │       │               │   │   ├── HTMLPane.java
-                    │   │       │               │   │   ├── FileChooser.java
-                    │   │       │               │   │   ├── ExtendedJOptionPane.java
-                    │   │       │               │   │   ├── ExportJar.java
-                    │   │       │               │   │   ├── DecompilerViewComponent.java
-                    │   │       │               │   │   ├── ButtonHoverAnimation.java
-                    │   │       │               │   │   └── AboutWindow.java
-                    │   │       │               │   ├── plugins
-                    │   │       │               │   │   ├── GraphicalReflectionKit.java
-                    │   │       │               │   │   ├── MaliciousCodeScannerOptions.java
-                    │   │       │               │   │   └── ReplaceStringsOptions.java
-                    │   │       │               │   ├── resourcelist
-                    │   │       │               │   │   ├── ResourceListIconRenderer.java
-                    │   │       │               │   │   ├── SearchKeyAdapter.java
-                    │   │       │               │   │   ├── ResourceTreeNode.java
-                    │   │       │               │   │   ├── ResourceTree.java
-                    │   │       │               │   │   └── ResourceListPane.java
-                    │   │       │               │   └── resourcesearch
-                    │   │       │               │       ├── SearchType.java
-                    │   │       │               │       ├── SearchRadius.java
-                    │   │       │               │       ├── SearchBoxPane.java
-                    │   │       │               │       └── PerformSearch.java
-                    │   │       │               ├── util
-                    │   │       │               │   ├── FileDrop.java
-                    │   │       │               │   ├── APKTool.java
-                    │   │       │               │   ├── JTextAreaUtils.java
-                    │   │       │               │   ├── BootCheck.java
-                    │   │       │               │   ├── ClassFileUtils.java
-                    │   │       │               │   ├── NewlineOutputStream.java
-                    │   │       │               │   ├── ZipUtils.java
-                    │   │       │               │   ├── WindowStateChangeAdapter.java
-                    │   │       │               │   ├── WindowClosingAdapter.java
-                    │   │       │               │   ├── SyntaxLanguage.java
-                    │   │       │               │   ├── SeqAndCount.java
-                    │   │       │               │   ├── SecurityMan.java
-                    │   │       │               │   ├── PingBack.java
-                    │   │       │               │   ├── MiscUtils.java
-                    │   │       │               │   ├── MethodParser.java
-                    │   │       │               │   ├── LazyNameUtil.java
-                    │   │       │               │   ├── KeyEventDispatch.java
-                    │   │       │               │   ├── JarUtils.java
-                    │   │       │               │   ├── JRTExtractor.java
-                    │   │       │               │   ├── Enjarify.java
-                    │   │       │               │   ├── EncodeUtils.java
-                    │   │       │               │   ├── DialogUtils.java
-                    │   │       │               │   └── Dex2Jar.java
-                    │   │       │               ├── searching
-                    │   │       │               │   ├── RegexInsnFinder.java
-                    │   │       │               │   ├── impl
-                    │   │       │               │   │   ├── RegexSearch.java
-                    │   │       │               │   │   ├── MethodCallSearch.java
-                    │   │       │               │   │   ├── MemberWithAnnotationSearch.java
-                    │   │       │               │   │   ├── LDCSearch.java
-                    │   │       │               │   │   └── FieldCallSearch.java
-                    │   │       │               │   ├── SearchPanel.java
-                    │   │       │               │   ├── LDCSearchTreeNodeResult.java
-                    │   │       │               │   ├── EnterKeyEvent.java
-                    │   │       │               │   └── BackgroundSearchThread.java
-                    │   │       │               ├── BytecodeViewer.java
-                    │   │       │               ├── resources
-                    │   │       │               │   ├── importing
-                    │   │       │               │   │   ├── impl
-                    │   │       │               │   │   │   ├── APKResourceImporter.java
-                    │   │       │               │   │   │   ├── ClassResourceImporter.java
-                    │   │       │               │   │   │   ├── DirectoryResourceImporter.java
-                    │   │       │               │   │   │   ├── DEXResourceImporter.java
-                    │   │       │               │   │   │   ├── FileResourceImporter.java
-                    │   │       │               │   │   │   ├── XAPKResourceImporter.java
-                    │   │       │               │   │   │   └── ZipResourceImporter.java
-                    │   │       │               │   │   ├── Import.java
-                    │   │       │               │   │   ├── Importer.java
-                    │   │       │               │   │   └── ImportResource.java
-                    │   │       │               │   ├── exporting
-                    │   │       │               │   │   ├── impl
-                    │   │       │               │   │   │   ├── ZipExport.java
-                    │   │       │               │   │   │   ├── RunnableJarExporter.java
-                    │   │       │               │   │   │   ├── DexExport.java
-                    │   │       │               │   │   │   └── APKExport.java
-                    │   │       │               │   │   └── Exporter.java
-                    │   │       │               │   ├── ResourceType.java
-                    │   │       │               │   ├── ResourceDecompiling.java
-                    │   │       │               │   ├── ResourceContainerImporter.java
-                    │   │       │               │   ├── ResourceContainer.java
-                    │   │       │               │   ├── Resource.java
-                    │   │       │               │   ├── ExternalResources.java
-                    │   │       │               │   └── IconResources.java
-                    │   │       │               ├── translation
-                    │   │       │               │   ├── TranslatedComponentReference.java
-                    │   │       │               │   ├── components
-                    │   │       │               │   │   ├── TranslatedJTextField.java
-                    │   │       │               │   │   ├── TranslatedJRadioButtonMenuItem.java
-                    │   │       │               │   │   ├── TranslatedJMenuItem.java
-                    │   │       │               │   │   ├── TranslatedJMenu.java
-                    │   │       │               │   │   ├── TranslatedJLabel.java
-                    │   │       │               │   │   ├── TranslatedJCheckBoxMenuItem.java
-                    │   │       │               │   │   ├── TranslatedJCheckBox.java
-                    │   │       │               │   │   ├── TranslatedJButton.java
-                    │   │       │               │   │   ├── TranslatedDefaultMutableTreeNode.java
-                    │   │       │               │   │   └── TranslatedVisibleComponent.java
-                    │   │       │               │   ├── TranslatedStrings.java
-                    │   │       │               │   ├── TranslatedComponents.java
-                    │   │       │               │   └── Language.java
-                    │   │       │               ├── plugin
-                    │   │       │               │   ├── preinstalled
-                    │   │       │               │   │   ├── ZStringArrayDecrypter.java
-                    │   │       │               │   │   ├── ZKMStringDecrypter.java
-                    │   │       │               │   │   ├── ViewManifest.java
-                    │   │       │               │   │   ├── ViewAPKAndroidPermissions.java
-                    │   │       │               │   │   ├── StackFramesRemover.java
-                    │   │       │               │   │   ├── ShowMainMethods.java
-                    │   │       │               │   │   ├── ShowAllStrings.java
-                    │   │       │               │   │   ├── ReplaceStrings.java
-                    │   │       │               │   │   ├── MaliciousCodeScanner.java
-                    │   │       │               │   │   ├── EZInjection.java
-                    │   │       │               │   │   ├── CodeSequenceDiagram.java
-                    │   │       │               │   │   ├── ChangeClassFileVersions.java
-                    │   │       │               │   │   └── AllatoriStringDecrypter.java
-                    │   │       │               │   ├── strategies
-                    │   │       │               │   │   ├── RubyPluginLaunchStrategy.java
-                    │   │       │               │   │   ├── PythonPluginLaunchStrategy.java
-                    │   │       │               │   │   ├── JavascriptPluginLaunchStrategy.java
-                    │   │       │               │   │   ├── JavaPluginLaunchStrategy.java
-                    │   │       │               │   │   └── GroovyPluginLaunchStrategy.java
-                    │   │       │               │   ├── PluginWriter.java
-                    │   │       │               │   ├── PluginTemplate.java
-                    │   │       │               │   ├── PluginManager.java
-                    │   │       │               │   └── PluginLaunchStrategy.java
-                    │   │       │               ├── obfuscators
-                    │   │       │               │   ├── mapping
-                    │   │       │               │   │   ├── RemappingSignatureAdapter.java
-                    │   │       │               │   │   ├── RemappingFieldAdapter.java
-                    │   │       │               │   │   ├── RemappingClassAdapter.java
-                    │   │       │               │   │   ├── RemappingAnnotationAdapter.java
-                    │   │       │               │   │   ├── Remapper.java
-                    │   │       │               │   │   ├── Refactorer.java
-                    │   │       │               │   │   ├── RefactorMapper.java
-                    │   │       │               │   │   ├── HookMap.java
-                    │   │       │               │   │   ├── RemappingMethodAdapter.java
-                    │   │       │               │   │   └── data
-                    │   │       │               │   │       ├── FieldMappingData.java
-                    │   │       │               │   │       ├── MappingData.java
-                    │   │       │               │   │       └── MethodMappingData.java
-                    │   │       │               │   ├── RenameMethods.java
-                    │   │       │               │   ├── RenameFields.java
-                    │   │       │               │   ├── RenameClasses.java
-                    │   │       │               │   ├── JavaObfuscator.java
-                    │   │       │               │   └── rename
-                    │   │       │               │       ├── RenameMethods.java
-                    │   │       │               │       └── RenameFields.java
-                    │   │       │               ├── malwarescanner
-                    │   │       │               │   ├── util
-                    │   │       │               │   │   ├── SearchableString.java
-                    │   │       │               │   │   └── MaliciousCodeOptions.java
-                    │   │       │               │   ├── impl
-                    │   │       │               │   │   ├── URLScanner.java
-                    │   │       │               │   │   ├── ReflectionScanner.java
-                    │   │       │               │   │   ├── NullSecurityManagerScanner.java
-                    │   │       │               │   │   ├── JavaRuntimeScanner.java
-                    │   │       │               │   │   ├── JavaNetScanner.java
-                    │   │       │               │   │   ├── JavaIOScanner.java
-                    │   │       │               │   │   └── AWTRobotScanner.java
-                    │   │       │               │   ├── MalwareScanModule.java
-                    │   │       │               │   ├── MalwareScan.java
-                    │   │       │               │   └── MalwareCodeScanner.java
-                    │   │       │               ├── compilers
-                    │   │       │               │   ├── Compiler.java
-                    │   │       │               │   ├── InternalCompiler.java
-                    │   │       │               │   └── impl
-                    │   │       │               │       ├── JavaCompiler.java
-                    │   │       │               │       ├── SmaliAssembler.java
-                    │   │       │               │       └── KrakatauAssembler.java
-                    │   │       │               ├── api
-                    │   │       │               │   ├── ExceptionUI.java
-                    │   │       │               │   ├── ClassNodeLoader.java
-                    │   │       │               │   ├── BytecodeHook.java
-                    │   │       │               │   ├── BCV.java
-                    │   │       │               │   ├── ASMUtil.java
-                    │   │       │               │   ├── ASMResourceUtil.java
-                    │   │       │               │   ├── Plugin.java
-                    │   │       │               │   └── PluginConsole.java
-                    │   │       │               ├── SettingsSerializer.java
-                    │   │       │               ├── Settings.java
-                    │   │       │               ├── GlobalHotKeys.java
-                    │   │       │               ├── Constants.java
-                    │   │       │               ├── Configuration.java
-                    │   │       │               ├── CommandLineInput.java
-                    │   │       │               ├── bootloader
-                    │   │       │               │   ├── Boot.java
-                    │   │       │               │   ├── loader
-                    │   │       │               │   │   ├── ILoader.java
-                    │   │       │               │   │   ├── LoaderFactory.java
-                    │   │       │               │   │   ├── LibraryClassLoader.java
-                    │   │       │               │   │   ├── ClassPathLoader.java
-                    │   │       │               │   │   └── AbstractLoaderFactory.java
-                    │   │       │               │   ├── resource
-                    │   │       │               │   │   ├── jar
-                    │   │       │               │   │   │   ├── contents
-                    │   │       │               │   │   │   │   ├── JarContents.java
-                    │   │       │               │   │   │   │   └── LocateableJarContents.java
-                    │   │       │               │   │   │   ├── JarType.java
-                    │   │       │               │   │   │   ├── JarResource.java
-                    │   │       │               │   │   │   └── JarInfo.java
-                    │   │       │               │   │   ├── external
-                    │   │       │               │   │   │   ├── ExternalResource.java
-                    │   │       │               │   │   │   ├── ExternalLibrary.java
-                    │   │       │               │   │   │   └── EmptyExternalResource.java
-                    │   │       │               │   │   └── DataContainer.java
-                    │   │       │               │   ├── BootState.java
-                    │   │       │               │   ├── classtree
-                    │   │       │               │   │   ├── nullpermablehashmap
-                    │   │       │               │   │   │   ├── ValueCreator.java
-                    │   │       │               │   │   │   ├── SetCreator.java
-                    │   │       │               │   │   │   ├── NullPermeableHashMap.java
-                    │   │       │               │   │   │   └── NullCreator.java
-                    │   │       │               │   │   ├── ClassTree.java
-                    │   │       │               │   │   └── ClassHelper.java
-                    │   │       │               │   ├── UpdateCheck.java
-                    │   │       │               │   ├── InstallFatJar.java
-                    │   │       │               │   └── InitialBootScreen.java
-                    │   │       │               └── decompilers
-                    │   │       │                   ├── impl
-                    │   │       │                   │   ├── ASMTextifierDisassembler.java
-                    │   │       │                   │   ├── ProcyonDecompiler.java
-                    │   │       │                   │   ├── KrakatauDisassembler.java
-                    │   │       │                   │   ├── KrakatauDecompiler.java
-                    │   │       │                   │   ├── JavapDisassembler.java
-                    │   │       │                   │   ├── JDGUIDecompiler.java
-                    │   │       │                   │   ├── JADXDecompiler.java
-                    │   │       │                   │   ├── FernFlowerDecompiler.java
-                    │   │       │                   │   ├── CFRDecompiler.java
-                    │   │       │                   │   ├── BytecodeDisassembler.java
-                    │   │       │                   │   ├── ASMifierGenerator.java
-                    │   │       │                   │   └── SmaliDisassembler.java
-                    │   │       │                   ├── bytecode
-                    │   │       │                   │   ├── TypeAndName.java
-                    │   │       │                   │   ├── PrefixedStringBuilder.java
-                    │   │       │                   │   ├── MethodNodeDecompiler.java
-                    │   │       │                   │   ├── InstructionSearcher.java
-                    │   │       │                   │   ├── InstructionPrinter.java
-                    │   │       │                   │   ├── InstructionPattern.java
-                    │   │       │                   │   ├── FieldNodeDecompiler.java
-                    │   │       │                   │   └── ClassNodeDecompiler.java
-                    │   │       │                   ├── jdgui
-                    │   │       │                   │   ├── CommonPreferences.java
-                    │   │       │                   │   ├── DirectoryLoader.java
-                    │   │       │                   │   ├── JDGUIClassFileUtil.java
-                    │   │       │                   │   └── PlainTextPrinter.java
-                    │   │       │                   └── InternalDecompiler.java
-                    │   │       └── me
-                    │   │           └── konloch
-                    │   │               └── kontainer
-                    │   │                   └── io
-                    │   │                       ├── HTTPRequest.java
-                    │   │                       ├── DiskWriter.java
-                    │   │                       └── DiskReader.java
-                    │   └── test
-                    │       └── java
-                    │           └── the
-                    │               └── bytecode
-                    │                   └── club
-                    │                       └── bytecodeviewer
-                    │                           └── IconDemo.java
                     ├── libs
-                    │   ├── enjarify-4.zip
-                    │   ├── Krakatau-11.zip
                     │   ├── org
                     │   │   └── jd
                     │   │       └── jd-gui
+                    │   │           ├── 1.6.6bcv
+                    │   │           │   ├── jd-gui-1.6.6bcv.jar
+                    │   │           │   ├── jd-gui-1.6.6bcv.pom.md5
+                    │   │           │   ├── jd-gui-1.6.6bcv.jar.sha1
+                    │   │           │   └── jd-gui-1.6.6bcv.jar.md5
                     │   │           ├── maven-metadata.xml.sha1
                     │   │           ├── maven-metadata.xml.md5
-                    │   │           ├── maven-metadata.xml
-                    │   │           └── 1.6.6bcv
-                    │   │               ├── jd-gui-1.6.6bcv.pom.md5
-                    │   │               └── jd-gui-1.6.6bcv.jar.md5
+                    │   │           └── maven-metadata.xml
+                    │   ├── enjarify-4.zip
+                    │   ├── Krakatau-11.zip
                     │   ├── eu
                     │   │   └── bibl
                     │   │       └── banalysis
                     │   │           └── byteanalysis
                     │   │               ├── 1.0bcv
+                    │   │               │   ├── byteanalysis-1.0bcv.jar
                     │   │               │   ├── byteanalysis-1.0bcv.pom.md5
+                    │   │               │   ├── byteanalysis-1.0bcv.jar.sha1
                     │   │               │   └── byteanalysis-1.0bcv.jar.md5
                     │   │               ├── maven-metadata.xml.sha1
                     │   │               ├── maven-metadata.xml.md5
                     │   │               └── maven-metadata.xml
                     │   └── README.md
+                    ├── src
+                    │   └── main
+                    │       ├── resources
+                    │       │   ├── enjarify-4.zip
+                    │       │   ├── Krakatau-12.zip
+                    │       │   ├── translations
+                    │       │   │   ├── georgian.json
+                    │       │   │   ├── farsi.json
+                    │       │   │   ├── bengali.json
+                    │       │   │   ├── russian.json
+                    │       │   │   ├── german.json
+                    │       │   │   ├── italian.json
+                    │       │   │   ├── indonesian.json
+                    │       │   │   ├── hungarian.json
+                    │       │   │   ├── html
+                    │       │   │   │   ├── intro.mandarin.html
+                    │       │   │   │   ├── intro.german.html
+                    │       │   │   │   └── intro.english.html
+                    │       │   │   ├── hindi.json
+                    │       │   │   ├── hebrew.json
+                    │       │   │   ├── hausa.json
+                    │       │   │   ├── greek.json
+                    │       │   │   ├── french.json
+                    │       │   │   ├── finnish.json
+                    │       │   │   ├── estonian.json
+                    │       │   │   ├── english.json
+                    │       │   │   ├── danish.json
+                    │       │   │   ├── czech.json
+                    │       │   │   ├── croatian.json
+                    │       │   │   ├── bulgarian.json
+                    │       │   │   ├── arabic.json
+                    │       │   │   ├── japanese.json
+                    │       │   │   ├── javanese.json
+                    │       │   │   ├── korean.json
+                    │       │   │   ├── lativan.json
+                    │       │   │   ├── vietnamese.json
+                    │       │   │   ├── ukrainian.json
+                    │       │   │   ├── turkish.json
+                    │       │   │   ├── thai.json
+                    │       │   │   ├── swedish.json
+                    │       │   │   ├── swahili.json
+                    │       │   │   ├── spanish.json
+                    │       │   │   ├── slovenian.json
+                    │       │   │   ├── slovak.json
+                    │       │   │   ├── serbian.json
+                    │       │   │   ├── romanian.json
+                    │       │   │   ├── portuguese.json
+                    │       │   │   ├── polish.json
+                    │       │   │   ├── norwegian.json
+                    │       │   │   ├── nederlands.json
+                    │       │   │   ├── mandarin.json
+                    │       │   │   ├── malay.json
+                    │       │   │   └── lithuanian.json
+                    │       │   ├── LICENSES
+                    │       │   │   ├── jd-gui-license.txt
+                    │       │   │   ├── BCV.txt
+                    │       │   │   ├── krakata-license.txt
+                    │       │   │   ├── apktool-license.txt
+                    │       │   │   ├── ASM.txt
+                    │       │   │   ├── byteanalysis-license.txt
+                    │       │   │   ├── cfr-license.txt
+                    │       │   │   ├── smali.txt
+                    │       │   │   ├── rsyntaxtextarea-license.txt
+                    │       │   │   ├── procyon-license.txt
+                    │       │   │   ├── jgraphx-license.txt
+                    │       │   │   ├── janino-license.txt
+                    │       │   │   ├── imgscalr-license.txt
+                    │       │   │   ├── fernflower-license.txt
+                    │       │   │   ├── enjarif-license.txt
+                    │       │   │   ├── dex2jar-license.txt
+                    │       │   │   └── commons-license.txt
+                    │       │   ├── the
+                    │       │   │   └── bytecode
+                    │       │   │       └── club
+                    │       │   │           └── bytecodeviewer
+                    │       │   │               └── gui
+                    │       │   │                   └── hexviewer
+                    │       │   │                       └── resources
+                    │       │   │                           └── bined-linewrap.png
+                    │       │   ├── templates
+                    │       │   │   ├── Template_Plugin.js
+                    │       │   │   └── Template_Plugin.java
+                    │       │   └── gui
+                    │       │       ├── previous.svg
+                    │       │       ├── package.svg
+                    │       │       ├── next.svg
+                    │       │       ├── javaClass.svg
+                    │       │       ├── java.svg
+                    │       │       ├── jarDirectory.svg
+                    │       │       ├── decodedResource.svg
+                    │       │       ├── cs.svg
+                    │       │       ├── cpp.svg
+                    │       │       ├── config.svg
+                    │       │       ├── bcv_icon.png
+                    │       │       ├── bat.svg
+                    │       │       ├── archive.svg
+                    │       │       └── android.svg
+                    │       └── java
+                    │           ├── the
+                    │           │   └── bytecode
+                    │           │       └── club
+                    │           │           └── bytecodeviewer
+                    │           │               ├── gui
+                    │           │               │   ├── hexviewer
+                    │           │               │   │   ├── ValuesPanel.java
+                    │           │               │   │   ├── BinaryStatusPanel.java
+                    │           │               │   │   ├── BaseSwitchableSpinnerPanel.java
+                    │           │               │   │   ├── StatusDocumentSizeFormat.java
+                    │           │               │   │   ├── StatusCursorPositionFormat.java
+                    │           │               │   │   ├── OkCancelPanel.java
+                    │           │               │   │   ├── HexViewer.java
+                    │           │               │   │   ├── GoToBinaryPositionMode.java
+                    │           │               │   │   ├── GoToBinaryPanel.java
+                    │           │               │   │   └── BinaryStatusApi.java
+                    │           │               │   ├── MainViewerGUI.java
+                    │           │               │   ├── resourcelist
+                    │           │               │   │   ├── ResourceListPane.java
+                    │           │               │   │   ├── ResourceTree.java
+                    │           │               │   │   ├── ResourceListIconRenderer.java
+                    │           │               │   │   ├── ResourceTreeNode.java
+                    │           │               │   │   └── SearchKeyAdapter.java
+                    │           │               │   ├── resourceviewer
+                    │           │               │   │   ├── viewer
+                    │           │               │   │   │   ├── FileViewer.java
+                    │           │               │   │   │   ├── synchronizedscroll
+                    │           │               │   │   │   │   └── MethodData.java
+                    │           │               │   │   │   ├── ResourceViewer.java
+                    │           │               │   │   │   ├── ComponentViewer.java
+                    │           │               │   │   │   └── ClassViewer.java
+                    │           │               │   │   ├── WorkspaceRefreshEvent.java
+                    │           │               │   │   ├── WorkspaceRefresh.java
+                    │           │               │   │   ├── Workspace.java
+                    │           │               │   │   ├── TabbedPane.java
+                    │           │               │   │   ├── TabRemovalEvent.java
+                    │           │               │   │   ├── TabExitButton.java
+                    │           │               │   │   ├── DecompilerSelectionPane.java
+                    │           │               │   │   └── BytecodeViewPanel.java
+                    │           │               │   ├── plugins
+                    │           │               │   │   ├── ReplaceStringsOptions.java
+                    │           │               │   │   ├── MaliciousCodeScannerOptions.java
+                    │           │               │   │   └── GraphicalReflectionKit.java
+                    │           │               │   ├── contextmenu
+                    │           │               │   │   ├── searchbox
+                    │           │               │   │   │   ├── QuickOpen.java
+                    │           │               │   │   │   ├── QuickEdit.java
+                    │           │               │   │   │   └── Open.java
+                    │           │               │   │   ├── resourcelist
+                    │           │               │   │   │   ├── QuickOpen.java
+                    │           │               │   │   │   ├── QuickEdit.java
+                    │           │               │   │   │   ├── Open.java
+                    │           │               │   │   │   ├── New.java
+                    │           │               │   │   │   ├── Expand.java
+                    │           │               │   │   │   ├── Delete.java
+                    │           │               │   │   │   └── Collapse.java
+                    │           │               │   │   ├── ContextMenuType.java
+                    │           │               │   │   ├── ContextMenu.java
+                    │           │               │   │   ├── ContextMenuItem.java
+                    │           │               │   │   └── BuildContextMenuItem.java
+                    │           │               │   ├── util
+                    │           │               │   │   ├── StringMetricsUtil.java
+                    │           │               │   │   ├── DelayTabbedPaneThread.java
+                    │           │               │   │   └── BytecodeViewPanelUpdater.java
+                    │           │               │   ├── theme
+                    │           │               │   │   ├── RSTATheme.java
+                    │           │               │   │   └── LAFTheme.java
+                    │           │               │   ├── resourcesearch
+                    │           │               │   │   ├── SearchType.java
+                    │           │               │   │   ├── SearchRadius.java
+                    │           │               │   │   ├── SearchBoxPane.java
+                    │           │               │   │   └── PerformSearch.java
+                    │           │               │   └── components
+                    │           │               │       ├── AboutWindow.java
+                    │           │               │       ├── ButtonHoverAnimation.java
+                    │           │               │       ├── listeners
+                    │           │               │       │   ├── ReleaseKeyListener.java
+                    │           │               │       │   ├── PressKeyListener.java
+                    │           │               │       │   └── MouseClickedListener.java
+                    │           │               │       ├── MethodsRenderer.java
+                    │           │               │       ├── WaitBusyIcon.java
+                    │           │               │       ├── VisibleComponent.java
+                    │           │               │       ├── SystemConsole.java
+                    │           │               │       ├── SettingsDialog.java
+                    │           │               │       ├── SearchableRSyntaxTextArea.java
+                    │           │               │       ├── SearchableJTextArea.java
+                    │           │               │       ├── RunOptions.java
+                    │           │               │       ├── MultipleChoiceDialog.java
+                    │           │               │       ├── MaxWidthJLabel.java
+                    │           │               │       ├── DecompilerViewComponent.java
+                    │           │               │       ├── JTextAreaOutputStream.java
+                    │           │               │       ├── JMenuItemIcon.java
+                    │           │               │       ├── JFrameConsoleTabbed.java
+                    │           │               │       ├── JFrameConsolePrintStream.java
+                    │           │               │       ├── JFrameConsole.java
+                    │           │               │       ├── ImageJLabel.java
+                    │           │               │       ├── HTMLPane.java
+                    │           │               │       ├── FileChooser.java
+                    │           │               │       ├── ExtendedJOptionPane.java
+                    │           │               │       └── ExportJar.java
+                    │           │               ├── util
+                    │           │               │   ├── FileDrop.java
+                    │           │               │   ├── JarUtils.java
+                    │           │               │   ├── APKTool.java
+                    │           │               │   ├── ZipUtils.java
+                    │           │               │   ├── WindowStateChangeAdapter.java
+                    │           │               │   ├── WindowClosingAdapter.java
+                    │           │               │   ├── SyntaxLanguage.java
+                    │           │               │   ├── SeqAndCount.java
+                    │           │               │   ├── SecurityMan.java
+                    │           │               │   ├── PingBack.java
+                    │           │               │   ├── NewlineOutputStream.java
+                    │           │               │   ├── MiscUtils.java
+                    │           │               │   ├── MethodParser.java
+                    │           │               │   ├── LazyNameUtil.java
+                    │           │               │   ├── KeyEventDispatch.java
+                    │           │               │   ├── JTextAreaUtils.java
+                    │           │               │   ├── JRTExtractor.java
+                    │           │               │   ├── Enjarify.java
+                    │           │               │   ├── EncodeUtils.java
+                    │           │               │   ├── DialogUtils.java
+                    │           │               │   ├── Dex2Jar.java
+                    │           │               │   ├── ClassFileUtils.java
+                    │           │               │   └── BootCheck.java
+                    │           │               ├── bootloader
+                    │           │               │   ├── Boot.java
+                    │           │               │   ├── BootState.java
+                    │           │               │   ├── InitialBootScreen.java
+                    │           │               │   ├── InstallFatJar.java
+                    │           │               │   ├── UpdateCheck.java
+                    │           │               │   ├── resource
+                    │           │               │   │   ├── external
+                    │           │               │   │   │   ├── EmptyExternalResource.java
+                    │           │               │   │   │   ├── ExternalResource.java
+                    │           │               │   │   │   └── ExternalLibrary.java
+                    │           │               │   │   ├── jar
+                    │           │               │   │   │   ├── contents
+                    │           │               │   │   │   │   ├── LocateableJarContents.java
+                    │           │               │   │   │   │   └── JarContents.java
+                    │           │               │   │   │   ├── JarType.java
+                    │           │               │   │   │   ├── JarResource.java
+                    │           │               │   │   │   └── JarInfo.java
+                    │           │               │   │   └── DataContainer.java
+                    │           │               │   ├── classtree
+                    │           │               │   │   ├── ClassHelper.java
+                    │           │               │   │   ├── nullpermablehashmap
+                    │           │               │   │   │   ├── ValueCreator.java
+                    │           │               │   │   │   ├── SetCreator.java
+                    │           │               │   │   │   ├── NullPermeableHashMap.java
+                    │           │               │   │   │   └── NullCreator.java
+                    │           │               │   │   └── ClassTree.java
+                    │           │               │   └── loader
+                    │           │               │       ├── LoaderFactory.java
+                    │           │               │       ├── LibraryClassLoader.java
+                    │           │               │       ├── ILoader.java
+                    │           │               │       ├── ClassPathLoader.java
+                    │           │               │       └── AbstractLoaderFactory.java
+                    │           │               ├── searching
+                    │           │               │   ├── RegexInsnFinder.java
+                    │           │               │   ├── impl
+                    │           │               │   │   ├── RegexSearch.java
+                    │           │               │   │   ├── MethodCallSearch.java
+                    │           │               │   │   ├── MemberWithAnnotationSearch.java
+                    │           │               │   │   ├── LDCSearch.java
+                    │           │               │   │   └── FieldCallSearch.java
+                    │           │               │   ├── SearchPanel.java
+                    │           │               │   ├── LDCSearchTreeNodeResult.java
+                    │           │               │   ├── EnterKeyEvent.java
+                    │           │               │   └── BackgroundSearchThread.java
+                    │           │               ├── CommandLineInput.java
+                    │           │               ├── BytecodeViewer.java
+                    │           │               ├── SettingsSerializer.java
+                    │           │               ├── resources
+                    │           │               │   ├── importing
+                    │           │               │   │   ├── impl
+                    │           │               │   │   │   ├── ClassResourceImporter.java
+                    │           │               │   │   │   ├── APKResourceImporter.java
+                    │           │               │   │   │   ├── DEXResourceImporter.java
+                    │           │               │   │   │   ├── DirectoryResourceImporter.java
+                    │           │               │   │   │   ├── ZipResourceImporter.java
+                    │           │               │   │   │   ├── XAPKResourceImporter.java
+                    │           │               │   │   │   └── FileResourceImporter.java
+                    │           │               │   │   ├── Importer.java
+                    │           │               │   │   ├── ImportResource.java
+                    │           │               │   │   └── Import.java
+                    │           │               │   ├── ResourceContainer.java
+                    │           │               │   ├── exporting
+                    │           │               │   │   ├── impl
+                    │           │               │   │   │   ├── RunnableJarExporter.java
+                    │           │               │   │   │   ├── APKExport.java
+                    │           │               │   │   │   ├── DexExport.java
+                    │           │               │   │   │   └── ZipExport.java
+                    │           │               │   │   └── Exporter.java
+                    │           │               │   ├── ResourceContainerImporter.java
+                    │           │               │   ├── ResourceDecompiling.java
+                    │           │               │   ├── ResourceType.java
+                    │           │               │   ├── IconResources.java
+                    │           │               │   ├── Resource.java
+                    │           │               │   └── ExternalResources.java
+                    │           │               ├── translation
+                    │           │               │   ├── components
+                    │           │               │   │   ├── TranslatedJMenuItem.java
+                    │           │               │   │   ├── TranslatedJMenu.java
+                    │           │               │   │   ├── TranslatedJLabel.java
+                    │           │               │   │   ├── TranslatedJCheckBoxMenuItem.java
+                    │           │               │   │   ├── TranslatedJCheckBox.java
+                    │           │               │   │   ├── TranslatedJButton.java
+                    │           │               │   │   ├── TranslatedDefaultMutableTreeNode.java
+                    │           │               │   │   ├── TranslatedJTextField.java
+                    │           │               │   │   ├── TranslatedJRadioButtonMenuItem.java
+                    │           │               │   │   └── TranslatedVisibleComponent.java
+                    │           │               │   ├── TranslatedStrings.java
+                    │           │               │   ├── TranslatedComponents.java
+                    │           │               │   ├── TranslatedComponentReference.java
+                    │           │               │   └── Language.java
+                    │           │               ├── plugin
+                    │           │               │   ├── preinstalled
+                    │           │               │   │   ├── ZKMStringDecrypter.java
+                    │           │               │   │   ├── ZStringArrayDecrypter.java
+                    │           │               │   │   ├── ViewManifest.java
+                    │           │               │   │   ├── ViewAPKAndroidPermissions.java
+                    │           │               │   │   ├── StackFramesRemover.java
+                    │           │               │   │   ├── ShowMainMethods.java
+                    │           │               │   │   ├── ShowAllStrings.java
+                    │           │               │   │   ├── ReplaceStrings.java
+                    │           │               │   │   ├── MaliciousCodeScanner.java
+                    │           │               │   │   ├── EZInjection.java
+                    │           │               │   │   ├── CodeSequenceDiagram.java
+                    │           │               │   │   ├── ChangeClassFileVersions.java
+                    │           │               │   │   └── AllatoriStringDecrypter.java
+                    │           │               │   ├── strategies
+                    │           │               │   │   ├── RubyPluginLaunchStrategy.java
+                    │           │               │   │   ├── PythonPluginLaunchStrategy.java
+                    │           │               │   │   ├── JavascriptPluginLaunchStrategy.java
+                    │           │               │   │   ├── JavaPluginLaunchStrategy.java
+                    │           │               │   │   ├── GroovyPluginLaunchStrategy.java
+                    │           │               │   │   └── CompiledJavaPluginLaunchStrategy.java
+                    │           │               │   ├── PluginWriter.java
+                    │           │               │   ├── PluginTemplate.java
+                    │           │               │   ├── PluginManager.java
+                    │           │               │   └── PluginLaunchStrategy.java
+                    │           │               ├── obfuscators
+                    │           │               │   ├── mapping
+                    │           │               │   │   ├── data
+                    │           │               │   │   │   ├── MethodMappingData.java
+                    │           │               │   │   │   ├── FieldMappingData.java
+                    │           │               │   │   │   └── MappingData.java
+                    │           │               │   │   ├── RemappingSignatureAdapter.java
+                    │           │               │   │   ├── RemappingMethodAdapter.java
+                    │           │               │   │   ├── RemappingFieldAdapter.java
+                    │           │               │   │   ├── RemappingClassAdapter.java
+                    │           │               │   │   ├── RemappingAnnotationAdapter.java
+                    │           │               │   │   ├── Remapper.java
+                    │           │               │   │   ├── Refactorer.java
+                    │           │               │   │   ├── RefactorMapper.java
+                    │           │               │   │   └── HookMap.java
+                    │           │               │   ├── RenameMethods.java
+                    │           │               │   ├── RenameFields.java
+                    │           │               │   ├── RenameClasses.java
+                    │           │               │   ├── JavaObfuscator.java
+                    │           │               │   └── rename
+                    │           │               │       ├── RenameClasses.java
+                    │           │               │       ├── RenameFields.java
+                    │           │               │       └── RenameMethods.java
+                    │           │               ├── malwarescanner
+                    │           │               │   ├── util
+                    │           │               │   │   ├── SearchableString.java
+                    │           │               │   │   └── MaliciousCodeOptions.java
+                    │           │               │   ├── impl
+                    │           │               │   │   ├── URLScanner.java
+                    │           │               │   │   ├── ReflectionScanner.java
+                    │           │               │   │   ├── NullSecurityManagerScanner.java
+                    │           │               │   │   ├── JavaRuntimeScanner.java
+                    │           │               │   │   ├── JavaNetScanner.java
+                    │           │               │   │   ├── JavaIOScanner.java
+                    │           │               │   │   └── AWTRobotScanner.java
+                    │           │               │   ├── MalwareScan.java
+                    │           │               │   ├── MalwareScanModule.java
+                    │           │               │   ├── MalwareCodeScanner.java
+                    │           │               │   └── CodeScanner.java
+                    │           │               ├── api
+                    │           │               │   ├── PluginConsole.java
+                    │           │               │   ├── Plugin.java
+                    │           │               │   ├── ExceptionUI.java
+                    │           │               │   ├── ClassNodeLoader.java
+                    │           │               │   ├── BytecodeHook.java
+                    │           │               │   ├── BCV.java
+                    │           │               │   ├── ASMUtil.java
+                    │           │               │   └── ASMResourceUtil.java
+                    │           │               ├── Settings.java
+                    │           │               ├── GlobalHotKeys.java
+                    │           │               ├── Constants.java
+                    │           │               ├── Configuration.java
+                    │           │               ├── compilers
+                    │           │               │   ├── impl
+                    │           │               │   │   ├── JavaCompiler.java
+                    │           │               │   │   ├── KrakatauAssembler.java
+                    │           │               │   │   └── SmaliAssembler.java
+                    │           │               │   ├── InternalCompiler.java
+                    │           │               │   └── Compiler.java
+                    │           │               └── decompilers
+                    │           │                   ├── InternalDecompiler.java
+                    │           │                   ├── bytecode
+                    │           │                   │   ├── ClassNodeDecompiler.java
+                    │           │                   │   ├── TypeAndName.java
+                    │           │                   │   ├── PrefixedStringBuilder.java
+                    │           │                   │   ├── MethodNodeDecompiler.java
+                    │           │                   │   ├── InstructionSearcher.java
+                    │           │                   │   ├── InstructionPrinter.java
+                    │           │                   │   ├── InstructionPattern.java
+                    │           │                   │   └── FieldNodeDecompiler.java
+                    │           │                   ├── impl
+                    │           │                   │   ├── FernFlowerDecompiler.java
+                    │           │                   │   ├── SmaliDisassembler.java
+                    │           │                   │   ├── ProcyonDecompiler.java
+                    │           │                   │   ├── KrakatauDisassembler.java
+                    │           │                   │   ├── KrakatauDecompiler.java
+                    │           │                   │   ├── JavapDisassembler.java
+                    │           │                   │   ├── JDGUIDecompiler.java
+                    │           │                   │   ├── JADXDecompiler.java
+                    │           │                   │   ├── CFRDecompiler.java
+                    │           │                   │   ├── BytecodeDisassembler.java
+                    │           │                   │   ├── ASMifierGenerator.java
+                    │           │                   │   └── ASMTextifierDisassembler.java
+                    │           │                   └── jdgui
+                    │           │                       ├── JDGUIClassFileUtil.java
+                    │           │                       ├── DirectoryLoader.java
+                    │           │                       ├── CommonPreferences.java
+                    │           │                       └── PlainTextPrinter.java
+                    │           └── me
+                    │               └── konloch
+                    │                   └── kontainer
+                    │                       └── io
+                    │                           ├── HTTPRequest.java
+                    │                           ├── DiskWriter.java
+                    │                           └── DiskReader.java
                     ├── LICENSE
                     ├── plugins
                     │   ├── python
@@ -480,19 +480,19 @@
                     │   └── groovy
                     │       ├── Skeleton.gy
                     │       └── ExampleStringDecrypter.gy
+                    ├── BCV Icon.ico
                     ├── .gitignore
                     ├── .github
                     │   └── workflows
                     │       └── maven.yml
-                    ├── BCV Icon.png
-                    ├── BCV Icon.ico
                     ├── CONTRIBUTING.md
+                    ├── BCV Icon.png
                     ├── CREDITS.md
+                    ├── README.md
                     ├── install
                     │   ├── launch4j_config.xml
                     │   ├── jar2exe_config.j2e
                     │   ├── _uninstall BCV.bat
                     │   └── _install BCV.bat
                     ├── VERSION
-                    ├── SECURITY.md
-                    └── README.md
+                    └── SECURITY.md
