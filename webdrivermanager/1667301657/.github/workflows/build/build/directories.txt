@@ -1,0 +1,253 @@
+
+└── home
+    └── runner
+        └── work
+            └── webdrivermanager
+                └── webdrivermanager
+                    ├── target
+                    │   ├── jacoco.exec
+                    │   ├── surefire-reports
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.chrome.ChromeBetaWindowsTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.chrome.ChromeVersionTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.chrome.ChromeArmTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.docker.DockerChromeListTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.chrome.ChromeBetaTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.instance.DriverManagerTypeTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.versions.VersionsTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.docker.DockerSeveralBrowsersTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.edge.EdgeReadVersionTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.proxy.ProxyTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.cache.ResolutionCacheTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.chrome.ChromeTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.edge.EdgeMacTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.server.ServerSeleniumTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.forced.ForceOsTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.create.ChromeCapabilitiesCreateTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.docker.DockerFirefoxDevTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.docker.DockerEdgeTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.mirror.MirrorTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.instance.WebDriverTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.path.BrowserPathTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.versions.VersionFilterTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.docker.DockerChromeTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.firefox.FirefoxVersionTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.watcher.GatherLogsFirefoxTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.watcher.DockerGatherLogsFirefoxTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.docker.DockerChromeVersionsTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.iexplorer.IExplorerArchTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.docker.DockerChromeBetaTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.watcher.DisableCspFirefoxTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.edge.EdgeTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.cache.CacheTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.watcher.GatherLogsChromeTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.server.ServerResolverTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.create.ChromeListCreateTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.forced.ForceDownloadTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.docker.DockerSafariTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.watcher.DisplayLogsFirefoxTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.other.LocalPropertiesTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.cache.CustomCacheTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.docker.DockerCustomImageTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.watcher.DockerGatherLogsChromeTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.instance.NewInstanceFromDriverTypeTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.docker.DockerOperaTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.watcher.GatherLogsHeadlessChromeTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.create.ChromeCreateTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.properties.PropertiesTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.edge.EdgeArmTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.versions.BrowserVersionDetectionTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.generic.GenericCreateTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.docker.DockerChromeVncTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.cli.CliDockerTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.edge.EdgeVersionTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.docker.DockerSeveralBrowsersDifferentVersionsTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.docker.DockerFirefoxTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.generic.GenericTest.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.forced.ForceError403Test.xml
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.edge.EdgeLatestVersionTest.xml
+                    │   │   ├── io.github.bonigarcia.wdm.test.chrome.ChromeArmTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.chrome.ChromeBetaTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.docker.DockerSeveralBrowsersDifferentVersionsTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.chrome.ChromeVersionTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.chrome.ChromeBetaWindowsTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.chrome.ChromeTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.docker.DockerFirefoxDevTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.docker.DockerChromeListTest.txt
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.cli.CliResolveDriverTest.xml
+                    │   │   ├── io.github.bonigarcia.wdm.test.cache.ResolutionCacheTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.instance.NewInstanceFromDriverTypeTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.server.ServerSeleniumTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.create.ChromeCapabilitiesCreateTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.create.ChromeListCreateTest.txt
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.create.ChromeRemoteTest.xml
+                    │   │   ├── io.github.bonigarcia.wdm.test.create.ChromeRemoteTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.create.ChromeCreateTest.txt
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.versions.CurrentVersionTest.xml
+                    │   │   ├── io.github.bonigarcia.wdm.test.versions.CurrentVersionTest.txt
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.versions.BrowserVersionTest.xml
+                    │   │   ├── io.github.bonigarcia.wdm.test.versions.BrowserVersionTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.versions.VersionsTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.versions.BrowserVersionDetectionTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.versions.VersionFilterTest.txt
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.versions.IgnoredVersionTest.xml
+                    │   │   ├── io.github.bonigarcia.wdm.test.versions.IgnoredVersionTest.txt
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.generic.GenericBrowserNameTest.xml
+                    │   │   ├── io.github.bonigarcia.wdm.test.generic.GenericBrowserNameTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.server.ServerResolverTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.instance.DriverManagerTypeTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.generic.GenericTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.instance.WebDriverTest.txt
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.safari.SafariTest.xml
+                    │   │   ├── io.github.bonigarcia.wdm.test.safari.SafariTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.watcher.DisplayLogsFirefoxTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.watcher.DockerGatherLogsChromeTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.watcher.GatherLogsHeadlessChromeTest.txt
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.watcher.DisplayLogsChromeTest.xml
+                    │   │   ├── io.github.bonigarcia.wdm.test.watcher.DisplayLogsChromeTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.watcher.GatherLogsFirefoxTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.watcher.DisableCspFirefoxTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.watcher.GatherLogsChromeTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.watcher.DockerGatherLogsFirefoxTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.forced.ForceDownloadTest.txt
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.forced.ForceDockerTest.xml
+                    │   │   ├── io.github.bonigarcia.wdm.test.forced.ForceDockerTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.forced.ForceError403Test.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.forced.ForceOsTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.proxy.ProxyTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.generic.GenericCreateTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.edge.EdgeMacTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.docker.DockerSeveralBrowsersTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.other.NamespaceContextTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.cache.CacheTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.cache.CustomCacheTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.properties.PropertiesTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.docker.DockerOperaTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.docker.DockerEdgeTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.docker.DockerFirefoxTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.docker.DockerChromeTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.docker.DockerChromeVersionsTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.docker.DockerChromeVncTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.docker.DockerCustomImageTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.docker.DockerChromeBetaTest.txt
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.docker.DockerChromeRecordingTest.xml
+                    │   │   ├── io.github.bonigarcia.wdm.test.docker.DockerChromeRecordingTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.docker.DockerSafariTest.txt
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.docker.DockerExecCommandInContainerTest.xml
+                    │   │   ├── io.github.bonigarcia.wdm.test.docker.DockerExecCommandInContainerTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.mirror.MirrorTest.txt
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.other.NamespaceContextTest.xml
+                    │   │   ├── io.github.bonigarcia.wdm.test.edge.EdgeTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.other.LocalPropertiesTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.edge.EdgeLatestVersionTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.edge.EdgeArmTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.edge.EdgeReadVersionTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.edge.EdgeVersionTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.cli.CliDockerTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.cli.CliResolveDriverTest.txt
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.iexplorer.IExplorerVersionTest.xml
+                    │   │   ├── io.github.bonigarcia.wdm.test.iexplorer.IExplorerVersionTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.iexplorer.IExplorerArchTest.txt
+                    │   │   ├── io.github.bonigarcia.wdm.test.firefox.FirefoxVersionTest.txt
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.firefox.FirefoxTest.xml
+                    │   │   ├── io.github.bonigarcia.wdm.test.firefox.FirefoxTest.txt
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.firefox.Firefox90Test.xml
+                    │   │   ├── io.github.bonigarcia.wdm.test.firefox.Firefox90Test.txt
+                    │   │   ├── TEST-io.github.bonigarcia.wdm.test.firefox.FirefoxArmTest.xml
+                    │   │   ├── io.github.bonigarcia.wdm.test.firefox.FirefoxArmTest.txt
+                    │   │   └── io.github.bonigarcia.wdm.test.path.BrowserPathTest.txt
+                    │   ├── classes
+                    │   │   ├── browserwatcher-display-csp-1.2.0.crx
+                    │   │   ├── io
+                    │   │   │   └── github
+                    │   │   │       └── bonigarcia
+                    │   │   │           └── wdm
+                    │   │   │               ├── docker
+                    │   │   │               │   └── DockerContainer$1.class
+                    │   │   │               ├── WdmAgent.class
+                    │   │   │               ├── WdmAgent$DefineTransformer.class
+                    │   │   │               └── webdriver
+                    │   │   │                   └── OptionsWithArguments.class
+                    │   │   ├── logback.xml
+                    │   │   ├── assembly.xml
+                    │   │   └── META-INF
+                    │   │       └── MANIFEST.MF
+                    │   ├── maven-status
+                    │   │   └── maven-compiler-plugin
+                    │   │       ├── testCompile
+                    │   │       │   └── default-testCompile
+                    │   │       │       ├── inputFiles.lst
+                    │   │       │       └── createdFiles.lst
+                    │   │       └── compile
+                    │   │           └── default-compile
+                    │   │               ├── inputFiles.lst
+                    │   │               └── createdFiles.lst
+                    │   └── test-classes
+                    │       └── io
+                    │           └── github
+                    │               └── bonigarcia
+                    │                   └── wdm
+                    │                       └── test
+                    │                           └── watcher
+                    │                               ├── RecordChromeTest.class
+                    │                               └── RecordEdgeTest.class
+                    ├── docs
+                    │   ├── webdrivermanager.pdf
+                    │   ├── img
+                    │   │   ├── wdm-vnc.png
+                    │   │   ├── display-console-logs-example-v3.png
+                    │   │   ├── selenium-webdriver-architecture.png
+                    │   │   ├── info-bg.jpg
+                    │   │   ├── pre-bg.jpg
+                    │   │   ├── sidebar-bg.jpg
+                    │   │   ├── webdrivermanager.png
+                    │   │   ├── wdm.png
+                    │   │   ├── toc-bg.jpg
+                    │   │   └── footer-bg.jpg
+                    │   ├── index.html
+                    │   ├── css
+                    │   │   ├── styles.css
+                    │   │   └── FaceType-PublicaPlay-Regular.woff
+                    │   ├── mirror
+                    │   │   ├── geckodriver
+                    │   │   ├── selenium
+                    │   │   └── operadriver
+                    │   ├── sponsors.html
+                    │   ├── carbon.html
+                    │   └── backers.html
+                    ├── src
+                    │   └── doc
+                    │       └── asciidoc
+                    │           ├── img
+                    │           │   ├── wdm-vnc.png
+                    │           │   ├── display-console-logs-example-v3.png
+                    │           │   ├── selenium-webdriver-architecture.png
+                    │           │   ├── info-bg.jpg
+                    │           │   ├── footer-bg.jpg
+                    │           │   ├── webdrivermanager.png
+                    │           │   ├── wdm.png
+                    │           │   └── toc-bg.jpg
+                    │           ├── index.adoc
+                    │           ├── css
+                    │           │   ├── styles.css
+                    │           │   └── FaceType-PublicaPlay-Regular.woff
+                    │           ├── sponsors.html
+                    │           ├── docinfo.html
+                    │           └── carbon.html
+                    ├── chrome_2022.11.01_11.28.29.301_c87149db541d3455699e065610f9bd06.mp4
+                    ├── chrome_2022.11.01_11.28.59.854_6b69c8bb95ee818c1c3d8d2d467dacc7.mp4
+                    ├── CHANGELOG.md
+                    ├── .github
+                    │   ├── workflows
+                    │   │   ├── mirror.yml
+                    │   │   ├── build.yml
+                    │   │   └── auto-merge.yml
+                    │   ├── dependabot.yml
+                    │   ├── PULL_REQUEST_TEMPLATE.md
+                    │   ├── ISSUE_TEMPLATE.md
+                    │   └── FUNDING.yml
+                    ├── .gitignore
+                    ├── LICENSE
+                    ├── README.md
+                    └── docker
+                        ├── push.sh
+                        └── Dockerfile
