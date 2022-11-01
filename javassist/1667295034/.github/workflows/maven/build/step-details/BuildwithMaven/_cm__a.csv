@@ -1,8 +1,0 @@
-,file_name
-6,/home/runner/work/javassist/javassist/target/surefire-reports/TEST-javassist.JvstTest.xml
-54,/home/runner/work/javassist/javassist/target/test-classes/test/javassist/bytecode/analysis/ScannerTest.class
-55,/home/runner/work/javassist/javassist/target/test-classes/test1/RenameClass2.class
-57,/home/runner/work/javassist/javassist/target/test-classes/test/javassist/convert/InstrumentationTarget$Itr.class
-63,/home/runner/work/javassist/javassist/target/test-classes/scoped/jar1/ScopedAnnotationDefaultUsage.class
-98,/home/runner/work/javassist/javassist/target/runtest/proxy/test/javassist/proxy/ProxySimpleTest$Foo_$$_jvst489_2733.class
-158,/home/runner/work/javassist/javassist/target/test-classes/annotation/Id.class
