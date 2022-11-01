@@ -1,6 +1,5 @@
 ,file_name
-104,/home/runner/work/javassist/javassist/target/surefire-reports/javassist.JvstTest.txt
-106,/home/runner/work/javassist/javassist/target/runtest/proxy/javassist/util/proxy/test_javassist_proxy_ProxySimpleTest$PubProxy2_$$_jvst489_273c.class
-109,/home/runner/work/javassist/javassist/target/runtest/proxy/test/javassist/proxy/ProxySimpleTest$Foo_$$_jvst489_2733.class
-125,/home/runner/work/javassist/javassist/target/test-classes/annotation/Id.class
-143,/home/runner/work/javassist/javassist/target/test-classes/testproxy/sub/TargetSuper.class
+102,/home/runner/work/javassist/javassist/target/surefire-reports/javassist.JvstTest.txt
+104,/home/runner/work/javassist/javassist/target/runtest/proxy/javassist/util/proxy/test_javassist_proxy_ProxySimpleTest$PubProxy2_$$_jvst655_273c.class
+107,/home/runner/work/javassist/javassist/target/runtest/proxy/test/javassist/proxy/ProxySimpleTest$Foo_$$_jvst655_2733.class
+109,/home/runner/work/javassist/javassist/target/runtest/testproxy/BridgeMethod_$$_jvst655_7.class
