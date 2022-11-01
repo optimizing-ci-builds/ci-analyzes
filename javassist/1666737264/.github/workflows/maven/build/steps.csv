@@ -1,5 +1,0 @@
-,step_name,#c,#m,cma,cma_,cmt,cm_a,cm_a_,cm_t,c_ma,c_ma_,c_mt,c_m_a,c_m_a_,c_m_t,time
-0,setup,0,0,0,0,0,0,0,0,0,0,0,1,198,0,0
-1,uses21,36,41,0,36,0,0,0,0,0,5,0,1,157,0,1
-2,SetupJDKmatrixjavaversion,0,0,0,0,0,0,0,0,0,0,0,1,198,0,7
-3,BuildwithMaven,148,158,0,148,0,0,0,0,1,9,0,0,41,0,54
