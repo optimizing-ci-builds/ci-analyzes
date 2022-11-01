@@ -1,12 +1,4 @@
 ,file_name
-1,/home/runner/work/JSqlParser/JSqlParser/target/classes/META-INF/MANIFEST.MF
-187,/home/runner/work/JSqlParser/JSqlParser/target/site/jacoco/net.sf.jsqlparser.schema/Table.java.html
-348,/home/runner/work/JSqlParser/JSqlParser/target/site/jacoco/net.sf.jsqlparser.util.validation.validator/CreateIndexValidator.java.html
-650,/home/runner/work/JSqlParser/JSqlParser/target/site/jacoco/jacoco-resources/report.css
-670,/home/runner/work/JSqlParser/JSqlParser/target/surefire-reports/net.sf.jsqlparser.statement.merge.MergeTest.txt
-868,/home/runner/work/JSqlParser/JSqlParser/target/site/jacoco/net.sf.jsqlparser.parser/CCJSqlParserTreeConstants.java.html
-881,/home/runner/work/JSqlParser/JSqlParser/target/site/jacoco/net.sf.jsqlparser.statement.create.synonym/CreateSynonym.java.html
-887,/home/runner/work/JSqlParser/JSqlParser/target/site/jacoco/net.sf.jsqlparser.statement.drop/Drop.java.html
-1003,/home/runner/work/JSqlParser/JSqlParser/target/site/jacoco/net.sf.jsqlparser.util.cnfexpression/MultiAndExpression.java.html
-1013,/home/runner/work/JSqlParser/JSqlParser/target/site/jacoco/net.sf.jsqlparser.statement/IfElseStatement.java.html
-1211,/home/runner/work/JSqlParser/JSqlParser/target/site/pmd.html
+0,/home/runner/work/JSqlParser/JSqlParser/target/classes/META-INF/MANIFEST.MF
+502,/home/runner/work/JSqlParser/JSqlParser/target/surefire-reports/net.sf.jsqlparser.statement.merge.MergeTest.txt
+1187,/home/runner/work/JSqlParser/JSqlParser/target/site/pmd.html
