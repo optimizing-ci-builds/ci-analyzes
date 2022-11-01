@@ -1,0 +1,397 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/enjarify-4.zip,-1,1700,1676,Not provided,uses20,uses20
+1,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/enjarify-4.zip,-1,3296,3272,Not provided,uses20,uses20
+2,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/Krakatau-12.zip,-1,3195,-1,Not provided,uses20,Not provided
+3,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/Krakatau-11.zip,-1,1670,-1,Not provided,uses20,Not provided
+4,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/MainViewerGUI.java,-1,2282,-1,Not provided,uses20,Not provided
+5,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/util/FileDrop.java,-1,3112,3108,Not provided,uses20,uses20
+6,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/LICENSES/BCV.txt,-1,3207,3203,Not provided,uses20,uses20
+7,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/hexviewer/ValuesPanel.java,-1,2497,2493,Not provided,uses20,uses20
+8,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/LICENSES/jd-gui-license.txt,-1,3249,3245,Not provided,uses20,uses20
+9,/home/runner/work/bytecode-viewer/bytecode-viewer/LICENSE,-1,1617,1613,Not provided,uses20,uses20
+10,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/LICENSES/krakata-license.txt,-1,3258,3255,Not provided,uses20,uses20
+11,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/SettingsSerializer.java,-1,1989,1986,Not provided,uses20,uses20
+12,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/resourcelist/ResourceListPane.java,-1,2522,2519,Not provided,uses20,uses20
+13,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/searching/RegexInsnFinder.java,-1,2990,2987,Not provided,uses20,uses20
+14,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/BytecodeViewer.java,-1,1964,1959,Not provided,uses20,uses20
+15,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/hexviewer/BinaryStatusPanel.java,-1,2467,2464,Not provided,uses20,uses20
+16,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/georgian.json,-1,3424,3421,Not provided,uses20,uses20
+17,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/resources/importing/Importer.java,-1,2941,2939,Not provided,uses20,uses20
+18,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/resources/importing/impl/APKResourceImporter.java,-1,2947,-1,Not provided,uses20,Not provided
+19,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/resources/importing/ImportResource.java,-1,2937,2935,Not provided,uses20,uses20
+20,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/resources/importing/Import.java,-1,2933,-1,Not provided,uses20,Not provided
+21,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/resources/exporting/impl/ZipExport.java,-1,2927,2925,Not provided,uses20,uses20
+22,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/resources/exporting/impl/RunnableJarExporter.java,-1,2923,2921,Not provided,uses20,uses20
+23,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/resources/exporting/impl/DexExport.java,-1,2919,2917,Not provided,uses20,uses20
+24,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/resources/exporting/impl/APKExport.java,-1,2915,-1,Not provided,uses20,Not provided
+25,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/resources/exporting/Exporter.java,-1,2909,2907,Not provided,uses20,uses20
+26,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/resources/exporting/Export.java,-1,2905,-1,Not provided,uses20,Not provided
+27,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/resources/ResourceType.java,-1,2899,2897,Not provided,uses20,uses20
+28,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/resources/ResourceDecompiling.java,-1,2895,2893,Not provided,uses20,uses20
+29,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/resources/ResourceContainerImporter.java,-1,2891,2889,Not provided,uses20,uses20
+30,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/resources/ResourceContainer.java,-1,2887,2885,Not provided,uses20,uses20
+31,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/resources/importing/impl/ClassResourceImporter.java,-1,2951,2949,Not provided,uses20,uses20
+32,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/searching/BackgroundSearchThread.java,-1,2977,-1,Not provided,uses20,Not provided
+33,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/resources/importing/impl/DEXResourceImporter.java,-1,2955,2953,Not provided,uses20,uses20
+34,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/translation/Language.java,-1,3022,-1,Not provided,uses20,Not provided
+35,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/translation/components/TranslatedJRadioButtonMenuItem.java,-1,3068,3066,Not provided,uses20,uses20
+36,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/translation/components/TranslatedJMenuItem.java,-1,3064,3062,Not provided,uses20,uses20
+37,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/translation/components/TranslatedJMenu.java,-1,3060,3058,Not provided,uses20,uses20
+38,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/translation/components/TranslatedJLabel.java,-1,3056,3054,Not provided,uses20,uses20
+39,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/translation/components/TranslatedJCheckBoxMenuItem.java,-1,3052,3050,Not provided,uses20,uses20
+40,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/translation/components/TranslatedJCheckBox.java,-1,3048,3046,Not provided,uses20,uses20
+41,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/translation/components/TranslatedJButton.java,-1,3044,3042,Not provided,uses20,uses20
+42,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/translation/components/TranslatedDefaultMutableTreeNode.java,-1,3040,-1,Not provided,uses20,Not provided
+43,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/translation/TranslatedStrings.java,-1,3034,3032,Not provided,uses20,uses20
+44,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/translation/TranslatedComponents.java,-1,3030,3028,Not provided,uses20,uses20
+45,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/translation/TranslatedComponentReference.java,-1,3026,3024,Not provided,uses20,uses20
+46,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/searching/impl/RegexSearch.java,-1,3016,3014,Not provided,uses20,uses20
+47,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/resources/importing/impl/DirectoryResourceImporter.java,-1,2959,2957,Not provided,uses20,uses20
+48,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/searching/impl/MethodCallSearch.java,-1,3012,3010,Not provided,uses20,uses20
+49,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/searching/impl/MemberWithAnnotationSearch.java,-1,3008,3006,Not provided,uses20,uses20
+50,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/searching/impl/LDCSearch.java,-1,3004,3002,Not provided,uses20,uses20
+51,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/searching/impl/FieldCallSearch.java,-1,3000,-1,Not provided,uses20,Not provided
+52,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/searching/SearchPanel.java,-1,2994,2992,Not provided,uses20,uses20
+53,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/searching/LDCSearchTreeNodeResult.java,-1,2985,2983,Not provided,uses20,uses20
+54,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/searching/EnterKeyEvent.java,-1,2981,2979,Not provided,uses20,uses20
+55,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/resources/IconResources.java,-1,2879,2877,Not provided,uses20,uses20
+56,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/resources/importing/impl/ZipResourceImporter.java,-1,2971,2969,Not provided,uses20,uses20
+57,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/resources/importing/impl/XAPKResourceImporter.java,-1,2967,2965,Not provided,uses20,uses20
+58,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/resources/importing/impl/FileResourceImporter.java,-1,2963,2961,Not provided,uses20,uses20
+59,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/resources/Resource.java,-1,2883,2881,Not provided,uses20,uses20
+60,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/plugin/preinstalled/ZStringArrayDecrypter.java,-1,2845,2843,Not provided,uses20,uses20
+61,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/resources/ExternalResources.java,-1,2875,-1,Not provided,uses20,Not provided
+62,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/obfuscators/mapping/data/MappingData.java,-1,2755,2753,Not provided,uses20,uses20
+63,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/obfuscators/mapping/RemappingSignatureAdapter.java,-1,2745,2743,Not provided,uses20,uses20
+64,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/obfuscators/mapping/RemappingMethodAdapter.java,-1,2741,2739,Not provided,uses20,uses20
+65,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/obfuscators/mapping/RemappingFieldAdapter.java,-1,2737,2735,Not provided,uses20,uses20
+66,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/obfuscators/mapping/RemappingClassAdapter.java,-1,2733,2731,Not provided,uses20,uses20
+67,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/obfuscators/mapping/RemappingAnnotationAdapter.java,-1,2729,2727,Not provided,uses20,uses20
+68,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/obfuscators/mapping/Remapper.java,-1,2725,2723,Not provided,uses20,uses20
+69,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/obfuscators/mapping/Refactorer.java,-1,2721,2719,Not provided,uses20,uses20
+70,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/obfuscators/mapping/RefactorMapper.java,-1,2717,2715,Not provided,uses20,uses20
+71,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/obfuscators/mapping/HookMap.java,-1,2713,-1,Not provided,uses20,Not provided
+72,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/obfuscators/RenameMethods.java,-1,2707,2705,Not provided,uses20,uses20
+73,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/obfuscators/RenameFields.java,-1,2703,2701,Not provided,uses20,uses20
+74,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/obfuscators/RenameClasses.java,-1,2699,2697,Not provided,uses20,uses20
+75,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/obfuscators/JavaObfuscator.java,-1,2695,-1,Not provided,uses20,Not provided
+76,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/malwarescanner/util/SearchableString.java,-1,2689,2687,Not provided,uses20,uses20
+77,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/malwarescanner/util/MaliciousCodeOptions.java,-1,2685,-1,Not provided,uses20,Not provided
+78,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/malwarescanner/impl/URLScanner.java,-1,2679,2677,Not provided,uses20,uses20
+79,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/malwarescanner/impl/ReflectionScanner.java,-1,2675,2673,Not provided,uses20,uses20
+80,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/malwarescanner/impl/NullSecurityManagerScanner.java,-1,2671,2669,Not provided,uses20,uses20
+81,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/malwarescanner/impl/JavaRuntimeScanner.java,-1,2667,2665,Not provided,uses20,uses20
+82,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/malwarescanner/impl/JavaNetScanner.java,-1,2663,2661,Not provided,uses20,uses20
+83,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/malwarescanner/impl/JavaIOScanner.java,-1,2659,2657,Not provided,uses20,uses20
+84,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/malwarescanner/impl/AWTRobotScanner.java,-1,2655,-1,Not provided,uses20,Not provided
+85,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/malwarescanner/MalwareScanModule.java,-1,2649,2647,Not provided,uses20,uses20
+86,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/obfuscators/mapping/data/FieldMappingData.java,-1,2751,-1,Not provided,uses20,Not provided
+87,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/obfuscators/mapping/data/MethodMappingData.java,-1,2759,2757,Not provided,uses20,uses20
+88,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/plugin/strategies/RubyPluginLaunchStrategy.java,-1,2869,2867,Not provided,uses20,uses20
+89,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/obfuscators/rename/RenameClasses.java,-1,2765,-1,Not provided,uses20,Not provided
+90,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/plugin/strategies/PythonPluginLaunchStrategy.java,-1,2865,2863,Not provided,uses20,uses20
+91,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/plugin/strategies/JavascriptPluginLaunchStrategy.java,-1,2861,2859,Not provided,uses20,uses20
+92,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/plugin/strategies/JavaPluginLaunchStrategy.java,-1,2857,2855,Not provided,uses20,uses20
+93,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/plugin/strategies/GroovyPluginLaunchStrategy.java,-1,2853,2851,Not provided,uses20,uses20
+94,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/translation/components/TranslatedVisibleComponent.java,-1,3076,3074,Not provided,uses20,uses20
+95,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/plugin/preinstalled/ZKMStringDecrypter.java,-1,2841,2839,Not provided,uses20,uses20
+96,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/plugin/preinstalled/ViewManifest.java,-1,2837,2835,Not provided,uses20,uses20
+97,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/plugin/preinstalled/ViewAPKAndroidPermissions.java,-1,2833,2831,Not provided,uses20,uses20
+98,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/plugin/preinstalled/StackFramesRemover.java,-1,2829,2827,Not provided,uses20,uses20
+99,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/plugin/preinstalled/ShowMainMethods.java,-1,2825,2823,Not provided,uses20,uses20
+100,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/plugin/preinstalled/ShowAllStrings.java,-1,2821,2819,Not provided,uses20,uses20
+101,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/plugin/preinstalled/ReplaceStrings.java,-1,2817,2815,Not provided,uses20,uses20
+102,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/plugin/preinstalled/MaliciousCodeScanner.java,-1,2813,2811,Not provided,uses20,uses20
+103,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/plugin/preinstalled/EZInjection.java,-1,2809,2807,Not provided,uses20,uses20
+104,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/plugin/preinstalled/CodeSequenceDiagram.java,-1,2805,2803,Not provided,uses20,uses20
+105,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/plugin/preinstalled/ChangeClassFileVersions.java,-1,2801,2799,Not provided,uses20,uses20
+106,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/plugin/preinstalled/AllatoriStringDecrypter.java,-1,2797,-1,Not provided,uses20,Not provided
+107,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/plugin/PluginWriter.java,-1,2791,2789,Not provided,uses20,uses20
+108,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/plugin/PluginTemplate.java,-1,2787,2785,Not provided,uses20,uses20
+109,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/plugin/PluginManager.java,-1,2783,2781,Not provided,uses20,uses20
+110,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/plugin/PluginLaunchStrategy.java,-1,2779,-1,Not provided,uses20,Not provided
+111,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/obfuscators/rename/RenameMethods.java,-1,2773,2771,Not provided,uses20,uses20
+112,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/obfuscators/rename/RenameFields.java,-1,2769,2767,Not provided,uses20,uses20
+113,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/translation/components/TranslatedJTextField.java,-1,3072,3070,Not provided,uses20,uses20
+114,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/util/JTextAreaUtils.java,-1,3120,3118,Not provided,uses20,uses20
+115,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/util/APKTool.java,-1,3082,-1,Not provided,uses20,Not provided
+116,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/greek.json,-1,3432,3430,Not provided,uses20,uses20
+117,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/japanese.json,-1,3474,3472,Not provided,uses20,uses20
+118,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/italian.json,-1,3470,3468,Not provided,uses20,uses20
+119,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/indonesian.json,-1,3466,3464,Not provided,uses20,uses20
+120,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/hungarian.json,-1,3462,3460,Not provided,uses20,uses20
+121,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/html/intro.mandarin.html,-1,3458,3456,Not provided,uses20,uses20
+122,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/html/intro.german.html,-1,3454,3452,Not provided,uses20,uses20
+123,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/html/intro.english.html,-1,3450,-1,Not provided,uses20,Not provided
+124,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/hindi.json,-1,3444,3442,Not provided,uses20,uses20
+125,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/hebrew.json,-1,3440,3438,Not provided,uses20,uses20
+126,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/hausa.json,-1,3436,3434,Not provided,uses20,uses20
+127,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/german.json,-1,3428,3426,Not provided,uses20,uses20
+128,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/korean.json,-1,3482,3480,Not provided,uses20,uses20
+129,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/french.json,-1,3419,3417,Not provided,uses20,uses20
+130,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/finnish.json,-1,3415,3413,Not provided,uses20,uses20
+131,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/farsi.json,-1,3411,3409,Not provided,uses20,uses20
+132,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/estonian.json,-1,3407,3405,Not provided,uses20,uses20
+133,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/english.json,-1,3403,3401,Not provided,uses20,uses20
+134,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/danish.json,-1,3399,3397,Not provided,uses20,uses20
+135,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/czech.json,-1,3395,3393,Not provided,uses20,uses20
+136,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/croatian.json,-1,3391,3389,Not provided,uses20,uses20
+137,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/bulgarian.json,-1,3387,3385,Not provided,uses20,uses20
+138,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/bengali.json,-1,3383,3381,Not provided,uses20,uses20
+139,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/javanese.json,-1,3478,3476,Not provided,uses20,uses20
+140,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/lativan.json,-1,3486,3484,Not provided,uses20,uses20
+141,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/the/bytecode/club/bytecodeviewer/gui/hexviewer/resources/bined-linewrap.png,-1,3371,3369,Not provided,uses20,uses20
+142,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/spanish.json,-1,3538,3536,Not provided,uses20,uses20
+143,/home/runner/work/bytecode-viewer/bytecode-viewer/src/test/java/the/bytecode/club/bytecodeviewer/IconDemo.java,-1,3571,3567,Not provided,uses20,uses20
+144,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/vietnamese.json,-1,3562,3560,Not provided,uses20,uses20
+145,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/ukrainian.json,-1,3558,3556,Not provided,uses20,uses20
+146,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/turkish.json,-1,3554,3552,Not provided,uses20,uses20
+147,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/thai.json,-1,3550,3548,Not provided,uses20,uses20
+148,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/swedish.json,-1,3546,3544,Not provided,uses20,uses20
+149,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/swahili.json,-1,3542,3540,Not provided,uses20,uses20
+150,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/slovenian.json,-1,3534,3532,Not provided,uses20,uses20
+151,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/lithuanian.json,-1,3490,3488,Not provided,uses20,uses20
+152,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/slovak.json,-1,3530,3528,Not provided,uses20,uses20
+153,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/serbian.json,-1,3526,3524,Not provided,uses20,uses20
+154,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/russian.json,-1,3522,3520,Not provided,uses20,uses20
+155,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/romanian.json,-1,3518,3516,Not provided,uses20,uses20
+156,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/portuguese.json,-1,3514,3512,Not provided,uses20,uses20
+157,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/polish.json,-1,3510,3508,Not provided,uses20,uses20
+158,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/norwegian.json,-1,3506,3504,Not provided,uses20,uses20
+159,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/nederlands.json,-1,3502,3500,Not provided,uses20,uses20
+160,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/mandarin.json,-1,3498,3496,Not provided,uses20,uses20
+161,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/malay.json,-1,3494,3492,Not provided,uses20,uses20
+162,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/translations/arabic.json,-1,3379,-1,Not provided,uses20,Not provided
+163,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/templates/Template_Plugin.js,-1,3364,3362,Not provided,uses20,uses20
+164,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/util/BootCheck.java,-1,3086,3084,Not provided,uses20,uses20
+165,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/util/MiscUtils.java,-1,3140,3138,Not provided,uses20,uses20
+166,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/LICENSES/apktool-license.txt,-1,3211,3209,Not provided,uses20,uses20
+167,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/LICENSES/ASM.txt,-1,3201,-1,Not provided,uses20,Not provided
+168,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/util/ZipUtils.java,-1,3172,3170,Not provided,uses20,uses20
+169,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/util/WindowStateChangeAdapter.java,-1,3168,3166,Not provided,uses20,uses20
+170,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/util/WindowClosingAdapter.java,-1,3164,3162,Not provided,uses20,uses20
+171,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/util/SyntaxLanguage.java,-1,3160,3158,Not provided,uses20,uses20
+172,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/util/SeqAndCount.java,-1,3156,3154,Not provided,uses20,uses20
+173,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/util/SecurityMan.java,-1,3152,3150,Not provided,uses20,uses20
+174,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/util/PingBack.java,-1,3148,3146,Not provided,uses20,uses20
+175,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/util/NewlineOutputStream.java,-1,3144,3142,Not provided,uses20,uses20
+176,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/util/MethodParser.java,-1,3136,3134,Not provided,uses20,uses20
+177,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/LICENSES/cfr-license.txt,-1,3219,3217,Not provided,uses20,uses20
+178,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/util/LazyNameUtil.java,-1,3132,3130,Not provided,uses20,uses20
+179,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/util/KeyEventDispatch.java,-1,3128,3126,Not provided,uses20,uses20
+180,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/util/JarUtils.java,-1,3124,3122,Not provided,uses20,uses20
+181,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/malwarescanner/MalwareCodeScanner.java,-1,2641,2639,Not provided,uses20,uses20
+182,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/util/JRTExtractor.java,-1,3116,3114,Not provided,uses20,uses20
+183,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/util/Enjarify.java,-1,3106,3104,Not provided,uses20,uses20
+184,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/util/EncodeUtils.java,-1,3102,3100,Not provided,uses20,uses20
+185,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/util/DialogUtils.java,-1,3098,3096,Not provided,uses20,uses20
+186,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/util/Dex2Jar.java,-1,3094,3092,Not provided,uses20,uses20
+187,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/util/ClassFileUtils.java,-1,3090,3088,Not provided,uses20,uses20
+188,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/LICENSES/byteanalysis-license.txt,-1,3215,3213,Not provided,uses20,uses20
+189,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/LICENSES/commons-license.txt,-1,3223,3221,Not provided,uses20,uses20
+190,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/templates/Template_Plugin.java,-1,3360,-1,Not provided,uses20,Not provided
+191,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/gui/bcv_icon.png,-1,3314,3312,Not provided,uses20,uses20
+192,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/gui/previous.svg,-1,3354,3352,Not provided,uses20,uses20
+193,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/gui/package.svg,-1,3350,3348,Not provided,uses20,uses20
+194,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/gui/next.svg,-1,3346,3344,Not provided,uses20,uses20
+195,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/gui/javaClass.svg,-1,3342,3340,Not provided,uses20,uses20
+196,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/gui/java.svg,-1,3338,3336,Not provided,uses20,uses20
+197,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/gui/jarDirectory.svg,-1,3334,3332,Not provided,uses20,uses20
+198,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/gui/decodedResource.svg,-1,3330,3328,Not provided,uses20,uses20
+199,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/gui/cs.svg,-1,3326,3324,Not provided,uses20,uses20
+200,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/gui/cpp.svg,-1,3322,3320,Not provided,uses20,uses20
+201,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/gui/config.svg,-1,3318,3316,Not provided,uses20,uses20
+202,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/gui/bat.svg,-1,3310,3308,Not provided,uses20,uses20
+203,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/LICENSES/dex2jar-license.txt,-1,3227,3225,Not provided,uses20,uses20
+204,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/gui/archive.svg,-1,3306,3304,Not provided,uses20,uses20
+205,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/gui/android.svg,-1,3302,-1,Not provided,uses20,Not provided
+206,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/LICENSES/smali.txt,-1,3270,3268,Not provided,uses20,uses20
+207,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/LICENSES/rsyntaxtextarea-license.txt,-1,3266,3264,Not provided,uses20,uses20
+208,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/LICENSES/procyon-license.txt,-1,3262,3260,Not provided,uses20,uses20
+209,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/LICENSES/jgraphx-license.txt,-1,3253,3251,Not provided,uses20,uses20
+210,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/LICENSES/janino-license.txt,-1,3243,3241,Not provided,uses20,uses20
+211,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/LICENSES/imgscalr-license.txt,-1,3239,3237,Not provided,uses20,uses20
+212,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/LICENSES/fernflower-license.txt,-1,3235,3233,Not provided,uses20,uses20
+213,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/resources/LICENSES/enjarif-license.txt,-1,3231,3229,Not provided,uses20,uses20
+214,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/malwarescanner/MalwareScan.java,-1,2645,2643,Not provided,uses20,uses20
+215,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/resourceviewer/viewer/ComponentViewer.java,-1,2596,2594,Not provided,uses20,uses20
+216,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/util/StringMetricsUtil.java,-1,2633,2631,Not provided,uses20,uses20
+217,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/compilers/Compiler.java,-1,2145,-1,Not provided,uses20,Not provided
+218,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/api/ExceptionUI.java,-1,2015,2013,Not provided,uses20,uses20
+219,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/api/ClassNodeLoader.java,-1,2011,2009,Not provided,uses20,uses20
+220,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/api/BytecodeHook.java,-1,2007,2005,Not provided,uses20,uses20
+221,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/api/BCV.java,-1,2003,2001,Not provided,uses20,uses20
+222,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/api/ASMUtil.java,-1,1999,1997,Not provided,uses20,uses20
+223,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/api/ASMResourceUtil.java,-1,1995,-1,Not provided,uses20,Not provided
+224,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/Settings.java,-1,1984,1982,Not provided,uses20,uses20
+225,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/GlobalHotKeys.java,-1,1980,1978,Not provided,uses20,uses20
+226,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/Constants.java,-1,1976,1974,Not provided,uses20,uses20
+227,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/Configuration.java,-1,1972,1970,Not provided,uses20,uses20
+228,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/CommandLineInput.java,-1,1968,1966,Not provided,uses20,uses20
+229,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/me/konloch/kontainer/io/HTTPRequest.java,-1,1954,1952,Not provided,uses20,uses20
+230,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/me/konloch/kontainer/io/DiskWriter.java,-1,1950,1947,Not provided,uses20,uses20
+231,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/me/konloch/kontainer/io/DiskReader.java,-1,1944,1942,Not provided,uses20,uses20
+232,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/ruby/Skeleton.rb,-1,1933,-1,Not provided,uses20,Not provided
+233,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/python/skeleton.py,-1,1927,-1,Not provided,uses20,Not provided
+234,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/javascript/Skeleton.js,-1,1921,1919,Not provided,uses20,uses20
+235,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/javascript/ExampleStringDecrypter.js,-1,1917,1915,Not provided,uses20,uses20
+236,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/javascript/ExamplePrintClassesPlugin.js,-1,1913,-1,Not provided,uses20,Not provided
+237,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/java/XposedGenerator.java,-1,1907,1905,Not provided,uses20,uses20
+238,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/java/Skeleton.java,-1,1903,1901,Not provided,uses20,uses20
+239,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/java/ExampleStringDecrypter.java,-1,1899,-1,Not provided,uses20,Not provided
+240,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/api/Plugin.java,-1,2019,2017,Not provided,uses20,uses20
+241,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/api/PluginConsole.java,-1,2023,2021,Not provided,uses20,uses20
+242,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/bootloader/Boot.java,-1,2029,-1,Not provided,uses20,Not provided
+243,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/bootloader/loader/ILoader.java,-1,2087,2085,Not provided,uses20,uses20
+244,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/bootloader/resource/jar/contents/JarContents.java,-1,2135,-1,Not provided,uses20,Not provided
+245,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/bootloader/resource/jar/JarType.java,-1,2129,2127,Not provided,uses20,uses20
+246,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/bootloader/resource/jar/JarResource.java,-1,2125,2123,Not provided,uses20,uses20
+247,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/bootloader/resource/jar/JarInfo.java,-1,2121,-1,Not provided,uses20,Not provided
+248,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/bootloader/resource/external/ExternalResource.java,-1,2115,2113,Not provided,uses20,uses20
+249,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/bootloader/resource/external/ExternalLibrary.java,-1,2111,2109,Not provided,uses20,uses20
+250,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/bootloader/resource/external/EmptyExternalResource.java,-1,2107,-1,Not provided,uses20,Not provided
+251,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/bootloader/resource/DataContainer.java,-1,2101,-1,Not provided,uses20,Not provided
+252,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/bootloader/loader/LoaderFactory.java,-1,2095,2093,Not provided,uses20,uses20
+253,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/bootloader/loader/LibraryClassLoader.java,-1,2091,2089,Not provided,uses20,uses20
+254,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/bootloader/loader/ClassPathLoader.java,-1,2083,2081,Not provided,uses20,uses20
+255,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/bootloader/BootState.java,-1,2033,2031,Not provided,uses20,uses20
+256,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/bootloader/loader/AbstractLoaderFactory.java,-1,2079,-1,Not provided,uses20,Not provided
+257,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/bootloader/classtree/nullpermablehashmap/ValueCreator.java,-1,2073,2071,Not provided,uses20,uses20
+258,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/bootloader/classtree/nullpermablehashmap/SetCreator.java,-1,2069,2067,Not provided,uses20,uses20
+259,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/bootloader/classtree/nullpermablehashmap/NullPermeableHashMap.java,-1,2065,2063,Not provided,uses20,uses20
+260,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/bootloader/classtree/nullpermablehashmap/NullCreator.java,-1,2061,-1,Not provided,uses20,Not provided
+261,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/bootloader/classtree/ClassTree.java,-1,2055,2053,Not provided,uses20,uses20
+262,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/bootloader/classtree/ClassHelper.java,-1,2051,-1,Not provided,uses20,Not provided
+263,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/bootloader/UpdateCheck.java,-1,2045,2043,Not provided,uses20,uses20
+264,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/bootloader/InstallFatJar.java,-1,2041,2039,Not provided,uses20,uses20
+265,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/bootloader/InitialBootScreen.java,-1,2037,2035,Not provided,uses20,uses20
+266,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/groovy/Skeleton.gy,-1,1893,1891,Not provided,uses20,uses20
+267,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/groovy/ExampleStringDecrypter.gy,-1,1889,-1,Not provided,uses20,Not provided
+268,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/org/jd/jd-gui/maven-metadata.xml.sha1,-1,1883,1881,Not provided,uses20,uses20
+269,/home/runner/work/bytecode-viewer/bytecode-viewer/.gitignore,-1,1595,1593,Not provided,uses20,uses20
+270,/home/runner/work/bytecode-viewer/bytecode-viewer/.github/workflows/maven.yml,-1,1587,1585,Not provided,uses20,uses20
+271,/home/runner/work/bytecode-viewer/bytecode-viewer/BCV Icon.png,-1,1603,1601,Not provided,uses20,uses20
+272,/home/runner/work/bytecode-viewer/bytecode-viewer/BCV Icon.ico,-1,1599,1597,Not provided,uses20,uses20
+273,/home/runner/work/bytecode-viewer/bytecode-viewer/CONTRIBUTING.md,-1,1607,1605,Not provided,uses20,uses20
+274,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/org/jd/jd-gui/maven-metadata.xml.md5,-1,1879,1877,Not provided,uses20,uses20
+275,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/eu/bibl/banalysis/byteanalysis/1.0bcv/byteanalysis-1.0bcv.pom.md5,-1,1730,1728,Not provided,uses20,uses20
+276,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/org/jd/jd-gui/maven-metadata.xml,-1,1875,1873,Not provided,uses20,uses20
+277,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/org/jd/jd-gui/1.6.6bcv/jd-gui-1.6.6bcv.pom.md5,-1,1867,1865,Not provided,uses20,uses20
+278,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/org/jd/jd-gui/1.6.6bcv/jd-gui-1.6.6bcv.jar.md5,-1,1855,1853,Not provided,uses20,uses20
+279,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/eu/bibl/banalysis/byteanalysis/maven-metadata.xml.sha1,-1,1746,1744,Not provided,uses20,uses20
+280,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/eu/bibl/banalysis/byteanalysis/maven-metadata.xml.md5,-1,1742,1740,Not provided,uses20,uses20
+281,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/eu/bibl/banalysis/byteanalysis/maven-metadata.xml,-1,1738,1736,Not provided,uses20,uses20
+282,/home/runner/work/bytecode-viewer/bytecode-viewer/CREDITS.md,-1,1611,1609,Not provided,uses20,uses20
+283,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/eu/bibl/banalysis/byteanalysis/1.0bcv/byteanalysis-1.0bcv.jar.md5,-1,1718,1716,Not provided,uses20,uses20
+284,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/README.md,-1,1674,1672,Not provided,uses20,uses20
+285,/home/runner/work/bytecode-viewer/bytecode-viewer/install/launch4j_config.xml,-1,1647,1645,Not provided,uses20,uses20
+286,/home/runner/work/bytecode-viewer/bytecode-viewer/install/jar2exe_config.j2e,-1,1643,1641,Not provided,uses20,uses20
+287,/home/runner/work/bytecode-viewer/bytecode-viewer/install/_uninstall BCV.bat,-1,1639,1637,Not provided,uses20,uses20
+288,/home/runner/work/bytecode-viewer/bytecode-viewer/install/_install BCV.bat,-1,1635,-1,Not provided,uses20,Not provided
+289,/home/runner/work/bytecode-viewer/bytecode-viewer/VERSION,-1,1629,1627,Not provided,uses20,uses20
+290,/home/runner/work/bytecode-viewer/bytecode-viewer/SECURITY.md,-1,1625,1623,Not provided,uses20,uses20
+291,/home/runner/work/bytecode-viewer/bytecode-viewer/README.md,-1,1621,1619,Not provided,uses20,uses20
+292,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/bootloader/resource/jar/contents/LocateableJarContents.java,-1,2139,2137,Not provided,uses20,uses20
+293,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/compilers/InternalCompiler.java,-1,2149,2147,Not provided,uses20,uses20
+294,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/util/DelayTabbedPaneThread.java,-1,2629,2627,Not provided,uses20,uses20
+295,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/compilers/impl/JavaCompiler.java,-1,2155,-1,Not provided,uses20,Not provided
+296,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/hexviewer/StatusDocumentSizeFormat.java,-1,2491,2489,Not provided,uses20,uses20
+297,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/hexviewer/StatusCursorPositionFormat.java,-1,2487,2485,Not provided,uses20,uses20
+298,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/hexviewer/OkCancelPanel.java,-1,2483,2481,Not provided,uses20,uses20
+299,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/hexviewer/HexViewer.java,-1,2479,2477,Not provided,uses20,uses20
+300,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/hexviewer/GoToBinaryPositionMode.java,-1,2475,2473,Not provided,uses20,uses20
+301,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/hexviewer/GoToBinaryPanel.java,-1,2471,2469,Not provided,uses20,uses20
+302,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/hexviewer/BinaryStatusApi.java,-1,2462,2460,Not provided,uses20,uses20
+303,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/hexviewer/BaseSwitchableSpinnerPanel.java,-1,2458,-1,Not provided,uses20,Not provided
+304,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/contextmenu/searchbox/QuickOpen.java,-1,2452,2450,Not provided,uses20,uses20
+305,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/contextmenu/searchbox/QuickEdit.java,-1,2448,2446,Not provided,uses20,uses20
+306,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/contextmenu/searchbox/Open.java,-1,2444,-1,Not provided,uses20,Not provided
+307,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/contextmenu/resourcelist/QuickOpen.java,-1,2438,2436,Not provided,uses20,uses20
+308,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/contextmenu/resourcelist/QuickEdit.java,-1,2434,2432,Not provided,uses20,uses20
+309,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/contextmenu/resourcelist/Open.java,-1,2430,2428,Not provided,uses20,uses20
+310,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/contextmenu/resourcelist/New.java,-1,2426,2424,Not provided,uses20,uses20
+311,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/contextmenu/resourcelist/Expand.java,-1,2422,2420,Not provided,uses20,uses20
+312,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/contextmenu/resourcelist/Delete.java,-1,2418,2416,Not provided,uses20,uses20
+313,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/contextmenu/resourcelist/Collapse.java,-1,2414,-1,Not provided,uses20,Not provided
+314,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/contextmenu/ContextMenuType.java,-1,2408,2406,Not provided,uses20,uses20
+315,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/contextmenu/ContextMenuItem.java,-1,2404,2402,Not provided,uses20,uses20
+316,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/contextmenu/ContextMenu.java,-1,2400,2398,Not provided,uses20,uses20
+317,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/contextmenu/BuildContextMenuItem.java,-1,2396,-1,Not provided,uses20,Not provided
+318,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/components/listeners/ReleaseKeyListener.java,-1,2390,2388,Not provided,uses20,uses20
+319,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/plugins/GraphicalReflectionKit.java,-1,2503,-1,Not provided,uses20,Not provided
+320,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/plugins/MaliciousCodeScannerOptions.java,-1,2507,2505,Not provided,uses20,uses20
+321,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/plugins/ReplaceStringsOptions.java,-1,2511,2509,Not provided,uses20,uses20
+322,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/resourceviewer/TabbedPane.java,-1,2574,2572,Not provided,uses20,uses20
+323,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/util/BytecodeViewPanelUpdater.java,-1,2625,-1,Not provided,uses20,Not provided
+324,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/theme/RSTATheme.java,-1,2619,2617,Not provided,uses20,uses20
+325,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/resourceviewer/viewer/synchronizedscroll/MethodData.java,-1,2610,-1,Not provided,uses20,Not provided
+326,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/resourceviewer/viewer/ResourceViewer.java,-1,2604,2602,Not provided,uses20,uses20
+327,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/resourceviewer/viewer/FileViewer.java,-1,2600,2598,Not provided,uses20,uses20
+328,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/resourceviewer/viewer/ClassViewer.java,-1,2592,-1,Not provided,uses20,Not provided
+329,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/resourceviewer/WorkspaceRefreshEvent.java,-1,2586,2584,Not provided,uses20,uses20
+330,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/resourceviewer/WorkspaceRefresh.java,-1,2582,2580,Not provided,uses20,uses20
+331,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/resourceviewer/Workspace.java,-1,2578,2576,Not provided,uses20,uses20
+332,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/resourceviewer/TabRemovalEvent.java,-1,2570,2568,Not provided,uses20,uses20
+333,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/resourcelist/ResourceListIconRenderer.java,-1,2517,-1,Not provided,uses20,Not provided
+334,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/resourceviewer/TabExitButton.java,-1,2566,2564,Not provided,uses20,uses20
+335,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/resourceviewer/DecompilerSelectionPane.java,-1,2562,2560,Not provided,uses20,uses20
+336,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/resourceviewer/BytecodeViewPanel.java,-1,2558,-1,Not provided,uses20,Not provided
+337,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/resourcesearch/SearchType.java,-1,2552,2550,Not provided,uses20,uses20
+338,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/resourcesearch/SearchRadius.java,-1,2548,2546,Not provided,uses20,uses20
+339,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/resourcesearch/SearchBoxPane.java,-1,2544,2542,Not provided,uses20,uses20
+340,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/resourcesearch/PerformSearch.java,-1,2540,-1,Not provided,uses20,Not provided
+341,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/resourcelist/SearchKeyAdapter.java,-1,2534,2532,Not provided,uses20,uses20
+342,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/resourcelist/ResourceTreeNode.java,-1,2530,2528,Not provided,uses20,uses20
+343,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/resourcelist/ResourceTree.java,-1,2526,2524,Not provided,uses20,uses20
+344,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/components/listeners/PressKeyListener.java,-1,2386,2384,Not provided,uses20,uses20
+345,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/components/listeners/MouseClickedListener.java,-1,2382,-1,Not provided,uses20,Not provided
+346,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/components/WaitBusyIcon.java,-1,2376,2374,Not provided,uses20,uses20
+347,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/decompilers/impl/ASMTextifierDisassembler.java,-1,2211,-1,Not provided,uses20,Not provided
+348,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/decompilers/impl/ProcyonDecompiler.java,-1,2251,2249,Not provided,uses20,uses20
+349,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/decompilers/impl/KrakatauDisassembler.java,-1,2247,2245,Not provided,uses20,uses20
+350,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/decompilers/impl/KrakatauDecompiler.java,-1,2243,2241,Not provided,uses20,uses20
+351,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/decompilers/impl/JavapDisassembler.java,-1,2239,2237,Not provided,uses20,uses20
+352,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/decompilers/impl/JDGUIDecompiler.java,-1,2235,2233,Not provided,uses20,uses20
+353,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/decompilers/impl/JADXDecompiler.java,-1,2231,2229,Not provided,uses20,uses20
+354,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/decompilers/impl/FernFlowerDecompiler.java,-1,2227,2225,Not provided,uses20,uses20
+355,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/decompilers/impl/CFRDecompiler.java,-1,2223,2221,Not provided,uses20,uses20
+356,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/decompilers/impl/BytecodeDisassembler.java,-1,2219,2217,Not provided,uses20,uses20
+357,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/decompilers/impl/ASMifierGenerator.java,-1,2215,2213,Not provided,uses20,uses20
+358,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/decompilers/bytecode/TypeAndName.java,-1,2205,2203,Not provided,uses20,uses20
+359,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/decompilers/jdgui/CommonPreferences.java,-1,2261,-1,Not provided,uses20,Not provided
+360,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/decompilers/bytecode/PrefixedStringBuilder.java,-1,2201,2199,Not provided,uses20,uses20
+361,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/decompilers/bytecode/MethodNodeDecompiler.java,-1,2197,2195,Not provided,uses20,uses20
+362,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/decompilers/bytecode/InstructionSearcher.java,-1,2193,2191,Not provided,uses20,uses20
+363,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/decompilers/bytecode/InstructionPrinter.java,-1,2189,2187,Not provided,uses20,uses20
+364,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/decompilers/bytecode/InstructionPattern.java,-1,2185,2183,Not provided,uses20,uses20
+365,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/decompilers/bytecode/FieldNodeDecompiler.java,-1,2181,2179,Not provided,uses20,uses20
+366,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/decompilers/bytecode/ClassNodeDecompiler.java,-1,2177,-1,Not provided,uses20,Not provided
+367,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/decompilers/InternalDecompiler.java,-1,2171,2169,Not provided,uses20,uses20
+368,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/compilers/impl/SmaliAssembler.java,-1,2163,2161,Not provided,uses20,uses20
+369,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/compilers/impl/KrakatauAssembler.java,-1,2159,2157,Not provided,uses20,uses20
+370,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/decompilers/impl/SmaliDisassembler.java,-1,2255,2253,Not provided,uses20,uses20
+371,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/decompilers/jdgui/DirectoryLoader.java,-1,2265,2263,Not provided,uses20,uses20
+372,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/components/VisibleComponent.java,-1,2372,2370,Not provided,uses20,uses20
+373,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/components/JFrameConsoleTabbed.java,-1,2328,2326,Not provided,uses20,uses20
+374,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/components/SystemConsole.java,-1,2368,2366,Not provided,uses20,uses20
+375,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/components/SettingsDialog.java,-1,2364,2362,Not provided,uses20,uses20
+376,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/components/SearchableRSyntaxTextArea.java,-1,2360,2358,Not provided,uses20,uses20
+377,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/components/SearchableJTextArea.java,-1,2356,2354,Not provided,uses20,uses20
+378,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/components/RunOptions.java,-1,2352,2350,Not provided,uses20,uses20
+379,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/components/MultipleChoiceDialog.java,-1,2348,2346,Not provided,uses20,uses20
+380,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/components/MethodsRenderer.java,-1,2344,2342,Not provided,uses20,uses20
+381,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/components/MaxWidthJLabel.java,-1,2340,2338,Not provided,uses20,uses20
+382,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/components/JTextAreaOutputStream.java,-1,2336,2334,Not provided,uses20,uses20
+383,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/components/JMenuItemIcon.java,-1,2332,2330,Not provided,uses20,uses20
+384,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/components/JFrameConsolePrintStream.java,-1,2324,2322,Not provided,uses20,uses20
+385,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/decompilers/jdgui/JDGUIClassFileUtil.java,-1,2269,2267,Not provided,uses20,uses20
+386,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/components/JFrameConsole.java,-1,2320,2318,Not provided,uses20,uses20
+387,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/components/ImageJLabel.java,-1,2316,2314,Not provided,uses20,uses20
+388,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/components/HTMLPane.java,-1,2312,2310,Not provided,uses20,uses20
+389,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/components/FileChooser.java,-1,2308,2306,Not provided,uses20,uses20
+390,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/components/ExtendedJOptionPane.java,-1,2304,2302,Not provided,uses20,uses20
+391,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/components/ExportJar.java,-1,2300,2298,Not provided,uses20,uses20
+392,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/components/DecompilerViewComponent.java,-1,2296,2294,Not provided,uses20,uses20
+393,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/components/ButtonHoverAnimation.java,-1,2292,2290,Not provided,uses20,uses20
+394,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/gui/components/AboutWindow.java,-1,2288,-1,Not provided,uses20,Not provided
+395,/home/runner/work/bytecode-viewer/bytecode-viewer/src/main/java/the/bytecode/club/bytecodeviewer/decompilers/jdgui/PlainTextPrinter.java,-1,2273,2271,Not provided,uses20,uses20
