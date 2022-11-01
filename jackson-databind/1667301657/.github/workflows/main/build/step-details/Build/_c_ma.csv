@@ -1,0 +1,12 @@
+,file_name
+5989,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/deser/inject/InvalidInjectionTest$BadBean1.class
+6062,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/format/EnumFormatShapeTest$PoOverrideAsNumber.class
+6092,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/cfg/DatabindContextTest.class
+6257,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/jsontype/deftyping/TestDefaultForLists$ListOfLongs.class
+10600,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/contextual/TestContextAttributeWithDeser$PrefixStringDeserializer.class
+11010,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/big/TestBiggerData$Citm.class
+11538,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/format/EnumFormatShapeTest$PoAsArray.class
+11546,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/format/EnumFormatShapeTest$PoOverrideAsString.class
+11592,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/format/EnumFormatShapeTest$PoNUMContainer.class
+11595,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/format/EnumFormatShapeTest$OK.class
+11598,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/format/EnumFormatShapeTest$PoNUM.class
