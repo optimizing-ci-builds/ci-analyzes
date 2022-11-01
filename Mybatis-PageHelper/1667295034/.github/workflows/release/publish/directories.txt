@@ -1,0 +1,267 @@
+
+└── home
+    └── runner
+        └── work
+            └── Mybatis-PageHelper
+                └── Mybatis-PageHelper
+                    ├── src
+                    │   ├── test
+                    │   │   ├── resources
+                    │   │   │   ├── db2
+                    │   │   │   │   ├── db2jcc4.jar
+                    │   │   │   │   ├── mybatis-config-pagesizezero.xml
+                    │   │   │   │   ├── mybatis-config-reasonable.xml
+                    │   │   │   │   ├── mybatis-config-rowbounds.xml
+                    │   │   │   │   └── mybatis-config.xml
+                    │   │   │   ├── com
+                    │   │   │   │   └── github
+                    │   │   │   │       └── pagehelper
+                    │   │   │   │           └── mapper
+                    │   │   │   │               └── UserMapper.xml
+                    │   │   │   ├── derby
+                    │   │   │   │   ├── derby.sql
+                    │   │   │   │   ├── mybatis-config-pagesizezero.xml
+                    │   │   │   │   ├── mybatis-config-reasonable.xml
+                    │   │   │   │   ├── mybatis-config-rowbounds.xml
+                    │   │   │   │   └── mybatis-config.xml
+                    │   │   │   ├── sqlserver
+                    │   │   │   │   ├── mybatis-config-rowbounds.xml
+                    │   │   │   │   ├── mybatis-config-reasonable.xml
+                    │   │   │   │   └── mybatis-config.xml
+                    │   │   │   ├── oracle
+                    │   │   │   │   ├── mybatis-config-reasonable.xml
+                    │   │   │   │   ├── mybatis-config-rowbounds.xml
+                    │   │   │   │   ├── mybatis-config.xml
+                    │   │   │   │   └── oracle.sql
+                    │   │   │   ├── postgresql
+                    │   │   │   │   ├── mybatis-config-reasonable.xml
+                    │   │   │   │   ├── mybatis-config-rowbounds.xml
+                    │   │   │   │   ├── mybatis-config.xml
+                    │   │   │   │   └── postgresql.sql
+                    │   │   │   ├── rowbounds
+                    │   │   │   │   ├── hsqldb.sql
+                    │   │   │   │   └── mybatis-config.xml
+                    │   │   │   ├── mysql
+                    │   │   │   │   ├── mybatis-config.xml
+                    │   │   │   │   ├── mysql.sql
+                    │   │   │   │   ├── mybatis-config-rowbounds.xml
+                    │   │   │   │   └── mybatis-config-reasonable.xml
+                    │   │   │   ├── test.properties
+                    │   │   │   ├── hsqldb
+                    │   │   │   │   ├── hsqldb.sql
+                    │   │   │   │   ├── mybatis-config-autodialect.xml
+                    │   │   │   │   ├── mybatis-config-interceptor.xml
+                    │   │   │   │   ├── mybatis-config-pagesizezero.xml
+                    │   │   │   │   ├── mybatis-config-reasonable.xml
+                    │   │   │   │   ├── mybatis-config-rowbounds.xml
+                    │   │   │   │   └── mybatis-config.xml
+                    │   │   │   ├── h2
+                    │   │   │   │   ├── h2.sql
+                    │   │   │   │   ├── mybatis-config-pagesizezero.xml
+                    │   │   │   │   ├── mybatis-config-reasonable.xml
+                    │   │   │   │   ├── mybatis-config-rowbounds.xml
+                    │   │   │   │   └── mybatis-config.xml
+                    │   │   │   ├── log4j.properties
+                    │   │   │   └── mariadb
+                    │   │   │       ├── mariadb.sql
+                    │   │   │       ├── mybatis-config-pagesizezero.xml
+                    │   │   │       ├── mybatis-config-reasonable.xml
+                    │   │   │       ├── mybatis-config-rowbounds.xml
+                    │   │   │       └── mybatis-config.xml
+                    │   │   └── java
+                    │   │       └── com
+                    │   │           └── github
+                    │   │               └── pagehelper
+                    │   │                   ├── sql
+                    │   │                   │   ├── SqlServerTest.java
+                    │   │                   │   ├── SqlTest.java
+                    │   │                   │   └── FunctionCountTest.java
+                    │   │                   ├── test
+                    │   │                   │   ├── basic
+                    │   │                   │   │   ├── provider
+                    │   │                   │   │   │   ├── TestProvider.java
+                    │   │                   │   │   │   ├── TestProviderInteceptor.java
+                    │   │                   │   │   │   ├── SqlCacheInterceptor.java
+                    │   │                   │   │   │   ├── TestBoundSqlInterceptor.java
+                    │   │                   │   │   │   └── SqlCache.java
+                    │   │                   │   │   ├── sql
+                    │   │                   │   │   │   ├── TestLeftjoin.java
+                    │   │                   │   │   │   ├── TestWith.java
+                    │   │                   │   │   │   └── TestUnion.java
+                    │   │                   │   │   ├── parameter
+                    │   │                   │   │   │   ├── TestParameterOne.java
+                    │   │                   │   │   │   ├── TestParameterNone.java
+                    │   │                   │   │   │   ├── TestParameterMap.java
+                    │   │                   │   │   │   ├── TestParameterArray.java
+                    │   │                   │   │   │   └── TestParameterList.java
+                    │   │                   │   │   ├── dynamic
+                    │   │                   │   │   │   ├── Where.java
+                    │   │                   │   │   │   ├── TestDynamicWhere.java
+                    │   │                   │   │   │   ├── CacheTest.java
+                    │   │                   │   │   │   ├── TestDynamicChoose.java
+                    │   │                   │   │   │   ├── TestDynamicForeach.java
+                    │   │                   │   │   │   ├── TestDynamicIf.java
+                    │   │                   │   │   │   ├── TestDynamicIf2.java
+                    │   │                   │   │   │   ├── TestDynamicIfOrder.java
+                    │   │                   │   │   │   └── TestDynamicIfTwoList.java
+                    │   │                   │   │   ├── EnumTest.java
+                    │   │                   │   │   ├── IPageTest.java
+                    │   │                   │   │   ├── OffsetTest.java
+                    │   │                   │   │   ├── PageHelperTest.java
+                    │   │                   │   │   ├── PageInfoTest.java
+                    │   │                   │   │   ├── RemoveOrderTest.java
+                    │   │                   │   │   ├── TestDistinct.java
+                    │   │                   │   │   ├── TestExecute.java
+                    │   │                   │   │   ├── TestISelect.java
+                    │   │                   │   │   ├── TestIntMax.java
+                    │   │                   │   │   ├── TestLike.java
+                    │   │                   │   │   ├── TestNamespaceMap.java
+                    │   │                   │   │   ├── cache
+                    │   │                   │   │   │   ├── CacheTest.java
+                    │   │                   │   │   │   └── SecondCacheTest.java
+                    │   │                   │   │   ├── count
+                    │   │                   │   │   │   ├── TestGroupBy.java
+                    │   │                   │   │   │   └── TestSelectItems.java
+                    │   │                   │   │   ├── CollectionMapTest.java
+                    │   │                   │   │   ├── CountColumnTest.java
+                    │   │                   │   │   ├── CloseableTest.java
+                    │   │                   │   │   ├── ArgumentsObjTest.java
+                    │   │                   │   │   └── ArgumentsMapTest.java
+                    │   │                   │   ├── features
+                    │   │                   │   │   ├── dialectclass
+                    │   │                   │   │   │   └── UsingDialectClassTest.java
+                    │   │                   │   │   └── autodialect
+                    │   │                   │   │       ├── DataSourceNegotiationAutoDialectTest.java
+                    │   │                   │   │       └── SimpleAutoDialect.java
+                    │   │                   │   ├── namespace
+                    │   │                   │   │   └── BasicTest.java
+                    │   │                   │   └── reasonable
+                    │   │                   │       └── PageTest.java
+                    │   │                   ├── util
+                    │   │                   │   ├── MybatisHelper.java
+                    │   │                   │   ├── MybatisInterceptorHelper.java
+                    │   │                   │   ├── MybatisPageSizeZeroHelper.java
+                    │   │                   │   ├── MybatisReasonableHelper.java
+                    │   │                   │   ├── MybatisRowBoundsHelper.java
+                    │   │                   │   ├── Ognl.java
+                    │   │                   │   └── TestUtil.java
+                    │   │                   ├── mapper
+                    │   │                   │   ├── ProviderMethod.java
+                    │   │                   │   └── UserMapper.java
+                    │   │                   ├── model
+                    │   │                   │   ├── User.java
+                    │   │                   │   ├── UserCode.java
+                    │   │                   │   ├── UserExample.java
+                    │   │                   │   └── UserQueryModel.java
+                    │   │                   └── rowbounds
+                    │   │                       ├── RowBoundsHelper.java
+                    │   │                       └── test
+                    │   │                           ├── PageRowBoundsTest.java
+                    │   │                           └── RowBoundsTest.java
+                    │   └── main
+                    │       └── java
+                    │           └── com
+                    │               └── github
+                    │                   └── pagehelper
+                    │                       ├── parser
+                    │                       │   ├── SqlServerParser.java
+                    │                       │   ├── CountSqlParser.java
+                    │                       │   └── OrderByParser.java
+                    │                       ├── PageInfo.java
+                    │                       ├── AutoDialect.java
+                    │                       ├── BoundSqlInterceptor.java
+                    │                       ├── BoundSqlInterceptorChain.java
+                    │                       ├── Constant.java
+                    │                       ├── Dialect.java
+                    │                       ├── IPage.java
+                    │                       ├── ISelect.java
+                    │                       ├── Page.java
+                    │                       ├── PageException.java
+                    │                       ├── PageHelper.java
+                    │                       ├── PageInterceptor.java
+                    │                       ├── PageRowBounds.java
+                    │                       ├── PageSerializable.java
+                    │                       ├── QueryInterceptor.java
+                    │                       ├── cache
+                    │                       │   ├── CacheFactory.java
+                    │                       │   ├── GuavaCache.java
+                    │                       │   └── SimpleCache.java
+                    │                       ├── dialect
+                    │                       │   ├── AbstractDialect.java
+                    │                       │   ├── AbstractHelperDialect.java
+                    │                       │   ├── AbstractRowBoundsDialect.java
+                    │                       │   ├── ReplaceSql.java
+                    │                       │   ├── auto
+                    │                       │   │   ├── C3P0AutoDialect.java
+                    │                       │   │   ├── DataSourceNegotiationAutoDialect.java
+                    │                       │   │   ├── DataSourceAutoDialect.java
+                    │                       │   │   ├── DbcpAutoDialect.java
+                    │                       │   │   ├── DefaultAutoDialect.java
+                    │                       │   │   ├── DruidAutoDialect.java
+                    │                       │   │   ├── HikariAutoDialect.java
+                    │                       │   │   └── TomcatAutoDialect.java
+                    │                       │   ├── rowbounds
+                    │                       │   │   ├── package-info.java
+                    │                       │   │   ├── SqlServerRowBoundsDialect.java
+                    │                       │   │   ├── SqlServer2012RowBoundsDialect.java
+                    │                       │   │   ├── Db2RowBoundsDialect.java
+                    │                       │   │   ├── HerdDBRowBoundsDialect.java
+                    │                       │   │   ├── HsqldbRowBoundsDialect.java
+                    │                       │   │   ├── InformixRowBoundsDialect.java
+                    │                       │   │   ├── MySqlRowBoundsDialect.java
+                    │                       │   │   ├── OracleRowBoundsDialect.java
+                    │                       │   │   └── PostgreSqlRowBoundsDialect.java
+                    │                       │   ├── helper
+                    │                       │   │   ├── OracleDialect.java
+                    │                       │   │   ├── AS400Dialect.java
+                    │                       │   │   ├── Db2Dialect.java
+                    │                       │   │   ├── FirebirdDialect.java
+                    │                       │   │   ├── HerdDBDialect.java
+                    │                       │   │   ├── HsqldbDialect.java
+                    │                       │   │   ├── InformixDialect.java
+                    │                       │   │   ├── MySqlDialect.java
+                    │                       │   │   ├── Oracle9iDialect.java
+                    │                       │   │   ├── OscarDialect.java
+                    │                       │   │   ├── PostgreSqlDialect.java
+                    │                       │   │   ├── SqlServer2012Dialect.java
+                    │                       │   │   └── SqlServerDialect.java
+                    │                       │   └── replace
+                    │                       │       └── SimpleWithNolockReplaceSql.java
+                    │                       ├── util
+                    │                       │   ├── StringUtil.java
+                    │                       │   ├── ExecutorUtil.java
+                    │                       │   ├── MSUtils.java
+                    │                       │   ├── MetaObjectUtil.java
+                    │                       │   ├── MetaObjectWithReflectCache.java
+                    │                       │   ├── PageObjectUtil.java
+                    │                       │   └── SqlSafeUtil.java
+                    │                       └── page
+                    │                           ├── PageBoundSqlInterceptors.java
+                    │                           ├── PageMethod.java
+                    │                           ├── PageParams.java
+                    │                           └── PageAutoDialect.java
+                    ├── logo.svg
+                    ├── logo.png
+                    ├── wikis
+                    │   ├── zh
+                    │   │   ├── Changelog.md
+                    │   │   ├── HowToUse.md
+                    │   │   ├── Important.md
+                    │   │   ├── Interceptor.md
+                    │   │   └── Test.md
+                    │   └── en
+                    │       ├── Changelog.md
+                    │       ├── HowToUse.md
+                    │       ├── Important.md
+                    │       └── Test.md
+                    ├── pom.xml
+                    ├── README.md
+                    ├── README_zh.md
+                    ├── LICENSE
+                    ├── .gitignore
+                    └── .github
+                        ├── FUNDING.yml
+                        ├── issue_template.md
+                        └── workflows
+                            ├── pull-request.yml
+                            └── release.yml
