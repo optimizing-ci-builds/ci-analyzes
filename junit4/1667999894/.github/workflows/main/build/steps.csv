@@ -1,6 +1,6 @@
 ,step_name,#c,#m,cma,cm_a,cm__a,c_ma,c_m_a,c_m__a,_cma,_cm_a,_cm__a,_c_ma,_c_m_a,_c_m__a,time
-0,uses21,120,134,0,0,120,0,0,0,0,0,14,0,1,1790,1
-1,DownloadMavenDownloadwithdefaultJDKbecauseOpenJDK6doesnotsupportTLS12,0,0,0,0,0,0,0,0,0,0,0,0,1,1924,1
-2,SetupJDK6,0,0,0,0,0,0,0,0,0,0,0,0,1,1924,8
-3,SetupJDK,0,0,0,0,0,0,0,0,0,0,0,0,1,1924,2
-4,Buildandverify,1729,1791,1,0,1728,0,0,0,0,0,62,0,0,134,34
+0,uses21,121,133,0,0,121,0,0,0,0,0,12,0,1,1764,1
+1,DownloadMavenDownloadwithdefaultJDKbecauseOpenJDK6doesnotsupportTLS12,0,0,0,0,0,0,0,0,0,0,0,0,1,1897,2
+2,SetupJDK6,0,0,0,0,0,0,0,0,0,0,0,0,1,1897,4
+3,SetupJDK,0,0,0,0,0,0,0,0,0,0,0,0,1,1897,2
+4,Buildandverify,1703,1765,1,0,1702,0,0,0,0,0,62,0,0,133,35
