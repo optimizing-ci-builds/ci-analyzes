@@ -1,0 +1,20 @@
+
+└──  home 1
+    └──  runner 1
+        └──  work 1
+            └──  pipelines-java 1
+                └──  pipelines-java 1
+                    └──  target 3
+                        ├──  helloworld.war 0
+                        ├──  maven-status 1
+                        │   └──  maven-compiler-plugin 2
+                        │       ├──  compile 1
+                        │       │   └──  default-compile 2
+                        │       │       ├──  createdFiles.lst 0
+                        │       │       └──  inputFiles.lst 0
+                        │       └──  testCompile 1
+                        │           └──  default-testCompile 2
+                        │               ├──  createdFiles.lst 0
+                        │               └──  inputFiles.lst 0
+                        └──  test-classes 1
+                            └──  MyTest.class 0
