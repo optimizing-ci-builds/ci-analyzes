@@ -1,0 +1,10 @@
+,file_name
+697,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/test-classes/org/hyperledger/fabric/sdk/idemix/IdemixTest$IdemixSetup.class
+737,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/site/jacoco-ut/jacoco-resources/report.css
+756,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/surefire-reports/org.hyperledger.fabric.sdk.PeerTest.txt
+897,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/failsafe-reports/org.hyperledger.fabric.sdkintegration.IntegrationSuite.txt
+978,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/site/jacoco-ut/org.hyperledger.fabric.sdk.idemix/IdemixPseudonym.java.html
+1000,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/site/jacoco-ut/org.hyperledger.fabric.sdk.exception/QueryException.java.html
+1071,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/site/jacoco-ut/org.hyperledger.fabric.sdk/LifecycleApproveChaincodeDefinitionForMyOrgProposalResponse.java.html
+1116,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/site/jacoco-ut/org.hyperledger.fabric.sdk.security/CryptoSuiteFactory.java.html
+1132,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/site/jacoco-ut/org.hyperledger.fabric.sdk.security.certgen/TLSCertificateKeyPair.java.html
