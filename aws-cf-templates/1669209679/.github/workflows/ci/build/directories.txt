@@ -1,0 +1,216 @@
+
+└──  home 1
+    └──  runner 1
+        └──  work 1
+            └──  aws-cf-templates 1
+                └──  aws-cf-templates 20
+                    ├──  docs 24
+                    │   ├──  img 28
+                    │   │   ├──  jenkins-demo.gif 0
+                    │   │   ├──  wordpress-ha.png 0
+                    │   │   ├──  vpc-4azs.png 0
+                    │   │   ├──  vpc-3azs.png 0
+                    │   │   ├──  vpc-nat-instance.png 0
+                    │   │   ├──  vpc-nat-gateway.png 0
+                    │   │   ├──  jenkins2-ha-agents.png 0
+                    │   │   ├──  vpc-ssh-bastion.png 0
+                    │   │   ├──  example-ssh-bastion-host.png 0
+                    │   │   ├──  example-jenkins.png 0
+                    │   │   ├──  ecs-service-dedicated-alb.png 0
+                    │   │   ├──  ecs-cluster.png 0
+                    │   │   ├──  vpc-2azs.png 0
+                    │   │   ├──  ecs-service-cluster-alb.png 0
+                    │   │   ├──  example-vpc.png 0
+                    │   │   ├──  jenkins2-ha.png 0
+                    │   │   ├──  security-auth-proxy-ha-github-orga.png 0
+                    │   │   ├──  vpc-endpoint-s3.png 0
+                    │   │   ├──  operations-alert.png 0
+                    │   │   ├──  example-alert.png 0
+                    │   │   ├──  static-website.png 0
+                    │   │   ├──  example-modules.png 0
+                    │   │   ├──  ec2-auto-recovery.png 0
+                    │   │   ├──  vpc-vpn-bastion-windows2.png 0
+                    │   │   ├──  vpc-vpn-bastion-macos.png 0
+                    │   │   ├──  vpc-vpn-bastion-windows1.png 0
+                    │   │   ├──  cloudformation.png 0
+                    │   │   └──  launch-stack.png 0
+                    │   ├──  vpc.md 0
+                    │   ├──  state.md 0
+                    │   ├──  index.md 0
+                    │   ├──  jenkins.md 0
+                    │   ├──  migrate-v10.md 0
+                    │   ├──  migrate-v11.md 0
+                    │   ├──  ecs.md 0
+                    │   ├──  migrate-v12.md 0
+                    │   ├──  migrate-v13.md 0
+                    │   ├──  migrate-v14.md 0
+                    │   ├──  migrate-v4.md 0
+                    │   ├──  migrate-v5.md 0
+                    │   ├──  migrate-v6.md 0
+                    │   ├──  fargate.md 0
+                    │   ├──  ec2.md 0
+                    │   ├──  migrate-v7.md 0
+                    │   ├──  migrate-v8.md 0
+                    │   ├──  migrate-v9.md 0
+                    │   ├──  wordpress.md 0
+                    │   ├──  static-website.md 0
+                    │   ├──  security.md 0
+                    │   ├──  operations.md 0
+                    │   └──  cli.md 0
+                    ├──  jenkins 2
+                    │   ├──  jenkins2-ha-agents.yaml 0
+                    │   └──  jenkins2-ha.yaml 0
+                    ├──  wordpress 3
+                    │   ├──  wordpress-ha-aurora.yaml 0
+                    │   ├──  wordpress-ha.yaml 0
+                    │   └──  loadtest.js 0
+                    ├──  ecs 3
+                    │   ├──  cluster.yaml 0
+                    │   ├──  service-dedicated-alb.yaml 0
+                    │   └──  service-cluster-alb.yaml 0
+                    ├──  vpc 22
+                    │   ├──  vpc-vpn-bastion.yaml 0
+                    │   ├──  vpc-ssh-bastion.yaml 0
+                    │   ├──  vpc-nat-instance.yaml 0
+                    │   ├──  vpc-4azs.yaml 0
+                    │   ├──  vpc-flow-logs.yaml 0
+                    │   ├──  vpc-2azs.yaml 0
+                    │   ├──  vpc-3azs-legacy.yaml 0
+                    │   ├──  vpc-3azs.yaml 0
+                    │   ├──  vpc-4azs-legacy.yaml 0
+                    │   ├──  vpc-endpoint-dynamodb.yaml 0
+                    │   ├──  vpc-endpoint-s3.yaml 0
+                    │   ├──  vpc-endpoint.yaml 0
+                    │   ├──  vpc-flow-logs-s3.yaml 0
+                    │   ├──  vpc-nat-gateway.yaml 0
+                    │   ├──  cloudmap-private.yaml 0
+                    │   ├──  vpc-no-bastion.yaml 0
+                    │   ├──  zone-dnssec.yaml 0
+                    │   ├──  zone-legacy.yaml 0
+                    │   ├──  zone-private.yaml 0
+                    │   ├──  zone-public.yaml 0
+                    │   ├──  vpc-2azs-legacy.yaml 0
+                    │   └──  README.md 0
+                    ├──  fargate 4
+                    │   ├──  service-dedicated-alb.yaml 0
+                    │   ├──  service-cluster-alb.yaml 0
+                    │   ├──  service-cloudmap.yaml 0
+                    │   └──  cluster.yaml 0
+                    ├──  state 13
+                    │   ├──  s3.yaml 0
+                    │   ├──  rds-aurora.yaml 0
+                    │   ├──  dynamodb.yaml 0
+                    │   ├──  secretsmanager-dbsecret.yaml 0
+                    │   ├──  rds-aurora-serverless.yaml 0
+                    │   ├──  rds-mysql.yaml 0
+                    │   ├──  rds-postgres.yaml 0
+                    │   ├──  elasticsearch.yaml 0
+                    │   ├──  rds-aurora-serverless-postgres.yaml 0
+                    │   ├──  elasticache-redis.yaml 0
+                    │   ├──  elasticache-memcached.yaml 0
+                    │   ├──  client-sg.yaml 0
+                    │   └──  documentdb.yaml 0
+                    ├──  security 9
+                    │   ├──  cloudtrail.yaml 0
+                    │   ├──  auth-proxy-ha-github-orga.yaml 0
+                    │   ├──  kms-key-legacy.yaml 0
+                    │   ├──  account-password-policy.yaml 0
+                    │   ├──  config.yaml 0
+                    │   ├──  kms-key.yaml 0
+                    │   ├──  securityhub-controls.yaml 0
+                    │   ├──  waf-legacy.yaml 0
+                    │   └──  waf.yaml 0
+                    ├──  test 3
+                    │   ├──  src 1
+                    │   │   └──  test 1
+                    │   │       └──  java 1
+                    │   │           └──  de 1
+                    │   │               └──  widdix 1
+                    │   │                   └──  awscftemplates 15
+                    │   │                       ├──  security 5
+                    │   │                       │   ├──  TestKmsKey.java 0
+                    │   │                       │   ├──  TestSecurityAuthProxy.java 0
+                    │   │                       │   ├──  TestConfig.java 0
+                    │   │                       │   ├──  TestCloudtrail.java 0
+                    │   │                       │   └──  TestAccountPasswordPolicy.java 0
+                    │   │                       ├──  state 11
+                    │   │                       │   ├──  TestDynamoDB.java 0
+                    │   │                       │   ├──  TestElastiCacheMemcached.java 0
+                    │   │                       │   ├──  TestElastiCacheRedis.java 0
+                    │   │                       │   ├──  TestRDSAurora.java 0
+                    │   │                       │   ├──  TestElasticsearch.java 0
+                    │   │                       │   ├──  TestRDSAuroraServerless.java 0
+                    │   │                       │   ├──  TestRDSAuroraServerlessPostgres.java 0
+                    │   │                       │   ├──  TestRDSMySQL.java 0
+                    │   │                       │   ├──  TestRDSPostgres.java 0
+                    │   │                       │   ├──  TestS3.java 0
+                    │   │                       │   └──  TestDocumentDB.java 0
+                    │   │                       ├──  Context.java 0
+                    │   │                       ├──  ec2 2
+                    │   │                       │   ├──  TestAL2MutablePublic.java 0
+                    │   │                       │   └──  TestAL2MutablePrivate.java 0
+                    │   │                       ├──  ecs 2
+                    │   │                       │   ├──  TestECSService.java 0
+                    │   │                       │   └──  TestECSCluster.java 0
+                    │   │                       ├──  fargate 2
+                    │   │                       │   ├──  TestFargateService.java 0
+                    │   │                       │   └──  TestFargateCluster.java 0
+                    │   │                       ├──  operations 3
+                    │   │                       │   ├──  TestAlert.java 0
+                    │   │                       │   ├──  TestTerraformState.java 0
+                    │   │                       │   └──  TestAccessLogsAnonymizer.java 0
+                    │   │                       ├──  ATest.java 0
+                    │   │                       ├──  Config.java 0
+                    │   │                       ├──  ACloudFormationTest.java 0
+                    │   │                       ├──  AAWSTest.java 0
+                    │   │                       ├──  wordpress 1
+                    │   │                       │   └──  TestWordpressHA.java 0
+                    │   │                       ├──  vpc 16
+                    │   │                       │   ├──  TestVPC3AZsLegacy.java 0
+                    │   │                       │   ├──  TestHostedZone.java 0
+                    │   │                       │   ├──  TestVPC2AZs.java 0
+                    │   │                       │   ├──  TestVPC2AZsLegacy.java 0
+                    │   │                       │   ├──  TestVPC3AZs.java 0
+                    │   │                       │   ├──  TestVPC4AZs.java 0
+                    │   │                       │   ├──  TestVPCVpnBastion.java 0
+                    │   │                       │   ├──  TestVPC4AZsLegacy.java 0
+                    │   │                       │   ├──  TestVPCEndpointDynamoDB.java 0
+                    │   │                       │   ├──  TestVPCEndpointS3.java 0
+                    │   │                       │   ├──  TestVPCFlowLogs.java 0
+                    │   │                       │   ├──  TestVPCFlowLogsS3.java 0
+                    │   │                       │   ├──  TestVPCNatGateway.java 0
+                    │   │                       │   ├──  TestVPCNatInstance.java 0
+                    │   │                       │   ├──  TestVPCSshBastion.java 0
+                    │   │                       │   └──  AVPCTest.java 0
+                    │   │                       ├──  jenkins 1
+                    │   │                       │   └──  TestJenkins.java 0
+                    │   │                       └──  staticwebsite 1
+                    │   │                           └──  TestStaticWebsite.java 0
+                    │   ├──  pom.xml 0
+                    │   └──  README.md 0
+                    ├──  static-website 3
+                    │   ├──  lambdaedge-index-document.yaml 0
+                    │   ├──  static-website.yaml 0
+                    │   └──  monitoring.yaml 0
+                    ├──  operations 5
+                    │   ├──  terraform-state.yaml 0
+                    │   ├──  alb-access-logs-anonymizer.yaml 0
+                    │   ├──  alert.yaml 0
+                    │   ├──  cloudfront-access-logs-anonymizer.yaml 0
+                    │   └──  README.md 0
+                    ├──  .github 3
+                    │   ├──  ISSUE_TEMPLATE.md 0
+                    │   ├──  PULL_REQUEST_TEMPLATE.md 0
+                    │   └──  workflows 1
+                    │       └──  ci.yml 0
+                    ├──  .gitignore 0
+                    ├──  .yamllint 0
+                    ├──  LICENSE 0
+                    ├──  README.md 0
+                    ├──  setup.py 0
+                    ├──  mkdocs.yml 0
+                    ├──  ec2 3
+                    │   ├──  al2-mutable-public.yaml 0
+                    │   ├──  al2-mutable-private.yaml 0
+                    │   └──  README.md 0
+                    └──  starting_finished_finished_8979874 0
