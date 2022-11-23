@@ -1,8 +1,0 @@
-,file_name
-8802,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/deser/validate/FullStreamReadTest.class
-11278,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/big/TestBiggerData$Citm.class
-12187,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/deser/std/StdValueInstantiatorTest.class
-12995,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/deser/filter/ReadOnlyDeser1890Test.class
-13006,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/deser/filter/ReadOnlyDeser1890Test$PersonAnnotations.class
-13015,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/deser/filter/ReadOnlyDeser1890Test$Person.class
-13016,/home/runner/work/jackson-databind/jackson-databind/target/test-classes/com/fasterxml/jackson/databind/deser/filter/ReadOnlyDeser1890Test$TestEnum.class
