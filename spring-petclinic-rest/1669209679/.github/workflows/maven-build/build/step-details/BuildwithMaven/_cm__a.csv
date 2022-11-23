@@ -1,0 +1,15 @@
+,file_name
+199,/home/runner/work/spring-petclinic-rest/spring-petclinic-rest/target/site/jacoco/org.springframework.samples.petclinic.repository.jdbc/JdbcPetRepositoryImpl.java.html
+216,/home/runner/work/spring-petclinic-rest/spring-petclinic-rest/target/site/jacoco/org.springframework.samples.petclinic.util/EntityUtils.java.html
+217,/home/runner/work/spring-petclinic-rest/spring-petclinic-rest/target/site/jacoco/org.springframework.samples.petclinic.rest.advice/ExceptionControllerAdvice.java.html
+219,/home/runner/work/spring-petclinic-rest/spring-petclinic-rest/target/site/jacoco/org.springframework.samples.petclinic.repository.springdatajpa/SpringDataPetRepositoryImpl.java.html
+220,/home/runner/work/spring-petclinic-rest/spring-petclinic-rest/target/site/jacoco/org.springframework.samples.petclinic.config/SwaggerConfig.java.html
+229,/home/runner/work/spring-petclinic-rest/spring-petclinic-rest/target/site/jacoco/org.springframework.samples.petclinic.rest.controller/UserRestController.java.html
+230,/home/runner/work/spring-petclinic-rest/spring-petclinic-rest/target/site/jacoco/org.springframework.samples.petclinic.mapper/SpecialtyMapperImpl.java.html
+231,/home/runner/work/spring-petclinic-rest/spring-petclinic-rest/target/site/jacoco/org.springframework.samples.petclinic.repository.jpa/JpaVetRepositoryImpl.java.html
+232,/home/runner/work/spring-petclinic-rest/spring-petclinic-rest/target/site/jacoco/org.springframework.samples.petclinic.security/Roles.java.html
+233,/home/runner/work/spring-petclinic-rest/spring-petclinic-rest/target/site/jacoco/org.springframework.samples.petclinic.service/UserServiceImpl.java.html
+234,/home/runner/work/spring-petclinic-rest/spring-petclinic-rest/target/site/jacoco/org.springframework.samples.petclinic/PetClinicApplication.java.html
+235,/home/runner/work/spring-petclinic-rest/spring-petclinic-rest/target/site/jacoco/jacoco-resources/report.css
+236,/home/runner/work/spring-petclinic-rest/spring-petclinic-rest/target/surefire-reports/org.springframework.samples.petclinic.rest.controller.PetTypeRestControllerTests.txt
+237,/home/runner/work/spring-petclinic-rest/spring-petclinic-rest/target/generated-sources/openapi/.openapi-generator/VERSION
