@@ -1,0 +1,278 @@
+
+└──  home 1
+    └──  runner 1
+        └──  work 1
+            └──  javassist 1
+                └──  javassist 15
+                    ├──  target 7
+                    │   ├──  javassist-3.29.2-GA.jar 0
+                    │   ├──  javassist-3.29.2-GA-sources.jar 0
+                    │   ├──  classes 1
+                    │   │   └──  META-INF 1
+                    │   │       └──  MANIFEST.MF 0
+                    │   ├──  runtest 11
+                    │   │   ├──  test1 8
+                    │   │   │   ├──  AnnoTest.class 0
+                    │   │   │   ├──  MySerializableClass.class 0
+                    │   │   │   ├──  SetName3.class 0
+                    │   │   │   ├──  SetName2.class 0
+                    │   │   │   ├──  Freeze.class 0
+                    │   │   │   ├──  NewInterface2.class 0
+                    │   │   │   ├──  NewInterface.class 0
+                    │   │   │   └──  LocalVars2.class 0
+                    │   │   ├──  TooManyConstPoolItems.class 0
+                    │   │   ├──  test-hibernate.class 0
+                    │   │   ├──  test3 5
+                    │   │   │   ├──  JIRA63.class 0
+                    │   │   │   ├──  Clazz67.class 0
+                    │   │   │   ├──  StaticFinalField.class 0
+                    │   │   │   ├──  PublicInner$Inner.class 0
+                    │   │   │   └──  PublicInner.class 0
+                    │   │   ├──  test5 5
+                    │   │   │   ├──  InnerModifier$NonStatic.class 0
+                    │   │   │   ├──  NestHost4$InnerClass1$InnerClass5.class 0
+                    │   │   │   ├──  NestHost4$InnerClass1.class 0
+                    │   │   │   ├──  InnerModifier$Static.class 0
+                    │   │   │   └──  InnerModifier.class 0
+                    │   │   ├──  test4 4
+                    │   │   │   ├──  TestDeadcode.class 0
+                    │   │   │   ├──  WrittenFile2sub.class 0
+                    │   │   │   ├──  AnnoLoad.class 0
+                    │   │   │   └──  AnnoLoadAnno.class 0
+                    │   │   ├──  test2 6
+                    │   │   │   ├──  NullArgTest.class 0
+                    │   │   │   ├──  NewOp.class 0
+                    │   │   │   ├──  MethodCall.class 0
+                    │   │   │   ├──  Inner.class 0
+                    │   │   │   ├──  Inherit.class 0
+                    │   │   │   └──  SuperInterface3.class 0
+                    │   │   ├──  javassist 1
+                    │   │   │   └──  bytecode 4
+                    │   │   │       ├──  StackMapTest$C6.class 0
+                    │   │   │       ├──  StackMapTest$T8d.class 0
+                    │   │   │       ├──  Gap0Example.class 0
+                    │   │   │       └──  Gap0Example2.class 0
+                    │   │   ├──  testproxy 2
+                    │   │   │   ├──  Target_$$_jvst489_11.class 0
+                    │   │   │   └──  BridgeMethod_$$_jvst489_7.class 0
+                    │   │   ├──  proxy 2
+                    │   │   │   ├──  test 1
+                    │   │   │   │   └──  javassist 1
+                    │   │   │   │       └──  proxy 3
+                    │   │   │   │           ├──  ProxySimpleTest$PubProxy_$$_jvst489_2734.class 0
+                    │   │   │   │           ├──  ProxySimpleTest$Default2_$$_jvst489_273b.class 0
+                    │   │   │   │           └──  ProxySimpleTest$Default3_$$_jvst489_273d.class 0
+                    │   │   │   └──  javassist 1
+                    │   │   │       └──  util 1
+                    │   │   │           └──  proxy 1
+                    │   │   │               └──  test_javassist_proxy_ProxySimpleTest$PubProxy2_$$_jvst489_273c.class 0
+                    │   │   └──  reflected 1
+                    │   │       └──  javassist 1
+                    │   │           └──  tools 1
+                    │   │               └──  reflect 1
+                    │   │                   └──  SuperClass.class 0
+                    │   ├──  surefire-reports 2
+                    │   │   ├──  TEST-javassist.JvstTest.xml 0
+                    │   │   └──  javassist.JvstTest.txt 0
+                    │   ├──  maven-status 1
+                    │   │   └──  maven-compiler-plugin 2
+                    │   │       ├──  compile 1
+                    │   │       │   └──  default-compile 2
+                    │   │       │       ├──  inputFiles.lst 0
+                    │   │       │       └──  createdFiles.lst 0
+                    │   │       └──  testCompile 1
+                    │   │           └──  default-testCompile 2
+                    │   │               ├──  inputFiles.lst 0
+                    │   │               └──  createdFiles.lst 0
+                    │   └──  test-classes 16
+                    │       ├──  VisibleTop2.class 0
+                    │       ├──  scoped 5
+                    │       │   ├──  jar1 6
+                    │       │   │   ├──  ScopedTestAnnotation.class 0
+                    │       │   │   ├──  FullyScopedAnnotationDefaultUsage.class 0
+                    │       │   │   ├──  ScopedAnnotationDefaultUsage.class 0
+                    │       │   │   ├──  ScopedAnnotationUsage.class 0
+                    │       │   │   ├──  FullyScopedAnnotationUsage.class 0
+                    │       │   │   └──  TestClass1.class 0
+                    │       │   ├──  UnscopedAnnotationUsage.class 0
+                    │       │   ├──  UnscopedAnnotationDefaultUsage.class 0
+                    │       │   ├──  TestAnnotation.class 0
+                    │       │   └──  ScopedRepositoryTestCase.class 0
+                    │       ├──  test3 14
+                    │       │   ├──  InnerClass.class 0
+                    │       │   ├──  NewClass2.class 0
+                    │       │   ├──  Visible2.class 0
+                    │       │   ├──  NewExprTryCatch2.class 0
+                    │       │   ├──  Enhancer.class 0
+                    │       │   ├──  Enhancer$Interceptor.class 0
+                    │       │   ├──  Enhancer$1.class 0
+                    │       │   ├──  EnhanceTest.class 0
+                    │       │   ├──  NestedClass$1Local.class 0
+                    │       │   ├──  NestedClass$1.class 0
+                    │       │   ├──  NestedClass$StaticNested.class 0
+                    │       │   ├──  NestedClass$Inner.class 0
+                    │       │   ├──  PublicInner2$PS.class 0
+                    │       │   └──  PackName2.class 0
+                    │       ├──  test 1
+                    │       │   └──  javassist 3
+                    │       │       ├──  bytecode 1
+                    │       │       │   └──  analysis 5
+                    │       │       │       ├──  ErrorFinder.class 0
+                    │       │       │       ├──  AnalyzerTest$Dummy$A3.class 0
+                    │       │       │       ├──  AnalyzerTest$Dummy$A2.class 0
+                    │       │       │       ├──  ScannerTest.class 0
+                    │       │       │       └──  DomTreePrinter.class 0
+                    │       │       ├──  convert 1
+                    │       │       │   └──  InstrumentationTarget$Itr.class 0
+                    │       │       └──  proxy 1
+                    │       │           └──  ProxySimpleTest$Default4.class 0
+                    │       ├──  javassist 16
+                    │       │   ├──  bytecode 3
+                    │       │   │   ├──  StackMapTest$T8dd.class 0
+                    │       │   │   ├──  StackMapTest$I8d.class 0
+                    │       │   │   └──  CodeAnalyzerTest.class 0
+                    │       │   ├──  ClassPoolBench.class 0
+                    │       │   ├──  compiler 3
+                    │       │   │   ├──  CodeTest.class 0
+                    │       │   │   ├──  ParseTest.class 0
+                    │       │   │   └──  LexTest.class 0
+                    │       │   ├──  JvstTest4$Inner1.class 0
+                    │       │   ├──  Bench$1.class 0
+                    │       │   ├──  tools 1
+                    │       │   │   └──  reflect 2
+                    │       │   │       ├──  ClassMetaobjectTest.class 0
+                    │       │   │       └──  Person.class 0
+                    │       │   ├──  HotswapTest$Foo.class 0
+                    │       │   ├──  Bench.class 0
+                    │       │   ├──  Bench$7.class 0
+                    │       │   ├──  Bench$6.class 0
+                    │       │   ├──  Bench$5.class 0
+                    │       │   ├──  Bench$4.class 0
+                    │       │   ├──  Bench$3.class 0
+                    │       │   ├──  Bench$2.class 0
+                    │       │   ├──  ConcurrentClassDefinitionTest$Worker.class 0
+                    │       │   └──  ConcurrentClassDefinitionTest.class 0
+                    │       ├──  test1 11
+                    │       │   ├──  GetThrow2.class 0
+                    │       │   ├──  GetThrow1.class 0
+                    │       │   ├──  BenchProceedNew.class 0
+                    │       │   ├──  BenchProceedNew3.class 0
+                    │       │   ├──  BenchProceedNew2.class 0
+                    │       │   ├──  RenameClass2.class 0
+                    │       │   ├──  BenchStaticMethod.class 0
+                    │       │   ├──  BenchProceed.class 0
+                    │       │   ├──  BenchProceed2.class 0
+                    │       │   ├──  Point.class 0
+                    │       │   └──  StaticField.class 0
+                    │       ├──  test4 18
+                    │       │   ├──  GetAllRefInnerTest$2.class 0
+                    │       │   ├──  GetAllRefInnerTest$1.class 0
+                    │       │   ├──  GetAllRefInnerTest2.class 0
+                    │       │   ├──  GetAllRefInnerTest2$1.class 0
+                    │       │   ├──  ImportPac.class 0
+                    │       │   ├──  JIRA220intf.class 0
+                    │       │   ├──  JIRA181$B.class 0
+                    │       │   ├──  Signature$Foo.class 0
+                    │       │   ├──  NestedClass$S.class 0
+                    │       │   ├──  NestedClass$S$S2.class 0
+                    │       │   ├──  NestedClass$N.class 0
+                    │       │   ├──  GetAllRefEnum.class 0
+                    │       │   ├──  GetAllRefAnno.class 0
+                    │       │   ├──  JIRA181$ICondition.class 0
+                    │       │   ├──  GetAllRefAnnoC.class 0
+                    │       │   ├──  GetAllRefAnnoC4.class 0
+                    │       │   ├──  GetAllRefAnnoC3.class 0
+                    │       │   └──  GetAllRefAnnoC2.class 0
+                    │       ├──  test5 10
+                    │       │   ├──  JIRA246.class 0
+                    │       │   ├──  InnerClassRemove$C.class 0
+                    │       │   ├──  InnerClassRemove$A.class 0
+                    │       │   ├──  InnerClassRemove$B.class 0
+                    │       │   ├──  NestHost$Bar.class 0
+                    │       │   ├──  NestHost2$Bar.class 0
+                    │       │   ├──  InnerModifier2.class 0
+                    │       │   ├──  RemoveAnno2.class 0
+                    │       │   ├──  RemoveAnno1.class 0
+                    │       │   └──  JIRA242.class 0
+                    │       ├──  Readme.txt 0
+                    │       ├──  testproxy 4
+                    │       │   ├──  Target127$RealSub.class 0
+                    │       │   ├──  Target127.class 0
+                    │       │   ├──  Target189.class 0
+                    │       │   └──  sub 1
+                    │       │       └──  TargetSuper.class 0
+                    │       ├──  test2 5
+                    │       │   ├──  ReplaceClassName3.class 0
+                    │       │   ├──  ReplaceClassName2.class 0
+                    │       │   ├──  Nested$Inner2.class 0
+                    │       │   ├──  StaticArraysMem.class 0
+                    │       │   └──  Inner2$Child.class 0
+                    │       ├──  Jassist150.class 0
+                    │       ├──  Jassist150$1.class 0
+                    │       ├──  Test.class 0
+                    │       ├──  InvalidStackMapFrame.class 0
+                    │       └──  annotation 3
+                    │           ├──  Tag.class 0
+                    │           ├──  EnumTest.class 0
+                    │           └──  Id.class 0
+                    ├──  tutorial 3
+                    │   ├──  tutorial.html 0
+                    │   ├──  tutorial2.html 0
+                    │   └──  tutorial3.html 0
+                    ├──  Changes.md 0
+                    ├──  License.html 0
+                    ├──  src 1
+                    │   └──  test 2
+                    │       ├──  javassist 1
+                    │       │   └──  bytecode 1
+                    │       │       └──  Gap0Example.class 0
+                    │       └──  Readme.txt 0
+                    ├──  sample 8
+                    │   ├──  vector 4
+                    │   │   ├──  Test.j 0
+                    │   │   ├──  VectorAssistant.java 0
+                    │   │   ├──  Sample2.java 0
+                    │   │   └──  Sample.java 0
+                    │   ├──  rmi 5
+                    │   │   ├──  webdemo.html 0
+                    │   │   ├──  start.html 0
+                    │   │   ├──  inside.gif 0
+                    │   │   ├──  Counter.java 0
+                    │   │   └──  CountApplet.java 0
+                    │   ├──  reflect 2
+                    │   │   ├──  VerboseMetaobj.java 0
+                    │   │   └──  Person.java 0
+                    │   ├──  preproc 3
+                    │   │   ├──  package.html 0
+                    │   │   ├──  Compiler.java 0
+                    │   │   └──  Assistant.java 0
+                    │   ├──  hotswap 1
+                    │   │   └──  Test.java 0
+                    │   ├──  evolve 10
+                    │   │   ├──  update.html 0
+                    │   │   ├──  start.html 0
+                    │   │   ├──  demo.html 0
+                    │   │   ├──  WebPage.java 0
+                    │   │   ├──  VersionManager.java 0
+                    │   │   ├──  Sample.java 0
+                    │   │   ├──  Evolution.java 0
+                    │   │   ├──  DemoServer.java 0
+                    │   │   ├──  DemoLoader.java 0
+                    │   │   └──  CannotUpdateException.java 0
+                    │   ├──  duplicate 4
+                    │   │   ├──  Viewer.java 0
+                    │   │   ├──  Main.java 0
+                    │   │   ├──  DuplicatedObject.java 0
+                    │   │   └──  Ball.java 0
+                    │   └──  Test.java 0
+                    ├──  README.md 0
+                    ├──  .gitignore 0
+                    ├──  .github 1
+                    │   └──  workflows 1
+                    │       └──  maven.yml 0
+                    ├──  Examples.md 0
+                    ├──  build.xml 0
+                    ├──  starting_build_uses21_21 0
+                    ├──  starting_build_BuildwithMaven_27 0
+                    ├──  starting_build_SetupJDKmatrixjavaversion_22 0
+                    └──  starting_finished_finished_8979874 0
