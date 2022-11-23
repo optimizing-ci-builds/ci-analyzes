@@ -1,0 +1,87 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/kafdrop/kafdrop/target/kafdrop-3.31.0-SNAPSHOT.jar,8713,11809,7664,BuildwithMaven,BuildwithMaven,BuildwithMaven
+1,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/fonts/fontawesome-webfont.svg,-1,1511,1489,Not provided,uses16,uses16
+2,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/js/bootstrap.bundle.min.js.map,-1,1693,1673,Not provided,uses16,uses16
+3,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/css/bootstrap.min.css,-1,1459,1447,Not provided,uses16,uses16
+4,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/fonts/fontawesome-webfont.ttf,-1,1522,1513,Not provided,uses16,uses16
+5,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/js/jquery-3.5.1.slim.min.map,-1,1718,1710,Not provided,uses16,uses16
+6,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/fonts/glyphicons-halflings-regular.svg,-1,1549,1542,Not provided,uses16,uses16
+7,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/fonts/fontawesome-webfont.eot,-1,1487,1481,Not provided,uses16,uses16
+8,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/fonts/FontAwesome.otf,-1,1479,-1,Not provided,uses16,Not provided
+9,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/fonts/fontawesome-webfont.woff,-1,1530,1524,Not provided,uses16,uses16
+10,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/fonts/lato-v16-latin-ext_latin-700.svg,-1,1576,1570,Not provided,uses16,uses16
+11,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/js/bootstrap.bundle.min.js,-1,1671,-1,Not provided,uses16,Not provided
+12,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/fonts/lato-v16-latin-ext_latin-700italic.svg,-1,1606,1600,Not provided,uses16,uses16
+13,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/fonts/lato-v16-latin-ext_latin-regular.ttf,-1,1644,1638,Not provided,uses16,uses16
+14,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/fonts/lato-v16-latin-ext_latin-regular.svg,-1,1636,1630,Not provided,uses16,uses16
+15,/home/runner/work/kafdrop/kafdrop/.mvn/wrapper/maven-wrapper.jar,-1,1104,1099,Not provided,uses16,uses16
+16,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/fonts/lato-v16-latin-ext_latin-700italic.ttf,-1,1613,1608,Not provided,uses16,uses16
+17,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/js/jquery-3.5.1.slim.min.js,-1,1708,1703,Not provided,uses16,uses16
+18,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/fonts/lato-v16-latin-ext_latin-700.ttf,-1,1583,1578,Not provided,uses16,uses16
+19,/home/runner/work/kafdrop/kafdrop/docs/images/overview.png,-1,1165,-1,Not provided,uses16,Not provided
+20,/home/runner/work/kafdrop/kafdrop/target/surefire-reports/TEST-kafdrop.model.ConsumerPartitionVOTest.xml,-1,7368,7364,Not provided,BuildwithMaven,BuildwithMaven
+21,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/fonts/fontawesome-webfont.woff2,-1,1536,1532,Not provided,uses16,uses16
+22,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/fonts/glyphicons-halflings-regular.ttf,-1,1555,1551,Not provided,uses16,uses16
+23,/home/runner/work/kafdrop/kafdrop/target/failsafe-reports/TEST-kafdrop.KafdropIT.xml,-1,12866,12863,Not provided,BuildwithMaven,BuildwithMaven
+24,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/fonts/lato-v16-latin-ext_latin-700italic.woff2,-1,1623,1620,Not provided,uses16,uses16
+25,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/fonts/lato-v16-latin-ext_latin-regular.eot,-1,1628,1625,Not provided,uses16,uses16
+26,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/fonts/lato-v16-latin-ext_latin-regular.woff,-1,1649,1646,Not provided,uses16,uses16
+27,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/fonts/lato-v16-latin-ext_latin-regular.woff2,-1,1654,1651,Not provided,uses16,uses16
+28,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/fonts/lato-v16-latin-ext_latin-700italic.eot,-1,1598,1595,Not provided,uses16,uses16
+29,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/fonts/lato-v16-latin-ext_latin-700.woff2,-1,1593,1590,Not provided,uses16,uses16
+30,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/fonts/lato-v16-latin-ext_latin-700.woff,-1,1588,1585,Not provided,uses16,uses16
+31,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/fonts/lato-v16-latin-ext_latin-700italic.woff,-1,1618,1615,Not provided,uses16,uses16
+32,/home/runner/work/kafdrop/kafdrop/target/surefire-reports/TEST-kafdrop.KafdropTest.xml,-1,7358,-1,Not provided,BuildwithMaven,Not provided
+33,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/css/font-awesome.min.css,-1,1464,1461,Not provided,uses16,uses16
+34,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/fonts/lato-v16-latin-ext_latin-700.eot,-1,1568,1565,Not provided,uses16,uses16
+35,/home/runner/work/kafdrop/kafdrop/src/test/resources/sasl-ssl.properties,-1,1847,1845,Not provided,uses16,uses16
+36,/home/runner/work/kafdrop/kafdrop/target/docker-ready/kafdrop.sh,-1,2531,2528,Not provided,BuildwithMaven,BuildwithMaven
+37,/home/runner/work/kafdrop/kafdrop/target/test-classes/person.desc,-1,5808,5806,Not provided,BuildwithMaven,BuildwithMaven
+38,/home/runner/work/kafdrop/kafdrop/target/test-classes/sasl-ssl.properties,-1,5800,5798,Not provided,BuildwithMaven,BuildwithMaven
+39,/home/runner/work/kafdrop/kafdrop/target/test-classes/person.proto,-1,5792,5790,Not provided,BuildwithMaven,BuildwithMaven
+40,/home/runner/work/kafdrop/kafdrop/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst,-1,5775,5773,Not provided,BuildwithMaven,BuildwithMaven
+41,/home/runner/work/kafdrop/kafdrop/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst,-1,5771,5769,Not provided,BuildwithMaven,BuildwithMaven
+42,/home/runner/work/kafdrop/kafdrop/target/docker-ready/Dockerfile,-1,2523,2520,Not provided,BuildwithMaven,BuildwithMaven
+43,/home/runner/work/kafdrop/kafdrop/src/main/assembly/bin.xml,-1,1190,1186,Not provided,uses16,uses16
+44,/home/runner/work/kafdrop/kafdrop/chart/templates/_helpers.tpl,-1,1133,1131,Not provided,uses16,uses16
+45,/home/runner/work/kafdrop/kafdrop/mvnw.cmd,-1,1177,1175,Not provided,uses16,uses16
+46,/home/runner/work/kafdrop/kafdrop/mvnw,-1,1173,1171,Not provided,uses16,uses16
+47,/home/runner/work/kafdrop/kafdrop/kaas_local_jaas.conf,-1,1169,1167,Not provided,uses16,uses16
+48,/home/runner/work/kafdrop/kafdrop/chart/values.yaml,-1,1149,1147,Not provided,uses16,uses16
+49,/home/runner/work/kafdrop/kafdrop/chart/templates/service.yaml,-1,1145,1143,Not provided,uses16,uses16
+50,/home/runner/work/kafdrop/kafdrop/chart/templates/ingress.yaml,-1,1141,1139,Not provided,uses16,uses16
+51,/home/runner/work/kafdrop/kafdrop/target/surefire-reports/kafdrop.model.ConsumerPartitionVOTest.txt,-1,7362,7360,Not provided,BuildwithMaven,BuildwithMaven
+52,/home/runner/work/kafdrop/kafdrop/chart/templates/deployment.yaml,-1,1137,1135,Not provided,uses16,uses16
+53,/home/runner/work/kafdrop/kafdrop/chart/Chart.yaml,-1,1124,1122,Not provided,uses16,uses16
+54,/home/runner/work/kafdrop/kafdrop/README.md,-1,1116,1114,Not provided,uses16,uses16
+55,/home/runner/work/kafdrop/kafdrop/.github/dependabot.yml,-1,1061,1059,Not provided,uses16,uses16
+56,/home/runner/work/kafdrop/kafdrop/.github/workflows/close_inactive_issues.yml,-1,1069,1067,Not provided,uses16,uses16
+57,/home/runner/work/kafdrop/kafdrop/.github/workflows/master.yml,-1,1073,1071,Not provided,uses16,uses16
+58,/home/runner/work/kafdrop/kafdrop/.github/workflows/pull_request.yml,-1,1077,1075,Not provided,uses16,uses16
+59,/home/runner/work/kafdrop/kafdrop/.gitignore,-1,1085,1083,Not provided,uses16,uses16
+60,/home/runner/work/kafdrop/kafdrop/.mvn/wrapper/MavenWrapperDownloader.java,-1,1097,1095,Not provided,uses16,uses16
+61,/home/runner/work/kafdrop/kafdrop/.mvn/wrapper/maven-wrapper.properties,-1,1108,1106,Not provided,uses16,uses16
+62,/home/runner/work/kafdrop/kafdrop/LICENSE,-1,1112,1110,Not provided,uses16,uses16
+63,/home/runner/work/kafdrop/kafdrop/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst,-1,6199,6197,Not provided,BuildwithMaven,BuildwithMaven
+64,/home/runner/work/kafdrop/kafdrop/src/test/resources/person.proto,-1,1843,1841,Not provided,uses16,uses16
+65,/home/runner/work/kafdrop/kafdrop/theme/_variables.scss,-1,1857,1855,Not provided,uses16,uses16
+66,/home/runner/work/kafdrop/kafdrop/theme/install.sh,-1,1861,1859,Not provided,uses16,uses16
+67,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/js/powerFilter.js,-1,1726,1724,Not provided,uses16,uses16
+68,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/js/message-inspector.js,-1,1722,1720,Not provided,uses16,uses16
+69,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/js/global.js,-1,1701,1699,Not provided,uses16,uses16
+70,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/js/github-buttons.js,-1,1697,1695,Not provided,uses16,uses16
+71,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/css/baseless.min.css,-1,1445,-1,Not provided,uses16,Not provided
+72,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/css/global.css,-1,1468,1466,Not provided,uses16,uses16
+73,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/fonts/glyphicons-halflings-regular.eot,-1,1540,1538,Not provided,uses16,uses16
+74,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/fonts/glyphicons-halflings-regular.woff,-1,1559,1557,Not provided,uses16,uses16
+75,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/fonts/glyphicons-halflings-regular.woff2,-1,1563,1561,Not provided,uses16,uses16
+76,/home/runner/work/kafdrop/kafdrop/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst,-1,6203,6201,Not provided,BuildwithMaven,BuildwithMaven
+77,/home/runner/work/kafdrop/kafdrop/target/failsafe-reports/kafdrop.KafdropIT.txt,-1,12861,-1,Not provided,BuildwithMaven,Not provided
+78,/home/runner/work/kafdrop/kafdrop/starting_build_uses16_16,-1,-1,0,Not provided,Not provided,
+79,/home/runner/work/kafdrop/kafdrop/docker-compose/kafka-kafdrop/docker-compose.yaml,-1,1155,-1,Not provided,uses16,Not provided
+80,/home/runner/work/kafdrop/kafdrop/src/main/resources/static/images/kafdrop-logo.svg,-1,1660,-1,Not provided,uses16,Not provided
+81,/home/runner/work/kafdrop/kafdrop/src/test/resources/person.desc,-1,1839,-1,Not provided,uses16,Not provided
+82,/home/runner/work/kafdrop/kafdrop/theme/_bootswatch.scss,-1,1853,-1,Not provided,uses16,Not provided
+83,/home/runner/work/kafdrop/kafdrop/starting_build_SetupJDK11_17,-1,-1,2032,Not provided,Not provided,
+84,/home/runner/work/kafdrop/kafdrop/starting_build_BuildwithMaven_23,-1,-1,2491,Not provided,Not provided,
+85,/home/runner/work/kafdrop/kafdrop/starting_finished_finished_8979874,-1,-1,12894,Not provided,Not provided,
