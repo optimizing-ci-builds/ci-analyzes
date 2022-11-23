@@ -1,0 +1,36 @@
+
+└──  home 1
+    └──  runner 1
+        └──  work 1
+            └──  ysoserial 1
+                └──  ysoserial 17
+                    ├──  target 2
+                    │   ├──  ysoserial-optimizing-ci-builds-all.jar 0
+                    │   └──  maven-status 1
+                    │       └──  maven-compiler-plugin 2
+                    │           ├──  compile 1
+                    │           │   └──  default-compile 2
+                    │           │       ├──  createdFiles.lst 0
+                    │           │       └──  inputFiles.lst 0
+                    │           └──  testCompile 1
+                    │               └──  default-testCompile 2
+                    │                   ├──  inputFiles.lst 0
+                    │                   └──  createdFiles.lst 0
+                    ├──  ysoserial.png 0
+                    ├──  pom.xml.versionsBackup 0
+                    ├──  .gitignore 0
+                    ├──  DISCLAIMER.txt 0
+                    ├──  Dockerfile 0
+                    ├──  LICENSE.txt 0
+                    ├──  README.md 0
+                    ├──  appveyor.yml 0
+                    ├──  .travis.yml 0
+                    ├──  .editorconfig 0
+                    ├──  starting_publish_uses16_16 0
+                    ├──  .github 1
+                    │   └──  workflows 1
+                    │       └──  publish.yml 0
+                    ├──  starting_publish_Buildjar_24 0
+                    ├──  starting_publish_uses17_17 0
+                    ├──  starting_publish_Setversion_22 0
+                    └──  starting_finished_finished_8979874 0
