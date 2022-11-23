@@ -1,0 +1,14 @@
+,file_name
+16,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.client/WebSocketClient.java.html
+22,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.extensions.permessage_deflate/PerMessageDeflateExtension.java.html
+24,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.drafts/Draft.java.html
+233,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.framing/CloseFrame.java.html
+270,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/misc/AllMiscTests.class
+271,/home/runner/work/Java-WebSocket/Java-WebSocket/target/surefire-reports/org.java_websocket.client.SchemaCheckTest.txt
+272,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket/AbstractWrappedByteChannel.java.html
+273,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.enums/CloseHandshakeType.java.html
+274,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.extensions/CompressionExtension.java.html
+275,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.util/ByteBufferUtils.java.html
+276,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.protocols/Protocol.java.html
+277,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.handshake/HandshakeImpl1Server.java.html
+278,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.server/DefaultWebSocketServerFactory.java.html
