@@ -1,283 +1,277 @@
 ,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
-0,/home/runner/work/open-location-code/open-location-code/java/target/openlocationcode-1.0.4-javadoc.jar,-1,6970,5586,Not provided,test,test
-1,/home/runner/work/open-location-code/open-location-code/java/target/openlocationcode-1.0.4-sources.jar,-1,4680,4447,Not provided,test,test
-2,/home/runner/work/open-location-code/open-location-code/docs/images/code_areas.png,-1,1803,-1,Not provided,uses72,Not provided
-3,/home/runner/work/open-location-code/open-location-code/docs/images/olc_11_grid.png,-1,1852,1832,Not provided,uses72,uses72
-4,/home/runner/work/open-location-code/open-location-code/docs/images/olc_10_character.png,-1,1830,1810,Not provided,uses72,uses72
-5,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable-xxhdpi/welcome_image.png,-1,1437,1423,Not provided,uses72,uses72
-6,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable-xhdpi/welcome_image.png,-1,1407,1399,Not provided,uses72,uses72
-7,/home/runner/work/open-location-code/open-location-code/android_demo/gradle/wrapper/gradle-wrapper.jar,-1,1536,-1,Not provided,uses72,Not provided
-8,/home/runner/work/open-location-code/open-location-code/docs/images/geohash36_grid.png,-1,1808,1805,Not provided,uses72,uses72
-9,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/testdata/5_17_19_zoom_2.json,-1,2672,2669,Not provided,uses72,uses72
-10,/home/runner/work/open-location-code/open-location-code/js/closure/openlocationcode.js,-1,2343,2340,Not provided,uses72,uses72
-11,/home/runner/work/open-location-code/open-location-code/plpgsql/pluscode_functions.sql,-1,2433,2430,Not provided,uses72,uses72
-12,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable-hdpi/welcome_image.png,-1,1366,1363,Not provided,uses72,uses72
-13,/home/runner/work/open-location-code/open-location-code/python/openlocationcode/openlocationcode.py,-1,2468,2465,Not provided,uses72,uses72
-14,/home/runner/work/open-location-code/open-location-code/js/closure/openlocationcode_test.js,-1,2347,2345,Not provided,uses72,uses72
-15,/home/runner/work/open-location-code/open-location-code/js/contrib/olc_grid_overlay.min.js,-1,2361,2359,Not provided,uses72,uses72
-16,/home/runner/work/open-location-code/open-location-code/js/closure/README.md,-1,2338,2336,Not provided,uses72,uses72
-17,/home/runner/work/open-location-code/open-location-code/js/checks.sh,-1,2328,2326,Not provided,uses72,uses72
-18,/home/runner/work/open-location-code/open-location-code/js/contrib/olc_grid_overlay.js,-1,2357,2355,Not provided,uses72,uses72
-19,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fenix5x/launcher_icon.png,-1,2031,2029,Not provided,uses72,uses72
-20,/home/runner/work/open-location-code/open-location-code/js/src/openlocationcode.js,-1,2398,-1,Not provided,uses72,Not provided
-21,/home/runner/work/open-location-code/open-location-code/js/examples/example2.html,-1,2371,2369,Not provided,uses72,uses72
-22,/home/runner/work/open-location-code/open-location-code/js/examples/example3.html,-1,2375,2373,Not provided,uses72,uses72
-23,/home/runner/work/open-location-code/open-location-code/python/BUILD,-1,2451,2449,Not provided,uses72,uses72
-24,/home/runner/work/open-location-code/open-location-code/python/.style.yapf,-1,2447,2445,Not provided,uses72,uses72
-25,/home/runner/work/open-location-code/open-location-code/plpgsql/tests_script_l.sql,-1,2437,2435,Not provided,uses72,uses72
-26,/home/runner/work/open-location-code/open-location-code/package.json,-1,2422,2420,Not provided,uses72,uses72
-27,/home/runner/work/open-location-code/open-location-code/js/test/karma.config.js,-1,2412,2410,Not provided,uses72,uses72
-28,/home/runner/work/open-location-code/open-location-code/js/src/openlocationcode.min.js,-1,2402,2400,Not provided,uses72,uses72
-29,/home/runner/work/open-location-code/open-location-code/js/package.json,-1,2391,2389,Not provided,uses72,uses72
-30,/home/runner/work/open-location-code/open-location-code/js/gulpfile.js,-1,2387,2385,Not provided,uses72,uses72
-31,/home/runner/work/open-location-code/open-location-code/js/examples/examples.js,-1,2383,2381,Not provided,uses72,uses72
-32,/home/runner/work/open-location-code/open-location-code/js/examples/examples.css,-1,2379,2377,Not provided,uses72,uses72
-33,/home/runner/work/open-location-code/open-location-code/js/README.md,-1,2324,2322,Not provided,uses72,uses72
-34,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/source/PlusCodeView.mc,-1,2196,2194,Not provided,uses72,uses72
-35,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/source/PlusCodeDatafield.mc,-1,2192,2190,Not provided,uses72,uses72
-36,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources/strings.xml,-1,2182,2180,Not provided,uses72,uses72
-37,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources/layouts.xml,-1,2178,2176,Not provided,uses72,uses72
-38,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources/launcher_icon.png,-1,2174,2172,Not provided,uses72,uses72
-39,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-vivoactive_hr/resources-fenix3_hr/launcher_icon.png,-1,2166,2164,Not provided,uses72,uses72
-40,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-vivoactive_hr/launcher_icon.png,-1,2157,2155,Not provided,uses72,uses72
-41,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-vivoactive3m/launcher_icon.png,-1,2148,2146,Not provided,uses72,uses72
-42,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-vivoactive3/launcher_icon.png,-1,2139,2137,Not provided,uses72,uses72
-43,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-vivoactive/launcher_icon.png,-1,2129,2127,Not provided,uses72,uses72
-44,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-rino7xx/launcher_icon.png,-1,2121,2119,Not provided,uses72,uses72
-45,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-oregon7xx/launcher_icon.png,-1,2111,2109,Not provided,uses72,uses72
-46,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fr935/launcher_icon.png,-1,2102,2100,Not provided,uses72,uses72
-47,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fr735xt/launcher_icon.png,-1,2089,2087,Not provided,uses72,uses72
-48,/home/runner/work/open-location-code/open-location-code/go/README.md,-1,2205,2203,Not provided,uses72,uses72
-49,/home/runner/work/open-location-code/open-location-code/go/corpus/gen.go,-1,2215,2213,Not provided,uses72,uses72
-50,/home/runner/work/open-location-code/open-location-code/java/README.md,-1,2259,2257,Not provided,uses72,uses72
-51,/home/runner/work/open-location-code/open-location-code/go/decode.go,-1,2219,2217,Not provided,uses72,uses72
-52,/home/runner/work/open-location-code/open-location-code/go/shorten.go,-1,2246,2244,Not provided,uses72,uses72
-53,/home/runner/work/open-location-code/open-location-code/go/olc_test.go,-1,2242,2240,Not provided,uses72,uses72
-54,/home/runner/work/open-location-code/open-location-code/go/olc_gofuzz.go,-1,2238,2236,Not provided,uses72,uses72
-55,/home/runner/work/open-location-code/open-location-code/go/olc.go,-1,2234,2232,Not provided,uses72,uses72
-56,/home/runner/work/open-location-code/open-location-code/go/go.mod,-1,2227,2225,Not provided,uses72,uses72
-57,/home/runner/work/open-location-code/open-location-code/go/encode.go,-1,2223,2221,Not provided,uses72,uses72
-58,/home/runner/work/open-location-code/open-location-code/python/README.md,-1,2455,2453,Not provided,uses72,uses72
-59,/home/runner/work/open-location-code/open-location-code/ruby/lib/plus_codes/open_location_code.rb,-1,2498,2496,Not provided,uses72,uses72
-60,/home/runner/work/open-location-code/open-location-code/python/format_check.sh,-1,2459,2457,Not provided,uses72,uses72
-61,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/TEST-com.google.openlocationcode.UtilsTest.xml,-1,4143,4141,Not provided,test,test
-62,/home/runner/work/open-location-code/open-location-code/java/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst,-1,3244,3242,Not provided,test,test
-63,/home/runner/work/open-location-code/open-location-code/java/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst,-1,3240,3238,Not provided,test,test
-64,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/TEST-com.google.openlocationcode.ShorteningTest.xml,-1,4135,4133,Not provided,test,test
-65,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/com.google.openlocationcode.UtilsTest.txt,-1,4139,4137,Not provided,test,test
-66,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/com.google.openlocationcode.ValidityTest.txt,-1,4156,4154,Not provided,test,test
-67,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/com.google.openlocationcode.ShorteningTest.txt,-1,4131,4129,Not provided,test,test
-68,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/TEST-com.google.openlocationcode.ValidityTest.xml,-1,4160,4158,Not provided,test,test
-69,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/com.google.openlocationcode.BenchmarkTest.txt,-1,4172,4170,Not provided,test,test
-70,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/TEST-com.google.openlocationcode.BenchmarkTest.xml,-1,4176,4174,Not provided,test,test
-71,/home/runner/work/open-location-code/open-location-code/visualbasic/README.md,-1,2696,2694,Not provided,uses72,uses72
-72,/home/runner/work/open-location-code/open-location-code/visualbasic/OpenLocationCode.bas,-1,2692,-1,Not provided,uses72,Not provided
-73,/home/runner/work/open-location-code/open-location-code/python/openlocationcode_test.py,-1,2472,2470,Not provided,uses72,uses72
-74,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/com.google.openlocationcode.EncodingTest.txt,-1,4101,4099,Not provided,test,test
-75,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/TEST-com.google.openlocationcode.RecoverTest.xml,-1,4092,4090,Not provided,test,test
-76,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/TEST-com.google.openlocationcode.DecodingTest.xml,-1,4120,4118,Not provided,test,test
-77,/home/runner/work/open-location-code/open-location-code/java/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst,-1,3829,3827,Not provided,test,test
-78,/home/runner/work/open-location-code/open-location-code/java/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst,-1,3825,3823,Not provided,test,test
-79,/home/runner/work/open-location-code/open-location-code/tile_server/main.go,-1,2680,2678,Not provided,uses72,uses72
-80,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/tileref.go,-1,2676,2674,Not provided,uses72,uses72
-81,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/testdata/5_17_19_white_zoom_2.png,-1,2667,2665,Not provided,uses72,uses72
-82,/home/runner/work/open-location-code/open-location-code/rust/src/consts.rs,-1,2532,2530,Not provided,uses72,uses72
-83,/home/runner/work/open-location-code/open-location-code/test_data/csv_to_json.go,-1,2569,2567,Not provided,uses72,uses72
-84,/home/runner/work/open-location-code/open-location-code/java/target/openlocationcode-1.0.4.jar,-1,4287,4270,Not provided,test,test
-85,/home/runner/work/open-location-code/open-location-code/rust/tests/csv_reader.rs,-1,2554,2552,Not provided,uses72,uses72
-86,/home/runner/work/open-location-code/open-location-code/rust/src/private.rs,-1,2544,2542,Not provided,uses72,uses72
-87,/home/runner/work/open-location-code/open-location-code/rust/src/lib.rs,-1,2540,2538,Not provided,uses72,uses72
-88,/home/runner/work/open-location-code/open-location-code/rust/src/interface.rs,-1,2536,2534,Not provided,uses72,uses72
-89,/home/runner/work/open-location-code/open-location-code/java/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml,-1,4688,4686,Not provided,test,test
-90,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/testdata/5_17_19_geodetic.json,-1,2663,2661,Not provided,uses72,uses72
-91,/home/runner/work/open-location-code/open-location-code/rust/README.md,-1,2522,2520,Not provided,uses72,uses72
-92,/home/runner/work/open-location-code/open-location-code/ruby/rubocop.yml,-1,2506,2504,Not provided,uses72,uses72
-93,/home/runner/work/open-location-code/open-location-code/ruby/open-location-code.gemspec,-1,2502,2500,Not provided,uses72,uses72
-94,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fr645m/launcher_icon.png,-1,2079,2077,Not provided,uses72,uses72
-95,/home/runner/work/open-location-code/open-location-code/python/setup.py,-1,2476,2474,Not provided,uses72,uses72
-96,/home/runner/work/open-location-code/open-location-code/tile_server/example.html,-1,2595,2593,Not provided,uses72,uses72
-97,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/testdata/5_17_19.png,-1,2659,2657,Not provided,uses72,uses72
-98,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/testdata/5_17_19.json,-1,2655,2653,Not provided,uses72,uses72
-99,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/testdata/21_1098232_1362659_geodetic.png,-1,2651,2649,Not provided,uses72,uses72
-100,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/testdata/21_1098232_1362659_geodetic.json,-1,2647,2645,Not provided,uses72,uses72
-101,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/testdata/21_1098232_1362659.png,-1,2643,2641,Not provided,uses72,uses72
-102,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/com.google.openlocationcode.PrecisionTest.txt,-1,4180,4178,Not provided,test,test
-103,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/projection_test.go,-1,2633,2631,Not provided,uses72,uses72
-104,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/projection.go,-1,2629,2627,Not provided,uses72,uses72
-105,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/image_test.go,-1,2625,2623,Not provided,uses72,uses72
-106,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/image.go,-1,2621,2619,Not provided,uses72,uses72
-107,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/gridserver.go,-1,2617,2615,Not provided,uses72,uses72
-108,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/go.sum,-1,2613,2611,Not provided,uses72,uses72
-109,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/go.mod,-1,2609,2607,Not provided,uses72,uses72
-110,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/geojson_test.go,-1,2605,2603,Not provided,uses72,uses72
-111,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/TEST-com.google.openlocationcode.PrecisionTest.xml,-1,4184,4182,Not provided,test,test
-112,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/TEST-com.google.openlocationcode.EncodingTest.xml,-1,4105,4103,Not provided,test,test
-113,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fr645/launcher_icon.png,-1,2070,2068,Not provided,uses72,uses72
-114,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/current/LocationProviderFactoryComponent.java,-1,1315,1313,Not provided,uses72,uses72
-115,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/direction/DirectionView.java,-1,1341,1339,Not provided,uses72,uses72
-116,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/direction/DirectionUtil.java,-1,1337,1335,Not provided,uses72,uses72
-117,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/direction/DirectionPresenter.java,-1,1333,1331,Not provided,uses72,uses72
-118,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/direction/DirectionContract.java,-1,1329,1327,Not provided,uses72,uses72
-119,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/current/LocationUtil.java,-1,1319,1317,Not provided,uses72,uses72
-120,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/current/LocationProvider.java,-1,1311,1309,Not provided,uses72,uses72
-121,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable-mdpi/map_center.png,-1,1385,1383,Not provided,uses72,uses72
-122,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/code/OpenLocationCodeUtil.java,-1,1301,1299,Not provided,uses72,uses72
-123,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/code/CodeView.java,-1,1297,1295,Not provided,uses72,uses72
-124,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/code/CodePresenter.java,-1,1293,1291,Not provided,uses72,uses72
-125,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/code/CodeContract.java,-1,1289,1285,Not provided,uses72,uses72
-126,/home/runner/work/open-location-code/open-location-code/android_demo/android/proguard-rules.pro,-1,1274,1272,Not provided,uses72,uses72
-127,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable-mdpi/ic_launcher.png,-1,1381,1379,Not provided,uses72,uses72
-128,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable-xhdpi/ic_launcher.png,-1,1393,1391,Not provided,uses72,uses72
-129,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/values/dimens.xml,-1,1515,1513,Not provided,uses72,uses72
-130,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/layout/welcome.xml,-1,1495,1493,Not provided,uses72,uses72
-131,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/layout/search.xml,-1,1491,1489,Not provided,uses72,uses72
-132,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/layout/my_map.xml,-1,1487,1485,Not provided,uses72,uses72
-133,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/layout/main_frag.xml,-1,1483,1481,Not provided,uses72,uses72
-134,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/layout/main_act.xml,-1,1479,1477,Not provided,uses72,uses72
-135,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/layout/direction.xml,-1,1475,1473,Not provided,uses72,uses72
-136,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable/search_button.xml,-1,1465,1463,Not provided,uses72,uses72
-137,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable-xhdpi/map_center.png,-1,1397,1395,Not provided,uses72,uses72
-138,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable/rounded_layout.xml,-1,1461,1459,Not provided,uses72,uses72
-139,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable-xxxhdpi/map_center.png,-1,1451,1449,Not provided,uses72,uses72
-140,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable-xxxhdpi/ic_launcher.png,-1,1447,1445,Not provided,uses72,uses72
-141,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable-xxhdpi/map_center.png,-1,1421,1419,Not provided,uses72,uses72
-142,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable-xxhdpi/ic_launcher.png,-1,1417,1415,Not provided,uses72,uses72
-143,/home/runner/work/open-location-code/open-location-code/android_demo/README.md,-1,1258,1256,Not provided,uses72,uses72
-144,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/values/styles.xml,-1,1523,1521,Not provided,uses72,uses72
-145,/home/runner/work/open-location-code/open-location-code/.gitignore,-1,1218,1216,Not provided,uses72,uses72
-146,/home/runner/work/open-location-code/open-location-code/TESTING.md,-1,1246,1244,Not provided,uses72,uses72
-147,/home/runner/work/open-location-code/open-location-code/README.md,-1,1242,1240,Not provided,uses72,uses72
-148,/home/runner/work/open-location-code/open-location-code/LICENSE,-1,1238,1236,Not provided,uses72,uses72
-149,/home/runner/work/open-location-code/open-location-code/FAQ.txt,-1,1234,1232,Not provided,uses72,uses72
-150,/home/runner/work/open-location-code/open-location-code/CONTRIBUTING.md,-1,1230,1228,Not provided,uses72,uses72
-151,/home/runner/work/open-location-code/open-location-code/CHANGELOG.md,-1,1226,1224,Not provided,uses72,uses72
-152,/home/runner/work/open-location-code/open-location-code/API.txt,-1,1222,1220,Not provided,uses72,uses72
-153,/home/runner/work/open-location-code/open-location-code/.github/workflows/main.yml,-1,1210,-1,Not provided,uses72,Not provided
-154,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/values/strings.xml,-1,1519,1517,Not provided,uses72,uses72
-155,/home/runner/work/open-location-code/open-location-code/android_demo/build.gradle,-1,1527,1525,Not provided,uses72,uses72
-156,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-d2bravo_titanium/launcher_icon.png,-1,1908,1906,Not provided,uses72,uses72
-157,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-d2bravo/launcher_icon.png,-1,1899,1897,Not provided,uses72,uses72
-158,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/monkey.jungle,-1,1890,1888,Not provided,uses72,uses72
-159,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/manifest.xml,-1,1886,1884,Not provided,uses72,uses72
-160,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/README.md,-1,1882,1880,Not provided,uses72,uses72
-161,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/.project,-1,1878,1876,Not provided,uses72,uses72
-162,/home/runner/work/open-location-code/open-location-code/docs/specification.md,-1,1864,1862,Not provided,uses72,uses72
-163,/home/runner/work/open-location-code/open-location-code/docs/olc_definition.adoc,-1,1860,1858,Not provided,uses72,uses72
-164,/home/runner/work/open-location-code/open-location-code/docs/images/openpostcode_grid.png,-1,1856,1854,Not provided,uses72,uses72
-165,/home/runner/work/open-location-code/open-location-code/dart/test/validity_test.dart,-1,1746,1744,Not provided,uses72,uses72
-166,/home/runner/work/open-location-code/open-location-code/dart/test/utils.dart,-1,1742,1740,Not provided,uses72,uses72
-167,/home/runner/work/open-location-code/open-location-code/dart/test/short_code_test.dart,-1,1738,1736,Not provided,uses72,uses72
-168,/home/runner/work/open-location-code/open-location-code/dart/test/encode_test.dart,-1,1734,1732,Not provided,uses72,uses72
-169,/home/runner/work/open-location-code/open-location-code/dart/test/decode_test.dart,-1,1730,1728,Not provided,uses72,uses72
-170,/home/runner/work/open-location-code/open-location-code/dart/test/compute_precision_test.dart,-1,1726,1724,Not provided,uses72,uses72
-171,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-edge1030/launcher_icon.png,-1,1918,1916,Not provided,uses72,uses72
-172,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-edge1030bontrager/launcher_icon.png,-1,1927,1925,Not provided,uses72,uses72
-173,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-edge130/launcher_icon.png,-1,1935,1933,Not provided,uses72,uses72
-174,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fenix5/launcher_icon.png,-1,2006,2004,Not provided,uses72,uses72
-175,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fr630/launcher_icon.png,-1,2060,2058,Not provided,uses72,uses72
-176,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fr235/launcher_icon.png,-1,2051,2049,Not provided,uses72,uses72
-177,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fenixchronos/launcher_icon.png,-1,2041,2039,Not provided,uses72,uses72
-178,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/com.google.openlocationcode.DecodingTest.txt,-1,4116,4114,Not provided,test,test
-179,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fenix5s/launcher_icon.png,-1,2022,2020,Not provided,uses72,uses72
-180,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fenix5plus/launcher_icon.png,-1,2014,2012,Not provided,uses72,uses72
-181,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fenix3_hr/launcher_icon.png,-1,1998,1996,Not provided,uses72,uses72
-182,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-edge520plus/launcher_icon.png,-1,1943,1941,Not provided,uses72,uses72
-183,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fenix3/launcher_icon.png,-1,1988,1986,Not provided,uses72,uses72
-184,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-epix/launcher_icon.png,-1,1979,1977,Not provided,uses72,uses72
-185,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-edge_520/launcher_icon.png,-1,1969,1967,Not provided,uses72,uses72
-186,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-edge_1000/launcher_icon.png,-1,1960,1958,Not provided,uses72,uses72
-187,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-edge820/launcher_icon.png,-1,1952,1950,Not provided,uses72,uses72
-188,/home/runner/work/open-location-code/open-location-code/dart/test/clip_latitude_test.dart,-1,1722,1720,Not provided,uses72,uses72
-189,/home/runner/work/open-location-code/open-location-code/dart/pubspec.yaml,-1,1712,1710,Not provided,uses72,uses72
-190,/home/runner/work/open-location-code/open-location-code/android_demo/gradle/wrapper/gradle-wrapper.properties,-1,1540,1538,Not provided,uses72,uses72
-191,/home/runner/work/open-location-code/open-location-code/c/src/olc.h,-1,1617,1615,Not provided,uses72,uses72
-192,/home/runner/work/open-location-code/open-location-code/c/openlocationcode_test.cc,-1,1607,1605,Not provided,uses72,uses72
-193,/home/runner/work/open-location-code/open-location-code/c/example.c,-1,1603,1601,Not provided,uses72,uses72
-194,/home/runner/work/open-location-code/open-location-code/c/clang_check.sh,-1,1599,1597,Not provided,uses72,uses72
-195,/home/runner/work/open-location-code/open-location-code/c/benchmark/shared.c,-1,1595,1593,Not provided,uses72,uses72
-196,/home/runner/work/open-location-code/open-location-code/c/benchmark/bm-cpp.cc,-1,1591,1589,Not provided,uses72,uses72
-197,/home/runner/work/open-location-code/open-location-code/c/benchmark/bm-c.c,-1,1587,1585,Not provided,uses72,uses72
-198,/home/runner/work/open-location-code/open-location-code/c/benchmark/Makefile,-1,1583,1581,Not provided,uses72,uses72
-199,/home/runner/work/open-location-code/open-location-code/c/README.md,-1,1574,1572,Not provided,uses72,uses72
-200,/home/runner/work/open-location-code/open-location-code/c/BUILD,-1,1570,1568,Not provided,uses72,uses72
-201,/home/runner/work/open-location-code/open-location-code/c/.gitignore,-1,1566,1564,Not provided,uses72,uses72
-202,/home/runner/work/open-location-code/open-location-code/android_demo/settings.gradle,-1,1556,1554,Not provided,uses72,uses72
-203,/home/runner/work/open-location-code/open-location-code/android_demo/openlocationcode_android.iml,-1,1552,1550,Not provided,uses72,uses72
-204,/home/runner/work/open-location-code/open-location-code/android_demo/gradlew.bat,-1,1548,1546,Not provided,uses72,uses72
-205,/home/runner/work/open-location-code/open-location-code/android_demo/gradlew,-1,1544,1542,Not provided,uses72,uses72
-206,/home/runner/work/open-location-code/open-location-code/dart/lib/src/open_location_code.dart,-1,1708,-1,Not provided,uses72,Not provided
-207,/home/runner/work/open-location-code/open-location-code/c/src/olc_private.h,-1,1621,1619,Not provided,uses72,uses72
-208,/home/runner/work/open-location-code/open-location-code/cpp/.gitignore,-1,1637,1635,Not provided,uses72,uses72
-209,/home/runner/work/open-location-code/open-location-code/dart/checks.sh,-1,1695,1693,Not provided,uses72,uses72
-210,/home/runner/work/open-location-code/open-location-code/dart/README.md,-1,1691,1689,Not provided,uses72,uses72
-211,/home/runner/work/open-location-code/open-location-code/cpp/openlocationcode_test.cc,-1,1677,1675,Not provided,uses72,uses72
-212,/home/runner/work/open-location-code/open-location-code/cpp/openlocationcode_example.cc,-1,1673,1671,Not provided,uses72,uses72
-213,/home/runner/work/open-location-code/open-location-code/cpp/openlocationcode.h,-1,1669,1667,Not provided,uses72,uses72
-214,/home/runner/work/open-location-code/open-location-code/cpp/openlocationcode.cc,-1,1665,1663,Not provided,uses72,uses72
-215,/home/runner/work/open-location-code/open-location-code/cpp/gtest.BUILD,-1,1661,1659,Not provided,uses72,uses72
-216,/home/runner/work/open-location-code/open-location-code/cpp/codearea.h,-1,1657,1655,Not provided,uses72,uses72
-217,/home/runner/work/open-location-code/open-location-code/cpp/codearea.cc,-1,1653,1651,Not provided,uses72,uses72
-218,/home/runner/work/open-location-code/open-location-code/cpp/clang_check.sh,-1,1649,1647,Not provided,uses72,uses72
-219,/home/runner/work/open-location-code/open-location-code/cpp/README.md,-1,1645,1643,Not provided,uses72,uses72
-220,/home/runner/work/open-location-code/open-location-code/cpp/BUILD,-1,1641,1639,Not provided,uses72,uses72
-221,/home/runner/work/open-location-code/open-location-code/starting_testjava_uses72_72,-1,-1,0,Not provided,Not provided,
-222,/home/runner/work/open-location-code/open-location-code/go/go.sum,-1,-1,2229,Not provided,Not provided,uses72
-223,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/com.google.openlocationcode.RecoverTest.txt,-1,4088,-1,Not provided,test,Not provided
-224,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/values-pt/strings.xml,-1,1505,-1,Not provided,uses72,Not provided
-225,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fenixchronos/drawables.xml,-1,2037,-1,Not provided,uses72,Not provided
-226,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fenix3_hr/drawables.xml,-1,1994,-1,Not provided,uses72,Not provided
-227,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-epix/drawables.xml,-1,1975,-1,Not provided,uses72,Not provided
-228,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-edge1030/drawables.xml,-1,1914,-1,Not provided,uses72,Not provided
-229,/home/runner/work/open-location-code/open-location-code/emacs/README.md,-1,1870,-1,Not provided,uses72,Not provided
-230,/home/runner/work/open-location-code/open-location-code/docs/comparison.adoc,-1,1752,-1,Not provided,uses72,Not provided
-231,/home/runner/work/open-location-code/open-location-code/dart/test/benchmark_test.dart,-1,1718,-1,Not provided,uses72,Not provided
-232,/home/runner/work/open-location-code/open-location-code/dart/lib/open_location_code.dart,-1,1701,-1,Not provided,uses72,Not provided
-233,/home/runner/work/open-location-code/open-location-code/csharp/README.md,-1,1683,-1,Not provided,uses72,Not provided
-234,/home/runner/work/open-location-code/open-location-code/cpp/.clang-format,-1,1633,-1,Not provided,uses72,Not provided
-235,/home/runner/work/open-location-code/open-location-code/common-lisp/README.md,-1,1627,-1,Not provided,uses72,Not provided
-236,/home/runner/work/open-location-code/open-location-code/c/src/olc.c,-1,1613,-1,Not provided,uses72,Not provided
-237,/home/runner/work/open-location-code/open-location-code/c/.clang-format,-1,1562,-1,Not provided,uses72,Not provided
-238,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/values/colors.xml,-1,1511,-1,Not provided,uses72,Not provided
-239,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/layout/code.xml,-1,1471,-1,Not provided,uses72,Not provided
-240,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable/map_satellite_button.xml,-1,1457,-1,Not provided,uses72,Not provided
-241,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable-xxxhdpi/ic_action_maps_navigation.png,-1,1443,-1,Not provided,uses72,Not provided
-242,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable-xxhdpi/ic_action_maps_navigation.png,-1,1413,-1,Not provided,uses72,Not provided
-243,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable-ldpi/map_center.png,-1,1372,-1,Not provided,uses72,Not provided
-244,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/direction/Direction.java,-1,1325,-1,Not provided,uses72,Not provided
-245,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/current/GoogleApiModule.java,-1,1307,-1,Not provided,uses72,Not provided
-246,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/AndroidManifest.xml,-1,1280,-1,Not provided,uses72,Not provided
-247,/home/runner/work/open-location-code/open-location-code/android_demo/android/libs/README.md,-1,1270,-1,Not provided,uses72,Not provided
-248,/home/runner/work/open-location-code/open-location-code/android_demo/android/build.gradle,-1,1264,-1,Not provided,uses72,Not provided
-249,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fr235/drawables.xml,-1,2047,-1,Not provided,uses72,Not provided
-250,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fr645/drawables.xml,-1,2066,-1,Not provided,uses72,Not provided
-251,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fr735xt/drawables.xml,-1,2085,-1,Not provided,uses72,Not provided
-252,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-rino7xx/drawables.xml,-1,2117,-1,Not provided,uses72,Not provided
-253,/home/runner/work/open-location-code/open-location-code/bazel-open-location-code,-1,-1,2958,Not provided,Not provided,test
-254,/home/runner/work/open-location-code/open-location-code/bazel-out,-1,-1,2957,Not provided,Not provided,test
-255,/home/runner/work/open-location-code/open-location-code/bazel-testlogs,-1,-1,2956,Not provided,Not provided,test
-256,/home/runner/work/open-location-code/open-location-code/bazel-bin,-1,-1,2955,Not provided,Not provided,test
-257,/home/runner/work/open-location-code/open-location-code/starting_testjava_test_78,-1,-1,2871,Not provided,Not provided,
-258,/home/runner/work/open-location-code/open-location-code/starting_testjava_Setupjava_73,-1,-1,2866,Not provided,Not provided,
-259,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/testdata/21_1098232_1362659.json,-1,2639,-1,Not provided,uses72,Not provided
-260,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/geojson.go,-1,2601,-1,Not provided,uses72,Not provided
-261,/home/runner/work/open-location-code/open-location-code/tile_server/README.md,-1,2591,-1,Not provided,uses72,Not provided
-262,/home/runner/work/open-location-code/open-location-code/swift/README.md,-1,2560,-1,Not provided,uses72,Not provided
-263,/home/runner/work/open-location-code/open-location-code/rust/tests/all_test.rs,-1,2550,-1,Not provided,uses72,Not provided
-264,/home/runner/work/open-location-code/open-location-code/rust/src/codearea.rs,-1,2528,-1,Not provided,uses72,Not provided
-265,/home/runner/work/open-location-code/open-location-code/rust/Cargo.toml,-1,2518,-1,Not provided,uses72,Not provided
-266,/home/runner/work/open-location-code/open-location-code/ruby/test/plus_codes_test.rb,-1,2512,-1,Not provided,uses72,Not provided
-267,/home/runner/work/open-location-code/open-location-code/ruby/lib/plus_codes/code_area.rb,-1,2494,-1,Not provided,uses72,Not provided
-268,/home/runner/work/open-location-code/open-location-code/ruby/lib/plus_codes.rb,-1,2488,-1,Not provided,uses72,Not provided
-269,/home/runner/work/open-location-code/open-location-code/ruby/README.md,-1,2482,-1,Not provided,uses72,Not provided
-270,/home/runner/work/open-location-code/open-location-code/python/.gitignore,-1,2443,-1,Not provided,uses72,Not provided
-271,/home/runner/work/open-location-code/open-location-code/plpgsql/README.md,-1,2428,-1,Not provided,uses72,Not provided
-272,/home/runner/work/open-location-code/open-location-code/objective-c/README.md,-1,2418,-1,Not provided,uses72,Not provided
-273,/home/runner/work/open-location-code/open-location-code/js/test/jasmine-tests.js,-1,2408,-1,Not provided,uses72,Not provided
-274,/home/runner/work/open-location-code/open-location-code/js/examples/example1.html,-1,2367,-1,Not provided,uses72,Not provided
-275,/home/runner/work/open-location-code/open-location-code/js/contrib/README.md,-1,2353,-1,Not provided,uses72,Not provided
-276,/home/runner/work/open-location-code/open-location-code/js/closure/BUILD,-1,2334,-1,Not provided,uses72,Not provided
-277,/home/runner/work/open-location-code/open-location-code/js/.eslintrc.js,-1,2320,-1,Not provided,uses72,Not provided
-278,/home/runner/work/open-location-code/open-location-code/go/corpus/.gitignore,-1,2211,-1,Not provided,uses72,Not provided
-279,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/source/PlusCodeBackground.mc,-1,2188,-1,Not provided,uses72,Not provided
-280,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-vivoactive3/drawables.xml,-1,2135,-1,Not provided,uses72,Not provided
-281,/home/runner/work/open-location-code/open-location-code/starting_finished_finished_8979874,-1,-1,6972,Not provided,Not provided,
+0,/home/runner/work/open-location-code/open-location-code/java/target/openlocationcode-1.0.4-javadoc.jar,-1,6379,5344,Not provided,test,test
+1,/home/runner/work/open-location-code/open-location-code/java/target/openlocationcode-1.0.4-sources.jar,-1,4665,4432,Not provided,test,test
+2,/home/runner/work/open-location-code/open-location-code/docs/images/code_areas.png,-1,1829,-1,Not provided,uses72,Not provided
+3,/home/runner/work/open-location-code/open-location-code/docs/images/olc_10_character.png,-1,1853,1835,Not provided,uses72,uses72
+4,/home/runner/work/open-location-code/open-location-code/docs/images/olc_11_grid.png,-1,1873,1855,Not provided,uses72,uses72
+5,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable-xxhdpi/welcome_image.png,-1,1473,1460,Not provided,uses72,uses72
+6,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable-xhdpi/welcome_image.png,-1,1444,1436,Not provided,uses72,uses72
+7,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable-hdpi/welcome_image.png,-1,1410,1407,Not provided,uses72,uses72
+8,/home/runner/work/open-location-code/open-location-code/python/openlocationcode/openlocationcode.py,-1,2445,2442,Not provided,uses72,uses72
+9,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/testdata/5_17_19_zoom_2.json,-1,2648,2645,Not provided,uses72,uses72
+10,/home/runner/work/open-location-code/open-location-code/android_demo/gradle/wrapper/gradle-wrapper.jar,-1,1569,-1,Not provided,uses72,Not provided
+11,/home/runner/work/open-location-code/open-location-code/js/closure/openlocationcode.js,-1,2323,2320,Not provided,uses72,uses72
+12,/home/runner/work/open-location-code/open-location-code/js/examples/examples.css,-1,2359,2357,Not provided,uses72,uses72
+13,/home/runner/work/open-location-code/open-location-code/js/examples/examples.js,-1,2363,2361,Not provided,uses72,uses72
+14,/home/runner/work/open-location-code/open-location-code/js/gulpfile.js,-1,2367,2365,Not provided,uses72,uses72
+15,/home/runner/work/open-location-code/open-location-code/js/README.md,-1,2304,2302,Not provided,uses72,uses72
+16,/home/runner/work/open-location-code/open-location-code/js/package.json,-1,2371,2369,Not provided,uses72,uses72
+17,/home/runner/work/open-location-code/open-location-code/js/src/openlocationcode.js,-1,2378,-1,Not provided,uses72,Not provided
+18,/home/runner/work/open-location-code/open-location-code/package.json,-1,2402,2400,Not provided,uses72,uses72
+19,/home/runner/work/open-location-code/open-location-code/js/checks.sh,-1,2308,2306,Not provided,uses72,uses72
+20,/home/runner/work/open-location-code/open-location-code/js/contrib/olc_grid_overlay.min.js,-1,2341,2339,Not provided,uses72,uses72
+21,/home/runner/work/open-location-code/open-location-code/js/examples/example3.html,-1,2355,2353,Not provided,uses72,uses72
+22,/home/runner/work/open-location-code/open-location-code/js/closure/README.md,-1,2318,2316,Not provided,uses72,uses72
+23,/home/runner/work/open-location-code/open-location-code/js/examples/example2.html,-1,2351,2349,Not provided,uses72,uses72
+24,/home/runner/work/open-location-code/open-location-code/js/src/openlocationcode.min.js,-1,2382,2380,Not provided,uses72,uses72
+25,/home/runner/work/open-location-code/open-location-code/js/closure/openlocationcode_test.js,-1,2327,2325,Not provided,uses72,uses72
+26,/home/runner/work/open-location-code/open-location-code/js/contrib/olc_grid_overlay.js,-1,2337,2335,Not provided,uses72,uses72
+27,/home/runner/work/open-location-code/open-location-code/js/test/karma.config.js,-1,2392,2390,Not provided,uses72,uses72
+28,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fenix5plus/launcher_icon.png,-1,2018,2016,Not provided,uses72,uses72
+29,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources/launcher_icon.png,-1,2158,2156,Not provided,uses72,uses72
+30,/home/runner/work/open-location-code/open-location-code/go/corpus/gen.go,-1,2196,2194,Not provided,uses72,uses72
+31,/home/runner/work/open-location-code/open-location-code/go/README.md,-1,2188,2186,Not provided,uses72,uses72
+32,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/source/PlusCodeView.mc,-1,2180,2178,Not provided,uses72,uses72
+33,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/source/PlusCodeDatafield.mc,-1,2176,2174,Not provided,uses72,uses72
+34,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources/strings.xml,-1,2166,2164,Not provided,uses72,uses72
+35,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources/layouts.xml,-1,2162,2160,Not provided,uses72,uses72
+36,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-vivoactive_hr/resources-fenix3_hr/launcher_icon.png,-1,2150,2148,Not provided,uses72,uses72
+37,/home/runner/work/open-location-code/open-location-code/go/encode.go,-1,2204,2202,Not provided,uses72,uses72
+38,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-vivoactive_hr/launcher_icon.png,-1,2142,2140,Not provided,uses72,uses72
+39,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-vivoactive3m/launcher_icon.png,-1,2134,2132,Not provided,uses72,uses72
+40,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-vivoactive3/launcher_icon.png,-1,2126,2124,Not provided,uses72,uses72
+41,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-vivoactive/launcher_icon.png,-1,2118,2116,Not provided,uses72,uses72
+42,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-rino7xx/launcher_icon.png,-1,2110,2108,Not provided,uses72,uses72
+43,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-oregon7xx/launcher_icon.png,-1,2102,2100,Not provided,uses72,uses72
+44,/home/runner/work/open-location-code/open-location-code/go/decode.go,-1,2200,2198,Not provided,uses72,uses72
+45,/home/runner/work/open-location-code/open-location-code/go/go.mod,-1,2208,2206,Not provided,uses72,uses72
+46,/home/runner/work/open-location-code/open-location-code/java/README.md,-1,2239,2237,Not provided,uses72,uses72
+47,/home/runner/work/open-location-code/open-location-code/plpgsql/tests_script_l.sql,-1,2416,2414,Not provided,uses72,uses72
+48,/home/runner/work/open-location-code/open-location-code/go/shorten.go,-1,2227,2225,Not provided,uses72,uses72
+49,/home/runner/work/open-location-code/open-location-code/go/olc_test.go,-1,2223,2221,Not provided,uses72,uses72
+50,/home/runner/work/open-location-code/open-location-code/go/olc_gofuzz.go,-1,2219,2217,Not provided,uses72,uses72
+51,/home/runner/work/open-location-code/open-location-code/go/olc.go,-1,2215,2213,Not provided,uses72,uses72
+52,/home/runner/work/open-location-code/open-location-code/plpgsql/pluscode_functions.sql,-1,2412,2410,Not provided,uses72,uses72
+53,/home/runner/work/open-location-code/open-location-code/python/.style.yapf,-1,2424,2422,Not provided,uses72,uses72
+54,/home/runner/work/open-location-code/open-location-code/python/BUILD,-1,2428,2426,Not provided,uses72,uses72
+55,/home/runner/work/open-location-code/open-location-code/java/target/openlocationcode-1.0.4.jar,-1,4272,4255,Not provided,test,test
+56,/home/runner/work/open-location-code/open-location-code/java/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml,-1,4673,4671,Not provided,test,test
+57,/home/runner/work/open-location-code/open-location-code/visualbasic/README.md,-1,2672,2670,Not provided,uses72,uses72
+58,/home/runner/work/open-location-code/open-location-code/visualbasic/OpenLocationCode.bas,-1,2668,-1,Not provided,uses72,Not provided
+59,/home/runner/work/open-location-code/open-location-code/tile_server/main.go,-1,2656,2654,Not provided,uses72,uses72
+60,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/tileref.go,-1,2652,2650,Not provided,uses72,uses72
+61,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/testdata/5_17_19_white_zoom_2.png,-1,2643,2641,Not provided,uses72,uses72
+62,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/testdata/5_17_19_geodetic.json,-1,2639,2637,Not provided,uses72,uses72
+63,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/testdata/5_17_19.png,-1,2635,2633,Not provided,uses72,uses72
+64,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/testdata/5_17_19.json,-1,2631,2629,Not provided,uses72,uses72
+65,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/testdata/21_1098232_1362659_geodetic.png,-1,2627,2625,Not provided,uses72,uses72
+66,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/testdata/21_1098232_1362659_geodetic.json,-1,2623,2621,Not provided,uses72,uses72
+67,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/TEST-com.google.openlocationcode.PrecisionTest.xml,-1,4169,4167,Not provided,test,test
+68,/home/runner/work/open-location-code/open-location-code/java/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst,-1,3248,3246,Not provided,test,test
+69,/home/runner/work/open-location-code/open-location-code/java/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst,-1,3252,3250,Not provided,test,test
+70,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/com.google.openlocationcode.ShorteningTest.txt,-1,4117,4115,Not provided,test,test
+71,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/com.google.openlocationcode.BenchmarkTest.txt,-1,4157,4155,Not provided,test,test
+72,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/TEST-com.google.openlocationcode.ValidityTest.xml,-1,4146,4144,Not provided,test,test
+73,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/com.google.openlocationcode.ValidityTest.txt,-1,4142,4140,Not provided,test,test
+74,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/TEST-com.google.openlocationcode.UtilsTest.xml,-1,4129,4127,Not provided,test,test
+75,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/com.google.openlocationcode.UtilsTest.txt,-1,4125,4123,Not provided,test,test
+76,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/TEST-com.google.openlocationcode.ShorteningTest.xml,-1,4121,4119,Not provided,test,test
+77,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/TEST-com.google.openlocationcode.DecodingTest.xml,-1,4105,4103,Not provided,test,test
+78,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/com.google.openlocationcode.DecodingTest.txt,-1,4101,4099,Not provided,test,test
+79,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/TEST-com.google.openlocationcode.EncodingTest.xml,-1,4089,4087,Not provided,test,test
+80,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/com.google.openlocationcode.EncodingTest.txt,-1,4085,4083,Not provided,test,test
+81,/home/runner/work/open-location-code/open-location-code/java/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst,-1,3894,3892,Not provided,test,test
+82,/home/runner/work/open-location-code/open-location-code/java/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst,-1,3890,3888,Not provided,test,test
+83,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/testdata/21_1098232_1362659.png,-1,2619,2617,Not provided,uses72,uses72
+84,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/projection_test.go,-1,2609,2607,Not provided,uses72,uses72
+85,/home/runner/work/open-location-code/open-location-code/ruby/lib/plus_codes/open_location_code.rb,-1,2475,2473,Not provided,uses72,uses72
+86,/home/runner/work/open-location-code/open-location-code/rust/src/consts.rs,-1,2509,2507,Not provided,uses72,uses72
+87,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fr920xt/launcher_icon.png,-1,2086,2084,Not provided,uses72,uses72
+88,/home/runner/work/open-location-code/open-location-code/rust/README.md,-1,2499,2497,Not provided,uses72,uses72
+89,/home/runner/work/open-location-code/open-location-code/ruby/rubocop.yml,-1,2483,2481,Not provided,uses72,uses72
+90,/home/runner/work/open-location-code/open-location-code/ruby/open-location-code.gemspec,-1,2479,2477,Not provided,uses72,uses72
+91,/home/runner/work/open-location-code/open-location-code/rust/src/lib.rs,-1,2517,2515,Not provided,uses72,uses72
+92,/home/runner/work/open-location-code/open-location-code/python/setup.py,-1,2453,2451,Not provided,uses72,uses72
+93,/home/runner/work/open-location-code/open-location-code/python/openlocationcode_test.py,-1,2449,2447,Not provided,uses72,uses72
+94,/home/runner/work/open-location-code/open-location-code/python/format_check.sh,-1,2436,2434,Not provided,uses72,uses72
+95,/home/runner/work/open-location-code/open-location-code/python/README.md,-1,2432,2430,Not provided,uses72,uses72
+96,/home/runner/work/open-location-code/open-location-code/rust/src/interface.rs,-1,2513,2511,Not provided,uses72,uses72
+97,/home/runner/work/open-location-code/open-location-code/rust/src/private.rs,-1,2521,2519,Not provided,uses72,uses72
+98,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/projection.go,-1,2605,2603,Not provided,uses72,uses72
+99,/home/runner/work/open-location-code/open-location-code/tile_server/example.html,-1,2571,2569,Not provided,uses72,uses72
+100,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/image_test.go,-1,2601,2599,Not provided,uses72,uses72
+101,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/image.go,-1,2597,2595,Not provided,uses72,uses72
+102,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/gridserver.go,-1,2593,2591,Not provided,uses72,uses72
+103,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/go.sum,-1,2589,2587,Not provided,uses72,uses72
+104,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/go.mod,-1,2585,2583,Not provided,uses72,uses72
+105,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/geojson_test.go,-1,2581,2579,Not provided,uses72,uses72
+106,/home/runner/work/open-location-code/open-location-code/test_data/csv_to_json.go,-1,2545,2543,Not provided,uses72,uses72
+107,/home/runner/work/open-location-code/open-location-code/rust/tests/csv_reader.rs,-1,2531,2529,Not provided,uses72,uses72
+108,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fr935/launcher_icon.png,-1,2094,2092,Not provided,uses72,uses72
+109,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/TEST-com.google.openlocationcode.BenchmarkTest.xml,-1,4161,4159,Not provided,test,test
+110,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fr735xt/launcher_icon.png,-1,2078,2076,Not provided,uses72,uses72
+111,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fr645m/launcher_icon.png,-1,2070,2068,Not provided,uses72,uses72
+112,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/main/MainFragment.java,-1,1359,1357,Not provided,uses72,uses72
+113,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/direction/DirectionView.java,-1,1343,1341,Not provided,uses72,uses72
+114,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/direction/DirectionUtil.java,-1,1339,1337,Not provided,uses72,uses72
+115,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/direction/DirectionPresenter.java,-1,1335,1333,Not provided,uses72,uses72
+116,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/direction/DirectionContract.java,-1,1331,1329,Not provided,uses72,uses72
+117,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/current/LocationUtil.java,-1,1321,1319,Not provided,uses72,uses72
+118,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/current/LocationProviderFactoryComponent.java,-1,1317,1315,Not provided,uses72,uses72
+119,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/current/LocationProvider.java,-1,1313,1311,Not provided,uses72,uses72
+120,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/code/OpenLocationCodeUtil.java,-1,1303,1301,Not provided,uses72,uses72
+121,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/code/CodeView.java,-1,1299,1297,Not provided,uses72,uses72
+122,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/code/CodePresenter.java,-1,1295,1293,Not provided,uses72,uses72
+123,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/code/CodeContract.java,-1,1291,1287,Not provided,uses72,uses72
+124,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/main/MainPresenter.java,-1,1363,1361,Not provided,uses72,uses72
+125,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/main/WelcomeActivity.java,-1,1367,1365,Not provided,uses72,uses72
+126,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/map/MapPresenter.java,-1,1375,1373,Not provided,uses72,uses72
+127,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable/search_button.xml,-1,1500,1498,Not provided,uses72,uses72
+128,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable/rounded_layout.xml,-1,1496,1494,Not provided,uses72,uses72
+129,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable-xxxhdpi/map_center.png,-1,1487,1485,Not provided,uses72,uses72
+130,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable-xxxhdpi/ic_launcher.png,-1,1483,1481,Not provided,uses72,uses72
+131,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable-xxhdpi/map_center.png,-1,1458,1456,Not provided,uses72,uses72
+132,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable-xxhdpi/ic_launcher.png,-1,1454,1452,Not provided,uses72,uses72
+133,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable-xhdpi/map_center.png,-1,1434,1432,Not provided,uses72,uses72
+134,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/map/MyMapView.java,-1,1379,1377,Not provided,uses72,uses72
+135,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable-xhdpi/ic_launcher.png,-1,1430,1428,Not provided,uses72,uses72
+136,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable-mdpi/map_center.png,-1,1422,1420,Not provided,uses72,uses72
+137,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable-hdpi/map_center.png,-1,1405,1403,Not provided,uses72,uses72
+138,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/search/SearchView.java,-1,1397,1395,Not provided,uses72,uses72
+139,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/search/SearchPresenter.java,-1,1393,1391,Not provided,uses72,uses72
+140,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/search/SearchContract.java,-1,1389,1387,Not provided,uses72,uses72
+141,/home/runner/work/open-location-code/open-location-code/android_demo/android/proguard-rules.pro,-1,1276,1274,Not provided,uses72,uses72
+142,/home/runner/work/open-location-code/open-location-code/android_demo/README.md,-1,1260,1258,Not provided,uses72,uses72
+143,/home/runner/work/open-location-code/open-location-code/.gitignore,-1,1220,1218,Not provided,uses72,uses72
+144,/home/runner/work/open-location-code/open-location-code/TESTING.md,-1,1248,1246,Not provided,uses72,uses72
+145,/home/runner/work/open-location-code/open-location-code/README.md,-1,1244,1242,Not provided,uses72,uses72
+146,/home/runner/work/open-location-code/open-location-code/LICENSE,-1,1240,1238,Not provided,uses72,uses72
+147,/home/runner/work/open-location-code/open-location-code/FAQ.txt,-1,1236,1234,Not provided,uses72,uses72
+148,/home/runner/work/open-location-code/open-location-code/CONTRIBUTING.md,-1,1232,1230,Not provided,uses72,uses72
+149,/home/runner/work/open-location-code/open-location-code/CHANGELOG.md,-1,1228,1226,Not provided,uses72,uses72
+150,/home/runner/work/open-location-code/open-location-code/API.txt,-1,1224,1222,Not provided,uses72,uses72
+151,/home/runner/work/open-location-code/open-location-code/.github/workflows/main.yml,-1,1212,-1,Not provided,uses72,Not provided
+152,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/layout/direction.xml,-1,1510,1508,Not provided,uses72,uses72
+153,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/layout/main_act.xml,-1,1514,1512,Not provided,uses72,uses72
+154,/home/runner/work/open-location-code/open-location-code/dart/test/utils.dart,-1,1770,1768,Not provided,uses72,uses72
+155,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/README.md,-1,1902,1900,Not provided,uses72,uses72
+156,/home/runner/work/open-location-code/open-location-code/docs/specification.md,-1,1885,1883,Not provided,uses72,uses72
+157,/home/runner/work/open-location-code/open-location-code/docs/olc_definition.adoc,-1,1881,1879,Not provided,uses72,uses72
+158,/home/runner/work/open-location-code/open-location-code/docs/images/openpostcode_grid.png,-1,1877,1875,Not provided,uses72,uses72
+159,/home/runner/work/open-location-code/open-location-code/docs/images/geohash36_grid.png,-1,1833,1831,Not provided,uses72,uses72
+160,/home/runner/work/open-location-code/open-location-code/dart/test/validity_test.dart,-1,1774,1772,Not provided,uses72,uses72
+161,/home/runner/work/open-location-code/open-location-code/dart/test/short_code_test.dart,-1,1766,1764,Not provided,uses72,uses72
+162,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/monkey.jungle,-1,1910,1908,Not provided,uses72,uses72
+163,/home/runner/work/open-location-code/open-location-code/dart/test/encode_test.dart,-1,1762,1760,Not provided,uses72,uses72
+164,/home/runner/work/open-location-code/open-location-code/dart/test/decode_test.dart,-1,1758,1756,Not provided,uses72,uses72
+165,/home/runner/work/open-location-code/open-location-code/dart/test/compute_precision_test.dart,-1,1754,1752,Not provided,uses72,uses72
+166,/home/runner/work/open-location-code/open-location-code/dart/test/clip_latitude_test.dart,-1,1750,1748,Not provided,uses72,uses72
+167,/home/runner/work/open-location-code/open-location-code/dart/pubspec.yaml,-1,1740,1738,Not provided,uses72,uses72
+168,/home/runner/work/open-location-code/open-location-code/dart/checks.sh,-1,1724,1722,Not provided,uses72,uses72
+169,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/manifest.xml,-1,1906,1904,Not provided,uses72,uses72
+170,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-d2bravo/launcher_icon.png,-1,1918,1916,Not provided,uses72,uses72
+171,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/layout/main_frag.xml,-1,1518,1516,Not provided,uses72,uses72
+172,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fenix3_hr/launcher_icon.png,-1,2002,2000,Not provided,uses72,uses72
+173,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fr645/launcher_icon.png,-1,2062,2060,Not provided,uses72,uses72
+174,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fr630/launcher_icon.png,-1,2054,2052,Not provided,uses72,uses72
+175,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fr235/launcher_icon.png,-1,2046,2044,Not provided,uses72,uses72
+176,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fenixchronos/launcher_icon.png,-1,2038,2036,Not provided,uses72,uses72
+177,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fenix5x/launcher_icon.png,-1,2030,2028,Not provided,uses72,uses72
+178,/home/runner/work/open-location-code/open-location-code/java/target/surefire-reports/com.google.openlocationcode.PrecisionTest.txt,-1,4165,4163,Not provided,test,test
+179,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fenix5/launcher_icon.png,-1,2010,2008,Not provided,uses72,uses72
+180,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-fenix3/launcher_icon.png,-1,1994,1992,Not provided,uses72,uses72
+181,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-d2bravo_titanium/launcher_icon.png,-1,1926,1924,Not provided,uses72,uses72
+182,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-edge_520/launcher_icon.png,-1,1980,1978,Not provided,uses72,uses72
+183,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-edge_1000/launcher_icon.png,-1,1972,1970,Not provided,uses72,uses72
+184,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-edge820/launcher_icon.png,-1,1964,1962,Not provided,uses72,uses72
+185,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-edge520plus/launcher_icon.png,-1,1956,1954,Not provided,uses72,uses72
+186,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-edge130/launcher_icon.png,-1,1948,1946,Not provided,uses72,uses72
+187,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-edge1030/launcher_icon.png,-1,1934,1932,Not provided,uses72,uses72
+188,/home/runner/work/open-location-code/open-location-code/cpp/openlocationcode_test.cc,-1,1708,1706,Not provided,uses72,uses72
+189,/home/runner/work/open-location-code/open-location-code/cpp/openlocationcode_example.cc,-1,1704,1702,Not provided,uses72,uses72
+190,/home/runner/work/open-location-code/open-location-code/c/benchmark/bm-c.c,-1,1619,1617,Not provided,uses72,uses72
+191,/home/runner/work/open-location-code/open-location-code/c/benchmark/shared.c,-1,1627,1625,Not provided,uses72,uses72
+192,/home/runner/work/open-location-code/open-location-code/cpp/openlocationcode.h,-1,1700,1698,Not provided,uses72,uses72
+193,/home/runner/work/open-location-code/open-location-code/c/benchmark/Makefile,-1,1615,1613,Not provided,uses72,uses72
+194,/home/runner/work/open-location-code/open-location-code/c/README.md,-1,1607,1605,Not provided,uses72,uses72
+195,/home/runner/work/open-location-code/open-location-code/c/BUILD,-1,1603,1601,Not provided,uses72,uses72
+196,/home/runner/work/open-location-code/open-location-code/c/.gitignore,-1,1599,1597,Not provided,uses72,uses72
+197,/home/runner/work/open-location-code/open-location-code/android_demo/settings.gradle,-1,1589,1587,Not provided,uses72,uses72
+198,/home/runner/work/open-location-code/open-location-code/android_demo/openlocationcode_android.iml,-1,1585,1583,Not provided,uses72,uses72
+199,/home/runner/work/open-location-code/open-location-code/android_demo/gradlew.bat,-1,1581,1579,Not provided,uses72,uses72
+200,/home/runner/work/open-location-code/open-location-code/android_demo/gradlew,-1,1577,1575,Not provided,uses72,uses72
+201,/home/runner/work/open-location-code/open-location-code/android_demo/gradle/wrapper/gradle-wrapper.properties,-1,1573,1571,Not provided,uses72,uses72
+202,/home/runner/work/open-location-code/open-location-code/android_demo/build.gradle,-1,1561,1559,Not provided,uses72,uses72
+203,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/values/styles.xml,-1,1557,1555,Not provided,uses72,uses72
+204,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/values/strings.xml,-1,1553,1551,Not provided,uses72,uses72
+205,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/values/dimens.xml,-1,1549,1547,Not provided,uses72,uses72
+206,/home/runner/work/open-location-code/open-location-code/c/benchmark/bm-cpp.cc,-1,1623,1621,Not provided,uses72,uses72
+207,/home/runner/work/open-location-code/open-location-code/c/clang_check.sh,-1,1631,1629,Not provided,uses72,uses72
+208,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/layout/welcome.xml,-1,1530,1528,Not provided,uses72,uses72
+209,/home/runner/work/open-location-code/open-location-code/c/example.c,-1,1635,1633,Not provided,uses72,uses72
+210,/home/runner/work/open-location-code/open-location-code/cpp/openlocationcode.cc,-1,1696,1694,Not provided,uses72,uses72
+211,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/layout/my_map.xml,-1,1522,1520,Not provided,uses72,uses72
+212,/home/runner/work/open-location-code/open-location-code/cpp/gtest.BUILD,-1,1692,1690,Not provided,uses72,uses72
+213,/home/runner/work/open-location-code/open-location-code/cpp/codearea.h,-1,1688,1686,Not provided,uses72,uses72
+214,/home/runner/work/open-location-code/open-location-code/cpp/codearea.cc,-1,1684,1682,Not provided,uses72,uses72
+215,/home/runner/work/open-location-code/open-location-code/cpp/clang_check.sh,-1,1680,1678,Not provided,uses72,uses72
+216,/home/runner/work/open-location-code/open-location-code/cpp/README.md,-1,1676,1674,Not provided,uses72,uses72
+217,/home/runner/work/open-location-code/open-location-code/cpp/BUILD,-1,1672,1670,Not provided,uses72,uses72
+218,/home/runner/work/open-location-code/open-location-code/cpp/.gitignore,-1,1668,1666,Not provided,uses72,uses72
+219,/home/runner/work/open-location-code/open-location-code/c/src/olc_private.h,-1,1653,1651,Not provided,uses72,uses72
+220,/home/runner/work/open-location-code/open-location-code/c/src/olc.h,-1,1649,1647,Not provided,uses72,uses72
+221,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/layout/search.xml,-1,1526,1524,Not provided,uses72,uses72
+222,/home/runner/work/open-location-code/open-location-code/c/openlocationcode_test.cc,-1,1639,1637,Not provided,uses72,uses72
+223,/home/runner/work/open-location-code/open-location-code/starting_testjava_uses72_72,-1,-1,0,Not provided,Not provided,
+224,/home/runner/work/open-location-code/open-location-code/go/go.sum,-1,-1,2210,Not provided,Not provided,uses72
+225,/home/runner/work/open-location-code/open-location-code/bazel-open-location-code,-1,-1,2934,Not provided,Not provided,test
+226,/home/runner/work/open-location-code/open-location-code/bazel-out,-1,-1,2933,Not provided,Not provided,test
+227,/home/runner/work/open-location-code/open-location-code/docs/comparison.adoc,-1,1780,-1,Not provided,uses72,Not provided
+228,/home/runner/work/open-location-code/open-location-code/dart/test/benchmark_test.dart,-1,1746,-1,Not provided,uses72,Not provided
+229,/home/runner/work/open-location-code/open-location-code/dart/lib/src/open_location_code.dart,-1,1736,-1,Not provided,uses72,Not provided
+230,/home/runner/work/open-location-code/open-location-code/dart/lib/open_location_code.dart,-1,1730,-1,Not provided,uses72,Not provided
+231,/home/runner/work/open-location-code/open-location-code/dart/README.md,-1,1720,-1,Not provided,uses72,Not provided
+232,/home/runner/work/open-location-code/open-location-code/csharp/README.md,-1,1714,-1,Not provided,uses72,Not provided
+233,/home/runner/work/open-location-code/open-location-code/cpp/.clang-format,-1,1664,-1,Not provided,uses72,Not provided
+234,/home/runner/work/open-location-code/open-location-code/c/src/olc.c,-1,1645,-1,Not provided,uses72,Not provided
+235,/home/runner/work/open-location-code/open-location-code/c/.clang-format,-1,1595,-1,Not provided,uses72,Not provided
+236,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/values-pt/strings.xml,-1,1540,-1,Not provided,uses72,Not provided
+237,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/layout/code.xml,-1,1506,-1,Not provided,uses72,Not provided
+238,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable-xxxhdpi/ic_action_maps_navigation.png,-1,1479,-1,Not provided,uses72,Not provided
+239,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/res/drawable-xxhdpi/ic_action_maps_navigation.png,-1,1450,-1,Not provided,uses72,Not provided
+240,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/search/AutoCompleteEditor.java,-1,1385,-1,Not provided,uses72,Not provided
+241,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/main/MainActivity.java,-1,1355,-1,Not provided,uses72,Not provided
+242,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/localities/Locality.java,-1,1349,-1,Not provided,uses72,Not provided
+243,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/direction/Direction.java,-1,1327,-1,Not provided,uses72,Not provided
+244,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/java/com/openlocationcode/android/current/GoogleApiModule.java,-1,1309,-1,Not provided,uses72,Not provided
+245,/home/runner/work/open-location-code/open-location-code/android_demo/android/src/main/AndroidManifest.xml,-1,1281,-1,Not provided,uses72,Not provided
+246,/home/runner/work/open-location-code/open-location-code/android_demo/android/libs/README.md,-1,1272,-1,Not provided,uses72,Not provided
+247,/home/runner/work/open-location-code/open-location-code/android_demo/android/build.gradle,-1,1266,-1,Not provided,uses72,Not provided
+248,/home/runner/work/open-location-code/open-location-code/emacs/README.md,-1,1891,-1,Not provided,uses72,Not provided
+249,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/.project,-1,1896,-1,Not provided,uses72,Not provided
+250,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-edge1030bontrager/launcher_icon.png,-1,1940,-1,Not provided,uses72,Not provided
+251,/home/runner/work/open-location-code/open-location-code/rust/Cargo.toml,-1,2495,-1,Not provided,uses72,Not provided
+252,/home/runner/work/open-location-code/open-location-code/bazel-testlogs,-1,-1,2932,Not provided,Not provided,test
+253,/home/runner/work/open-location-code/open-location-code/bazel-bin,-1,-1,2931,Not provided,Not provided,test
+254,/home/runner/work/open-location-code/open-location-code/starting_testjava_test_78,-1,-1,2847,Not provided,Not provided,
+255,/home/runner/work/open-location-code/open-location-code/starting_testjava_Setupjava_73,-1,-1,2842,Not provided,Not provided,
+256,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/testdata/21_1098232_1362659.json,-1,2615,-1,Not provided,uses72,Not provided
+257,/home/runner/work/open-location-code/open-location-code/tile_server/gridserver/geojson.go,-1,2577,-1,Not provided,uses72,Not provided
+258,/home/runner/work/open-location-code/open-location-code/tile_server/README.md,-1,2567,-1,Not provided,uses72,Not provided
+259,/home/runner/work/open-location-code/open-location-code/swift/README.md,-1,2537,-1,Not provided,uses72,Not provided
+260,/home/runner/work/open-location-code/open-location-code/rust/tests/all_test.rs,-1,2527,-1,Not provided,uses72,Not provided
+261,/home/runner/work/open-location-code/open-location-code/rust/src/codearea.rs,-1,2505,-1,Not provided,uses72,Not provided
+262,/home/runner/work/open-location-code/open-location-code/ruby/test/plus_codes_test.rb,-1,2489,-1,Not provided,uses72,Not provided
+263,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/resources-epix/launcher_icon.png,-1,1986,-1,Not provided,uses72,Not provided
+264,/home/runner/work/open-location-code/open-location-code/ruby/lib/plus_codes/code_area.rb,-1,2471,-1,Not provided,uses72,Not provided
+265,/home/runner/work/open-location-code/open-location-code/ruby/lib/plus_codes.rb,-1,2465,-1,Not provided,uses72,Not provided
+266,/home/runner/work/open-location-code/open-location-code/ruby/README.md,-1,2459,-1,Not provided,uses72,Not provided
+267,/home/runner/work/open-location-code/open-location-code/plpgsql/README.md,-1,2408,-1,Not provided,uses72,Not provided
+268,/home/runner/work/open-location-code/open-location-code/objective-c/README.md,-1,2398,-1,Not provided,uses72,Not provided
+269,/home/runner/work/open-location-code/open-location-code/js/test/jasmine-tests.js,-1,2388,-1,Not provided,uses72,Not provided
+270,/home/runner/work/open-location-code/open-location-code/js/examples/example1.html,-1,2347,-1,Not provided,uses72,Not provided
+271,/home/runner/work/open-location-code/open-location-code/js/contrib/README.md,-1,2333,-1,Not provided,uses72,Not provided
+272,/home/runner/work/open-location-code/open-location-code/js/closure/BUILD,-1,2314,-1,Not provided,uses72,Not provided
+273,/home/runner/work/open-location-code/open-location-code/js/.eslintrc.js,-1,2300,-1,Not provided,uses72,Not provided
+274,/home/runner/work/open-location-code/open-location-code/garmin/PlusCodeDatafield/source/PlusCodeBackground.mc,-1,2172,-1,Not provided,uses72,Not provided
+275,/home/runner/work/open-location-code/open-location-code/starting_finished_finished_8979874,-1,-1,6381,Not provided,Not provided,
