@@ -3,35 +3,36 @@
     └──  runner 1
         └──  work 1
             └──  open-location-code 1
-                └──  open-location-code 38
+                └──  open-location-code 39
                     ├──  java 2
                     │   ├──  target 6
                     │   │   ├──  openlocationcode-1.0.4-javadoc.jar 0
                     │   │   ├──  openlocationcode-1.0.4-sources.jar 0
-                    │   │   ├──  surefire-reports 15
-                    │   │   │   ├──  TEST-com.google.openlocationcode.PrecisionTest.xml 0
-                    │   │   │   ├──  com.google.openlocationcode.PrecisionTest.txt 0
-                    │   │   │   ├──  TEST-com.google.openlocationcode.BenchmarkTest.xml 0
-                    │   │   │   ├──  TEST-com.google.openlocationcode.DecodingTest.xml 0
-                    │   │   │   ├──  com.google.openlocationcode.DecodingTest.txt 0
-                    │   │   │   ├──  TEST-com.google.openlocationcode.EncodingTest.xml 0
-                    │   │   │   ├──  com.google.openlocationcode.EncodingTest.txt 0
-                    │   │   │   ├──  com.google.openlocationcode.UtilsTest.txt 0
-                    │   │   │   ├──  com.google.openlocationcode.BenchmarkTest.txt 0
+                    │   │   ├──  surefire-reports 16
                     │   │   │   ├──  TEST-com.google.openlocationcode.UtilsTest.xml 0
-                    │   │   │   ├──  com.google.openlocationcode.ValidityTest.txt 0
-                    │   │   │   ├──  TEST-com.google.openlocationcode.ValidityTest.xml 0
                     │   │   │   ├──  TEST-com.google.openlocationcode.ShorteningTest.xml 0
+                    │   │   │   ├──  com.google.openlocationcode.UtilsTest.txt 0
+                    │   │   │   ├──  com.google.openlocationcode.ValidityTest.txt 0
                     │   │   │   ├──  com.google.openlocationcode.ShorteningTest.txt 0
-                    │   │   │   └──  TEST-com.google.openlocationcode.RecoverTest.xml 0
+                    │   │   │   ├──  TEST-com.google.openlocationcode.ValidityTest.xml 0
+                    │   │   │   ├──  com.google.openlocationcode.BenchmarkTest.txt 0
+                    │   │   │   ├──  TEST-com.google.openlocationcode.BenchmarkTest.xml 0
+                    │   │   │   ├──  com.google.openlocationcode.EncodingTest.txt 0
+                    │   │   │   ├──  TEST-com.google.openlocationcode.RecoverTest.xml 0
+                    │   │   │   ├──  TEST-com.google.openlocationcode.DecodingTest.xml 0
+                    │   │   │   ├──  com.google.openlocationcode.PrecisionTest.txt 0
+                    │   │   │   ├──  TEST-com.google.openlocationcode.PrecisionTest.xml 0
+                    │   │   │   ├──  TEST-com.google.openlocationcode.EncodingTest.xml 0
+                    │   │   │   ├──  com.google.openlocationcode.DecodingTest.txt 0
+                    │   │   │   └──  com.google.openlocationcode.RecoverTest.txt 0
                     │   │   ├──  maven-status 1
                     │   │   │   └──  maven-compiler-plugin 2
-                    │   │   │       ├──  testCompile 1
-                    │   │   │       │   └──  default-testCompile 2
-                    │   │   │       │       ├──  createdFiles.lst 0
-                    │   │   │       │       └──  inputFiles.lst 0
-                    │   │   │       └──  compile 1
-                    │   │   │           └──  default-compile 2
+                    │   │   │       ├──  compile 1
+                    │   │   │       │   └──  default-compile 2
+                    │   │   │       │       ├──  inputFiles.lst 0
+                    │   │   │       │       └──  createdFiles.lst 0
+                    │   │   │       └──  testCompile 1
+                    │   │   │           └──  default-testCompile 2
                     │   │   │               ├──  inputFiles.lst 0
                     │   │   │               └──  createdFiles.lst 0
                     │   │   ├──  openlocationcode-1.0.4.jar 0
@@ -52,7 +53,7 @@
                     │   ├──  android 4
                     │   │   ├──  src 1
                     │   │   │   └──  main 3
-                    │   │   │       ├──  res 9
+                    │   │   │       ├──  res 10
                     │   │   │       │   ├──  drawable-xxhdpi 4
                     │   │   │       │   │   ├──  welcome_image.png 0
                     │   │   │       │   │   ├──  map_center.png 0
@@ -60,73 +61,58 @@
                     │   │   │       │   │   └──  ic_action_maps_navigation.png 0
                     │   │   │       │   ├──  drawable-xhdpi 3
                     │   │   │       │   │   ├──  welcome_image.png 0
-                    │   │   │       │   │   ├──  map_center.png 0
-                    │   │   │       │   │   └──  ic_launcher.png 0
-                    │   │   │       │   ├──  drawable-hdpi 3
-                    │   │   │       │   │   ├──  welcome_image.png 0
-                    │   │   │       │   │   ├──  map_center.png 0
-                    │   │   │       │   │   └──  ic_launcher.png 0
-                    │   │   │       │   ├──  drawable 3
-                    │   │   │       │   │   ├──  rounded_layout.xml 0
-                    │   │   │       │   │   ├──  search_button.xml 0
-                    │   │   │       │   │   └──  map_satellite_button.xml 0
+                    │   │   │       │   │   ├──  ic_launcher.png 0
+                    │   │   │       │   │   └──  map_center.png 0
+                    │   │   │       │   ├──  drawable-hdpi 1
+                    │   │   │       │   │   └──  welcome_image.png 0
                     │   │   │       │   ├──  drawable-mdpi 2
                     │   │   │       │   │   ├──  map_center.png 0
                     │   │   │       │   │   └──  ic_launcher.png 0
-                    │   │   │       │   ├──  drawable-xxxhdpi 3
-                    │   │   │       │   │   ├──  ic_launcher.png 0
-                    │   │   │       │   │   ├──  map_center.png 0
-                    │   │   │       │   │   └──  ic_action_maps_navigation.png 0
+                    │   │   │       │   ├──  values 4
+                    │   │   │       │   │   ├──  dimens.xml 0
+                    │   │   │       │   │   ├──  styles.xml 0
+                    │   │   │       │   │   ├──  strings.xml 0
+                    │   │   │       │   │   └──  colors.xml 0
                     │   │   │       │   ├──  layout 7
-                    │   │   │       │   │   ├──  direction.xml 0
                     │   │   │       │   │   ├──  welcome.xml 0
                     │   │   │       │   │   ├──  search.xml 0
                     │   │   │       │   │   ├──  my_map.xml 0
                     │   │   │       │   │   ├──  main_frag.xml 0
                     │   │   │       │   │   ├──  main_act.xml 0
+                    │   │   │       │   │   ├──  direction.xml 0
                     │   │   │       │   │   └──  code.xml 0
-                    │   │   │       │   ├──  values 4
-                    │   │   │       │   │   ├──  styles.xml 0
-                    │   │   │       │   │   ├──  strings.xml 0
-                    │   │   │       │   │   ├──  dimens.xml 0
-                    │   │   │       │   │   └──  colors.xml 0
-                    │   │   │       │   └──  values-pt 1
-                    │   │   │       │       └──  strings.xml 0
+                    │   │   │       │   ├──  drawable 3
+                    │   │   │       │   │   ├──  search_button.xml 0
+                    │   │   │       │   │   ├──  rounded_layout.xml 0
+                    │   │   │       │   │   └──  map_satellite_button.xml 0
+                    │   │   │       │   ├──  drawable-xxxhdpi 3
+                    │   │   │       │   │   ├──  map_center.png 0
+                    │   │   │       │   │   ├──  ic_launcher.png 0
+                    │   │   │       │   │   └──  ic_action_maps_navigation.png 0
+                    │   │   │       │   ├──  values-pt 1
+                    │   │   │       │   │   └──  strings.xml 0
+                    │   │   │       │   └──  drawable-ldpi 1
+                    │   │   │       │       └──  map_center.png 0
                     │   │   │       ├──  java 1
                     │   │   │       │   └──  com 1
                     │   │   │       │       └──  openlocationcode 1
-                    │   │   │       │           └──  android 7
+                    │   │   │       │           └──  android 3
+                    │   │   │       │               ├──  current 4
+                    │   │   │       │               │   ├──  LocationProviderFactoryComponent.java 0
+                    │   │   │       │               │   ├──  LocationUtil.java 0
+                    │   │   │       │               │   ├──  LocationProvider.java 0
+                    │   │   │       │               │   └──  GoogleApiModule.java 0
                     │   │   │       │               ├──  direction 5
                     │   │   │       │               │   ├──  DirectionView.java 0
                     │   │   │       │               │   ├──  DirectionUtil.java 0
                     │   │   │       │               │   ├──  DirectionPresenter.java 0
                     │   │   │       │               │   ├──  DirectionContract.java 0
                     │   │   │       │               │   └──  Direction.java 0
-                    │   │   │       │               ├──  current 4
-                    │   │   │       │               │   ├──  LocationUtil.java 0
-                    │   │   │       │               │   ├──  LocationProviderFactoryComponent.java 0
-                    │   │   │       │               │   ├──  LocationProvider.java 0
-                    │   │   │       │               │   └──  GoogleApiModule.java 0
-                    │   │   │       │               ├──  code 4
-                    │   │   │       │               │   ├──  OpenLocationCodeUtil.java 0
-                    │   │   │       │               │   ├──  CodeView.java 0
-                    │   │   │       │               │   ├──  CodePresenter.java 0
-                    │   │   │       │               │   └──  CodeContract.java 0
-                    │   │   │       │               ├──  main 4
-                    │   │   │       │               │   ├──  MainFragment.java 0
-                    │   │   │       │               │   ├──  MainPresenter.java 0
-                    │   │   │       │               │   ├──  WelcomeActivity.java 0
-                    │   │   │       │               │   └──  MainActivity.java 0
-                    │   │   │       │               ├──  map 2
-                    │   │   │       │               │   ├──  MapPresenter.java 0
-                    │   │   │       │               │   └──  MyMapView.java 0
-                    │   │   │       │               ├──  search 4
-                    │   │   │       │               │   ├──  SearchView.java 0
-                    │   │   │       │               │   ├──  SearchPresenter.java 0
-                    │   │   │       │               │   ├──  SearchContract.java 0
-                    │   │   │       │               │   └──  AutoCompleteEditor.java 0
-                    │   │   │       │               └──  localities 1
-                    │   │   │       │                   └──  Locality.java 0
+                    │   │   │       │               └──  code 4
+                    │   │   │       │                   ├──  OpenLocationCodeUtil.java 0
+                    │   │   │       │                   ├──  CodeView.java 0
+                    │   │   │       │                   ├──  CodePresenter.java 0
+                    │   │   │       │                   └──  CodeContract.java 0
                     │   │   │       └──  AndroidManifest.xml 0
                     │   │   ├──  proguard-rules.pro 0
                     │   │   ├──  libs 1
@@ -137,11 +123,11 @@
                     │   │       ├──  gradle-wrapper.jar 0
                     │   │       └──  gradle-wrapper.properties 0
                     │   ├──  README.md 0
+                    │   ├──  build.gradle 0
                     │   ├──  settings.gradle 0
                     │   ├──  openlocationcode_android.iml 0
                     │   ├──  gradlew.bat 0
-                    │   ├──  gradlew 0
-                    │   └──  build.gradle 0
+                    │   └──  gradlew 0
                     ├──  tile_server 4
                     │   ├──  gridserver 11
                     │   │   ├──  testdata 9
@@ -155,8 +141,8 @@
                     │   │   │   ├──  21_1098232_1362659.png 0
                     │   │   │   └──  21_1098232_1362659.json 0
                     │   │   ├──  tileref.go 0
-                    │   │   ├──  projection.go 0
                     │   │   ├──  projection_test.go 0
+                    │   │   ├──  projection.go 0
                     │   │   ├──  image_test.go 0
                     │   │   ├──  image.go 0
                     │   │   ├──  gridserver.go 0
@@ -167,81 +153,50 @@
                     │   ├──  main.go 0
                     │   ├──  example.html 0
                     │   └──  README.md 0
-                    ├──  python 7
-                    │   ├──  openlocationcode 1
-                    │   │   └──  openlocationcode.py 0
-                    │   ├──  setup.py 0
-                    │   ├──  openlocationcode_test.py 0
-                    │   ├──  format_check.sh 0
-                    │   ├──  README.md 0
-                    │   ├──  BUILD 0
-                    │   └──  .style.yapf 0
                     ├──  js 10
                     │   ├──  closure 4
                     │   │   ├──  openlocationcode.js 0
-                    │   │   ├──  README.md 0
                     │   │   ├──  openlocationcode_test.js 0
+                    │   │   ├──  README.md 0
                     │   │   └──  BUILD 0
                     │   ├──  contrib 3
-                    │   │   ├──  olc_grid_overlay.js 0
                     │   │   ├──  olc_grid_overlay.min.js 0
+                    │   │   ├──  olc_grid_overlay.js 0
                     │   │   └──  README.md 0
-                    │   ├──  examples 5
-                    │   │   ├──  example2.html 0
-                    │   │   ├──  example3.html 0
-                    │   │   ├──  examples.css 0
-                    │   │   ├──  examples.js 0
-                    │   │   └──  example1.html 0
-                    │   ├──  gulpfile.js 0
-                    │   ├──  package.json 0
+                    │   ├──  checks.sh 0
                     │   ├──  src 2
                     │   │   ├──  openlocationcode.js 0
                     │   │   └──  openlocationcode.min.js 0
+                    │   ├──  examples 5
+                    │   │   ├──  example2.html 0
+                    │   │   ├──  example3.html 0
+                    │   │   ├──  examples.js 0
+                    │   │   ├──  examples.css 0
+                    │   │   └──  example1.html 0
                     │   ├──  test 2
                     │   │   ├──  karma.config.js 0
                     │   │   └──  jasmine-tests.js 0
-                    │   ├──  checks.sh 0
+                    │   ├──  package.json 0
+                    │   ├──  gulpfile.js 0
                     │   ├──  README.md 0
                     │   └──  .eslintrc.js 0
                     ├──  plpgsql 3
                     │   ├──  pluscode_functions.sql 0
                     │   ├──  tests_script_l.sql 0
                     │   └──  README.md 0
-                    ├──  go 10
-                    │   ├──  corpus 1
-                    │   │   └──  gen.go 0
-                    │   ├──  decode.go 0
-                    │   ├──  encode.go 0
-                    │   ├──  go.mod 0
-                    │   ├──  olc.go 0
-                    │   ├──  olc_gofuzz.go 0
-                    │   ├──  olc_test.go 0
-                    │   ├──  shorten.go 0
+                    ├──  python 8
+                    │   ├──  openlocationcode 1
+                    │   │   └──  openlocationcode.py 0
+                    │   ├──  BUILD 0
+                    │   ├──  .style.yapf 0
                     │   ├──  README.md 0
-                    │   └──  go.sum 0
+                    │   ├──  format_check.sh 0
+                    │   ├──  openlocationcode_test.py 0
+                    │   ├──  setup.py 0
+                    │   └──  .gitignore 0
                     ├──  garmin 1
-                    │   └──  PlusCodeDatafield 36
-                    │       ├──  resources-vivoactive_hr 2
-                    │       │   ├──  launcher_icon.png 0
-                    │       │   └──  resources-fenix3_hr 1
-                    │       │       └──  launcher_icon.png 0
-                    │       ├──  resources-vivoactive3m 1
-                    │       │   └──  launcher_icon.png 0
-                    │       ├──  resources-vivoactive3 1
-                    │       │   └──  launcher_icon.png 0
-                    │       ├──  resources-vivoactive 1
-                    │       │   └──  launcher_icon.png 0
-                    │       ├──  resources-rino7xx 1
-                    │       │   └──  launcher_icon.png 0
-                    │       ├──  resources-oregon7xx 1
-                    │       │   └──  launcher_icon.png 0
-                    │       ├──  resources-fr935 1
-                    │       │   └──  launcher_icon.png 0
-                    │       ├──  resources-fr920xt 1
-                    │       │   └──  launcher_icon.png 0
-                    │       ├──  resources-fr735xt 1
-                    │       │   └──  launcher_icon.png 0
-                    │       ├──  resources-fr645m 1
+                    │   └──  PlusCodeDatafield 35
+                    │       ├──  resources-fenix5x 1
                     │       │   └──  launcher_icon.png 0
                     │       ├──  source 3
                     │       │   ├──  PlusCodeView.mc 0
@@ -251,59 +206,99 @@
                     │       │   ├──  strings.xml 0
                     │       │   ├──  layouts.xml 0
                     │       │   └──  launcher_icon.png 0
-                    │       ├──  resources-fr630 1
+                    │       ├──  resources-vivoactive_hr 2
+                    │       │   ├──  resources-fenix3_hr 1
+                    │       │   │   └──  launcher_icon.png 0
                     │       │   └──  launcher_icon.png 0
-                    │       ├──  resources-fr645 1
+                    │       ├──  resources-vivoactive3m 1
                     │       │   └──  launcher_icon.png 0
-                    │       ├──  resources-edge_520 1
+                    │       ├──  resources-vivoactive3 2
+                    │       │   ├──  launcher_icon.png 0
+                    │       │   └──  drawables.xml 0
+                    │       ├──  resources-vivoactive 1
                     │       │   └──  launcher_icon.png 0
-                    │       ├──  resources-fr235 1
+                    │       ├──  resources-rino7xx 2
+                    │       │   ├──  launcher_icon.png 0
+                    │       │   └──  drawables.xml 0
+                    │       ├──  resources-oregon7xx 1
                     │       │   └──  launcher_icon.png 0
-                    │       ├──  resources-fenixchronos 1
+                    │       ├──  resources-fr935 1
                     │       │   └──  launcher_icon.png 0
-                    │       ├──  README.md 0
-                    │       ├──  manifest.xml 0
-                    │       ├──  resources-fenix5x 1
+                    │       ├──  resources-fr735xt 2
+                    │       │   ├──  launcher_icon.png 0
+                    │       │   └──  drawables.xml 0
+                    │       ├──  resources-fr645m 1
                     │       │   └──  launcher_icon.png 0
-                    │       ├──  resources-fenix5s 1
-                    │       │   └──  launcher_icon.png 0
-                    │       ├──  resources-fenix5plus 1
-                    │       │   └──  launcher_icon.png 0
-                    │       ├──  resources-fenix5 1
-                    │       │   └──  launcher_icon.png 0
-                    │       ├──  resources-fenix3_hr 1
-                    │       │   └──  launcher_icon.png 0
-                    │       ├──  resources-fenix3 1
-                    │       │   └──  launcher_icon.png 0
-                    │       ├──  resources-epix 1
-                    │       │   └──  launcher_icon.png 0
-                    │       ├──  resources-edge_1000 1
-                    │       │   └──  launcher_icon.png 0
-                    │       ├──  monkey.jungle 0
-                    │       ├──  resources-edge820 1
-                    │       │   └──  launcher_icon.png 0
-                    │       ├──  resources-edge520plus 1
-                    │       │   └──  launcher_icon.png 0
-                    │       ├──  resources-edge130 1
-                    │       │   └──  launcher_icon.png 0
-                    │       ├──  resources-edge1030bontrager 1
-                    │       │   └──  launcher_icon.png 0
-                    │       ├──  resources-edge1030 1
-                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-fr645 2
+                    │       │   ├──  launcher_icon.png 0
+                    │       │   └──  drawables.xml 0
                     │       ├──  resources-d2bravo_titanium 1
                     │       │   └──  launcher_icon.png 0
                     │       ├──  resources-d2bravo 1
                     │       │   └──  launcher_icon.png 0
-                    │       └──  .project 0
+                    │       ├──  monkey.jungle 0
+                    │       ├──  manifest.xml 0
+                    │       ├──  README.md 0
+                    │       ├──  .project 0
+                    │       ├──  resources-edge1030 2
+                    │       │   ├──  launcher_icon.png 0
+                    │       │   └──  drawables.xml 0
+                    │       ├──  resources-edge1030bontrager 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-edge130 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-fenix5 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-fr630 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-fr235 2
+                    │       │   ├──  launcher_icon.png 0
+                    │       │   └──  drawables.xml 0
+                    │       ├──  resources-fenixchronos 2
+                    │       │   ├──  launcher_icon.png 0
+                    │       │   └──  drawables.xml 0
+                    │       ├──  resources-fenix5s 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-fenix5plus 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-fenix3_hr 2
+                    │       │   ├──  launcher_icon.png 0
+                    │       │   └──  drawables.xml 0
+                    │       ├──  resources-edge520plus 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-fenix3 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-epix 2
+                    │       │   ├──  launcher_icon.png 0
+                    │       │   └──  drawables.xml 0
+                    │       ├──  resources-edge_520 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-edge_1000 1
+                    │       │   └──  launcher_icon.png 0
+                    │       └──  resources-edge820 1
+                    │           └──  launcher_icon.png 0
                     ├──  package.json 0
+                    ├──  go 10
+                    │   ├──  README.md 0
+                    │   ├──  corpus 2
+                    │   │   ├──  gen.go 0
+                    │   │   └──  .gitignore 0
+                    │   ├──  decode.go 0
+                    │   ├──  shorten.go 0
+                    │   ├──  olc_test.go 0
+                    │   ├──  olc_gofuzz.go 0
+                    │   ├──  olc.go 0
+                    │   ├──  go.mod 0
+                    │   ├──  encode.go 0
+                    │   └──  go.sum 0
                     ├──  ruby 5
-                    │   ├──  rubocop.yml 0
-                    │   ├──  open-location-code.gemspec 0
                     │   ├──  lib 2
                     │   │   ├──  plus_codes 2
                     │   │   │   ├──  open_location_code.rb 0
                     │   │   │   └──  code_area.rb 0
                     │   │   └──  plus_codes.rb 0
+                    │   ├──  rubocop.yml 0
+                    │   ├──  open-location-code.gemspec 0
                     │   ├──  test 1
                     │   │   └──  plus_codes_test.rb 0
                     │   └──  README.md 0
@@ -311,16 +306,16 @@
                     │   ├──  README.md 0
                     │   └──  OpenLocationCode.bas 0
                     ├──  rust 4
-                    │   ├──  README.md 0
                     │   ├──  src 5
-                    │   │   ├──  interface.rs 0
                     │   │   ├──  consts.rs 0
-                    │   │   ├──  lib.rs 0
                     │   │   ├──  private.rs 0
+                    │   │   ├──  lib.rs 0
+                    │   │   ├──  interface.rs 0
                     │   │   └──  codearea.rs 0
                     │   ├──  tests 2
                     │   │   ├──  csv_reader.rs 0
                     │   │   └──  all_test.rs 0
+                    │   ├──  README.md 0
                     │   └──  Cargo.toml 0
                     ├──  test_data 1
                     │   └──  csv_to_json.go 0
@@ -352,7 +347,25 @@
                     │   │   └──  open_location_code.dart 0
                     │   ├──  checks.sh 0
                     │   └──  README.md 0
+                    ├──  c 9
+                    │   ├──  src 3
+                    │   │   ├──  olc.h 0
+                    │   │   ├──  olc_private.h 0
+                    │   │   └──  olc.c 0
+                    │   ├──  openlocationcode_test.cc 0
+                    │   ├──  example.c 0
+                    │   ├──  clang_check.sh 0
+                    │   ├──  benchmark 4
+                    │   │   ├──  shared.c 0
+                    │   │   ├──  bm-cpp.cc 0
+                    │   │   ├──  bm-c.c 0
+                    │   │   └──  Makefile 0
+                    │   ├──  README.md 0
+                    │   ├──  BUILD 0
+                    │   ├──  .gitignore 0
+                    │   └──  .clang-format 0
                     ├──  cpp 12
+                    │   ├──  .gitignore 0
                     │   ├──  openlocationcode_test.cc 0
                     │   ├──  openlocationcode_example.cc 0
                     │   ├──  openlocationcode.h 0
@@ -363,31 +376,15 @@
                     │   ├──  clang_check.sh 0
                     │   ├──  README.md 0
                     │   ├──  BUILD 0
-                    │   ├──  .gitignore 0
-                    │   └──  .clang-format 0
-                    ├──  c 9
-                    │   ├──  BUILD 0
-                    │   ├──  .gitignore 0
-                    │   ├──  README.md 0
-                    │   ├──  src 3
-                    │   │   ├──  olc_private.h 0
-                    │   │   ├──  olc.h 0
-                    │   │   └──  olc.c 0
-                    │   ├──  benchmark 4
-                    │   │   ├──  Makefile 0
-                    │   │   ├──  shared.c 0
-                    │   │   ├──  bm-cpp.cc 0
-                    │   │   └──  bm-c.c 0
-                    │   ├──  openlocationcode_test.cc 0
-                    │   ├──  example.c 0
-                    │   ├──  clang_check.sh 0
                     │   └──  .clang-format 0
                     ├──  starting_testjava_uses72_72 0
-                    ├──  bazel-open-location-code 0
-                    ├──  common-lisp 1
-                    │   └──  README.md 0
                     ├──  emacs 1
                     │   └──  README.md 0
+                    ├──  csharp 1
+                    │   └──  README.md 0
+                    ├──  common-lisp 1
+                    │   └──  README.md 0
+                    ├──  bazel-open-location-code 0
                     ├──  bazel-out 0
                     ├──  bazel-testlogs 0
                     ├──  bazel-bin 0
