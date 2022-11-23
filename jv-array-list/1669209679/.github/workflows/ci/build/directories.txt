@@ -1,0 +1,29 @@
+
+└──  home 1
+    └──  runner 1
+        └──  work 1
+            └──  jv-array-list 1
+                └──  jv-array-list 8
+                    ├──  target 3
+                    │   ├──  surefire-reports 1
+                    │   │   └──  TEST-core.basesyntax.ArrayListTest.xml 0
+                    │   ├──  maven-status 1
+                    │   │   └──  maven-compiler-plugin 2
+                    │   │       ├──  compile 1
+                    │   │       │   └──  default-compile 2
+                    │   │       │       ├──  inputFiles.lst 0
+                    │   │       │       └──  createdFiles.lst 0
+                    │   │       └──  testCompile 1
+                    │   │           └──  default-testCompile 2
+                    │   │               ├──  inputFiles.lst 0
+                    │   │               └──  createdFiles.lst 0
+                    │   └──  checkstyle-cachefile 0
+                    ├──  README.md 0
+                    ├──  .gitignore 0
+                    ├──  .github 1
+                    │   └──  workflows 1
+                    │       └──  ci.yml 0
+                    ├──  starting_build_SetupJDK11_11 0
+                    ├──  starting_build_BuildwithMaven_17 0
+                    ├──  starting_build_uses10_10 0
+                    └──  starting_finished_finished_8979874 0
