@@ -1,0 +1,16 @@
+,file_name
+1,/home/runner/work/github-api/github-api/target/cache/org/kohsuke/github/extras/okhttp3/OkHttpConnectorTest/OkHttpConnector_Cache_MaxAgeDefault_Zero/journal
+2,/home/runner/work/github-api/github-api/target/cache/org/kohsuke/github/extras/okhttp3/OkHttpGitHubConnectorTest/OkHttpConnector_Cache_MaxAgeDefault_Zero/journal
+6,/home/runner/work/github-api/github-api/target/cache/org/kohsuke/github/extras/GitHubCachingTest/testCached4040/journal
+7,/home/runner/work/github-api/github-api/target/cache/org/kohsuke/github/extras/okhttp3/GitHubCachingTest/testCached4040/journal
+19,/home/runner/work/github-api/github-api/target/cache/org/kohsuke/github/extras/okhttp3/OkHttpGitHubConnectorTest/OkHttpConnector_Cache_MaxAgeNone/journal
+21,/home/runner/work/github-api/github-api/target/cache/org/kohsuke/github/extras/okhttp3/OkHttpConnectorTest/OkHttpConnector_Cache_MaxAgeNone/journal
+23,/home/runner/work/github-api/github-api/target/cache/org/kohsuke/github/extras/OkHttpConnectorTest/OkHttpConnector_Cache_MaxAgeNone/journal
+162,/home/runner/work/github-api/github-api/target/site/jacoco-it/org.kohsuke.github.example.dataobject/ReadOnlyObjects.java.html
+552,/home/runner/work/github-api/github-api/target/site/jacoco-it/org.kohsuke.github/GHObject.java.html
+667,/home/runner/work/github-api/github-api/target/surefire-reports/org.kohsuke.github.GHRepositoryTest.txt
+702,/home/runner/work/github-api/github-api/target/site/jacoco-it/org.kohsuke.github.connector/GitHubConnectorResponseHttpUrlConnectionAdapter.java.html
+1238,/home/runner/work/github-api/github-api/target/site/jacoco-it/org.kohsuke.github.authorization/ImmutableAuthorizationProvider.java.html
+1239,/home/runner/work/github-api/github-api/target/site/jacoco-it/org.kohsuke.github.extras.authorization/JWTTokenProvider.java.html
+1240,/home/runner/work/github-api/github-api/target/site/jacoco-it/org.kohsuke.github.extras/ImpatientHttpConnector.java.html
+1243,/home/runner/work/github-api/github-api/target/site/jacoco-it/org.kohsuke.github.internal/DefaultGitHubConnector.java.html
