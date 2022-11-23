@@ -1,0 +1,141 @@
+
+└──  home 1
+    └──  runner 1
+        └──  work 1
+            └──  Algorithms 1
+                └──  Algorithms 9
+                    ├──  target 4
+                    │   ├──  site 3
+                    │   │   ├──  checkstyle.rss 0
+                    │   │   ├──  checkstyle.html 0
+                    │   │   └──  images 1
+                    │   │       └──  rss.png 0
+                    │   ├──  checkstyle-header.txt 0
+                    │   ├──  checkstyle-cachefile 0
+                    │   └──  checkstyle-result.xml 0
+                    ├──  README.md 0
+                    ├──  .github 2
+                    │   ├──  FUNDING.yml 0
+                    │   └──  workflows 1
+                    │       └──  check.yml 0
+                    ├──  src 1
+                    │   └──  test 1
+                    │       └──  java 1
+                    │           └──  com 1
+                    │               └──  github 1
+                    │                   └──  pedrovgs 55
+                    │                       ├──  problem1 1
+                    │                       │   └──  BitsCounterTest.java 0
+                    │                       ├──  problem24 1
+                    │                       │   └──  SortedArrayToBSTTest.java 0
+                    │                       ├──  problem25 1
+                    │                       │   └──  AnagramsTest.java 0
+                    │                       ├──  problem26 1
+                    │                       │   └──  PalindromesTest.java 0
+                    │                       ├──  problem27 1
+                    │                       │   └──  ReverseSentenceTest.java 0
+                    │                       ├──  problem3 1
+                    │                       │   └──  SumBinaryNumberTest.java 0
+                    │                       ├──  problem23 1
+                    │                       │   └──  RemoveCommentsTest.java 0
+                    │                       ├──  problem30 1
+                    │                       │   └──  ScientificNotationTest.java 0
+                    │                       ├──  problem31 1
+                    │                       │   └──  FindLongestConsecutiveSequenceTest.java 0
+                    │                       ├──  problem38 1
+                    │                       │   └──  PathToEveryLeafTest.java 0
+                    │                       ├──  problem33 1
+                    │                       │   └──  SimpleRegularExpressionTest.java 0
+                    │                       ├──  problem34 1
+                    │                       │   └──  DotRegularExpressionTest.java 0
+                    │                       ├──  problem35 1
+                    │                       │   └──  AsteriskRegularExpressionTest.java 0
+                    │                       ├──  problem37 1
+                    │                       │   └──  PathCalculatorTest.java 0
+                    │                       ├──  problem36 1
+                    │                       │   └──  AvlTreeMedianTest.java 0
+                    │                       ├──  problem22 1
+                    │                       │   └──  ReverseLinkedListTest.java 0
+                    │                       ├──  problem20 1
+                    │                       │   └──  MultiplicationWithoutMultiplyTest.java 0
+                    │                       ├──  problem2 1
+                    │                       │   └──  VectorScalarProductTest.java 0
+                    │                       ├──  problem19 1
+                    │                       │   └──  BinaryTreeDepthTest.java 0
+                    │                       ├──  problem18 1
+                    │                       │   └──  IsBSTTest.java 0
+                    │                       ├──  problem14 1
+                    │                       │   └──  BinaryTreePreOrderTest.java 0
+                    │                       ├──  problem13 1
+                    │                       │   └──  BinaryTreeByLevelTest.java 0
+                    │                       ├──  problem12 1
+                    │                       │   └──  MoveZerosInArrayTest.java 0
+                    │                       ├──  problem11 1
+                    │                       │   └──  IntToStringTest.java 0
+                    │                       ├──  problem4 1
+                    │                       │   └──  SquareRootTest.java 0
+                    │                       ├──  problem39 1
+                    │                       │   └──  MultiplyArrayElementsTest.java 0
+                    │                       ├──  problem66 1
+                    │                       │   └──  TreeToListByLevelTest.java 0
+                    │                       ├──  problem40 1
+                    │                       │   └──  MoveElementsToPositionsTest.java 0
+                    │                       ├──  problem62 1
+                    │                       │   └──  PalindromeListTest.java 0
+                    │                       ├──  sortingalgorithms 1
+                    │                       │   └──  SortingAlgorithmTest.java 0
+                    │                       ├──  problem9 1
+                    │                       │   └──  FactorialTest.java 0
+                    │                       ├──  problem8 1
+                    │                       │   └──  SplitArrayTest.java 0
+                    │                       ├──  problem76 1
+                    │                       │   └──  InsertionSortTest.java 0
+                    │                       ├──  problem73 1
+                    │                       │   └──  SubtractAddingTest.java 0
+                    │                       ├──  problem72 1
+                    │                       │   └──  FindTheMissingNumberTest.java 0
+                    │                       ├──  problem71 1
+                    │                       │   └──  ReverseBinaryNumberTest.java 0
+                    │                       ├──  problem7 1
+                    │                       │   └──  FibonacciNumbersTest.java 0
+                    │                       ├──  problem65 1
+                    │                       │   └──  IsTreeBalancedTest.java 0
+                    │                       ├──  problem63 1
+                    │                       │   └──  ConstantComplexityOrderStackTest.java 0
+                    │                       ├──  problem6 1
+                    │                       │   └──  MergeSortedArraysTest.java 0
+                    │                       ├──  problem41 1
+                    │                       │   └──  GoThroughMatrixInSpiralTest.java 0
+                    │                       ├──  problem59 1
+                    │                       │   └──  DeleteListNodeTest.java 0
+                    │                       ├──  problem58 1
+                    │                       │   └──  FindKthElementTest.java 0
+                    │                       ├──  problem57 1
+                    │                       │   └──  RemoveListDuplicatedElementsTest.java 0
+                    │                       ├──  problem55 1
+                    │                       │   └──  RewriteRowAndColumnsWithZerosTest.java 0
+                    │                       ├──  problem54 1
+                    │                       │   └──  RotateMatrixTest.java 0
+                    │                       ├──  problem52 1
+                    │                       │   └──  ReplaceSpacesTest.java 0
+                    │                       ├──  problem50 1
+                    │                       │   └──  UniqueCharsTest.java 0
+                    │                       ├──  problem5 1
+                    │                       │   └──  DivideUsingSubtractionTest.java 0
+                    │                       ├──  problem48 1
+                    │                       │   └──  WordSearchTest.java 0
+                    │                       ├──  problem47 1
+                    │                       │   └──  ReturnChangeTest.java 0
+                    │                       ├──  problem45 1
+                    │                       │   └──  FindNthMostRepeatedElementTest.java 0
+                    │                       ├──  problem44 1
+                    │                       │   └──  FindMinNumberAtPositionTest.java 0
+                    │                       ├──  problem43 1
+                    │                       │   └──  CombinationOfIntegersTest.java 0
+                    │                       └──  problem42 1
+                    │                           └──  FloodFillTest.java 0
+                    ├──  .gitignore 0
+                    ├──  starting_build_uses10_10 0
+                    ├──  starting_build_Checkjavacheckstyle_16 0
+                    ├──  starting_build_SetupJDK8_11 0
+                    └──  starting_finished_finished_8979874 0
