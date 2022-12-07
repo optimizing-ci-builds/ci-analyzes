@@ -1,0 +1,27 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/matsim-example-project/matsim-example-project/matsim-example-project-0.0.1-SNAPSHOT.jar,-1,19722,2626,Not provided,BuildwithMaven,BuildwithMaven
+1,/home/runner/work/matsim-example-project/matsim-example-project/LICENSE,-1,1262,1256,Not provided,uses18,uses18
+2,/home/runner/work/matsim-example-project/matsim-example-project/test/input/org/matsim/project/RunMatsimTest/test/output_events.xml.gz,-1,1433,1425,Not provided,uses18,uses18
+3,/home/runner/work/matsim-example-project/matsim-example-project/scenarios/equil/plans100.xml,-1,1340,1334,Not provided,uses18,uses18
+4,/home/runner/work/matsim-example-project/matsim-example-project/.mvn/wrapper/MavenWrapperDownloader.java,-1,1237,-1,Not provided,uses18,Not provided
+5,/home/runner/work/matsim-example-project/matsim-example-project/scenarios/equil/config.xml,-1,1315,-1,Not provided,uses18,Not provided
+6,/home/runner/work/matsim-example-project/matsim-example-project/original-input-data/README.md,-1,1296,-1,Not provided,uses18,Not provided
+7,/home/runner/work/matsim-example-project/matsim-example-project/mvnw.cmd,-1,1286,1281,Not provided,uses18,uses18
+8,/home/runner/work/matsim-example-project/matsim-example-project/mvnw,-1,1278,1273,Not provided,uses18,uses18
+9,/home/runner/work/matsim-example-project/matsim-example-project/README.md,-1,1270,1265,Not provided,uses18,uses18
+10,/home/runner/work/matsim-example-project/matsim-example-project/.travis.yml,-1,1253,1248,Not provided,uses18,uses18
+11,/home/runner/work/matsim-example-project/matsim-example-project/.mvn/wrapper/maven-wrapper.properties,-1,1245,1240,Not provided,uses18,uses18
+12,/home/runner/work/matsim-example-project/matsim-example-project/.gitlab-ci.yml,-1,1226,1221,Not provided,uses18,uses18
+13,/home/runner/work/matsim-example-project/matsim-example-project/.gitignore,-1,1218,1213,Not provided,uses18,uses18
+14,/home/runner/work/matsim-example-project/matsim-example-project/.github/workflows/maven.yml,-1,1202,1197,Not provided,uses18,uses18
+15,/home/runner/work/matsim-example-project/matsim-example-project/scenarios/equil/counts100.xml,-1,1323,1318,Not provided,uses18,uses18
+16,/home/runner/work/matsim-example-project/matsim-example-project/scenarios/equil/network.xml,-1,1331,1326,Not provided,uses18,uses18
+17,/home/runner/work/matsim-example-project/matsim-example-project/target/surefire-reports/TEST-org.matsim.project.RunMatsimTest.xml,-1,2276,2274,Not provided,BuildwithMaven,BuildwithMaven
+18,/home/runner/work/matsim-example-project/matsim-example-project/target/surefire-reports/org.matsim.project.RunMatsimTest.txt,-1,2272,2270,Not provided,BuildwithMaven,BuildwithMaven
+19,/home/runner/work/matsim-example-project/matsim-example-project/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst,-1,2074,2072,Not provided,BuildwithMaven,BuildwithMaven
+20,/home/runner/work/matsim-example-project/matsim-example-project/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst,-1,2070,2068,Not provided,BuildwithMaven,BuildwithMaven
+21,/home/runner/work/matsim-example-project/matsim-example-project/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst,-1,1850,1848,Not provided,BuildwithMaven,BuildwithMaven
+22,/home/runner/work/matsim-example-project/matsim-example-project/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst,-1,1846,1844,Not provided,BuildwithMaven,BuildwithMaven
+23,/home/runner/work/matsim-example-project/matsim-example-project/src/main/R/README.md,-1,1351,-1,Not provided,uses18,Not provided
+24,/home/runner/work/matsim-example-project/matsim-example-project/test/input/org/matsim/project/RunMatsimTest/test/output_plans.xml.gz,-1,1441,1436,Not provided,uses18,uses18
+25,/home/runner/work/matsim-example-project/matsim-example-project/src/main/python/README.md,-1,1408,-1,Not provided,uses18,Not provided

@@ -1,0 +1,58 @@
+
+└──  home 1
+    └──  runner 1
+        └──  work 1
+            └──  matsim-example-project 1
+                └──  matsim-example-project 15
+                    ├──  matsim-example-project-0.0.1-SNAPSHOT.jar 0
+                    ├──  LICENSE 0
+                    ├──  test 1
+                    │   └──  input 1
+                    │       └──  org 1
+                    │           └──  matsim 1
+                    │               └──  project 1
+                    │                   └──  RunMatsimTest 1
+                    │                       └──  test 2
+                    │                           ├──  output_events.xml.gz 0
+                    │                           └──  output_plans.xml.gz 0
+                    ├──  scenarios 1
+                    │   └──  equil 4
+                    │       ├──  plans100.xml 0
+                    │       ├──  config.xml 0
+                    │       ├──  counts100.xml 0
+                    │       └──  network.xml 0
+                    ├──  .mvn 1
+                    │   └──  wrapper 2
+                    │       ├──  MavenWrapperDownloader.java 0
+                    │       └──  maven-wrapper.properties 0
+                    ├──  original-input-data 1
+                    │   └──  README.md 0
+                    ├──  mvnw.cmd 0
+                    ├──  mvnw 0
+                    ├──  README.md 0
+                    ├──  .travis.yml 0
+                    ├──  .gitlab-ci.yml 0
+                    ├──  .gitignore 0
+                    ├──  .github 1
+                    │   └──  workflows 1
+                    │       └──  maven.yml 0
+                    ├──  target 2
+                    │   ├──  surefire-reports 2
+                    │   │   ├──  TEST-org.matsim.project.RunMatsimTest.xml 0
+                    │   │   └──  org.matsim.project.RunMatsimTest.txt 0
+                    │   └──  maven-status 1
+                    │       └──  maven-compiler-plugin 2
+                    │           ├──  testCompile 1
+                    │           │   └──  default-testCompile 2
+                    │           │       ├──  inputFiles.lst 0
+                    │           │       └──  createdFiles.lst 0
+                    │           └──  compile 1
+                    │               └──  default-compile 2
+                    │                   ├──  inputFiles.lst 0
+                    │                   └──  createdFiles.lst 0
+                    └──  src 1
+                        └──  main 2
+                            ├──  R 1
+                            │   └──  README.md 0
+                            └──  python 1
+                                └──  README.md 0
