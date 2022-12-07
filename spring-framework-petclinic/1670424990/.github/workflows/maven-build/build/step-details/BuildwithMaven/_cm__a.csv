@@ -1,0 +1,10 @@
+,file_name
+23,/home/runner/work/spring-framework-petclinic/spring-framework-petclinic/target/site/jacoco/org.springframework.samples.petclinic.repository.jdbc/JdbcVisitRowMapper.java.html
+33,/home/runner/work/spring-framework-petclinic/spring-framework-petclinic/target/site/jacoco/org.springframework.samples.petclinic.repository.jpa/JpaVetRepositoryImpl.java.html
+48,/home/runner/work/spring-framework-petclinic/spring-framework-petclinic/target/site/jacoco/org.springframework.samples.petclinic.util/CallMonitoringAspect.java.html
+61,/home/runner/work/spring-framework-petclinic/spring-framework-petclinic/target/site/jacoco/org.springframework.samples.petclinic.model/PetType.java.html
+65,/home/runner/work/spring-framework-petclinic/spring-framework-petclinic/target/site/jacoco/org.springframework.samples.petclinic/PetclinicInitializer.java.html
+90,/home/runner/work/spring-framework-petclinic/spring-framework-petclinic/target/site/jacoco/org.springframework.samples.petclinic.web/VisitController.java.html
+94,/home/runner/work/spring-framework-petclinic/spring-framework-petclinic/target/site/jacoco/org.springframework.samples.petclinic.service/ClinicServiceImpl.java.html
+137,/home/runner/work/spring-framework-petclinic/spring-framework-petclinic/target/site/jacoco/jacoco-resources/report.css
+152,/home/runner/work/spring-framework-petclinic/spring-framework-petclinic/target/surefire-reports/org.springframework.samples.petclinic.service.ClinicServiceSpringDataJpaTests.txt
