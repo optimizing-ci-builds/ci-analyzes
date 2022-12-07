@@ -1,7 +1,0 @@
-
-└──  home 1
-    └──  runner 1
-        └──  work 1
-            └──  Java-WebSocket 1
-                └──  Java-WebSocket 1
-                    └──  starting_Test_uses20_20 0
