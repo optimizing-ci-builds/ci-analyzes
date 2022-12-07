@@ -1,0 +1,191 @@
+
+└──  home 1
+    └──  runner 1
+        └──  work 1
+            └──  Algorithms 1
+                └──  Algorithms 5
+                    ├──  target 6
+                    │   ├──  site 3
+                    │   │   ├──  checkstyle.rss 0
+                    │   │   ├──  images 1
+                    │   │   │   └──  rss.png 0
+                    │   │   └──  checkstyle.html 0
+                    │   ├──  checkstyle-header.txt 0
+                    │   ├──  maven-status 1
+                    │   │   └──  maven-compiler-plugin 2
+                    │   │       ├──  testCompile 1
+                    │   │       │   └──  default-testCompile 2
+                    │   │       │       ├──  inputFiles.lst 0
+                    │   │       │       └──  createdFiles.lst 0
+                    │   │       └──  compile 1
+                    │   │           └──  default-compile 2
+                    │   │               ├──  inputFiles.lst 0
+                    │   │               └──  createdFiles.lst 0
+                    │   ├──  checkstyle-result.xml 0
+                    │   ├──  checkstyle-cachefile 0
+                    │   └──  surefire-reports 158
+                    │       ├──  com.github.pedrovgs.problem31.FindLongestConsecutiveSequenceTest.txt 0
+                    │       ├──  com.github.pedrovgs.problem66.TreeToListByLevelTest.txt 0
+                    │       ├──  com.github.pedrovgs.problem26.PalindromesTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem21.LowestCommonAncestorTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem21.LowestCommonAncestorTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem58.FindKthElementTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem58.FindKthElementTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem73.SubtractAddingTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem73.SubtractAddingTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem53.CompressStringTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem53.CompressStringTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem49.CombinationsOfChangeTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem49.CombinationsOfChangeTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem63.ConstantComplexityOrderStackTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem63.ConstantComplexityOrderStackTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem26.PalindromesTest.xml 0
+                    │       ├──  TEST-com.github.pedrovgs.problem42.FloodFillTest.xml 0
+                    │       ├──  TEST-com.github.pedrovgs.problem66.TreeToListByLevelTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem42.FloodFillTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem46.BinaryTreeSerializationTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem46.BinaryTreeSerializationTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem4.SquareRootTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem4.SquareRootTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem1.BitsCounterTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem1.BitsCounterTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem52.ReplaceSpacesTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem52.ReplaceSpacesTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem59.DeleteListNodeTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem59.DeleteListNodeTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem31.FindLongestConsecutiveSequenceTest.xml 0
+                    │       ├──  TEST-com.github.pedrovgs.problem36.AvlTreeMedianTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem36.AvlTreeMedianTest.txt 0
+                    │       ├──  com.github.pedrovgs.problem71.ReverseBinaryNumberTest.txt 0
+                    │       ├──  com.github.pedrovgs.problem80.QuickSortTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem80.QuickSortTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem43.CombinationOfIntegersTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem25.AnagramsTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem25.AnagramsTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem29.AreAnagramsTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem29.AreAnagramsTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem65.IsTreeBalancedTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem65.IsTreeBalancedTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem13.BinaryTreeByLevelTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem13.BinaryTreeByLevelTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem28.FindSumsTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem28.FindSumsTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem11.IntToStringTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem11.IntToStringTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem34.DotRegularExpressionTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem34.DotRegularExpressionTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem75.SelectionSortTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem75.SelectionSortTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem6.MergeSortedArraysTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem6.MergeSortedArraysTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem9.FactorialTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem9.FactorialTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem50.UniqueCharsTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem50.UniqueCharsTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem61.SumListsTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem61.SumListsTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem32.ContainsTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem32.ContainsTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem67.MergeBinaryNumbersTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem67.MergeBinaryNumbersTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem43.CombinationOfIntegersTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem23.RemoveCommentsTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem23.RemoveCommentsTest.xml 0
+                    │       ├──  TEST-com.github.pedrovgs.problem40.MoveElementsToPositionsTest.xml 0
+                    │       ├──  TEST-com.github.pedrovgs.problem44.FindMinNumberAtPositionTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem44.FindMinNumberAtPositionTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem15.BinaryTreeInOrderTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem15.BinaryTreeInOrderTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem38.PathToEveryLeafTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem38.PathToEveryLeafTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem78.AutoBoxingTrickTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem78.AutoBoxingTrickTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem17.BinaryTreeEqualsTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem17.BinaryTreeEqualsTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem2.VectorScalarProductTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem2.VectorScalarProductTest.txt 0
+                    │       ├──  com.github.pedrovgs.problem40.MoveElementsToPositionsTest.txt 0
+                    │       ├──  com.github.pedrovgs.problem27.ReverseSentenceTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem47.ReturnChangeTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem47.ReturnChangeTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem16.BinaryTreePostOrderTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem16.BinaryTreePostOrderTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem69.BitsToTransformTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem69.BitsToTransformTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem19.BinaryTreeDepthTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem19.BinaryTreeDepthTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem60.PartitionListTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem60.PartitionListTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem54.RotateMatrixTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem54.RotateMatrixTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem27.ReverseSentenceTest.xml 0
+                    │       ├──  TEST-com.github.pedrovgs.problem41.GoThroughMatrixInSpiralTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem41.GoThroughMatrixInSpiralTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem3.SumBinaryNumberTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem18.IsBSTTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem79.MergeSortTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem79.MergeSortTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem12.MoveZerosInArrayTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem12.MoveZerosInArrayTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem55.RewriteRowAndColumnsWithZerosTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem55.RewriteRowAndColumnsWithZerosTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem24.SortedArrayToBSTTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem24.SortedArrayToBSTTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem57.RemoveListDuplicatedElementsTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem57.RemoveListDuplicatedElementsTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem37.PathCalculatorTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem37.PathCalculatorTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem18.IsBSTTest.xml 0
+                    │       ├──  TEST-com.github.pedrovgs.problem10.RemoveDuplicatesTest.xml 0
+                    │       ├──  TEST-com.github.pedrovgs.problem51.ReverseStringTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem10.RemoveDuplicatesTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem45.FindNthMostRepeatedElementTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem45.FindNthMostRepeatedElementTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem76.InsertionSortTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem76.InsertionSortTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem68.IsEvenTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem68.IsEvenTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem14.BinaryTreePreOrderTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem14.BinaryTreePreOrderTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem20.MultiplicationWithoutMultiplyTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem20.MultiplicationWithoutMultiplyTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem71.ReverseBinaryNumberTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem51.ReverseStringTest.txt 0
+                    │       ├──  com.github.pedrovgs.problem5.DivideUsingSubtractionTest.txt 0
+                    │       ├──  com.github.pedrovgs.problem3.SumBinaryNumberTest.txt 0
+                    │       ├──  com.github.pedrovgs.problem22.ReverseLinkedListTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem33.SimpleRegularExpressionTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem33.SimpleRegularExpressionTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem48.WordSearchTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem48.WordSearchTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem35.AsteriskRegularExpressionTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem35.AsteriskRegularExpressionTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem70.ReverseOrderOfBinaryNumberTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem70.ReverseOrderOfBinaryNumberTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem72.FindTheMissingNumberTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem72.FindTheMissingNumberTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem56.IsRotationUsingIsSubstringTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem56.IsRotationUsingIsSubstringTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem22.ReverseLinkedListTest.xml 0
+                    │       ├──  TEST-com.github.pedrovgs.problem62.PalindromeListTest.xml 0
+                    │       ├──  TEST-com.github.pedrovgs.problem5.DivideUsingSubtractionTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem62.PalindromeListTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem8.SplitArrayTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem8.SplitArrayTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem64.GetTheElementInTheMiddleOfTheListTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem64.GetTheElementInTheMiddleOfTheListTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem30.ScientificNotationTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem30.ScientificNotationTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem39.MultiplyArrayElementsTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem39.MultiplyArrayElementsTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem7.FibonacciNumbersTest.xml 0
+                    │       ├──  com.github.pedrovgs.problem7.FibonacciNumbersTest.txt 0
+                    │       ├──  TEST-com.github.pedrovgs.problem74.BubbleSortTest.xml 0
+                    │       └──  com.github.pedrovgs.problem74.BubbleSortTest.txt 0
+                    ├──  README.md 0
+                    ├──  LICENSE.txt 0
+                    ├──  .gitignore 0
+                    └──  .github 2
+                        ├──  workflows 1
+                        │   └──  check.yml 0
+                        └──  FUNDING.yml 0
