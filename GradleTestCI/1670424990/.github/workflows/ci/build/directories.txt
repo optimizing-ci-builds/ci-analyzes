@@ -1,0 +1,40 @@
+
+└──  home 1
+    └──  runner 1
+        └──  work 1
+            └──  GradleTestCI 1
+                └──  GradleTestCI 8
+                    ├──  .gradle 3
+                    │   ├──  7.6 5
+                    │   │   ├──  checksums 3
+                    │   │   │   ├──  checksums.lock 0
+                    │   │   │   ├──  sha1-checksums.bin 0
+                    │   │   │   └──  md5-checksums.bin 0
+                    │   │   ├──  fileHashes 3
+                    │   │   │   ├──  fileHashes.lock 0
+                    │   │   │   ├──  fileHashes.bin 0
+                    │   │   │   └──  resourceHashesCache.bin 0
+                    │   │   ├──  executionHistory 2
+                    │   │   │   ├──  executionHistory.lock 0
+                    │   │   │   └──  executionHistory.bin 0
+                    │   │   ├──  dependencies-accessors 1
+                    │   │   │   └──  dependencies-accessors.lock 0
+                    │   │   └──  fileChanges 1
+                    │   │       └──  last-build.bin 0
+                    │   ├──  buildOutputCleanup 3
+                    │   │   ├──  outputFiles.bin 0
+                    │   │   ├──  buildOutputCleanup.lock 0
+                    │   │   └──  cache.properties 0
+                    │   └──  file-system.probe 0
+                    ├──  gradle 1
+                    │   └──  wrapper 2
+                    │       ├──  gradle-wrapper.jar 0
+                    │       └──  gradle-wrapper.properties 0
+                    ├──  gradlew.bat 0
+                    ├──  gradlew 0
+                    ├──  README.md 0
+                    ├──  .github 1
+                    │   └──  workflows 1
+                    │       └──  ci.yml 0
+                    ├──  .gitignore 0
+                    └──  .gitattributes 0
