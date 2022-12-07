@@ -1,0 +1,7 @@
+,step_name,#c,#m,cma,cm_a,cm__a,c_ma,c_m_a,c_m__a,_cma,_cm_a,_cm__a,_c_ma,_c_m_a,_c_m__a,time
+0,SetupJDK18,0,0,0,0,0,0,0,0,0,0,0,0,3,76,3
+1,CacheMavenpackages,0,0,0,0,0,0,0,0,0,0,0,0,3,76,1
+2,BuildwithMaven,5,2,0,0,2,0,3,0,0,0,0,0,0,74,33
+3,UnitTests,1,0,0,0,0,0,0,1,0,0,0,0,3,75,5
+4,IntegrationTests,1,0,0,0,0,0,0,1,0,0,0,0,3,75,16
+5,SubmitCoveralls,49,57,0,0,49,0,0,0,3,0,5,0,0,22,20
