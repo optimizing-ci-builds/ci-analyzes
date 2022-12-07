@@ -1,0 +1,57 @@
+
+└──  home 1
+    └──  runner 1
+        └──  work 1
+            └──  cucumber-java-skeleton 1
+                └──  cucumber-java-skeleton 6
+                    ├──  gradle 3
+                    │   ├──  .gradle 3
+                    │   │   ├──  7.5.1 5
+                    │   │   │   ├──  fileHashes 3
+                    │   │   │   │   ├──  fileHashes.lock 0
+                    │   │   │   │   ├──  resourceHashesCache.bin 0
+                    │   │   │   │   └──  fileHashes.bin 0
+                    │   │   │   ├──  checksums 3
+                    │   │   │   │   ├──  checksums.lock 0
+                    │   │   │   │   ├──  sha1-checksums.bin 0
+                    │   │   │   │   └──  md5-checksums.bin 0
+                    │   │   │   ├──  executionHistory 2
+                    │   │   │   │   ├──  executionHistory.lock 0
+                    │   │   │   │   └──  executionHistory.bin 0
+                    │   │   │   ├──  dependencies-accessors 1
+                    │   │   │   │   └──  dependencies-accessors.lock 0
+                    │   │   │   └──  fileChanges 1
+                    │   │   │       └──  last-build.bin 0
+                    │   │   ├──  buildOutputCleanup 3
+                    │   │   │   ├──  buildOutputCleanup.lock 0
+                    │   │   │   ├──  outputFiles.bin 0
+                    │   │   │   └──  cache.properties 0
+                    │   │   └──  file-system.probe 0
+                    │   ├──  gradlew.bat 0
+                    │   └──  .gitignore 0
+                    ├──  maven 4
+                    │   ├──  target 2
+                    │   │   ├──  surefire-reports 1
+                    │   │   │   └──  TEST-io.cucumber.skeleton.RunCucumberTest.xml 0
+                    │   │   └──  maven-status 1
+                    │   │       └──  maven-compiler-plugin 2
+                    │   │           ├──  testCompile 1
+                    │   │           │   └──  default-testCompile 2
+                    │   │           │       ├──  inputFiles.lst 0
+                    │   │           │       └──  createdFiles.lst 0
+                    │   │           └──  compile 1
+                    │   │               └──  default-compile 2
+                    │   │                   ├──  inputFiles.lst 0
+                    │   │                   └──  createdFiles.lst 0
+                    │   ├──  .gitignore 0
+                    │   ├──  mvnw.cmd 0
+                    │   └──  .mvn 1
+                    │       └──  wrapper 1
+                    │           └──  MavenWrapperDownloader.java 0
+                    ├──  .gitignore 0
+                    ├──  README.md 0
+                    ├──  LICENCE 0
+                    └──  .github 2
+                        ├──  renovate.json 0
+                        └──  workflows 1
+                            └──  build.yml 0
