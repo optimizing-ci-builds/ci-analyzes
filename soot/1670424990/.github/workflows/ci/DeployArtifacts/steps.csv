@@ -1,0 +1,4 @@
+,step_name,#c,#m,cma,cm_a,cm__a,c_ma,c_m_a,c_m__a,_cma,_cm_a,_cm__a,_c_ma,_c_m_a,_c_m__a,time
+0,Checkout,604,707,0,0,601,0,0,3,0,0,106,0,0,3212,4
+1,UseJava8,0,0,0,0,0,0,0,0,0,0,0,0,0,3922,5
+2,Deployartifacts,3212,3215,0,0,3212,0,0,0,0,0,3,0,0,707,161
