@@ -1,0 +1,9 @@
+15:53:48;/home/runner/work/my-app/my-app/;starting_build_uses11_11;CREATE
+15:53:48;/home/runner/work/my-app/my-app/;starting_build_uses11_11;OPEN
+15:53:48;/home/runner/work/my-app/my-app/;starting_build_uses11_11;ATTRIB
+15:53:48;/home/runner/work/my-app/my-app/;starting_build_uses11_11;CLOSE_WRITE,CLOSE
+15:53:48;/home/runner/work/my-app/my-app/;starting_build_uses11_11;DELETE
+15:53:49;/home/runner/work/my-app/my-app/;;OPEN,ISDIR
+15:53:49;/home/runner/work/my-app/my-app/;;ACCESS,ISDIR
+15:53:49;/home/runner/work/my-app/my-app/;;ACCESS,ISDIR
+15:53:49;/home/runner/work/my-app/my-app/;;CLOSE_NOWRITE,CLOSE,ISDIR
