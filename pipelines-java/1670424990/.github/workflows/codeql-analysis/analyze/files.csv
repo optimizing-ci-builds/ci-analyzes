@@ -1,0 +1,7 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/pipelines-java/pipelines-java/target/helloworld.war,-1,2605,2108,Not provided,Autobuild,Autobuild
+1,/home/runner/work/pipelines-java/pipelines-java/target/test-classes/MyTest.class,-1,1780,1778,Not provided,Autobuild,Autobuild
+2,/home/runner/work/pipelines-java/pipelines-java/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst,-1,1869,1867,Not provided,Autobuild,Autobuild
+3,/home/runner/work/pipelines-java/pipelines-java/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst,-1,1865,1863,Not provided,Autobuild,Autobuild
+4,/home/runner/work/pipelines-java/pipelines-java/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst,-1,1650,1648,Not provided,Autobuild,Autobuild
+5,/home/runner/work/pipelines-java/pipelines-java/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst,-1,1646,1644,Not provided,Autobuild,Autobuild
