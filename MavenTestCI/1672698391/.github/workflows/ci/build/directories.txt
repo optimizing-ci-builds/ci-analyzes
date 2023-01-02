@@ -1,0 +1,61 @@
+
+└──  home 1
+    └──  runner 1
+        └──  work 1
+            └──  MavenTestCI 1
+                └──  MavenTestCI 4
+                    ├──  target 3
+                    │   ├──  site 1
+                    │   │   └──  jacoco 5
+                    │   │       ├──  jacoco-resources 20
+                    │   │       │   ├──  prettify.js 0
+                    │   │       │   ├──  report.gif 0
+                    │   │       │   ├──  redbar.gif 0
+                    │   │       │   ├──  report.css 0
+                    │   │       │   ├──  sort.js 0
+                    │   │       │   ├──  session.gif 0
+                    │   │       │   ├──  sort.gif 0
+                    │   │       │   ├──  package.gif 0
+                    │   │       │   ├──  source.gif 0
+                    │   │       │   ├──  up.gif 0
+                    │   │       │   ├──  prettify.css 0
+                    │   │       │   ├──  group.gif 0
+                    │   │       │   ├──  greenbar.gif 0
+                    │   │       │   ├──  down.gif 0
+                    │   │       │   ├──  class.gif 0
+                    │   │       │   ├──  bundle.gif 0
+                    │   │       │   ├──  branchpc.gif 0
+                    │   │       │   ├──  branchnc.gif 0
+                    │   │       │   ├──  method.gif 0
+                    │   │       │   └──  branchfc.gif 0
+                    │   │       ├──  jacoco-sessions.html 0
+                    │   │       ├──  index.html 0
+                    │   │       ├──  default 4
+                    │   │       │   ├──  index.source.html 0
+                    │   │       │   ├──  index.html 0
+                    │   │       │   ├──  Indicator.java.html 0
+                    │   │       │   └──  Indicator.html 0
+                    │   │       └──  jacoco.csv 0
+                    │   ├──  maven-status 1
+                    │   │   └──  maven-compiler-plugin 2
+                    │   │       ├──  testCompile 1
+                    │   │       │   └──  default-testCompile 2
+                    │   │       │       ├──  inputFiles.lst 0
+                    │   │       │       └──  createdFiles.lst 0
+                    │   │       └──  compile 1
+                    │   │           └──  default-compile 2
+                    │   │               ├──  inputFiles.lst 0
+                    │   │               └──  createdFiles.lst 0
+                    │   └──  surefire-reports 2
+                    │       ├──  TEST-Test.xml 0
+                    │       └──  Test.txt 0
+                    ├──  README.md 0
+                    ├──  .idea 5
+                    │   ├──  vcs.xml 0
+                    │   ├──  misc.xml 0
+                    │   ├──  jarRepositories.xml 0
+                    │   ├──  compiler.xml 0
+                    │   └──  .gitignore 0
+                    └──  .github 1
+                        └──  workflows 1
+                            └──  ci.yml 0
