@@ -1,0 +1,15 @@
+,file_name
+0,/home/runner/work/JSqlParser/JSqlParser/target/classes/META-INF/MANIFEST.MF
+257,/home/runner/work/JSqlParser/JSqlParser/target/site/jacoco/net.sf.jsqlparser.statement.delete/Delete.java.html
+472,/home/runner/work/JSqlParser/JSqlParser/target/site/jacoco/net.sf.jsqlparser.statement.replace/Replace.java.html
+1962,/home/runner/work/JSqlParser/JSqlParser/target/site/jacoco/net.sf.jsqlparser.util.validation/Validation.java.html
+1963,/home/runner/work/JSqlParser/JSqlParser/target/site/jacoco/net.sf.jsqlparser.statement.create.sequence/CreateSequence.java.html
+1968,/home/runner/work/JSqlParser/JSqlParser/target/surefire-reports/net.sf.jsqlparser.schema.TableTest.txt
+1969,/home/runner/work/JSqlParser/JSqlParser/target/site/jacoco/jacoco-resources/report.css
+1970,/home/runner/work/JSqlParser/JSqlParser/target/site/jacoco/net.sf.jsqlparser.util.validation.validator/CreateIndexValidator.java.html
+1971,/home/runner/work/JSqlParser/JSqlParser/target/site/jacoco/net.sf.jsqlparser.statement.comment/Comment.java.html
+1972,/home/runner/work/JSqlParser/JSqlParser/target/site/jacoco/net.sf.jsqlparser.statement.create.schema/CreateSchema.java.html
+1973,/home/runner/work/JSqlParser/JSqlParser/target/site/jacoco/net.sf.jsqlparser.statement.select/PivotVisitorAdapter.java.html
+1974,/home/runner/work/JSqlParser/JSqlParser/target/site/jacoco/net.sf.jsqlparser.util.validation.feature/Version.java.html
+1975,/home/runner/work/JSqlParser/JSqlParser/target/site/jacoco/net.sf.jsqlparser.statement.values/ValuesStatement.java.html
+1976,/home/runner/work/JSqlParser/JSqlParser/target/site/pmd.html
