@@ -1,0 +1,16 @@
+,file_name
+208,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/peer/lifecycle/Db.java
+212,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/orderer/Configuration.java
+215,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/grpc-java/org/hyperledger/fabric/protos/peer/ChaincodeSupportGrpc.java
+253,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/orderer/ClusterOuterClass.java
+264,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/peer/Peer.java
+267,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/peer/ChaincodeShim.java
+269,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/common/Configuration.java
+271,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/orderer/Kafka.java
+278,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/orderer/etcdraft/Metadata.java
+285,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/peer/Resources.java
+299,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/peer/SignedCcDepSpec.java
+2434,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/transientstore/Transientstore.java
+2435,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/peer/lifecycle/ChaincodeDefinition.java
+2436,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/orderer/etcdraft/Configuration.java
+2437,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/ledger/queryresult/KvQueryResult.java
