@@ -1,0 +1,431 @@
+,file_name
+38,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/wrapper/wrapper-x64.dll
+39,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/lib/appbundler-1.0ea.jar
+40,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/wrapper/wrapper.dll
+43,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/lib/winxp/jnidispatch.dll
+44,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/wrapper/wrapper.jar
+47,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Plugins/Math.dll
+48,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/wrapper/wrapper-community-license-1.3.txt
+51,/home/runner/work/UniversalMediaServer/UniversalMediaServer/Eclipse.Formatter.xml
+52,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Plugins/LockedList.dll
+53,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Plugins/System.dll
+54,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Menu/images/site.gif
+55,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Menu/images/line.gif
+56,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Plugins/UAC.dll
+57,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Plugins/TypeLib.dll
+58,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Menu/index.html
+59,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Plugins/LangDLL.dll
+60,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/NSIS.exe
+61,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/NSIS.chm
+63,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Plugins/AdvSplash.dll
+64,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Plugins/StartMenu.dll
+65,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Plugins/Splash.dll
+66,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Plugins/Banner.dll
+67,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Plugins/BgImage.dll
+68,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Menu/images/header.gif
+69,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Plugins/NSISdl.dll
+70,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Plugins/InstallOptions.dll
+71,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Plugins/LockedList64.dll
+72,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Plugins/Dialer.dll
+73,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Include/WinVer.nsh
+74,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Include/x64.nsh
+75,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Include/StrFunc.nsh
+76,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/waplugin.nsi
+77,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Include/FileFunc.nsh
+78,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Include/GetWindowsVersion.nsh
+79,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Include/InstallOptions.nsh
+80,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Include/LangFile.nsh
+81,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Include/Library.nsh
+82,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Include/LogicLib.nsh
+83,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Include/MUI.nsh
+84,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Include/MUI2.nsh
+85,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Include/Memento.nsh
+86,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Include/MultiUser.nsh
+87,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Include/Sections.nsh
+88,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Include/TextFunc.nsh
+89,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Include/nsDialogs.nsh
+90,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Include/UpgradeDLL.nsh
+91,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Include/Util.nsh
+92,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Include/VB6RunTime.nsh
+93,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Include/VPatchLib.nsh
+94,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Include/Win/WinDef.nsh
+95,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Include/Win/WinError.nsh
+96,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Include/Win/WinNT.nsh
+97,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Include/Win/WinUser.nsh
+98,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Include/WinCore.nsh
+99,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Include/WinMessages.nsh
+100,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Plugins/VPatch.dll
+101,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Include/WordFunc.nsh
+102,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Plugins/UserInfo.dll
+103,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Stubs/uninst
+104,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Plugins/nsDialogs.dll
+105,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Plugins/nsExec.dll
+106,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/wrapper/wrapper-x64.exe
+107,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Plugins/nsSCM.dll
+108,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Plugins/services.dll
+109,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Stubs/bzip2
+110,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Stubs/bzip2_solid
+111,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Stubs/lzma
+112,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Stubs/lzma_solid
+113,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/silent.nsi
+114,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Stubs/zlib
+115,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Stubs/zlib_solid
+116,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/makensis.exe
+117,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/makensisw.exe
+118,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/nsisconf.nsh
+119,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/wrapper/wrapper.conf
+120,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/wrapper/wrapper.exe
+121,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/update/latest_version.properties
+122,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/update/update_1.properties
+123,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/viewhtml.nsi
+124,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/rtest.nsi
+125,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/Modern UI/images/open.gif
+127,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/InstallOptions/Readme.html
+130,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/Modern UI 2/Readme.html
+131,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/Modern UI 2/images/header.gif
+132,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/Modern UI 2/images/open.gif
+133,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/Modern UI 2/images/screen1.png
+134,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/Modern UI 2/images/screen2.png
+136,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/Modern UI/License.txt
+137,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/Modern UI/Readme.html
+138,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/Modern UI/images/header.gif
+139,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/Modern UI/images/screen1.png
+141,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/Modern UI/images/screen2.png
+142,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/MultiUser/Readme.html
+144,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/NSISdl/ReadMe.txt
+146,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/System/System.html
+147,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/System/WhatsNew.txt
+148,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/VPatch/Readme.html
+149,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/makensisw/Readme.txt
+150,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/nsDialogs/Readme.html
+152,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/AdvSplash/Example.nsi
+153,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/BgImage/Example.nsi
+155,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/zip2exe/Modern.nsh
+156,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/primes.nsi
+157,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Modern UI 2/Pages/InstallFiles.nsh
+158,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Ukrainian.nlf
+159,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Ukrainian.nsh
+160,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Uzbek.nlf
+161,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Uzbek.nsh
+162,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Welsh.nlf
+163,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Welsh.nsh
+164,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Modern UI 2/Interface.nsh
+165,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Modern UI 2/Localization.nsh
+166,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Modern UI 2/MUI2.nsh
+167,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Modern UI 2/Pages.nsh
+168,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Modern UI 2/Pages/Components.nsh
+169,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Modern UI 2/Pages/Directory.nsh
+170,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Modern UI 2/Pages/Finish.nsh
+171,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Modern UI 2/Pages/License.nsh
+172,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/zip2exe/Classic.nsh
+173,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Modern UI 2/Pages/StartMenu.nsh
+174,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Modern UI 2/Pages/UninstallConfirm.nsh
+175,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Modern UI 2/Pages/Welcome.nsh
+176,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Modern UI/System.nsh
+177,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Modern UI/ioSpecial.ini
+178,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/UIs/default.exe
+179,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/UIs/modern.exe
+180,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/UIs/modern_headerbmp.exe
+181,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/UIs/modern_headerbmpr.exe
+182,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/UIs/modern_nodesc.exe
+183,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/UIs/modern_smalldesc.exe
+184,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/UIs/sdbarker_tiny.exe
+185,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/zip2exe/Base.nsh
+186,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/FileFunc.ini
+187,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/FileFunc.nsi
+188,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/FileFuncTest.nsi
+189,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/VersionInfo.nsi
+190,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/Splash/Example.nsi
+191,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/StrFunc.nsi
+192,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/System/SysFunc.nsh
+193,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/System/System.nsh
+194,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/System/System.nsi
+195,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/TextFunc.ini
+196,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/TextFunc.nsi
+197,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/TextFuncTest.nsi
+198,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/UserVars.nsi
+199,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/VPatch/example.nsi
+200,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/VPatch/newfile.txt
+201,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/VPatch/oldfile.txt
+202,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/VPatch/patch.pat
+203,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/WordFunc.ini
+204,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/InstallOptions/test.ini
+205,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/WordFunc.nsi
+206,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/WordFuncTest.nsi
+207,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/bigtest.nsi
+208,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/example1.nsi
+209,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/example2.nsi
+210,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/gfx.nsi
+211,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/languages.nsi
+212,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/makensis.nsi
+213,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/nsDialogs/example.nsi
+214,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/nsDialogs/timer.nsi
+215,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/nsDialogs/welcome.nsi
+216,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/one-section.nsi
+217,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/Plugin/pluginapi.lib
+218,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/Plugin/pluginapi.h
+219,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/Plugin/nsis/pluginapi.lib
+220,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/Plugin/nsis/pluginapi.h
+221,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/InstallOptions/test.nsi
+222,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/InstallOptions/testimgs.ini
+223,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/InstallOptions/testimgs.nsi
+224,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/InstallOptions/testlink.ini
+225,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/InstallOptions/testlink.nsi
+226,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/InstallOptions/testnotify.ini
+227,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/InstallOptions/testnotify.nsi
+228,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/Library.nsi
+229,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/LogicLib.nsi
+230,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/Math/mathtest.nsi
+231,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/Math/mathtest.txt
+232,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/Memento.nsi
+233,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/Modern UI/Basic.nsi
+234,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/Modern UI/HeaderBitmap.nsi
+235,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/Modern UI/MultiLanguage.nsi
+236,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/Modern UI/StartMenu.nsi
+237,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/Modern UI/WelcomeFinish.nsi
+238,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/Plugin/api.h
+239,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/Plugin/exdll-vs2008.sln
+240,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/Plugin/exdll-vs2008.vcproj
+241,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/Plugin/exdll.c
+242,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/Plugin/exdll.dpr
+243,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/Plugin/exdll.dsp
+244,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/Plugin/exdll.dsw
+245,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/Plugin/exdll_with_unit.dpr
+246,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/Plugin/extdll.inc
+247,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/Plugin/nsis.pas
+251,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Turkish.nlf
+253,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Turkish.nsh
+254,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/TradChinese.nlf
+255,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/TradChinese.nsh
+256,/home/runner/work/UniversalMediaServer/UniversalMediaServer/UMS.launch
+257,/home/runner/work/UniversalMediaServer/UniversalMediaServer/.vscode/tasks.json
+258,/home/runner/work/UniversalMediaServer/UniversalMediaServer/CONTRIBUTING.md
+259,/home/runner/work/UniversalMediaServer/UniversalMediaServer/CheckStyle.xml
+260,/home/runner/work/UniversalMediaServer/UniversalMediaServer/Code_Of_Conduct.md
+261,/home/runner/work/UniversalMediaServer/UniversalMediaServer/Eclipse.Cleanup.xml
+262,/home/runner/work/UniversalMediaServer/UniversalMediaServer/Eclipse.CodeTemplates.xml
+263,/home/runner/work/UniversalMediaServer/UniversalMediaServer/Eclipse.README.txt
+264,/home/runner/work/UniversalMediaServer/UniversalMediaServer/STYLEGUIDE.md
+265,/home/runner/work/UniversalMediaServer/UniversalMediaServer/docker/Dockerfile
+266,/home/runner/work/UniversalMediaServer/UniversalMediaServer/docker/build.xml
+267,/home/runner/work/UniversalMediaServer/UniversalMediaServer/issue_template.md
+268,/home/runner/work/UniversalMediaServer/UniversalMediaServer/renovate.json
+269,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/assembly/assembly-linux-armel.xml
+270,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/assembly/assembly-linux-armhf.xml
+271,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/assembly/assembly-linux-x86.xml
+272,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/assembly/assembly-linux-x86_64.xml
+273,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/assembly/assembly-macos-arm.xml
+274,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/assembly/assembly-macos-pre10.15.xml
+275,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/assembly/assembly-macos.xml
+276,/home/runner/work/UniversalMediaServer/UniversalMediaServer/.github/workflows/ci.yaml
+277,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/osx/fonts/fonts.dtd
+283,/home/runner/work/UniversalMediaServer/UniversalMediaServer/.github/dependabot.yml
+284,/home/runner/work/UniversalMediaServer/UniversalMediaServer/.deepsource.toml
+285,/home/runner/work/UniversalMediaServer/UniversalMediaServer/.gitattributes
+286,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/assembly/osx-installer.pkgproj
+288,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/ffmpeg.webfilters
+289,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/icon.ico
+291,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/lib/ctrlsender/ctrlsender.exe
+292,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/nsis/pms.nsi
+293,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/nsis/setup.nsi
+295,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/osx/JavaApplicationStub.setenv
+296,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/osx/fonts/fonts.conf
+297,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/UMS.bat
+298,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Esperanto.nlf
+299,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Bulgarian.nsh
+300,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Catalan.nlf
+301,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Catalan.nsh
+302,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Croatian.nlf
+303,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Croatian.nsh
+304,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Czech.nlf
+305,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Czech.nsh
+306,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Danish.nlf
+307,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Danish.nsh
+308,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Dutch.nlf
+309,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Dutch.nsh
+310,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/English.nlf
+311,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/English.nsh
+312,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Esperanto.nsh
+313,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Breton.nsh
+314,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Estonian.nlf
+315,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Estonian.nsh
+316,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Farsi.nlf
+317,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Farsi.nsh
+318,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Finnish.nlf
+319,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Finnish.nsh
+320,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/French.nlf
+321,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/French.nsh
+322,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Galician.nlf
+323,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Galician.nsh
+324,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/German.nlf
+325,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/German.nsh
+326,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Greek.nlf
+327,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Bulgarian.nlf
+328,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Breton.nlf
+329,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Wizard/orange-uninstall.bmp
+330,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/orange-install.ico
+331,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/orange-uninstall-nsis.ico
+332,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/orange-uninstall.ico
+333,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/pixel-install.ico
+334,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/pixel-uninstall.ico
+335,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/win-install.ico
+336,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/win-uninstall.ico
+337,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Wizard/arrow.bmp
+338,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Wizard/llama.bmp
+339,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Wizard/nsis.bmp
+340,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Wizard/nullsoft.bmp
+341,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Wizard/orange-nsis.bmp
+342,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Wizard/orange-uninstall-nsis.bmp
+343,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Wizard/orange.bmp
+344,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Bosnian.nsh
+345,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Wizard/win.bmp
+346,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Wizard/win.png
+347,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Afrikaans.nlf
+348,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Afrikaans.nsh
+349,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Albanian.nlf
+350,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Albanian.nsh
+351,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Arabic.nlf
+352,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Arabic.nsh
+353,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Basque.nlf
+354,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Basque.nsh
+355,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Belarusian.nlf
+356,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Belarusian.nsh
+357,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Bosnian.nlf
+358,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Greek.nsh
+359,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Hebrew.nlf
+360,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Hebrew.nsh
+361,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/SerbianLatin.nsh
+362,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Polish.nlf
+363,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Polish.nsh
+364,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Portuguese.nlf
+365,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Portuguese.nsh
+366,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/PortugueseBR.nlf
+367,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/PortugueseBR.nsh
+368,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Romanian.nlf
+369,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Romanian.nsh
+370,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Russian.nlf
+371,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Russian.nsh
+372,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Serbian.nlf
+373,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Serbian.nsh
+374,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/SerbianLatin.nlf
+375,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/SimpChinese.nlf
+376,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Hungarian.nlf
+377,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/SimpChinese.nsh
+378,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Slovak.nlf
+379,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Slovak.nsh
+380,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Slovenian.nlf
+381,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Slovenian.nsh
+382,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Spanish.nlf
+383,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Spanish.nsh
+384,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/SpanishInternational.nlf
+385,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/SpanishInternational.nsh
+386,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Swedish.nlf
+387,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Swedish.nsh
+388,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Thai.nlf
+389,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Thai.nsh
+390,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/NorwegianNynorsk.nsh
+391,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/NorwegianNynorsk.nlf
+392,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Norwegian.nsh
+393,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Norwegian.nlf
+394,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Hungarian.nsh
+395,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Icelandic.nlf
+396,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Icelandic.nsh
+397,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Indonesian.nlf
+398,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Indonesian.nsh
+399,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Irish.nlf
+400,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Irish.nsh
+401,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Italian.nlf
+402,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Italian.nsh
+403,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Japanese.nlf
+404,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Japanese.nsh
+405,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Korean.nlf
+406,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Korean.nsh
+407,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Kurdish.nlf
+408,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Kurdish.nsh
+409,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Latvian.nlf
+410,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Latvian.nsh
+411,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Lithuanian.nlf
+412,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Lithuanian.nsh
+413,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Luxembourgish.nlf
+414,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Luxembourgish.nsh
+415,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Macedonian.nlf
+416,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Macedonian.nsh
+417,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Malay.nlf
+418,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Malay.nsh
+419,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Mongolian.nlf
+420,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Language files/Mongolian.nsh
+421,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/orange-install-nsis.ico
+422,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/nsis1-uninstall.ico
+423,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/nsis1-install.ico
+424,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/modern-uninstall.ico
+425,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/box-install.ico
+426,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Header/orange-nsis.bmp
+427,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Header/orange-r-nsis.bmp
+428,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Header/orange-r.bmp
+429,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Header/orange-uninstall-nsis.bmp
+430,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Header/orange-uninstall-r-nsis.bmp
+431,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Header/orange-uninstall-r.bmp
+432,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Header/orange-uninstall.bmp
+433,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Header/orange.bmp
+434,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Header/win.bmp
+435,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/arrow-install.ico
+436,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/arrow-uninstall.ico
+437,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/arrow2-install.ico
+438,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/arrow2-uninstall.ico
+439,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/box-uninstall.ico
+440,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/classic-install.ico
+441,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/classic-uninstall.ico
+442,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/llama-blue.ico
+443,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/llama-grey.ico
+444,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/modern-install-blue-full.ico
+445,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/modern-install-blue.ico
+446,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/modern-install-colorful.ico
+447,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/modern-install-full.ico
+448,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/modern-install.ico
+449,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/modern-uninstall-blue-full.ico
+450,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/modern-uninstall-blue.ico
+451,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/modern-uninstall-colorful.ico
+452,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Icons/modern-uninstall-full.ico
+453,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Header/nsis.bmp
+454,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Header/nsis-r.bmp
+455,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Checks/simple.bmp
+456,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Checks/simple-round2.bmp
+457,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Bin/GenPat.exe
+458,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Bin/LibraryLocal.exe
+459,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Bin/MakeLangId.exe
+460,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Bin/RegTool.bin
+461,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Bin/zip2exe.exe
+462,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/COPYING
+463,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Checks/big.bmp
+464,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Checks/classic-cross.bmp
+465,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Checks/classic.bmp
+466,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Checks/colorful.bmp
+467,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Checks/grey-cross.bmp
+468,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Checks/grey.bmp
+469,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Checks/modern.bmp
+470,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Checks/red-round.bmp
+471,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Checks/red.bmp
+472,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Contrib/Graphics/Checks/simple-round.bmp
+499,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/pascal/ctrlsender/CtrlSender.lpr
+500,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/pascal/ctrlsender/CtrlSender.res
+503,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/pascal/ctrlsender/CtrlSender.lpi
+504,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/pascal/ctrlsender/CtrlSender.ico
+509,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Plugins/AccessControl.dll
+510,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/wrapper/revisions.txt
+511,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Examples/System/Resource.dll
+512,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/nsExec/nsExec.txt
+513,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/StrFunc/StrFunc.txt
+514,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/StartMenu/Readme.txt
+515,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/assembly/assembly-linux-arm64.xml
+516,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/lib/README.txt
+517,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/osx/Info.plist-template.xml
+518,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/AdvSplash/advsplash.txt
+519,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/Banner/Readme.txt
+520,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/BgImage/BgImage.txt
+521,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/Dialer/Dialer.txt
+522,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/InstallOptions/Changelog.txt
+523,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/Math/Math.txt
+524,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/Modern UI 2/License.txt
+525,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/Modern UI/Changelog.txt
+526,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/NSISdl/License.txt
+527,/home/runner/work/UniversalMediaServer/UniversalMediaServer/src/main/external-resources/third-party/nsis/Docs/Splash/splash.txt
