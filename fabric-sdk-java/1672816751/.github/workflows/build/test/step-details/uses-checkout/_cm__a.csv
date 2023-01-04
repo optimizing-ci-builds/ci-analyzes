@@ -1,5 +1,4 @@
 ,file_name
-2671,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/sdkintegration/gocc/sample_mv/src/github.com/example_cc/vendor/golang.org/x/net/AUTHORS
-2672,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/sdkintegration/gocc/sample_mv/src/github.com/example_cc/vendor/github.com/hyperledger/fabric-protos-go/common/collection.pb.go
-2673,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/sdkintegration/e2e-2Orgs/v1.2/crypto-config/peerOrganizations/org1.example.com/peers/peer1.org1.example.com/msp/admincerts/Admin@org1.example.com-cert.pem
-2675,/home/runner/work/fabric-sdk-java/fabric-sdk-java/scripts/changelog.sh
+1352,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/sdkintegration/nodecc/sample_11/chaincode.js
+1353,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/sdkintegration/gocc/sample_mv/src/github.com/example_cc/example_cc_mv.go
+1355,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/sdkintegration/e2e-2Orgs/v1.2/crypto-config/peerOrganizations/org1.example.com/peers/peer1.org1.example.com/msp/admincerts/Admin@org1.example.com-cert.pem
