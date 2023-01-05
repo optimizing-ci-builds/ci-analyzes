@@ -1,0 +1,1666 @@
+
+└──  home 1
+    └──  runner 1
+        └──  work 1
+            └──  neo4j-apoc-procedures 1
+                └──  neo4j-apoc-procedures 13
+                    ├──  .gradle 3
+                    │   ├──  6.1.1 5
+                    │   │   ├──  fileHashes 2
+                    │   │   │   ├──  fileHashes.lock 0
+                    │   │   │   └──  fileHashes.bin 0
+                    │   │   ├──  javaCompile 4
+                    │   │   │   ├──  javaCompile.lock 0
+                    │   │   │   ├──  classAnalysis.bin 0
+                    │   │   │   ├──  taskHistory.bin 0
+                    │   │   │   └──  jarAnalysis.bin 0
+                    │   │   ├──  executionHistory 2
+                    │   │   │   ├──  executionHistory.lock 0
+                    │   │   │   └──  executionHistory.bin 0
+                    │   │   ├──  fileContent 2
+                    │   │   │   ├──  fileContent.lock 0
+                    │   │   │   └──  annotation-processors.bin 0
+                    │   │   └──  fileChanges 1
+                    │   │       └──  last-build.bin 0
+                    │   ├──  buildOutputCleanup 1
+                    │   │   └──  buildOutputCleanup.lock 0
+                    │   └──  checksums 1
+                    │       └──  checksums.lock 0
+                    ├──  full 4
+                    │   ├──  derbyDB 5
+                    │   │   ├──  log 4
+                    │   │   │   ├──  log1.dat 0
+                    │   │   │   ├──  log.ctrl 0
+                    │   │   │   ├──  logmirror.ctrl 0
+                    │   │   │   └──  README_DO_NOT_TOUCH_FILES.txt 0
+                    │   │   ├──  db.lck 0
+                    │   │   ├──  seg0 83
+                    │   │   │   ├──  c20.dat 0
+                    │   │   │   ├──  c90.dat 0
+                    │   │   │   ├──  c60.dat 0
+                    │   │   │   ├──  ca1.dat 0
+                    │   │   │   ├──  c51.dat 0
+                    │   │   │   ├──  c41.dat 0
+                    │   │   │   ├──  c31.dat 0
+                    │   │   │   ├──  c81.dat 0
+                    │   │   │   ├──  cb1.dat 0
+                    │   │   │   ├──  c71.dat 0
+                    │   │   │   ├──  c230.dat 0
+                    │   │   │   ├──  c5f0.dat 0
+                    │   │   │   ├──  c251.dat 0
+                    │   │   │   ├──  ce1.dat 0
+                    │   │   │   ├──  c1a1.dat 0
+                    │   │   │   ├──  c1b1.dat 0
+                    │   │   │   ├──  c5d0.dat 0
+                    │   │   │   ├──  c481.dat 0
+                    │   │   │   ├──  c451.dat 0
+                    │   │   │   ├──  c470.dat 0
+                    │   │   │   ├──  c430.dat 0
+                    │   │   │   ├──  c421.dat 0
+                    │   │   │   ├──  c441.dat 0
+                    │   │   │   ├──  c461.dat 0
+                    │   │   │   ├──  c400.dat 0
+                    │   │   │   ├──  c2b1.dat 0
+                    │   │   │   ├──  c411.dat 0
+                    │   │   │   ├──  c2a1.dat 0
+                    │   │   │   ├──  c281.dat 0
+                    │   │   │   ├──  c271.dat 0
+                    │   │   │   ├──  c391.dat 0
+                    │   │   │   ├──  c331.dat 0
+                    │   │   │   ├──  c101.dat 0
+                    │   │   │   ├──  c111.dat 0
+                    │   │   │   ├──  c300.dat 0
+                    │   │   │   ├──  c380.dat 0
+                    │   │   │   ├──  c3a1.dat 0
+                    │   │   │   ├──  c311.dat 0
+                    │   │   │   ├──  c371.dat 0
+                    │   │   │   ├──  c321.dat 0
+                    │   │   │   ├──  c361.dat 0
+                    │   │   │   ├──  c3b1.dat 0
+                    │   │   │   ├──  c2f0.dat 0
+                    │   │   │   ├──  c351.dat 0
+                    │   │   │   ├──  c3c0.dat 0
+                    │   │   │   ├──  c3d1.dat 0
+                    │   │   │   ├──  c3e1.dat 0
+                    │   │   │   ├──  c340.dat 0
+                    │   │   │   ├──  c3f1.dat 0
+                    │   │   │   ├──  c130.dat 0
+                    │   │   │   ├──  c141.dat 0
+                    │   │   │   ├──  c241.dat 0
+                    │   │   │   ├──  c161.dat 0
+                    │   │   │   ├──  c221.dat 0
+                    │   │   │   ├──  c211.dat 0
+                    │   │   │   ├──  c200.dat 0
+                    │   │   │   ├──  c1f1.dat 0
+                    │   │   │   ├──  c260.dat 0
+                    │   │   │   ├──  c1d1.dat 0
+                    │   │   │   ├──  c1c0.dat 0
+                    │   │   │   ├──  c1e0.dat 0
+                    │   │   │   ├──  README_DO_NOT_TOUCH_FILES.txt 0
+                    │   │   │   ├──  d500.dat 0
+                    │   │   │   ├──  d510.dat 0
+                    │   │   │   ├──  d520.dat 0
+                    │   │   │   ├──  d530.dat 0
+                    │   │   │   ├──  d4f0.dat 0
+                    │   │   │   ├──  d4e0.dat 0
+                    │   │   │   ├──  d4c0.dat 0
+                    │   │   │   ├──  d4b0.dat 0
+                    │   │   │   ├──  d4d0.dat 0
+                    │   │   │   ├──  d540.dat 0
+                    │   │   │   ├──  d560.dat 0
+                    │   │   │   ├──  d590.dat 0
+                    │   │   │   ├──  d5b0.dat 0
+                    │   │   │   ├──  d5c0.dat 0
+                    │   │   │   ├──  d5a0.dat 0
+                    │   │   │   ├──  d570.dat 0
+                    │   │   │   ├──  d580.dat 0
+                    │   │   │   ├──  d550.dat 0
+                    │   │   │   ├──  d4a0.dat 0
+                    │   │   │   ├──  d490.dat 0
+                    │   │   │   └──  d5e0.dat 0
+                    │   │   ├──  dbex.lck 0
+                    │   │   └──  README_DO_NOT_TOUCH_FILES.txt 0
+                    │   ├──  hadoop 1
+                    │   │   └──  hdfs 3
+                    │   │       ├──  name-0-2 2
+                    │   │       │   ├──  current 4
+                    │   │       │   │   ├──  fsimage_0000000000000000000.md5.tmp 0
+                    │   │       │   │   ├──  edits_inprogress_0000000000000000001 0
+                    │   │       │   │   ├──  fsimage.ckpt_0000000000000000000 0
+                    │   │       │   │   └──  seen_txid.tmp 0
+                    │   │       │   └──  in_use.lock 0
+                    │   │       ├──  name-0-1 2
+                    │   │       │   ├──  current 4
+                    │   │       │   │   ├──  edits_inprogress_0000000000000000001 0
+                    │   │       │   │   ├──  fsimage.ckpt_0000000000000000000 0
+                    │   │       │   │   ├──  seen_txid.tmp 0
+                    │   │       │   │   └──  fsimage_0000000000000000000.md5.tmp 0
+                    │   │       │   └──  in_use.lock 0
+                    │   │       └──  data 2
+                    │   │           ├──  data1 2
+                    │   │           │   ├──  current 3
+                    │   │           │   │   ├──  VERSION 0
+                    │   │           │   │   ├──  BP-1226816466-10.1.0.154-1672946836354 2
+                    │   │           │   │   │   ├──  scanner.cursor.tmp 0
+                    │   │           │   │   │   └──  current 4
+                    │   │           │   │   │       ├──  VERSION 0
+                    │   │           │   │   │       ├──  dfsUsed 0
+                    │   │           │   │   │       ├──  replicas.tmp 0
+                    │   │           │   │   │       └──  rbw 2
+                    │   │           │   │   │           ├──  blk_1073741825_1001.meta 0
+                    │   │           │   │   │           └──  blk_1073741825 0
+                    │   │           │   │   └──  BP-1133780854-10.1.0.154-1672946740417 2
+                    │   │           │   │       ├──  current 4
+                    │   │           │   │       │   ├──  VERSION 0
+                    │   │           │   │       │   ├──  rbw 2
+                    │   │           │   │       │   │   ├──  blk_1073741825_1001.meta 0
+                    │   │           │   │       │   │   └──  blk_1073741825 0
+                    │   │           │   │       │   ├──  dfsUsed 0
+                    │   │           │   │       │   └──  replicas.tmp 0
+                    │   │           │   │       └──  scanner.cursor.tmp 0
+                    │   │           │   └──  in_use.lock 0
+                    │   │           └──  data2 2
+                    │   │               ├──  current 2
+                    │   │               │   ├──  VERSION 0
+                    │   │               │   └──  BP-1226816466-10.1.0.154-1672946836354 2
+                    │   │               │       ├──  current 2
+                    │   │               │       │   ├──  VERSION 0
+                    │   │               │       │   └──  dfsUsed 0
+                    │   │               │       └──  scanner.cursor.tmp 0
+                    │   │               └──  in_use.lock 0
+                    │   ├──  derby.log 0
+                    │   └──  build 1
+                    │       └──  kotlin 2
+                    │           ├──  compileTestKotlin 4
+                    │           │   ├──  caches-jvm 3
+                    │           │   │   ├──  lookups 24
+                    │           │   │   │   ├──  lookups.tab 0
+                    │           │   │   │   ├──  lookups.tab.keystream 0
+                    │           │   │   │   ├──  file-to-id.tab_i 0
+                    │           │   │   │   ├──  id-to-file.tab 0
+                    │           │   │   │   ├──  id-to-file.tab_i 0
+                    │           │   │   │   ├──  file-to-id.tab 0
+                    │           │   │   │   ├──  file-to-id.tab.keystream 0
+                    │           │   │   │   ├──  lookups.tab_i 0
+                    │           │   │   │   ├──  counters.tab 0
+                    │           │   │   │   ├──  id-to-file.tab.keystream 0
+                    │           │   │   │   ├──  id-to-file.tab_i.len 0
+                    │           │   │   │   ├──  id-to-file.tab.len 0
+                    │           │   │   │   ├──  file-to-id.tab.values.at 0
+                    │           │   │   │   ├──  file-to-id.tab.keystream.len 0
+                    │           │   │   │   ├──  file-to-id.tab_i.len 0
+                    │           │   │   │   ├──  file-to-id.tab.len 0
+                    │           │   │   │   ├──  lookups.tab.values 0
+                    │           │   │   │   ├──  lookups.tab.values.s 0
+                    │           │   │   │   ├──  lookups.tab.values.at 0
+                    │           │   │   │   ├──  lookups.tab.keystream.len 0
+                    │           │   │   │   ├──  lookups.tab_i.len 0
+                    │           │   │   │   ├──  lookups.tab.len 0
+                    │           │   │   │   ├──  id-to-file.tab.values.at 0
+                    │           │   │   │   └──  id-to-file.tab.keystream.len 0
+                    │           │   │   ├──  jvm 1
+                    │           │   │   │   └──  kotlin 56
+                    │           │   │   │       ├──  internal-name-to-source.tab 0
+                    │           │   │   │       ├──  internal-name-to-source.tab_i 0
+                    │           │   │   │       ├──  class-attributes.tab 0
+                    │           │   │   │       ├──  class-attributes.tab_i 0
+                    │           │   │   │       ├──  source-to-classes.tab 0
+                    │           │   │   │       ├──  subtypes.tab 0
+                    │           │   │   │       ├──  class-fq-name-to-source.tab_i 0
+                    │           │   │   │       ├──  class-fq-name-to-source.tab 0
+                    │           │   │   │       ├──  supertypes.tab_i 0
+                    │           │   │   │       ├──  supertypes.tab 0
+                    │           │   │   │       ├──  proto.tab 0
+                    │           │   │   │       ├──  supertypes.tab.keystream 0
+                    │           │   │   │       ├──  source-to-classes.tab_i 0
+                    │           │   │   │       ├──  class-fq-name-to-source.tab.keystream 0
+                    │           │   │   │       ├──  subtypes.tab.keystream 0
+                    │           │   │   │       ├──  subtypes.tab_i 0
+                    │           │   │   │       ├──  class-attributes.tab.keystream 0
+                    │           │   │   │       ├──  constants.tab.keystream 0
+                    │           │   │   │       ├──  constants.tab_i 0
+                    │           │   │   │       ├──  proto.tab_i 0
+                    │           │   │   │       ├──  constants.tab 0
+                    │           │   │   │       ├──  internal-name-to-source.tab.keystream 0
+                    │           │   │   │       ├──  source-to-classes.tab.keystream 0
+                    │           │   │   │       ├──  proto.tab.keystream 0
+                    │           │   │   │       ├──  class-attributes.tab_i.len 0
+                    │           │   │   │       ├──  class-attributes.tab.values.at 0
+                    │           │   │   │       ├──  class-attributes.tab.keystream.len 0
+                    │           │   │   │       ├──  class-attributes.tab.len 0
+                    │           │   │   │       ├──  subtypes.tab.values.at 0
+                    │           │   │   │       ├──  subtypes.tab.keystream.len 0
+                    │           │   │   │       ├──  subtypes.tab_i.len 0
+                    │           │   │   │       ├──  subtypes.tab.len 0
+                    │           │   │   │       ├──  supertypes.tab.values.at 0
+                    │           │   │   │       ├──  supertypes.tab.keystream.len 0
+                    │           │   │   │       ├──  supertypes.tab_i.len 0
+                    │           │   │   │       ├──  supertypes.tab.len 0
+                    │           │   │   │       ├──  class-fq-name-to-source.tab.values.at 0
+                    │           │   │   │       ├──  class-fq-name-to-source.tab.keystream.len 0
+                    │           │   │   │       ├──  class-fq-name-to-source.tab_i.len 0
+                    │           │   │   │       ├──  class-fq-name-to-source.tab.len 0
+                    │           │   │   │       ├──  source-to-classes.tab.values.at 0
+                    │           │   │   │       ├──  source-to-classes.tab.keystream.len 0
+                    │           │   │   │       ├──  source-to-classes.tab.len 0
+                    │           │   │   │       ├──  source-to-classes.tab_i.len 0
+                    │           │   │   │       ├──  proto.tab.values.at 0
+                    │           │   │   │       ├──  proto.tab.keystream.len 0
+                    │           │   │   │       ├──  proto.tab_i.len 0
+                    │           │   │   │       ├──  proto.tab.len 0
+                    │           │   │   │       ├──  constants.tab.values.at 0
+                    │           │   │   │       ├──  constants.tab.keystream.len 0
+                    │           │   │   │       ├──  constants.tab_i.len 0
+                    │           │   │   │       ├──  constants.tab.len 0
+                    │           │   │   │       ├──  internal-name-to-source.tab.values.at 0
+                    │           │   │   │       ├──  internal-name-to-source.tab.keystream.len 0
+                    │           │   │   │       ├──  internal-name-to-source.tab_i.len 0
+                    │           │   │   │       └──  internal-name-to-source.tab.len 0
+                    │           │   │   └──  inputs 7
+                    │           │   │       ├──  source-to-output.tab_i 0
+                    │           │   │       ├──  source-to-output.tab 0
+                    │           │   │       ├──  source-to-output.tab.keystream 0
+                    │           │   │       ├──  source-to-output.tab.len 0
+                    │           │   │       ├──  source-to-output.tab_i.len 0
+                    │           │   │       ├──  source-to-output.tab.values.at 0
+                    │           │   │       └──  source-to-output.tab.keystream.len 0
+                    │           │   ├──  last-build.bin 0
+                    │           │   ├──  dirty-sources.txt 0
+                    │           │   └──  build-history.bin 0
+                    │           └──  compileKotlin 4
+                    │               ├──  caches-jvm 3
+                    │               │   ├──  lookups 24
+                    │               │   │   ├──  lookups.tab.keystream 0
+                    │               │   │   ├──  lookups.tab 0
+                    │               │   │   ├──  file-to-id.tab 0
+                    │               │   │   ├──  file-to-id.tab_i 0
+                    │               │   │   ├──  id-to-file.tab 0
+                    │               │   │   ├──  id-to-file.tab_i 0
+                    │               │   │   ├──  counters.tab 0
+                    │               │   │   ├──  id-to-file.tab.keystream 0
+                    │               │   │   ├──  file-to-id.tab.keystream 0
+                    │               │   │   ├──  lookups.tab_i 0
+                    │               │   │   ├──  file-to-id.tab.len 0
+                    │               │   │   ├──  lookups.tab.values.s 0
+                    │               │   │   ├──  lookups.tab.values.at 0
+                    │               │   │   ├──  lookups.tab.keystream.len 0
+                    │               │   │   ├──  lookups.tab_i.len 0
+                    │               │   │   ├──  lookups.tab.len 0
+                    │               │   │   ├──  lookups.tab.values 0
+                    │               │   │   ├──  file-to-id.tab_i.len 0
+                    │               │   │   ├──  file-to-id.tab.keystream.len 0
+                    │               │   │   ├──  id-to-file.tab.values.at 0
+                    │               │   │   ├──  id-to-file.tab.keystream.len 0
+                    │               │   │   ├──  id-to-file.tab_i.len 0
+                    │               │   │   ├──  id-to-file.tab.len 0
+                    │               │   │   └──  file-to-id.tab.values.at 0
+                    │               │   ├──  jvm 1
+                    │               │   │   └──  kotlin 56
+                    │               │   │       ├──  proto.tab.keystream 0
+                    │               │   │       ├──  constants.tab.keystream 0
+                    │               │   │       ├──  internal-name-to-source.tab.keystream 0
+                    │               │   │       ├──  class-fq-name-to-source.tab.keystream 0
+                    │               │   │       ├──  source-to-classes.tab_i 0
+                    │               │   │       ├──  source-to-classes.tab.keystream 0
+                    │               │   │       ├──  class-fq-name-to-source.tab 0
+                    │               │   │       ├──  class-fq-name-to-source.tab_i 0
+                    │               │   │       ├──  class-attributes.tab 0
+                    │               │   │       ├──  class-attributes.tab_i 0
+                    │               │   │       ├──  proto.tab 0
+                    │               │   │       ├──  proto.tab_i 0
+                    │               │   │       ├──  subtypes.tab 0
+                    │               │   │       ├──  supertypes.tab 0
+                    │               │   │       ├──  supertypes.tab_i 0
+                    │               │   │       ├──  constants.tab 0
+                    │               │   │       ├──  constants.tab_i 0
+                    │               │   │       ├──  internal-name-to-source.tab_i 0
+                    │               │   │       ├──  internal-name-to-source.tab 0
+                    │               │   │       ├──  class-attributes.tab.keystream 0
+                    │               │   │       ├──  subtypes.tab_i 0
+                    │               │   │       ├──  subtypes.tab.keystream 0
+                    │               │   │       ├──  supertypes.tab.keystream 0
+                    │               │   │       ├──  internal-name-to-source.tab.keystream.len 0
+                    │               │   │       ├──  internal-name-to-source.tab_i.len 0
+                    │               │   │       ├──  internal-name-to-source.tab.len 0
+                    │               │   │       ├──  constants.tab.len 0
+                    │               │   │       ├──  internal-name-to-source.tab.values.at 0
+                    │               │   │       ├──  constants.tab_i.len 0
+                    │               │   │       ├──  supertypes.tab.keystream.len 0
+                    │               │   │       ├──  class-attributes.tab.values.at 0
+                    │               │   │       ├──  class-attributes.tab.keystream.len 0
+                    │               │   │       ├──  class-attributes.tab_i.len 0
+                    │               │   │       ├──  class-attributes.tab.len 0
+                    │               │   │       ├──  subtypes.tab.values.at 0
+                    │               │   │       ├──  subtypes.tab.keystream.len 0
+                    │               │   │       ├──  subtypes.tab_i.len 0
+                    │               │   │       ├──  subtypes.tab.len 0
+                    │               │   │       ├──  supertypes.tab.values.at 0
+                    │               │   │       ├──  supertypes.tab_i.len 0
+                    │               │   │       ├──  constants.tab.keystream.len 0
+                    │               │   │       ├──  supertypes.tab.len 0
+                    │               │   │       ├──  class-fq-name-to-source.tab.values.at 0
+                    │               │   │       ├──  class-fq-name-to-source.tab.keystream.len 0
+                    │               │   │       ├──  class-fq-name-to-source.tab_i.len 0
+                    │               │   │       ├──  class-fq-name-to-source.tab.len 0
+                    │               │   │       ├──  source-to-classes.tab.values.at 0
+                    │               │   │       ├──  source-to-classes.tab.keystream.len 0
+                    │               │   │       ├──  source-to-classes.tab_i.len 0
+                    │               │   │       ├──  source-to-classes.tab.len 0
+                    │               │   │       ├──  proto.tab.values.at 0
+                    │               │   │       ├──  proto.tab.keystream.len 0
+                    │               │   │       ├──  proto.tab_i.len 0
+                    │               │   │       ├──  proto.tab.len 0
+                    │               │   │       ├──  constants.tab.values.at 0
+                    │               │   │       └──  source-to-classes.tab 0
+                    │               │   └──  inputs 7
+                    │               │       ├──  source-to-output.tab 0
+                    │               │       ├──  source-to-output.tab_i 0
+                    │               │       ├──  source-to-output.tab.keystream 0
+                    │               │       ├──  source-to-output.tab.values.at 0
+                    │               │       ├──  source-to-output.tab.keystream.len 0
+                    │               │       ├──  source-to-output.tab_i.len 0
+                    │               │       └──  source-to-output.tab.len 0
+                    │               ├──  last-build.bin 0
+                    │               ├──  build-history.bin 0
+                    │               └──  dirty-sources.txt 0
+                    ├──  docs 5
+                    │   ├──  asciidoc 9
+                    │   │   ├──  modules 1
+                    │   │   │   └──  ROOT 4
+                    │   │   │       ├──  images 209
+                    │   │   │       │   ├──  apoc-gephi.gif 0
+                    │   │   │       │   ├──  apoc.dv.jdbc-queryAndLink.png 0
+                    │   │   │       │   ├──  apoc.load.json-so-result.png 0
+                    │   │   │       │   ├──  import_yed.png 0
+                    │   │   │       │   ├──  apoc.model.jdbc.png 0
+                    │   │   │       │   ├──  apoc.load.json.so.png 0
+                    │   │   │       │   ├──  apoc.dv.imported-graph-from-RDB.png 0
+                    │   │   │       │   ├──  desktop-apoc.jpg 0
+                    │   │   │       │   ├──  apoc.graph.fromDocument_with_mappings.png 0
+                    │   │   │       │   ├──  apoc-load-jdbc.jpg 0
+                    │   │   │       │   ├──  apoc.periodic.commit.friends.jpg 0
+                    │   │   │       │   ├──  apoc.graph.fromDocument_with_label_type_and_id_field.png 0
+                    │   │   │       │   ├──  apoc.refactor.cloneNodesWithRelationships.png 0
+                    │   │   │       │   ├──  apoc.load.jdbc.cassandra.png 0
+                    │   │   │       │   ├──  apoc.meta.data-graph.jpg 0
+                    │   │   │       │   ├──  apoc.refactor.cloneNodesWithRelationships.dataset.png 0
+                    │   │   │       │   ├──  apoc.meta.stats.png 0
+                    │   │   │       │   ├──  apoc.graph.fromDocument_with_label_type.png 0
+                    │   │   │       │   ├──  apoc-help.jpg 0
+                    │   │   │       │   ├──  apoc.dv.csv-query-integrated.png 0
+                    │   │   │       │   ├──  apoc.monitor.png 0
+                    │   │   │       │   ├──  apoc.dv.jdbc-query.png 0
+                    │   │   │       │   ├──  apoc.cypher.runMany.png 0
+                    │   │   │       │   ├──  apoc.dv.csv-queryAndLink.png 0
+                    │   │   │       │   ├──  apoc-meta-data-northwind-filter.jpg 0
+                    │   │   │       │   ├──  apoc.dv.csv-query.png 0
+                    │   │   │       │   ├──  import_gephi.png 0
+                    │   │   │       │   ├──  apoc.bolt.execute.createwithparams.PNG 0
+                    │   │   │       │   ├──  apoc.bolt.load.returnvirtualpath.PNG 0
+                    │   │   │       │   ├──  apoc.create.vRelationship_func.png 0
+                    │   │   │       │   ├──  apoc.load.jdbc.neo4j.png 0
+                    │   │   │       │   ├──  apoc.bolt.execute.nodemap.PNG 0
+                    │   │   │       │   ├──  apoc.dv.high-level.png 0
+                    │   │   │       │   ├──  apoc.bolt.execute.createandstatistics.PNG 0
+                    │   │   │       │   ├──  apoc.refactor.mergeNodes.resultFirstExample.png 0
+                    │   │   │       │   ├──  apoc.bolt.load.relmap.PNG 0
+                    │   │   │       │   ├──  apoc.systemdb.graph.png 0
+                    │   │   │       │   ├──  apoc.refactor.cloneNodes.png 0
+                    │   │   │       │   ├──  apoc.nodes.group.jpg 0
+                    │   │   │       │   ├──  apoc.mongodb.first.png 0
+                    │   │   │       │   ├──  all_cycles.png 0
+                    │   │   │       │   ├──  apoc.refactor.mergeNodes.resultSecondExample.png 0
+                    │   │   │       │   ├──  apoc.refactor.mergeNodes.createDataSetFirstExample.png 0
+                    │   │   │       │   ├──  apoc.graph.validateDocument.png 0
+                    │   │   │       │   ├──  apoc.load.htmlconfig.png 0
+                    │   │   │       │   ├──  apoc.create.vRelationship_proc.png 0
+                    │   │   │       │   ├──  rel_types_cycles.png 0
+                    │   │   │       │   ├──  apoc.refactor.mergeNodes.createDataSetSecondExample.png 0
+                    │   │   │       │   ├──  apoc-help-apoc.jpg 0
+                    │   │   │       │   ├──  apoc.bolt.execute.scalarmulti.PNG 0
+                    │   │   │       │   ├──  user-country-gender.jpg 0
+                    │   │   │       │   ├──  apoc.refactor.cloneNodes.dataset.png 0
+                    │   │   │       │   ├──  apoc.create.virtualPath.png 0
+                    │   │   │       │   ├──  apoc.meta.graph.example.png 0
+                    │   │   │       │   ├──  apoc.load.htmlall.png 0
+                    │   │   │       │   ├──  apoc.schema.nodes.png 0
+                    │   │   │       │   ├──  apoc-jdbc-northwind-load.jpg 0
+                    │   │   │       │   ├──  apoc.dv.rdb-schema-diagram.png 0
+                    │   │   │       │   ├──  apoc.meta.graph.of.png 0
+                    │   │   │       │   ├──  apoc.bolt.load.virtualnode.PNG 0
+                    │   │   │       │   ├──  apoc.load.htmllinks.png 0
+                    │   │   │       │   ├──  apoc.trigger.pause.png 0
+                    │   │   │       │   ├──  export-cypher-plain-editor.png 0
+                    │   │   │       │   ├──  dbms.functions.jpg 0
+                    │   │   │       │   ├──  apoc.generate.complete.png 0
+                    │   │   │       │   ├──  apoc.dbms.procedure.count.jpg 0
+                    │   │   │       │   ├──  apoc.es.get.png 0
+                    │   │   │       │   ├──  azure-quickstart.png 0
+                    │   │   │       │   ├──  apoc.trigger.resume.png 0
+                    │   │   │       │   ├──  apoc.refactor.mergeNodes.resultSecondExampleData.png 0
+                    │   │   │       │   ├──  apoc.refactor.cloneSubgraph-tree-example-after.png 0
+                    │   │   │       │   ├──  apoc.meta.graph.jpg 0
+                    │   │   │       │   ├──  apoc.trigger.add.setAllConnectedNodes.dataset.png 0
+                    │   │   │       │   ├──  grouping-country-all.jpg 0
+                    │   │   │       │   ├──  apoc.schema.relationships.png 0
+                    │   │   │       │   ├──  apoc.generate.ba.png 0
+                    │   │   │       │   ├──  apoc.import.xml.svg 0
+                    │   │   │       │   ├──  apoc.trigger.add.setLabels.png 0
+                    │   │   │       │   ├──  apoc.trigger.add.create-rel-new-node.png 0
+                    │   │   │       │   ├──  apoc.refactor.cloneSubgraph-tree-example.png 0
+                    │   │   │       │   ├──  load.xls.jpg 0
+                    │   │   │       │   ├──  dataset_cycle.png 0
+                    │   │   │       │   ├──  apoc.refactor.cloneSubgraphFromPaths-after.png 0
+                    │   │   │       │   ├──  cycles_max_depth_1.png 0
+                    │   │   │       │   ├──  apoc.load.xml.xpath.png 0
+                    │   │   │       │   ├──  apoc.create.vRelationship.png 0
+                    │   │   │       │   ├──  apoc.create.vRelationshipTwo.png 0
+                    │   │   │       │   ├──  apoc-manual-indexes-nodes.png 0
+                    │   │   │       │   ├──  apoc.trigger.add.setAllConnectedNodes.png 0
+                    │   │   │       │   ├──  apoc.index.nodes-with-score.jpg 0
+                    │   │   │       │   ├──  apoc.graph.png 0
+                    │   │   │       │   ├──  apoc.schema.relationship.constraintExists.png 0
+                    │   │   │       │   ├──  apoc.generate.ws.png 0
+                    │   │   │       │   ├──  apoc.schema.node.indexExists.png 0
+                    │   │   │       │   ├──  apoc.schema.node.constraintExists.png 0
+                    │   │   │       │   ├──  apoc.refactor.cloneSubgraph-after.png 0
+                    │   │   │       │   ├──  apoc-load-json-so.svg 0
+                    │   │   │       │   ├──  apoc.import.graphml.simple.png 0
+                    │   │   │       │   ├──  apoc.graph.fromDocument_with_relMapping.png 0
+                    │   │   │       │   ├──  apoc.graph.fromDocument_1.png 0
+                    │   │   │       │   ├──  apoc.generate.er.png 0
+                    │   │   │       │   ├──  apoc.create.vPatternLabels.png 0
+                    │   │   │       │   ├──  apoc.refactor.cloneSubgraph-before.png 0
+                    │   │   │       │   ├──  apoc.refactor.invert.png 0
+                    │   │   │       │   ├──  apoc.refactor.invert.dataset.png 0
+                    │   │   │       │   ├──  apoc.nodes.collapse_3.png 0
+                    │   │   │       │   ├──  apoc.nodes.collapse_1.png 0
+                    │   │   │       │   ├──  apoc.load.xmlSimple.ex1.png 0
+                    │   │   │       │   ├──  apoc.load.xml.xpath2.png 0
+                    │   │   │       │   ├──  apoc.load.xls_3.png 0
+                    │   │   │       │   ├──  apoc.load.xls_2.png 0
+                    │   │   │       │   ├──  apoc.load.xls_1.png 0
+                    │   │   │       │   ├──  apoc.refactor.categorize.png 0
+                    │   │   │       │   ├──  apoc.systemdb.graph.svg 0
+                    │   │   │       │   ├──  apoc.trigger.add.setLabelsResult.png 0
+                    │   │   │       │   ├──  apoc.uuid.result.png 0
+                    │   │   │       │   ├──  azure-quickstart-2.png 0
+                    │   │   │       │   ├──  grouping-country-filter.jpg 0
+                    │   │   │       │   ├──  play-movies.png 0
+                    │   │   │       │   ├──  apoc.index.between.count.png 0
+                    │   │   │       │   ├──  apoc.load.xml.all.books.svg 0
+                    │   │   │       │   ├──  apoc.load.xmlSimple.ex2.png 0
+                    │   │   │       │   ├──  apoc.nlp.gcp.entities-multiple.graph.svg 0
+                    │   │   │       │   ├──  apoc.nodes.collapse_2.png 0
+                    │   │   │       │   ├──  apoc.nodes.collapse_4.png 0
+                    │   │   │       │   ├──  apoc.gif 0
+                    │   │   │       │   ├──  apoc-manual-indexes-relationship.png 0
+                    │   │   │       │   ├──  apoc.atomic.add.png 0
+                    │   │   │       │   ├──  apoc.atomic.insert.result.png 0
+                    │   │   │       │   ├──  apoc.atomic.remove.png 0
+                    │   │   │       │   ├──  apoc.atomic.update.png 0
+                    │   │   │       │   ├──  apoc.categorize.png 0
+                    │   │   │       │   ├──  apoc.create.vRelationshipAndvNode.png 0
+                    │   │   │       │   ├──  apoc.refactor.setType.dataset.png 0
+                    │   │   │       │   ├──  apoc.refactor.normalizeAsBoolean.dataset.png 0
+                    │   │   │       │   ├──  apoc.refactor.mergeNodes.png 0
+                    │   │   │       │   ├──  apoc.refactor.extractNode.dataset.png 0
+                    │   │   │       │   ├──  apoc.refactor.categorize.dataset.png 0
+                    │   │   │       │   ├──  apoc.rename-initial.png 0
+                    │   │   │       │   ├──  apoc.rename-update-node-labels.png 0
+                    │   │   │       │   ├──  apoc.schema.assert.index.png 0
+                    │   │   │       │   ├──  apoc.rename-rename-rel-type.png 0
+                    │   │   │       │   ├──  apoc.refactor.collapseNode.png 0
+                    │   │   │       │   ├──  apoc.schema.assert.drop.png 0
+                    │   │   │       │   ├──  apoc.schema.assert.constraint.png 0
+                    │   │   │       │   ├──  apoc.refactor.to2.png 0
+                    │   │   │       │   ├──  apoc.refactor.to.png 0
+                    │   │   │       │   ├──  apoc.refactor.to.dataset.png 0
+                    │   │   │       │   ├──  apoc.refactor.setType2.png 0
+                    │   │   │       │   ├──  apoc.refactor.setType.png 0
+                    │   │   │       │   ├──  apoc.refactor.normalizeAsBoolean.png 0
+                    │   │   │       │   ├──  apoc.refactor.mergeNodes.dataset.png 0
+                    │   │   │       │   ├──  apoc.refactor.invert.call.png 0
+                    │   │   │       │   ├──  apoc.refactor.from.png 0
+                    │   │   │       │   ├──  apoc.refactor.from.dataset.png 0
+                    │   │   │       │   ├──  apoc.refactor.extractNode.png 0
+                    │   │   │       │   ├──  apoc.refactor.collapseNode.dataset.png 0
+                    │   │   │       │   ├──  apoc.refactor.categorize.usage.png 0
+                    │   │   │       │   ├──  apoc.path.spanningTree.joe-sequence.svg 0
+                    │   │   │       │   ├──  apoc.path.spanningTree.alicia-blacklist-joe.svg 0
+                    │   │   │       │   ├──  apoc.path.expandConfig.whitelist.svg 0
+                    │   │   │       │   ├──  apoc.path.expandConfig.svg 0
+                    │   │   │       │   ├──  apoc.path.expandConfig.blacklist.svg 0
+                    │   │   │       │   ├──  apoc.path.expandConfig.alicia.svg 0
+                    │   │   │       │   ├──  apoc.path.expandConfig.alicia.dfs.svg 0
+                    │   │   │       │   ├──  apoc.path.expandConfig.alicia.bfs.svg 0
+                    │   │   │       │   ├──  apoc.path.expand.svg 0
+                    │   │   │       │   ├──  apoc.nlp.gcp.entities.graph.svg 0
+                    │   │   │       │   ├──  apoc.nlp.gcp.entities-multiple.graph-cutoff.svg 0
+                    │   │   │       │   ├──  apoc.nlp.gcp.classify.graph.svg 0
+                    │   │   │       │   ├──  apoc.nlp.azure.entities-multiple.graph.svg 0
+                    │   │   │       │   ├──  apoc.nlp.azure.entities-multiple.graph-cutoff.svg 0
+                    │   │   │       │   ├──  apoc.nlp.aws.keyPhrases.graph.svg 0
+                    │   │   │       │   ├──  apoc.nlp.aws.entities.graph.svg 0
+                    │   │   │       │   ├──  apoc.path.spanningTree.alicia-whitelist.svg 0
+                    │   │   │       │   ├──  apoc.path.subgraphAll.alicia-blacklist-joe.svg 0
+                    │   │   │       │   ├──  apoc.nlp.aws.entities-multiple.graph-cutoff.svg 0
+                    │   │   │       │   ├──  apoc.path.subgraphAll.alicia-end.svg 0
+                    │   │   │       │   ├──  apoc.path.subtree.praveena.svg 0
+                    │   │   │       │   ├──  apoc.path.subtree.praveena-eng.svg 0
+                    │   │   │       │   ├──  apoc.path.subtree.alicia.svg 0
+                    │   │   │       │   ├──  apoc.path.subtree.alicia-terminator.svg 0
+                    │   │   │       │   ├──  apoc.path.subtree.alicia-eng.svg 0
+                    │   │   │       │   ├──  apoc.path.subtree.alicia-eng-end.svg 0
+                    │   │   │       │   ├──  apoc.path.subtree.alicia-end.svg 0
+                    │   │   │       │   ├──  apoc.path.subgraphAll.praveena.svg 0
+                    │   │   │       │   ├──  apoc.path.subgraphAll.praveena-engineering.svg 0
+                    │   │   │       │   ├──  apoc.path.subgraphAll.joe-sequence.svg 0
+                    │   │   │       │   ├──  apoc.path.subgraphAll.alicia.svg 0
+                    │   │   │       │   ├──  apoc.path.subgraphAll.alicia-whitelist.svg 0
+                    │   │   │       │   ├──  apoc.path.subgraphAll.alicia-terminator.svg 0
+                    │   │   │       │   ├──  apoc.path.subgraphAll.alicia-engineering.svg 0
+                    │   │   │       │   ├──  apoc.path.subgraphAll.alicia-engineering-end.svg 0
+                    │   │   │       │   ├──  apoc.nlp.aws.entities-multiple.graph.svg 0
+                    │   │   │       │   ├──  apoc.meta.subGraph-filter.png 0
+                    │   │   │       │   ├──  apoc.meta.graph.png 0
+                    │   │   │       │   ├──  apoc.load.xml.local.books.svg 0
+                    │   │   │       │   ├──  apoc.load.xls.png 0
+                    │   │   │       │   ├──  apoc.load.json.local.file.svg 0
+                    │   │   │       │   ├──  apoc.index.relationships.count.png 0
+                    │   │   │       │   ├──  apoc.index.out.count.png 0
+                    │   │   │       │   ├──  apoc.index.nodes.count.png 0
+                    │   │   │       │   ├──  apoc.index.in.count.png 0
+                    │   │   │       │   ├──  apoc.import.graphml.simple-diagram.png 0
+                    │   │   │       │   ├──  apoc.generate.simple.png 0
+                    │   │   │       │   ├──  apoc.bolt.load.scalarmulti.PNG 0
+                    │   │   │       │   ├──  apoc.atomic.subtract.png 0
+                    │   │   │       │   ├──  apoc.atomic.insert.png 0
+                    │   │   │       │   └──  apoc.atomic.concat.png 0
+                    │   │   │       ├──  examples 3
+                    │   │   │       │   ├──  generated-documentation 693
+                    │   │   │       │   │   ├──  documentation.csv 0
+                    │   │   │       │   │   ├──  apoc.nodes.cycles.adoc 0
+                    │   │   │       │   │   ├──  apoc.nodes.link.adoc 0
+                    │   │   │       │   │   ├──  apoc.schema-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.schema.node.constraintExists.adoc 0
+                    │   │   │       │   │   ├──  apoc.schema.node.indexExists.adoc 0
+                    │   │   │       │   │   ├──  apoc.schema.relationships-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.schema.relationship.csv 0
+                    │   │   │       │   │   ├──  apoc.schema.relationship.constraintExists.adoc 0
+                    │   │   │       │   │   ├──  apoc.trigger-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.trigger.add.adoc 0
+                    │   │   │       │   │   ├──  apoc.trigger.csv 0
+                    │   │   │       │   │   ├──  apoc.ttl.config.adoc 0
+                    │   │   │       │   │   ├──  apoc.schema.relationship-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.cypher.runManyReadOnly.adoc 0
+                    │   │   │       │   │   ├──  apoc.algo.aStarConfig.adoc 0
+                    │   │   │       │   │   ├──  apoc.cypher.csv 0
+                    │   │   │       │   │   ├──  apoc.algo-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.algo.csv 0
+                    │   │   │       │   │   ├──  apoc.cypher.parallel2.adoc 0
+                    │   │   │       │   │   ├──  apoc.cypher.parallel.adoc 0
+                    │   │   │       │   │   ├──  apoc.export.graphml.all-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.graphml.data-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.graphml.query-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.json-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.json.all-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.graphml-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.cypherQuery-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.cypher.graph-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.cypher.query-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.cypher.schema-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.cypherAll-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.cypherData-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.cypherGraph-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.json.data-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.json.graph-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.gephi-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.gephi.add-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.xls.query-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.xls.graph-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.xls.data-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.xls.all-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.xls-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.json.query-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.cypher.data-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.dv.catalog.list.adoc 0
+                    │   │   │       │   │   ├──  apoc.dv.catalog.remove.adoc 0
+                    │   │   │       │   │   ├──  apoc.dv.query.adoc 0
+                    │   │   │       │   │   ├──  apoc.dv.queryAndLink.adoc 0
+                    │   │   │       │   │   ├──  apoc.dv.catalog.add.adoc 0
+                    │   │   │       │   │   ├──  apoc.export.cypher.all-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.csv.data-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.csv.all-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.csv.graph-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.csv.query-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.cypher-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.csv-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.example.movies-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.example-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.convert.getJsonProperty.adoc 0
+                    │   │   │       │   │   ├──  apoc.convert.getJsonPropertyMap.adoc 0
+                    │   │   │       │   │   ├──  apoc.convert.fromJsonMap.adoc 0
+                    │   │   │       │   │   ├──  apoc.convert.fromJsonList.adoc 0
+                    │   │   │       │   │   ├──  apoc.convert.csv 0
+                    │   │   │       │   │   ├──  apoc.create-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.create.clonePathToVirtual.adoc 0
+                    │   │   │       │   │   ├──  apoc.create.clonePathsToVirtual.adoc 0
+                    │   │   │       │   │   ├──  apoc.create.csv 0
+                    │   │   │       │   │   ├──  apoc.any.csv 0
+                    │   │   │       │   │   ├──  apoc.any-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.create.uuidHexToBase64.adoc 0
+                    │   │   │       │   │   ├──  apoc.create.uuidBase64ToHex.adoc 0
+                    │   │   │       │   │   ├──  apoc.create.uuidBase64.adoc 0
+                    │   │   │       │   │   ├──  apoc.convert.toJson.adoc 0
+                    │   │   │       │   │   ├──  apoc.couchbase.prepend.adoc 0
+                    │   │   │       │   │   ├──  apoc.couchbase.append.adoc 0
+                    │   │   │       │   │   ├──  apoc.export.graphml.graph-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.math.round.adoc 0
+                    │   │   │       │   │   ├──  apoc.meta-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.merge.node.adoc 0
+                    │   │   │       │   │   ├──  apoc.merge.csv 0
+                    │   │   │       │   │   ├──  apoc.merge-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.meta.stats.adoc 0
+                    │   │   │       │   │   ├──  apoc.meta.nodes.count.adoc 0
+                    │   │   │       │   │   ├──  apoc.math.csv 0
+                    │   │   │       │   │   ├──  apoc.map.unflatten.adoc 0
+                    │   │   │       │   │   ├──  apoc.load.arrow-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.merge.relationshipWithStats-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.merge.nodeWithStats-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.load.csvParams.adoc 0
+                    │   │   │       │   │   ├──  apoc.load.csv.adoc 0
+                    │   │   │       │   │   ├──  apoc.load.csv 0
+                    │   │   │       │   │   ├──  apoc.load-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.json.path.adoc 0
+                    │   │   │       │   │   ├──  apoc.json.csv 0
+                    │   │   │       │   │   ├──  apoc.load.jsonParams.adoc 0
+                    │   │   │       │   │   ├──  apoc.load.json.adoc 0
+                    │   │   │       │   │   ├──  apoc.import.json.adoc 0
+                    │   │   │       │   │   ├──  apoc.graph.csv 0
+                    │   │   │       │   │   ├──  apoc.graph.fromPath.adoc 0
+                    │   │   │       │   │   ├──  apoc.import.json-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.import.graphml.adoc 0
+                    │   │   │       │   │   ├──  apoc.import.graphml-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.import.csv-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.import.csv 0
+                    │   │   │       │   │   ├──  apoc.import-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.arrow.stream.csv 0
+                    │   │   │       │   │   ├──  apoc.merge.nodeWithStats.csv 0
+                    │   │   │       │   │   ├──  apoc.merge.relationshipWithStats.csv 0
+                    │   │   │       │   │   ├──  apoc.load.arrow.csv 0
+                    │   │   │       │   │   ├──  apoc.export.arrow.csv 0
+                    │   │   │       │   │   ├──  apoc.systemdb.export.csv 0
+                    │   │   │       │   │   ├──  apoc.export.arrow.stream-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.arrow-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.systemdb.export-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.algo.aStarWithPoint.adoc 0
+                    │   │   │       │   │   ├──  apoc.export.arrow.all.adoc 0
+                    │   │   │       │   │   ├──  apoc.export.arrow.graph.adoc 0
+                    │   │   │       │   │   ├──  apoc.export.arrow.stream.all.adoc 0
+                    │   │   │       │   │   ├──  apoc.export.arrow.query.adoc 0
+                    │   │   │       │   │   ├──  apoc.export.arrow.stream.graph.adoc 0
+                    │   │   │       │   │   ├──  apoc.create.uuidBase64ToHex-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.create.uuidHexToBase64-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.math.cosh-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.math.coth-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.math.csch-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.math.sech-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.math.sigmoid-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.math.sigmoidPrime-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.math.sinh-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.math.tanh-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.schema.relationship.indexExists-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.trigger.toNode-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.trigger.toRelationship-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.any.isDeleted-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.create.uuidBase64-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.systemdb.export.metadata-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.arrow.stream.query.adoc 0
+                    │   │   │       │   │   ├──  apoc.math.sigmoidPrime.adoc 0
+                    │   │   │       │   │   ├──  apoc.load.arrow.adoc 0
+                    │   │   │       │   │   ├──  apoc.load.arrow.stream.adoc 0
+                    │   │   │       │   │   ├──  apoc.load.htmlPlainText.adoc 0
+                    │   │   │       │   │   ├──  apoc.merge.nodeWithStats.adoc 0
+                    │   │   │       │   │   ├──  apoc.merge.nodeWithStats.eager.adoc 0
+                    │   │   │       │   │   ├──  apoc.merge.relationshipWithStats.adoc 0
+                    │   │   │       │   │   ├──  apoc.merge.relationshipWithStats.eager.adoc 0
+                    │   │   │       │   │   ├──  apoc.systemdb.export.metadata.adoc 0
+                    │   │   │       │   │   ├──  apoc.any.isDeleted.adoc 0
+                    │   │   │       │   │   ├──  apoc.math.cosh.adoc 0
+                    │   │   │       │   │   ├──  apoc.math.coth.adoc 0
+                    │   │   │       │   │   ├──  apoc.math.csch.adoc 0
+                    │   │   │       │   │   ├──  apoc.math.sech.adoc 0
+                    │   │   │       │   │   ├──  apoc.math.sigmoid.adoc 0
+                    │   │   │       │   │   ├──  apoc.math.sinh.adoc 0
+                    │   │   │       │   │   ├──  apoc.merge.relationshipWithStats.eager-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.math.tanh.adoc 0
+                    │   │   │       │   │   ├──  apoc.schema.relationship.indexExists.adoc 0
+                    │   │   │       │   │   ├──  apoc.trigger.toNode.adoc 0
+                    │   │   │       │   │   ├──  apoc.trigger.toRelationship.adoc 0
+                    │   │   │       │   │   ├──  apoc.algo.aStarWithPoint-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.arrow.all-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.arrow.graph-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.arrow.query-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.arrow.stream.all-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.arrow.stream.graph-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.export.arrow.stream.query-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.load.arrow.stream-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.load.htmlPlainText-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.merge.nodeWithStats.eager-lite.csv 0
+                    │   │   │       │   │   ├──  apoc.mongodb.find.csv 0
+                    │   │   │       │   │   ├──  apoc.monitor.store.csv 0
+                    │   │   │       │   │   ├──  apoc.monitor.kernel.csv 0
+                    │   │   │       │   │   ├──  apoc.monitor.ids.csv 0
+                    │   │   │       │   │   ├──  apoc.mongodb.update.csv 0
+                    │   │   │       │   │   ├──  apoc.mongodb.insert.csv 0
+                    │   │   │       │   │   ├──  apoc.mongodb.get.byObjectId.csv 0
+                    │   │   │       │   │   ├──  apoc.mongodb.first.csv 0
+                    │   │   │       │   │   ├──  apoc.mongodb.delete.csv 0
+                    │   │   │       │   │   ├──  apoc.map.groupByMulti.csv 0
+                    │   │   │       │   │   ├──  apoc.mongodb.count.csv 0
+                    │   │   │       │   │   ├──  apoc.model.jdbc.csv 0
+                    │   │   │       │   │   ├──  apoc.metrics.storage.csv 0
+                    │   │   │       │   │   ├──  apoc.metrics.list.csv 0
+                    │   │   │       │   │   ├──  apoc.metrics.get.csv 0
+                    │   │   │       │   │   ├──  apoc.meta.types.csv 0
+                    │   │   │       │   │   ├──  apoc.meta.typeName.csv 0
+                    │   │   │       │   │   ├──  apoc.monitor.tx.csv 0
+                    │   │   │       │   │   ├──  apoc.neighbors.athop.count.csv 0
+                    │   │   │       │   │   ├──  apoc.neighbors.byhop.count.csv 0
+                    │   │   │       │   │   ├──  apoc.neighbors.tohop.count.csv 0
+                    │   │   │       │   │   ├──  apoc.nlp.gcp.entities.graph.csv 0
+                    │   │   │       │   │   ├──  apoc.nlp.gcp.classify.stream.csv 0
+                    │   │   │       │   │   ├──  apoc.nlp.gcp.classify.graph.csv 0
+                    │   │   │       │   │   ├──  apoc.nlp.azure.sentiment.stream.csv 0
+                    │   │   │       │   │   ├──  apoc.nlp.azure.sentiment.graph.csv 0
+                    │   │   │       │   │   ├──  apoc.nlp.azure.keyPhrases.stream.csv 0
+                    │   │   │       │   │   ├──  apoc.nlp.azure.keyPhrases.graph.csv 0
+                    │   │   │       │   │   ├──  apoc.nlp.azure.entities.stream.csv 0
+                    │   │   │       │   │   ├──  apoc.nlp.azure.entities.graph.csv 0
+                    │   │   │       │   │   ├──  apoc.nlp.aws.sentiment.stream.csv 0
+                    │   │   │       │   │   ├──  apoc.nlp.aws.sentiment.graph.csv 0
+                    │   │   │       │   │   ├──  apoc.nlp.aws.keyPhrases.stream.csv 0
+                    │   │   │       │   │   ├──  apoc.nlp.aws.keyPhrases.graph.csv 0
+                    │   │   │       │   │   ├──  apoc.nlp.aws.entities.stream.csv 0
+                    │   │   │       │   │   ├──  apoc.nlp.aws.entities.graph.csv 0
+                    │   │   │       │   │   ├──  apoc.meta.type.csv 0
+                    │   │   │       │   │   ├──  apoc.meta.subGraph.csv 0
+                    │   │   │       │   │   ├──  apoc.meta.stats.csv 0
+                    │   │   │       │   │   ├──  apoc.math.maxLong.csv 0
+                    │   │   │       │   │   ├──  apoc.math.maxDouble.csv 0
+                    │   │   │       │   │   ├──  apoc.math.maxByte.csv 0
+                    │   │   │       │   │   ├──  apoc.map.values.csv 0
+                    │   │   │       │   │   ├──  apoc.map.updateTree.csv 0
+                    │   │   │       │   │   ├──  apoc.map.submap.csv 0
+                    │   │   │       │   │   ├──  apoc.map.sortedProperties.csv 0
+                    │   │   │       │   │   ├──  apoc.map.setValues.csv 0
+                    │   │   │       │   │   ├──  apoc.map.setPairs.csv 0
+                    │   │   │       │   │   ├──  apoc.map.setLists.csv 0
+                    │   │   │       │   │   ├──  apoc.map.setKey.csv 0
+                    │   │   │       │   │   ├──  apoc.map.setEntry.csv 0
+                    │   │   │       │   │   ├──  apoc.map.removeKeys.csv 0
+                    │   │   │       │   │   ├──  apoc.map.removeKey.csv 0
+                    │   │   │       │   │   ├──  apoc.map.mget.csv 0
+                    │   │   │       │   │   ├──  apoc.map.mergeList.csv 0
+                    │   │   │       │   │   ├──  apoc.math.maxInt.csv 0
+                    │   │   │       │   │   ├──  apoc.math.minByte.csv 0
+                    │   │   │       │   │   ├──  apoc.meta.schema.csv 0
+                    │   │   │       │   │   ├──  apoc.math.minDouble.csv 0
+                    │   │   │       │   │   ├──  apoc.meta.relTypeProperties.csv 0
+                    │   │   │       │   │   ├──  apoc.meta.nodeTypeProperties.csv 0
+                    │   │   │       │   │   ├──  apoc.meta.isType.csv 0
+                    │   │   │       │   │   ├──  apoc.meta.graphSample.csv 0
+                    │   │   │       │   │   ├──  apoc.meta.graph.of.csv 0
+                    │   │   │       │   │   ├──  apoc.meta.data.of.csv 0
+                    │   │   │       │   │   ├──  apoc.meta.cypher.types.csv 0
+                    │   │   │       │   │   ├──  apoc.meta.cypher.type.csv 0
+                    │   │   │       │   │   ├──  apoc.meta.cypher.isType.csv 0
+                    │   │   │       │   │   ├──  apoc.merge.relationship.eager.csv 0
+                    │   │   │       │   │   ├──  apoc.merge.node.eager.csv 0
+                    │   │   │       │   │   ├──  apoc.math.round.csv 0
+                    │   │   │       │   │   ├──  apoc.math.regr.csv 0
+                    │   │   │       │   │   ├──  apoc.math.minLong.csv 0
+                    │   │   │       │   │   ├──  apoc.math.minInt.csv 0
+                    │   │   │       │   │   ├──  apoc.nlp.gcp.entities.stream.csv 0
+                    │   │   │       │   │   ├──  apoc.node.degree.in.csv 0
+                    │   │   │       │   │   ├──  apoc.node.degree.out.csv 0
+                    │   │   │       │   │   ├──  apoc.refactor.mergeNodes.csv 0
+                    │   │   │       │   │   ├──  apoc.refactor.from.csv 0
+                    │   │   │       │   │   ├──  apoc.refactor.extractNode.csv 0
+                    │   │   │       │   │   ├──  apoc.refactor.deleteAndReconnect.csv 0
+                    │   │   │       │   │   ├──  apoc.refactor.collapseNode.csv 0
+                    │   │   │       │   │   ├──  apoc.refactor.cloneSubgraphFromPaths.csv 0
+                    │   │   │       │   │   ├──  apoc.refactor.cloneSubgraph.csv 0
+                    │   │   │       │   │   ├──  apoc.refactor.cloneNodesWithRelationships.csv 0
+                    │   │   │       │   │   ├──  apoc.refactor.cloneNodes.csv 0
+                    │   │   │       │   │   ├──  apoc.refactor.categorize.csv 0
+                    │   │   │       │   │   ├──  apoc.periodic.submit.csv 0
+                    │   │   │       │   │   ├──  apoc.periodic.rock_n_roll_while.csv 0
+                    │   │   │       │   │   ├──  apoc.periodic.rock_n_roll.csv 0
+                    │   │   │       │   │   ├──  apoc.periodic.repeat.csv 0
+                    │   │   │       │   │   ├──  apoc.periodic.list.csv 0
+                    │   │   │       │   │   ├──  apoc.periodic.iterate.csv 0
+                    │   │   │       │   │   ├──  apoc.refactor.invert.csv 0
+                    │   │   │       │   │   ├──  apoc.refactor.mergeRelationships.csv 0
+                    │   │   │       │   │   ├──  apoc.periodic.commit.csv 0
+                    │   │   │       │   │   ├──  apoc.refactor.normalizeAsBoolean.csv 0
+                    │   │   │       │   │   ├──  apoc.schema.properties.distinct.csv 0
+                    │   │   │       │   │   ├──  apoc.schema.nodes.csv 0
+                    │   │   │       │   │   ├──  apoc.schema.node.indexExists.csv 0
+                    │   │   │       │   │   ├──  apoc.schema.node.constraintExists.csv 0
+                    │   │   │       │   │   ├──  apoc.schema.assert.csv 0
+                    │   │   │       │   │   ├──  apoc.rel.type.csv 0
+                    │   │   │       │   │   ├──  apoc.rel.startNode.csv 0
+                    │   │   │       │   │   ├──  apoc.rel.id.csv 0
+                    │   │   │       │   │   ├──  apoc.rel.endNode.csv 0
+                    │   │   │       │   │   ├──  apoc.refactor.to.csv 0
+                    │   │   │       │   │   ├──  apoc.refactor.setType.csv 0
+                    │   │   │       │   │   ├──  apoc.refactor.rename.typeProperty.csv 0
+                    │   │   │       │   │   ├──  apoc.refactor.rename.type.csv 0
+                    │   │   │       │   │   ├──  apoc.refactor.rename.nodeProperty.csv 0
+                    │   │   │       │   │   ├──  apoc.refactor.rename.label.csv 0
+                    │   │   │       │   │   ├──  apoc.periodic.countdown.csv 0
+                    │   │   │       │   │   ├──  apoc.periodic.cancel.csv 0
+                    │   │   │       │   │   ├──  apoc.node.id.csv 0
+                    │   │   │       │   │   ├──  apoc.number.exact.div.csv 0
+                    │   │   │       │   │   ├──  apoc.number.arabicToRoman.csv 0
+                    │   │   │       │   │   ├──  apoc.nodes.rels.csv 0
+                    │   │   │       │   │   ├──  apoc.nodes.relationships.exist.csv 0
+                    │   │   │       │   │   ├──  apoc.nodes.relationship.types.csv 0
+                    │   │   │       │   │   ├──  apoc.nodes.link.csv 0
+                    │   │   │       │   │   ├──  apoc.nodes.isDense.csv 0
+                    │   │   │       │   │   ├──  apoc.nodes.group.csv 0
+                    │   │   │       │   │   ├──  apoc.nodes.get.csv 0
+                    │   │   │       │   │   ├──  apoc.nodes.delete.csv 0
+                    │   │   │       │   │   ├──  apoc.nodes.connected.csv 0
+                    │   │   │       │   │   ├──  apoc.nodes.collapse.csv 0
+                    │   │   │       │   │   ├──  apoc.node.relationships.exist.csv 0
+                    │   │   │       │   │   ├──  apoc.node.relationship.types.csv 0
+                    │   │   │       │   │   ├──  apoc.node.relationship.exists.csv 0
+                    │   │   │       │   │   ├──  apoc.node.labels.csv 0
+                    │   │   │       │   │   ├──  apoc.number.exact.add.csv 0
+                    │   │   │       │   │   ├──  apoc.number.exact.mul.csv 0
+                    │   │   │       │   │   ├──  apoc.path.subgraphNodes.csv 0
+                    │   │   │       │   │   ├──  apoc.number.exact.sub.csv 0
+                    │   │   │       │   │   ├──  apoc.path.subgraphAll.csv 0
+                    │   │   │       │   │   ├──  apoc.path.spanningTree.csv 0
+                    │   │   │       │   │   ├──  apoc.path.slice.csv 0
+                    │   │   │       │   │   ├──  apoc.path.expandConfig.csv 0
+                    │   │   │       │   │   ├──  apoc.path.expand.csv 0
+                    │   │   │       │   │   ├──  apoc.path.elements.csv 0
+                    │   │   │       │   │   ├──  apoc.path.create.csv 0
+                    │   │   │       │   │   ├──  apoc.path.combine.csv 0
+                    │   │   │       │   │   ├──  apoc.number.romanToArabic.csv 0
+                    │   │   │       │   │   ├──  apoc.number.parseInt.csv 0
+                    │   │   │       │   │   ├──  apoc.number.parseFloat.csv 0
+                    │   │   │       │   │   ├──  apoc.number.format.csv 0
+                    │   │   │       │   │   ├──  apoc.number.exact.toInteger.csv 0
+                    │   │   │       │   │   ├──  apoc.number.exact.toFloat.csv 0
+                    │   │   │       │   │   ├──  apoc.number.exact.toExact.csv 0
+                    │   │   │       │   │   ├──  apoc.map.merge.csv 0
+                    │   │   │       │   │   ├──  apoc.map.groupBy.csv 0
+                    │   │   │       │   │   ├──  apoc.schema.relationship.constraintExists.csv 0
+                    │   │   │       │   │   ├──  apoc.date.expireIn.csv 0
+                    │   │   │       │   │   ├──  apoc.date.systemTimezone.csv 0
+                    │   │   │       │   │   ├──  apoc.date.parseAsZonedDateTime.csv 0
+                    │   │   │       │   │   ├──  apoc.date.parse.csv 0
+                    │   │   │       │   │   ├──  apoc.date.fromISO8601.csv 0
+                    │   │   │       │   │   ├──  apoc.date.format.csv 0
+                    │   │   │       │   │   ├──  apoc.date.fields.csv 0
+                    │   │   │       │   │   ├──  apoc.date.field.csv 0
+                    │   │   │       │   │   ├──  apoc.date.expire.csv 0
+                    │   │   │       │   │   ├──  apoc.map.get.csv 0
+                    │   │   │       │   │   ├──  apoc.date.currentTimestamp.csv 0
+                    │   │   │       │   │   ├──  apoc.date.convertFormat.csv 0
+                    │   │   │       │   │   ├──  apoc.date.convert.csv 0
+                    │   │   │       │   │   ├──  apoc.date.add.csv 0
+                    │   │   │       │   │   ├──  apoc.data.url.csv 0
+                    │   │   │       │   │   ├──  apoc.data.email.csv 0
+                    │   │   │       │   │   ├──  apoc.data.domain.csv 0
+                    │   │   │       │   │   ├──  apoc.date.toISO8601.csv 0
+                    │   │   │       │   │   ├──  apoc.date.toYears.csv 0
+                    │   │   │       │   │   ├──  apoc.diff.nodes.csv 0
+                    │   │   │       │   │   ├──  apoc.do.case.csv 0
+                    │   │   │       │   │   ├──  apoc.export.cypher.data.csv 0
+                    │   │   │       │   │   ├──  apoc.export.cypher.all.csv 0
+                    │   │   │       │   │   ├──  apoc.export.csv.query.csv 0
+                    │   │   │       │   │   ├──  apoc.export.csv.graph.csv 0
+                    │   │   │       │   │   ├──  apoc.export.csv.data.csv 0
+                    │   │   │       │   │   ├──  apoc.export.csv.all.csv 0
+                    │   │   │       │   │   ├──  apoc.example.movies.csv 0
+                    │   │   │       │   │   ├──  apoc.es.stats.csv 0
+                    │   │   │       │   │   ├──  apoc.es.query.csv 0
+                    │   │   │       │   │   ├──  apoc.es.put.csv 0
+                    │   │   │       │   │   ├──  apoc.es.postRaw.csv 0
+                    │   │   │       │   │   ├──  apoc.es.post.csv 0
+                    │   │   │       │   │   ├──  apoc.es.getRaw.csv 0
+                    │   │   │       │   │   ├──  apoc.es.get.csv 0
+                    │   │   │       │   │   ├──  apoc.do.when.csv 0
+                    │   │   │       │   │   ├──  apoc.cypher.runTimeboxed.csv 0
+                    │   │   │       │   │   ├──  apoc.cypher.runSchemaFiles.csv 0
+                    │   │   │       │   │   ├──  apoc.cypher.runSchemaFile.csv 0
+                    │   │   │       │   │   ├──  apoc.custom.asFunction.csv 0
+                    │   │   │       │   │   ├──  apoc.create.virtual.fromNode.csv 0
+                    │   │   │       │   │   ├──  apoc.create.vRelationship.csv 0
+                    │   │   │       │   │   ├──  apoc.create.vPatternFull.csv 0
+                    │   │   │       │   │   ├──  apoc.create.vPattern.csv 0
+                    │   │   │       │   │   ├──  apoc.create.vNodes.csv 0
+                    │   │   │       │   │   ├──  apoc.create.vNode.csv 0
+                    │   │   │       │   │   ├──  apoc.create.uuids.csv 0
+                    │   │   │       │   │   ├──  apoc.create.uuid.csv 0
+                    │   │   │       │   │   ├──  apoc.create.setRelProperty.csv 0
+                    │   │   │       │   │   ├──  apoc.create.setRelProperties.csv 0
+                    │   │   │       │   │   ├──  apoc.create.setProperty.csv 0
+                    │   │   │       │   │   ├──  apoc.create.setProperties.csv 0
+                    │   │   │       │   │   ├──  apoc.create.setLabels.csv 0
+                    │   │   │       │   │   ├──  apoc.create.removeRelProperties.csv 0
+                    │   │   │       │   │   ├──  apoc.create.removeProperties.csv 0
+                    │   │   │       │   │   ├──  apoc.create.virtualPath.csv 0
+                    │   │   │       │   │   ├──  apoc.custom.asProcedure.csv 0
+                    │   │   │       │   │   ├──  apoc.cypher.runMany.csv 0
+                    │   │   │       │   │   ├──  apoc.custom.declareFunction.csv 0
+                    │   │   │       │   │   ├──  apoc.cypher.runFirstColumnSingle.csv 0
+                    │   │   │       │   │   ├──  apoc.cypher.runFirstColumnMany.csv 0
+                    │   │   │       │   │   ├──  apoc.cypher.runFirstColumn.csv 0
+                    │   │   │       │   │   ├──  apoc.cypher.runFiles.csv 0
+                    │   │   │       │   │   ├──  apoc.cypher.runFile.csv 0
+                    │   │   │       │   │   ├──  apoc.cypher.run.csv 0
+                    │   │   │       │   │   ├──  apoc.cypher.parallel2.csv 0
+                    │   │   │       │   │   ├──  apoc.cypher.parallel.csv 0
+                    │   │   │       │   │   ├──  apoc.cypher.mapParallel2.csv 0
+                    │   │   │       │   │   ├──  apoc.cypher.mapParallel.csv 0
+                    │   │   │       │   │   ├──  apoc.cypher.doIt.csv 0
+                    │   │   │       │   │   ├──  apoc.custom.removeProcedure.csv 0
+                    │   │   │       │   │   ├──  apoc.custom.removeFunction.csv 0
+                    │   │   │       │   │   ├──  apoc.custom.list.csv 0
+                    │   │   │       │   │   ├──  apoc.custom.declareProcedure.csv 0
+                    │   │   │       │   │   ├──  apoc.export.cypher.graph.csv 0
+                    │   │   │       │   │   ├──  apoc.export.cypher.query.csv 0
+                    │   │   │       │   │   ├──  apoc.export.cypher.schema.csv 0
+                    │   │   │       │   │   ├──  apoc.load.xml.csv 0
+                    │   │   │       │   │   ├──  apoc.load.ldap.csv 0
+                    │   │   │       │   │   ├──  apoc.load.jsonParams.csv 0
+                    │   │   │       │   │   ├──  apoc.load.jsonArray.csv 0
+                    │   │   │       │   │   ├──  apoc.load.json.csv 0
+                    │   │   │       │   │   ├──  apoc.load.jdbcUpdate.csv 0
+                    │   │   │       │   │   ├──  apoc.load.jdbcParams.csv 0
+                    │   │   │       │   │   ├──  apoc.load.jdbc.csv 0
+                    │   │   │       │   │   ├──  apoc.load.html.csv 0
+                    │   │   │       │   │   ├──  apoc.load.driver.csv 0
+                    │   │   │       │   │   ├──  apoc.load.directory.csv 0
+                    │   │   │       │   │   ├──  apoc.load.csvParams.csv 0
+                    │   │   │       │   │   ├──  apoc.load.csv.csv 0
+                    │   │   │       │   │   ├──  apoc.label.exists.csv 0
+                    │   │   │       │   │   ├──  apoc.json.path.csv 0
+                    │   │   │       │   │   ├──  apoc.import.xml.csv 0
+                    │   │   │       │   │   ├──  apoc.load.xls.csv 0
+                    │   │   │       │   │   ├──  apoc.load.xmlSimple.adoc 0
+                    │   │   │       │   │   ├──  apoc.import.graphml.csv 0
+                    │   │   │       │   │   ├──  apoc.lock.all.csv 0
+                    │   │   │       │   │   ├──  apoc.map.fromValues.csv 0
+                    │   │   │       │   │   ├──  apoc.map.fromPairs.csv 0
+                    │   │   │       │   │   ├──  apoc.map.fromNodes.csv 0
+                    │   │   │       │   │   ├──  apoc.map.fromLists.csv 0
+                    │   │   │       │   │   ├──  apoc.map.flatten.csv 0
+                    │   │   │       │   │   ├──  apoc.map.clean.csv 0
+                    │   │   │       │   │   ├──  apoc.log.warn.csv 0
+                    │   │   │       │   │   ├──  apoc.log.stream.csv 0
+                    │   │   │       │   │   ├──  apoc.log.info.csv 0
+                    │   │   │       │   │   ├──  apoc.log.error.csv 0
+                    │   │   │       │   │   ├──  apoc.log.debug.csv 0
+                    │   │   │       │   │   ├──  apoc.lock.rels.csv 0
+                    │   │   │       │   │   ├──  apoc.lock.read.rels.csv 0
+                    │   │   │       │   │   ├──  apoc.lock.read.nodes.csv 0
+                    │   │   │       │   │   ├──  apoc.lock.nodes.csv 0
+                    │   │   │       │   │   ├──  apoc.import.json.csv 0
+                    │   │   │       │   │   ├──  apoc.import.csv.csv 0
+                    │   │   │       │   │   ├──  apoc.export.cypherAll.csv 0
+                    │   │   │       │   │   ├──  apoc.generate.complete.csv 0
+                    │   │   │       │   │   ├──  apoc.export.xls.query.csv 0
+                    │   │   │       │   │   ├──  apoc.export.xls.graph.csv 0
+                    │   │   │       │   │   ├──  apoc.export.xls.data.csv 0
+                    │   │   │       │   │   ├──  apoc.export.xls.all.csv 0
+                    │   │   │       │   │   ├──  apoc.export.json.query.csv 0
+                    │   │   │       │   │   ├──  apoc.export.json.graph.csv 0
+                    │   │   │       │   │   ├──  apoc.export.json.data.csv 0
+                    │   │   │       │   │   ├──  apoc.export.json.all.csv 0
+                    │   │   │       │   │   ├──  apoc.export.graphml.query.csv 0
+                    │   │   │       │   │   ├──  apoc.export.graphml.graph.csv 0
+                    │   │   │       │   │   ├──  apoc.export.graphml.data.csv 0
+                    │   │   │       │   │   ├──  apoc.export.graphml.all.csv 0
+                    │   │   │       │   │   ├──  apoc.export.cypherQuery.csv 0
+                    │   │   │       │   │   ├──  apoc.export.cypherGraph.csv 0
+                    │   │   │       │   │   ├──  apoc.export.cypherData.csv 0
+                    │   │   │       │   │   ├──  apoc.generate.ba.csv 0
+                    │   │   │       │   │   ├──  apoc.generate.er.csv 0
+                    │   │   │       │   │   ├──  apoc.help.csv 0
+                    │   │   │       │   │   ├──  apoc.generate.simple.csv 0
+                    │   │   │       │   │   ├──  apoc.hashing.fingerprinting.csv 0
+                    │   │   │       │   │   ├──  apoc.hashing.fingerprintGraph.csv 0
+                    │   │   │       │   │   ├──  apoc.hashing.fingerprint.csv 0
+                    │   │   │       │   │   ├──  apoc.graph.validateDocument.csv 0
+                    │   │   │       │   │   ├──  apoc.graph.fromPaths.csv 0
+                    │   │   │       │   │   ├──  apoc.graph.fromPath.csv 0
+                    │   │   │       │   │   ├──  apoc.graph.fromDocument.csv 0
+                    │   │   │       │   │   ├──  apoc.graph.fromData.csv 0
+                    │   │   │       │   │   ├──  apoc.graph.fromDB.csv 0
+                    │   │   │       │   │   ├──  apoc.graph.fromCypher.csv 0
+                    │   │   │       │   │   ├──  apoc.graph.from.csv 0
+                    │   │   │       │   │   ├──  apoc.get.rels.csv 0
+                    │   │   │       │   │   ├──  apoc.get.nodes.csv 0
+                    │   │   │       │   │   ├──  apoc.gephi.add.csv 0
+                    │   │   │       │   │   ├──  apoc.generate.ws.csv 0
+                    │   │   │       │   │   ├──  apoc.schema.properties.distinctCount.csv 0
+                    │   │   │       │   │   ├──  apoc.schema.relationships.csv 0
+                    │   │   │       │   │   ├──  apoc.create.relationship.csv 0
+                    │   │   │       │   │   ├──  apoc.scoring.existence.csv 0
+                    │   │   │       │   │   ├──  apoc.text.levenshteinDistance.csv 0
+                    │   │   │       │   │   ├──  apoc.text.regreplace.csv 0
+                    │   │   │       │   │   ├──  apoc.text.regexGroups.csv 0
+                    │   │   │       │   │   ├──  apoc.text.random.csv 0
+                    │   │   │       │   │   ├──  apoc.text.phoneticDelta.csv 0
+                    │   │   │       │   │   ├──  apoc.text.phonetic.csv 0
+                    │   │   │       │   │   ├──  apoc.text.lpad.csv 0
+                    │   │   │       │   │   ├──  apoc.text.levenshteinSimilarity.csv 0
+                    │   │   │       │   │   ├──  apoc.text.join.csv 0
+                    │   │   │       │   │   ├──  apoc.text.jaroWinklerDistance.csv 0
+                    │   │   │       │   │   ├──  apoc.text.indexesOf.csv 0
+                    │   │   │       │   │   ├──  apoc.text.indexOf.csv 0
+                    │   │   │       │   │   ├──  apoc.text.hexValue.csv 0
+                    │   │   │       │   │   ├──  apoc.text.hexCharAt.csv 0
+                    │   │   │       │   │   ├──  apoc.text.hammingDistance.csv 0
+                    │   │   │       │   │   ├──  apoc.text.fuzzyMatch.csv 0
+                    │   │   │       │   │   ├──  apoc.text.repeat.csv 0
+                    │   │   │       │   │   ├──  apoc.text.replace.csv 0
+                    │   │   │       │   │   ├──  apoc.text.rpad.csv 0
+                    │   │   │       │   │   ├──  apoc.text.slug.csv 0
+                    │   │   │       │   │   ├──  apoc.trigger.remove.csv 0
+                    │   │   │       │   │   ├──  apoc.trigger.propertiesByKey.csv 0
+                    │   │   │       │   │   ├──  apoc.trigger.pause.csv 0
+                    │   │   │       │   │   ├──  apoc.trigger.nodesByLabel.csv 0
+                    │   │   │       │   │   ├──  apoc.trigger.list.csv 0
+                    │   │   │       │   │   ├──  apoc.trigger.add.csv 0
+                    │   │   │       │   │   ├──  apoc.text.urlencode.csv 0
+                    │   │   │       │   │   ├──  apoc.text.urldecode.csv 0
+                    │   │   │       │   │   ├──  apoc.text.upperCamelCase.csv 0
+                    │   │   │       │   │   ├──  apoc.text.toUpperCase.csv 0
+                    │   │   │       │   │   ├──  apoc.text.toCypher.csv 0
+                    │   │   │       │   │   ├──  apoc.text.swapCase.csv 0
+                    │   │   │       │   │   ├──  apoc.text.split.csv 0
+                    │   │   │       │   │   ├──  apoc.text.sorensenDiceSimilarity.csv 0
+                    │   │   │       │   │   ├──  apoc.text.snakeCase.csv 0
+                    │   │   │       │   │   ├──  apoc.text.format.csv 0
+                    │   │   │       │   │   ├──  apoc.text.doubleMetaphone.csv 0
+                    │   │   │       │   │   ├──  apoc.text.distance.csv 0
+                    │   │   │       │   │   ├──  apoc.systemdb.graph.csv 0
+                    │   │   │       │   │   ├──  apoc.stats.degrees.csv 0
+                    │   │   │       │   │   ├──  apoc.static.set.csv 0
+                    │   │   │       │   │   ├──  apoc.static.list.csv 0
+                    │   │   │       │   │   ├──  apoc.static.getAll.csv 0
+                    │   │   │       │   │   ├──  apoc.static.get.csv 0
+                    │   │   │       │   │   ├──  apoc.spatial.sortByDistance.csv 0
+                    │   │   │       │   │   ├──  apoc.spatial.reverseGeocode.csv 0
+                    │   │   │       │   │   ├──  apoc.spatial.geocodeOnce.csv 0
+                    │   │   │       │   │   ├──  apoc.spatial.geocode.csv 0
+                    │   │   │       │   │   ├──  apoc.search.nodeReduced.csv 0
+                    │   │   │       │   │   ├──  apoc.search.nodeAllReduced.csv 0
+                    │   │   │       │   │   ├──  apoc.search.nodeAll.csv 0
+                    │   │   │       │   │   ├──  apoc.search.node.csv 0
+                    │   │   │       │   │   ├──  apoc.search.multiSearchReduced.csv 0
+                    │   │   │       │   │   ├──  apoc.scoring.pareto.csv 0
+                    │   │   │       │   │   ├──  apoc.systemdb.execute.csv 0
+                    │   │   │       │   │   ├──  apoc.temporal.format.csv 0
+                    │   │   │       │   │   ├──  apoc.text.decapitalizeAll.csv 0
+                    │   │   │       │   │   ├──  apoc.temporal.formatDuration.csv 0
+                    │   │   │       │   │   ├──  apoc.text.decapitalize.csv 0
+                    │   │   │       │   │   ├──  apoc.text.compareCleaned.csv 0
+                    │   │   │       │   │   ├──  apoc.text.code.csv 0
+                    │   │   │       │   │   ├──  apoc.text.clean.csv 0
+                    │   │   │       │   │   ├──  apoc.text.charAt.csv 0
+                    │   │   │       │   │   ├──  apoc.text.capitalizeAll.csv 0
+                    │   │   │       │   │   ├──  apoc.text.capitalize.csv 0
+                    │   │   │       │   │   ├──  apoc.text.camelCase.csv 0
+                    │   │   │       │   │   ├──  apoc.text.bytes.csv 0
+                    │   │   │       │   │   ├──  apoc.text.byteCount.csv 0
+                    │   │   │       │   │   ├──  apoc.text.base64UrlEncode.csv 0
+                    │   │   │       │   │   ├──  apoc.text.base64UrlDecode.csv 0
+                    │   │   │       │   │   ├──  apoc.text.base64Encode.csv 0
+                    │   │   │       │   │   ├──  apoc.text.base64Decode.csv 0
+                    │   │   │       │   │   ├──  apoc.temporal.toZonedTemporal.csv 0
+                    │   │   │       │   │   ├──  apoc.trigger.removeAll.csv 0
+                    │   │   │       │   │   ├──  apoc.trigger.resume.csv 0
+                    │   │   │       │   │   ├──  apoc.ttl.config.csv 0
+                    │   │   │       │   │   ├──  apoc.ttl.expire.csv 0
+                    │   │   │       │   │   ├──  apoc.warmup.run.csv 0
+                    │   │   │       │   │   ├──  apoc.uuid.removeAll.csv 0
+                    │   │   │       │   │   ├──  apoc.uuid.remove.csv 0
+                    │   │   │       │   │   ├──  apoc.uuid.list.csv 0
+                    │   │   │       │   │   ├──  apoc.uuid.install.csv 0
+                    │   │   │       │   │   ├──  apoc.util.validatePredicate.csv 0
+                    │   │   │       │   │   ├──  apoc.util.validate.csv 0
+                    │   │   │       │   │   ├──  apoc.util.sleep.csv 0
+                    │   │   │       │   │   ├──  apoc.util.sha512.csv 0
+                    │   │   │       │   │   ├──  apoc.util.sha384.csv 0
+                    │   │   │       │   │   ├──  apoc.util.sha256.csv 0
+                    │   │   │       │   │   ├──  apoc.util.sha1.csv 0
+                    │   │   │       │   │   ├──  apoc.util.md5.csv 0
+                    │   │   │       │   │   ├──  apoc.util.decompress.csv 0
+                    │   │   │       │   │   ├──  apoc.util.compress.csv 0
+                    │   │   │       │   │   ├──  apoc.ttl.expireIn.csv 0
+                    │   │   │       │   │   ├──  apoc.version.csv 0
+                    │   │   │       │   │   ├──  apoc.when.csv 0
+                    │   │   │       │   │   ├──  apoc.xml.import.csv 0
+                    │   │   │       │   │   ├──  apoc.xml.parse.csv 0
+                    │   │   │       │   │   ├──  apoc.create.removeLabels.csv 0
+                    │   │   │       │   │   ├──  apoc.create.nodes.csv 0
+                    │   │   │       │   │   ├──  apoc.create.node.csv 0
+                    │   │   │       │   │   ├──  apoc.algo.allSimplePaths.csv 0
+                    │   │   │       │   │   ├──  apoc.atomic.concat.csv 0
+                    │   │   │       │   │   ├──  apoc.atomic.add.csv 0
+                    │   │   │       │   │   ├──  apoc.any.property.csv 0
+                    │   │   │       │   │   ├──  apoc.any.properties.csv 0
+                    │   │   │       │   │   ├──  apoc.algo.dijkstraWithDefaultWeight.csv 0
+                    │   │   │       │   │   ├──  apoc.algo.dijkstra.csv 0
+                    │   │   │       │   │   ├──  apoc.algo.cover.csv 0
+                    │   │   │       │   │   ├──  apoc.algo.aStarConfig.csv 0
+                    │   │   │       │   │   ├──  apoc.algo.aStar.csv 0
+                    │   │   │       │   │   ├──  apoc.agg.statistics.csv 0
+                    │   │   │       │   │   ├──  apoc.agg.slice.csv 0
+                    │   │   │       │   │   ├──  apoc.agg.product.csv 0
+                    │   │   │       │   │   ├──  apoc.agg.percentiles.csv 0
+                    │   │   │       │   │   ├──  apoc.agg.nth.csv 0
+                    │   │   │       │   │   ├──  apoc.agg.minItems.csv 0
+                    │   │   │       │   │   ├──  apoc.atomic.insert.csv 0
+                    │   │   │       │   │   ├──  apoc.atomic.remove.csv 0
+                    │   │   │       │   │   ├──  apoc.atomic.subtract.csv 0
+                    │   │   │       │   │   ├──  apoc.atomic.update.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.duplicates.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.dropDuplicateNeighbors.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.disjunction.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.different.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.containsSorted.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.containsDuplicates.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.containsAllSorted.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.containsAll.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.contains.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.combinations.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.avg.csv 0
+                    │   │   │       │   │   ├──  apoc.cluster.graph.csv 0
+                    │   │   │       │   │   ├──  apoc.case.csv 0
+                    │   │   │       │   │   ├──  apoc.bolt.execute.csv 0
+                    │   │   │       │   │   ├──  apoc.bitwise.op.csv 0
+                    │   │   │       │   │   ├──  apoc.agg.median.csv 0
+                    │   │   │       │   │   ├──  apoc.agg.maxItems.csv 0
+                    │   │   │       │   │   ├──  apoc.agg.last.csv 0
+                    │   │   │       │   │   ├──  apoc.agg.graph.csv 0
+                    │   │   │       │   │   ├──  apoc.agg.first.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.duplicatesWithCount.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.elements.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.fill.csv 0
+                    │   │   │       │   │   ├──  apoc.convert.toRelationshipList.csv 0
+                    │   │   │       │   │   ├──  apoc.convert.toNodeList.csv 0
+                    │   │   │       │   │   ├──  apoc.convert.toNode.csv 0
+                    │   │   │       │   │   ├──  apoc.convert.toMap.csv 0
+                    │   │   │       │   │   ├──  apoc.convert.toList.csv 0
+                    │   │   │       │   │   ├──  apoc.convert.toJson.csv 0
+                    │   │   │       │   │   ├──  apoc.convert.toInteger.csv 0
+                    │   │   │       │   │   ├──  apoc.convert.toIntList.csv 0
+                    │   │   │       │   │   ├──  apoc.convert.toFloat.csv 0
+                    │   │   │       │   │   ├──  apoc.convert.toBooleanList.csv 0
+                    │   │   │       │   │   ├──  apoc.convert.toBoolean.csv 0
+                    │   │   │       │   │   ├──  apoc.convert.setJsonProperty.csv 0
+                    │   │   │       │   │   ├──  apoc.convert.getJsonPropertyMap.csv 0
+                    │   │   │       │   │   ├──  apoc.convert.getJsonProperty.csv 0
+                    │   │   │       │   │   ├──  apoc.convert.fromJsonMap.csv 0
+                    │   │   │       │   │   ├──  apoc.convert.fromJsonList.csv 0
+                    │   │   │       │   │   ├──  apoc.convert.toRelationship.csv 0
+                    │   │   │       │   │   ├──  apoc.convert.toSet.csv 0
+                    │   │   │       │   │   ├──  apoc.config.list.csv 0
+                    │   │   │       │   │   ├──  apoc.convert.toSortedJsonMap.csv 0
+                    │   │   │       │   │   ├──  apoc.create.addLabels.csv 0
+                    │   │   │       │   │   ├──  apoc.couchbase.upsert.csv 0
+                    │   │   │       │   │   ├──  apoc.couchbase.replace.csv 0
+                    │   │   │       │   │   ├──  apoc.couchbase.remove.csv 0
+                    │   │   │       │   │   ├──  apoc.couchbase.query.csv 0
+                    │   │   │       │   │   ├──  apoc.couchbase.prepend.csv 0
+                    │   │   │       │   │   ├──  apoc.couchbase.posParamsQuery.csv 0
+                    │   │   │       │   │   ├──  apoc.couchbase.namedParamsQuery.csv 0
+                    │   │   │       │   │   ├──  apoc.couchbase.insert.csv 0
+                    │   │   │       │   │   ├──  apoc.couchbase.get.csv 0
+                    │   │   │       │   │   ├──  apoc.couchbase.exists.csv 0
+                    │   │   │       │   │   ├──  apoc.couchbase.append.csv 0
+                    │   │   │       │   │   ├──  apoc.convert.toTree.csv 0
+                    │   │   │       │   │   ├──  apoc.convert.toStringList.csv 0
+                    │   │   │       │   │   ├──  apoc.convert.toString.csv 0
+                    │   │   │       │   │   ├──  apoc.config.map.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.zipToRows.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.flatten.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.remove.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.randomItem.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.partition.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.pairsMin.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.pairs.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.pairWithOffset.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.occurrences.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.min.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.max.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.isEqualCollection.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.intersection.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.insertAll.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.insert.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.indexOf.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.frequenciesAsMap.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.frequencies.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.randomItems.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.removeAll.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.zip.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.reverse.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.unionAll.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.union.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.toSet.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.sumLongs.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.sum.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.subtract.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.split.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.sortText.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.sortNodes.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.sortMulti.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.sortMaps.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.sort.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.shuffle.csv 0
+                    │   │   │       │   │   ├──  apoc.coll.set.csv 0
+                    │   │   │       │   │   └──  apoc.coll.runningTotal.csv 0
+                    │   │   │       │   ├──  nlp-graph.cypher 0
+                    │   │   │       │   └──  data 1
+                    │   │   │       │       └──  exportJSON 1
+                    │   │   │       │           └──  writeNodeProperties.json 0
+                    │   │   │       ├──  partials 2
+                    │   │   │       │   ├──  generated-documentation 2
+                    │   │   │       │   │   ├──  documentation.adoc 0
+                    │   │   │       │   │   └──  nav.adoc 0
+                    │   │   │       │   └──  usage 2
+                    │   │   │       │       ├──  apoc.load.xml.adoc 0
+                    │   │   │       │       └──  apoc.path.expandConfig.adoc 0
+                    │   │   │       └──  pages 3
+                    │   │   │           ├──  overview 18
+                    │   │   │           │   ├──  apoc.nodes 1
+                    │   │   │           │   │   └──  apoc.nodes.group.adoc 0
+                    │   │   │           │   ├──  apoc.math 10
+                    │   │   │           │   │   ├──  index.adoc 0
+                    │   │   │           │   │   ├──  apoc.math.sinh.adoc 0
+                    │   │   │           │   │   ├──  apoc.math.tanh.adoc 0
+                    │   │   │           │   │   ├──  apoc.math.sigmoidPrime.adoc 0
+                    │   │   │           │   │   ├──  apoc.math.sigmoid.adoc 0
+                    │   │   │           │   │   ├──  apoc.math.coth.adoc 0
+                    │   │   │           │   │   ├──  apoc.math.csch.adoc 0
+                    │   │   │           │   │   ├──  apoc.math.round.adoc 0
+                    │   │   │           │   │   ├──  apoc.math.sech.adoc 0
+                    │   │   │           │   │   └──  apoc.math.cosh.adoc 0
+                    │   │   │           │   ├──  apoc.util 1
+                    │   │   │           │   │   └──  apoc.util.sha256.adoc 0
+                    │   │   │           │   ├──  apoc.systemdb 1
+                    │   │   │           │   │   └──  apoc.systemdb.export.metadata.adoc 0
+                    │   │   │           │   ├──  apoc.schema 1
+                    │   │   │           │   │   └──  apoc.schema.relationships.adoc 0
+                    │   │   │           │   ├──  apoc.trigger 4
+                    │   │   │           │   │   ├──  index.adoc 0
+                    │   │   │           │   │   ├──  apoc.trigger.toRelationship.adoc 0
+                    │   │   │           │   │   ├──  apoc.trigger.toNode.adoc 0
+                    │   │   │           │   │   └──  apoc.trigger.add.adoc 0
+                    │   │   │           │   ├──  apoc.convert 4
+                    │   │   │           │   │   ├──  apoc.convert.fromJsonMap.adoc 0
+                    │   │   │           │   │   ├──  apoc.convert.getJsonProperty.adoc 0
+                    │   │   │           │   │   ├──  apoc.convert.getJsonPropertyMap.adoc 0
+                    │   │   │           │   │   └──  apoc.convert.fromJsonList.adoc 0
+                    │   │   │           │   ├──  apoc.create 3
+                    │   │   │           │   │   ├──  index.adoc 0
+                    │   │   │           │   │   ├──  apoc.create.clonePathToVirtual.adoc 0
+                    │   │   │           │   │   └──  apoc.create.clonePathsToVirtual.adoc 0
+                    │   │   │           │   ├──  apoc.algo 3
+                    │   │   │           │   │   ├──  apoc.algo.aStarConfig.adoc 0
+                    │   │   │           │   │   ├──  index.adoc 0
+                    │   │   │           │   │   └──  apoc.algo.aStarWithPoint.adoc 0
+                    │   │   │           │   ├──  apoc.any 2
+                    │   │   │           │   │   ├──  index.adoc 0
+                    │   │   │           │   │   └──  apoc.any.isDeleted.adoc 0
+                    │   │   │           │   ├──  apoc.load 3
+                    │   │   │           │   │   ├──  index.adoc 0
+                    │   │   │           │   │   ├──  apoc.load.arrow.stream.adoc 0
+                    │   │   │           │   │   └──  apoc.load.arrow.adoc 0
+                    │   │   │           │   ├──  apoc.graph 5
+                    │   │   │           │   │   ├──  apoc.graph.fromDocument.adoc 0
+                    │   │   │           │   │   ├──  apoc.graph.fromPath.adoc 0
+                    │   │   │           │   │   ├──  apoc.graph.fromPaths.adoc 0
+                    │   │   │           │   │   ├──  apoc.graph.validateDocument.adoc 0
+                    │   │   │           │   │   └──  apoc.graph.from.adoc 0
+                    │   │   │           │   ├──  apoc.import 3
+                    │   │   │           │   │   ├──  apoc.import.graphml.adoc 0
+                    │   │   │           │   │   ├──  apoc.import.json.adoc 0
+                    │   │   │           │   │   └──  apoc.import.csv.adoc 0
+                    │   │   │           │   ├──  apoc.cypher 4
+                    │   │   │           │   │   ├──  apoc.cypher.mapParallel.adoc 0
+                    │   │   │           │   │   ├──  apoc.cypher.mapParallel2.adoc 0
+                    │   │   │           │   │   ├──  apoc.cypher.parallel.adoc 0
+                    │   │   │           │   │   └──  apoc.cypher.parallel2.adoc 0
+                    │   │   │           │   ├──  apoc.export 32
+                    │   │   │           │   │   ├──  apoc.export.json.graph.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.cypherGraph.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.cypherQuery.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.graphml.all.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.graphml.data.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.graphml.graph.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.graphml.query.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.json.all.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.json.data.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.json.query.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.xls.all.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.xls.data.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.xls.graph.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.xls.query.adoc 0
+                    │   │   │           │   │   ├──  index.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.cypherData.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.cypherAll.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.cypher.schema.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.cypher.query.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.csv.data.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.csv.graph.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.csv.query.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.cypher.all.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.cypher.data.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.cypher.graph.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.arrow.all.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.arrow.stream.graph.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.arrow.query.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.arrow.graph.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.arrow.stream.query.adoc 0
+                    │   │   │           │   │   ├──  apoc.export.csv.all.adoc 0
+                    │   │   │           │   │   └──  apoc.export.arrow.stream.all.adoc 0
+                    │   │   │           │   ├──  apoc.example 1
+                    │   │   │           │   │   └──  apoc.example.movies.adoc 0
+                    │   │   │           │   ├──  apoc.gephi 1
+                    │   │   │           │   │   └──  apoc.gephi.add.adoc 0
+                    │   │   │           │   └──  apoc.json 1
+                    │   │   │           │       └──  apoc.json.path.adoc 0
+                    │   │   │           ├──  export 1
+                    │   │   │           │   └──  cypher.adoc 0
+                    │   │   │           └──  graph-querying 1
+                    │   │   │               └──  expand-paths-config.adoc 0
+                    │   │   ├──  jmh.adoc 0
+                    │   │   ├──  guides.adoc 0
+                    │   │   ├──  graphml-tests.adoc 0
+                    │   │   ├──  gradle.adoc 0
+                    │   │   ├──  functions.adoc 0
+                    │   │   ├──  big-graph-from-cypher.adoc 0
+                    │   │   ├──  antora.yml 0
+                    │   │   └──  aggregation.adoc 0
+                    │   ├──  images 86
+                    │   │   ├──  apoc-gephi.gif 0
+                    │   │   ├──  apoc.load.json-so-result.png 0
+                    │   │   ├──  import_yed.png 0
+                    │   │   ├──  apoc.load.json.so.png 0
+                    │   │   ├──  apoc.model.jdbc.png 0
+                    │   │   ├──  apoc.periodic.commit.friends.jpg 0
+                    │   │   ├──  desktop-apoc.jpg 0
+                    │   │   ├──  apoc-load-jdbc.jpg 0
+                    │   │   ├──  apoc.meta.data-graph.jpg 0
+                    │   │   ├──  apoc.meta.stats.png 0
+                    │   │   ├──  apoc.monitor.png 0
+                    │   │   ├──  apoc.load.jdbc.cassandra.png 0
+                    │   │   ├──  apoc-help.jpg 0
+                    │   │   ├──  apoc-meta-data-northwind-filter.jpg 0
+                    │   │   ├──  apoc.cypher.runMany.png 0
+                    │   │   ├──  apoc.refactor.mergeNodes.resultFirstExample.png 0
+                    │   │   ├──  apoc.refactor.mergeNodes.createDataSetSecondExample.png 0
+                    │   │   ├──  import_gephi.png 0
+                    │   │   ├──  apoc.refactor.mergeNodes.createDataSetFirstExample.png 0
+                    │   │   ├──  apoc.systemdb.graph.png 0
+                    │   │   ├──  apoc.mongodb.first.png 0
+                    │   │   ├──  apoc.graph.validateDocument.png 0
+                    │   │   ├──  apoc.load.htmlconfig.png 0
+                    │   │   ├──  apoc.nodes.group.jpg 0
+                    │   │   ├──  apoc.load.jdbc.neo4j.png 0
+                    │   │   ├──  user-country-gender.jpg 0
+                    │   │   ├──  apoc.schema.nodes.png 0
+                    │   │   ├──  apoc.refactor.mergeNodes.resultSecondExample.png 0
+                    │   │   ├──  apoc.trigger.pause.png 0
+                    │   │   ├──  export-cypher-plain-editor.png 0
+                    │   │   ├──  apoc-jdbc-northwind-load.jpg 0
+                    │   │   ├──  apoc-help-apoc.jpg 0
+                    │   │   ├──  dbms.functions.jpg 0
+                    │   │   ├──  apoc.trigger.resume.png 0
+                    │   │   ├──  apoc.load.htmlall.png 0
+                    │   │   ├──  azure-quickstart.png 0
+                    │   │   ├──  apoc.load.htmllinks.png 0
+                    │   │   ├──  apoc.es.get.png 0
+                    │   │   ├──  grouping-country-all.jpg 0
+                    │   │   ├──  apoc.schema.relationships.png 0
+                    │   │   ├──  apoc.trigger.add.setAllConnectedNodes.dataset.png 0
+                    │   │   ├──  apoc.refactor.mergeNodes.resultSecondExampleData.png 0
+                    │   │   ├──  apoc.refactor.cloneSubgraph-tree-example-after.png 0
+                    │   │   ├──  apoc.dbms.procedure.count.jpg 0
+                    │   │   ├──  apoc.import.xml.svg 0
+                    │   │   ├──  load.xls.jpg 0
+                    │   │   ├──  apoc.trigger.add.setLabels.png 0
+                    │   │   ├──  apoc.load.xml.xpath.png 0
+                    │   │   ├──  apoc.meta.graph.jpg 0
+                    │   │   ├──  apoc.schema.relationship.constraintExists.png 0
+                    │   │   ├──  apoc.trigger.add.create-rel-new-node.png 0
+                    │   │   ├──  apoc.graph.png 0
+                    │   │   ├──  apoc.refactor.cloneSubgraph-tree-example.png 0
+                    │   │   ├──  apoc.trigger.add.setAllConnectedNodes.png 0
+                    │   │   ├──  apoc.index.nodes-with-score.jpg 0
+                    │   │   ├──  apoc.schema.node.indexExists.png 0
+                    │   │   ├──  apoc.refactor.cloneNodes.png 0
+                    │   │   ├──  apoc.refactor.categorize.png 0
+                    │   │   ├──  apoc.refactor.cloneNodesWithRelationships.dataset.png 0
+                    │   │   ├──  apoc.refactor.cloneNodesWithRelationships.png 0
+                    │   │   ├──  apoc.load.xmlSimple.ex2.png 0
+                    │   │   ├──  apoc.load.xmlSimple.ex1.png 0
+                    │   │   ├──  apoc.load.xml.xpath2.png 0
+                    │   │   ├──  apoc.nodes.collapse_2.png 0
+                    │   │   ├──  apoc.nodes.collapse_3.png 0
+                    │   │   ├──  apoc.nodes.collapse_1.png 0
+                    │   │   ├──  play-movies.png 0
+                    │   │   ├──  grouping-country-filter.jpg 0
+                    │   │   ├──  azure-quickstart-2.png 0
+                    │   │   ├──  apoc.trigger.add.setLabelsResult.png 0
+                    │   │   ├──  apoc.schema.node.constraintExists.png 0
+                    │   │   ├──  apoc.load.xls_3.png 0
+                    │   │   ├──  apoc.load.xls_2.png 0
+                    │   │   ├──  apoc-manual-indexes-relationship.png 0
+                    │   │   ├──  apoc-manual-indexes-nodes.png 0
+                    │   │   ├──  apoc-load-json-so.svg 0
+                    │   │   ├──  apoc.load.xls_1.png 0
+                    │   │   ├──  apoc.import.graphml.simple.png 0
+                    │   │   ├──  apoc.graph.fromDocument_1.png 0
+                    │   │   ├──  apoc.create.vRelationshipAndvNode.png 0
+                    │   │   ├──  apoc.create.vPatternLabels.png 0
+                    │   │   ├──  apoc.create.vPatternFullTwo.png 0
+                    │   │   ├──  apoc.create.vPatternFull.png 0
+                    │   │   ├──  apoc.uuid.result.png 0
+                    │   │   ├──  apoc.bolt.load.returnvirtualpath.PNG 0
+                    │   │   └──  apoc.create.vPattern.png 0
+                    │   ├──  index.html 0
+                    │   ├──  antora 5
+                    │   │   ├──  package-lock.json 0
+                    │   │   ├──  server.js 0
+                    │   │   ├──  preview.yml 0
+                    │   │   ├──  package.json 0
+                    │   │   └──  .gitignore 0
+                    │   └──  gradle 1
+                    │       └──  wrapper 1
+                    │           └──  gradle-wrapper.jar 0
+                    ├──  core 3
+                    │   ├──  target 2
+                    │   │   ├──  93414efa-2900-4ff9-8e0c-48b412ae42ae 2
+                    │   │   │   ├──  logs 1
+                    │   │   │   │   └──  debug.log 0
+                    │   │   │   └──  data 3
+                    │   │   │       ├──  transactions 2
+                    │   │   │       │   ├──  system 2
+                    │   │   │       │   │   ├──  neostore.transaction.db.0 0
+                    │   │   │       │   │   └──  checkpoint.0 0
+                    │   │   │       │   └──  neo4j 2
+                    │   │   │       │       ├──  neostore.transaction.db.0 0
+                    │   │   │       │       └──  checkpoint.0 0
+                    │   │   │       ├──  databases 2
+                    │   │   │       │   ├──  system 26
+                    │   │   │       │   │   ├──  neostore.propertystore.db.index.id 0
+                    │   │   │       │   │   ├──  neostore.nodestore.db.labels.id 0
+                    │   │   │       │   │   ├──  neostore.nodestore.db.id 0
+                    │   │   │       │   │   ├──  neostore.propertystore.db.index.keys.id 0
+                    │   │   │       │   │   ├──  neostore.propertystore.db.arrays.id 0
+                    │   │   │       │   │   ├──  neostore.schemastore.db.id 0
+                    │   │   │       │   │   ├──  neostore.propertystore.db.strings.id 0
+                    │   │   │       │   │   ├──  neostore.propertystore.db.id 0
+                    │   │   │       │   │   ├──  neostore.relationshipstore.db.id 0
+                    │   │   │       │   │   ├──  neostore.relationshiptypestore.db.names.id 0
+                    │   │   │       │   │   ├──  neostore.relationshiptypestore.db.id 0
+                    │   │   │       │   │   ├──  neostore.labeltokenstore.db.names.id 0
+                    │   │   │       │   │   ├──  neostore.labeltokenstore.db.id 0
+                    │   │   │       │   │   ├──  neostore.relationshipgroupstore.db.id 0
+                    │   │   │       │   │   ├──  neostore.indexstats.db 0
+                    │   │   │       │   │   ├──  neostore.relationshipgroupstore.degrees.db 0
+                    │   │   │       │   │   ├──  neostore.counts.db 0
+                    │   │   │       │   │   ├──  neostore.nodestore.db.labels 0
+                    │   │   │       │   │   ├──  neostore.propertystore.db.index.keys 0
+                    │   │   │       │   │   ├──  neostore.propertystore.db.strings 0
+                    │   │   │       │   │   ├──  neostore.propertystore.db.arrays 0
+                    │   │   │       │   │   ├──  neostore.relationshiptypestore.db.names 0
+                    │   │   │       │   │   ├──  neostore.labeltokenstore.db.names 0
+                    │   │   │       │   │   ├──  neostore.schemastore.db 0
+                    │   │   │       │   │   ├──  neostore.relationshipgroupstore.db 0
+                    │   │   │       │   │   └──  neostore 0
+                    │   │   │       │   └──  neo4j 28
+                    │   │   │       │       ├──  neostore.propertystore.db.index.keys.id 0
+                    │   │   │       │       ├──  neostore.nodestore.db.id 0
+                    │   │   │       │       ├──  neostore.nodestore.db.labels.id 0
+                    │   │   │       │       ├──  neostore.relationshipgroupstore.db.id 0
+                    │   │   │       │       ├──  neostore.propertystore.db.index.id 0
+                    │   │   │       │       ├──  neostore.labeltokenstore.db.id 0
+                    │   │   │       │       ├──  neostore.labeltokenstore.db.names.id 0
+                    │   │   │       │       ├──  neostore.relationshiptypestore.db.id 0
+                    │   │   │       │       ├──  neostore.relationshiptypestore.db.names.id 0
+                    │   │   │       │       ├──  neostore.labelscanstore.db 0
+                    │   │   │       │       ├──  neostore.relationshipstore.db.id 0
+                    │   │   │       │       ├──  neostore.relationshiptypescanstore.db 0
+                    │   │   │       │       ├──  neostore.propertystore.db.id 0
+                    │   │   │       │       ├──  neostore.propertystore.db.arrays.id 0
+                    │   │   │       │       ├──  neostore.propertystore.db.strings.id 0
+                    │   │   │       │       ├──  neostore.schemastore.db.id 0
+                    │   │   │       │       ├──  neostore.counts.db 0
+                    │   │   │       │       ├──  neostore.relationshipgroupstore.degrees.db 0
+                    │   │   │       │       ├──  neostore.indexstats.db 0
+                    │   │   │       │       ├──  neostore.nodestore.db.labels 0
+                    │   │   │       │       ├──  neostore.propertystore.db.index.keys 0
+                    │   │   │       │       ├──  neostore.propertystore.db.strings 0
+                    │   │   │       │       ├──  neostore.propertystore.db.arrays 0
+                    │   │   │       │       ├──  neostore.relationshiptypestore.db.names 0
+                    │   │   │       │       ├──  neostore.labeltokenstore.db.names 0
+                    │   │   │       │       ├──  neostore.schemastore.db 0
+                    │   │   │       │       ├──  neostore.relationshipgroupstore.db 0
+                    │   │   │       │       └──  neostore 0
+                    │   │   │       └──  server_id 0
+                    │   │   └──  import 6
+                    │   │       ├──  all.cleanup.cypher 0
+                    │   │       ├──  all.relationships.cypher 0
+                    │   │       ├──  all.nodes.cypher 0
+                    │   │       ├──  graph.relationships.cypher 0
+                    │   │       ├──  graph.cleanup.cypher 0
+                    │   │       └──  graph.schema.cypher 0
+                    │   ├──  src 1
+                    │   │   └──  test 1
+                    │   │       └──  resources 1
+                    │   │           └──  csv-inputs 29
+                    │   │               ├──  custom-ids-idspaces-affiliated-with.csv 0
+                    │   │               ├──  rel-on-ids.csv 0
+                    │   │               ├──  custom-ids-basic-companies.csv 0
+                    │   │               ├──  knows.csv 0
+                    │   │               ├──  rel-on-ids-idspaces.csv 0
+                    │   │               ├──  emptyArray.csv 0
+                    │   │               ├──  rel-type.csv 0
+                    │   │               ├──  nodesMultiTypes.csv 0
+                    │   │               ├──  ignore-nodes.csv 0
+                    │   │               ├──  custom-ids-idspaces-companies.csv 0
+                    │   │               ├──  persons.csv 0
+                    │   │               ├──  ignore-relationships.csv 0
+                    │   │               ├──  custom-ids-basic-unis.csv 0
+                    │   │               ├──  label.csv 0
+                    │   │               ├──  typeless.csv 0
+                    │   │               ├──  emptyInteger.csv 0
+                    │   │               ├──  relMultiTypes.csv 0
+                    │   │               ├──  id-idspaces.csv 0
+                    │   │               ├──  custom-ids-idspaces-persons.csv 0
+                    │   │               ├──  id.csv 0
+                    │   │               ├──  csvPoint.csv 0
+                    │   │               ├──  quoted.csv 0
+                    │   │               ├──  emptyDate.csv 0
+                    │   │               ├──  id-with-duplicates.csv 0
+                    │   │               ├──  id-idspaces-with-dash.csv 0
+                    │   │               ├──  custom-ids-idspaces-unis.csv 0
+                    │   │               ├──  custom-ids-basic-persons.csv 0
+                    │   │               ├──  custom-ids-basic-affiliated-with.csv 0
+                    │   │               └──  array.csv 0
+                    │   └──  import 3
+                    │       ├──  testPlainFormatWithCompoundConstraint.cypher 0
+                    │       ├──  testNeo4jShellWithCompoundConstraint.cypher 0
+                    │       └──  testCypherShellWithCompoundConstraint.cypher 0
+                    ├──  hadoop 1
+                    │   └──  bin 4
+                    │       ├──  libwinutils.lib 0
+                    │       ├──  hadoop.dll 0
+                    │       ├──  winutils.exe 0
+                    │       └──  hdfs.dll 0
+                    ├──  extra-dependencies 9
+                    │   ├──  nlp 1
+                    │   │   └──  gradle 1
+                    │   │       └──  wrapper 1
+                    │   │           └──  gradle-wrapper.jar 0
+                    │   ├──  couchbase 1
+                    │   │   └──  gradle 1
+                    │   │       └──  wrapper 1
+                    │   │           └──  gradle-wrapper.jar 0
+                    │   ├──  email 1
+                    │   │   └──  gradle 1
+                    │   │       └──  wrapper 1
+                    │   │           └──  gradle-wrapper.jar 0
+                    │   ├──  bolt 1
+                    │   │   └──  gradle 1
+                    │   │       └──  wrapper 1
+                    │   │           └──  gradle-wrapper.jar 0
+                    │   ├──  gradle 1
+                    │   │   └──  wrapper 1
+                    │   │       └──  gradle-wrapper.jar 0
+                    │   ├──  xls 1
+                    │   │   └──  gradle 1
+                    │   │       └──  wrapper 1
+                    │   │           └──  gradle-wrapper.jar 0
+                    │   ├──  redis 1
+                    │   │   └──  gradle 1
+                    │   │       └──  wrapper 1
+                    │   │           └──  gradle-wrapper.jar 0
+                    │   ├──  mongodb 1
+                    │   │   └──  gradle 1
+                    │   │       └──  wrapper 1
+                    │   │           └──  gradle-wrapper.jar 0
+                    │   └──  hadoop 1
+                    │       └──  gradle 1
+                    │           └──  wrapper 1
+                    │               └──  gradle-wrapper.jar 0
+                    ├──  SECURITY.md 0
+                    ├──  LICENSE 0
+                    ├──  CONTRIBUTING.adoc 0
+                    ├──  CODE_OF_CONDUCT.adoc 0
+                    ├──  40_notes.adoc 0
+                    ├──  .gitignore 0
+                    └──  .github 4
+                        ├──  workflows 2
+                        │   ├──  auto-cherry-pick.yml 0
+                        │   └──  CI.yaml 0
+                        ├──  PULL_REQUEST_TEMPLATE.md 0
+                        ├──  ISSUE_TEMPLATE 2
+                        │   ├──  feature_request.md 0
+                        │   └──  bug-report.md 0
+                        └──  CODEOWNERS 0
