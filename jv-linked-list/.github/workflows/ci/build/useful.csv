@@ -1,0 +1,16 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/jv-linked-list/jv-linked-list/target/surefire/surefirebooter10653333267521382587.jar,2017,1995,1934,BuildwithMaven,BuildwithMaven,BuildwithMaven
+1,/home/runner/work/jv-linked-list/jv-linked-list/target/checkstyle-checker.xml,1699,1695,1685,BuildwithMaven,BuildwithMaven,BuildwithMaven
+2,/home/runner/work/jv-linked-list/jv-linked-list/target/surefire/surefire_01696968687746469052tmp,2019,1932,1927,BuildwithMaven,BuildwithMaven,BuildwithMaven
+3,/home/runner/work/jv-linked-list/jv-linked-list/src/test/java/core/basesyntax/MyLinkedListTest.java,1810,934,928,BuildwithMaven,uses-checkout,uses-checkout
+4,/home/runner/work/jv-linked-list/jv-linked-list/target/surefire/surefire13261069595562527887tmp,2022,1925,1920,BuildwithMaven,BuildwithMaven,BuildwithMaven
+5,/home/runner/work/jv-linked-list/jv-linked-list/target/checkstyle-result.xml,1720,1713,1651,BuildwithMaven,BuildwithMaven,BuildwithMaven
+6,/home/runner/work/jv-linked-list/jv-linked-list/target/classes/core/basesyntax/MyLinkedList.class,2039,1617,1615,BuildwithMaven,BuildwithMaven,BuildwithMaven
+7,/home/runner/work/jv-linked-list/jv-linked-list/target/classes/core/basesyntax/MyLinkedListInterface.class,2031,1613,1611,BuildwithMaven,BuildwithMaven,BuildwithMaven
+8,/home/runner/work/jv-linked-list/jv-linked-list/.github/workflows/script.py,2086,871,866,finished,uses-checkout,uses-checkout
+9,/home/runner/work/jv-linked-list/jv-linked-list/src/main/java/core/basesyntax/MyLinkedListInterface.java,1711,914,909,BuildwithMaven,uses-checkout,uses-checkout
+10,/home/runner/work/jv-linked-list/jv-linked-list/pom.xml,1519,895,890,BuildwithMaven,uses-checkout,uses-checkout
+11,/home/runner/work/jv-linked-list/jv-linked-list/target/test-classes/core/basesyntax/MyLinkedListTest.class,2028,1858,1856,BuildwithMaven,BuildwithMaven,BuildwithMaven
+12,/home/runner/work/jv-linked-list/jv-linked-list/src/main/java/core/basesyntax/MyLinkedList.java,1705,904,-1,BuildwithMaven,uses-checkout,Not provided
+13,/home/runner/work/jv-linked-list/jv-linked-list/src/test/java/core/basesyntax/Cat.java,1807,925,-1,BuildwithMaven,uses-checkout,Not provided
+14,/home/runner/work/jv-linked-list/jv-linked-list/target/test-classes/core/basesyntax/Cat.class,2035,1851,-1,BuildwithMaven,BuildwithMaven,Not provided
