@@ -1,0 +1,4 @@
+,step_name,#c,#m,cma,cm_a,cm__a,c_ma,c_m_a,c_m__a,_cma,_cm_a,_cm__a,_c_ma,_c_m_a,_c_m__a,time
+0,uses-checkout,696,700,0,0,696,0,0,0,0,0,4,0,17,1961,2
+1,SetupJDKmatrixjavaversion,0,0,0,0,0,0,0,0,0,0,0,0,17,2661,1
+2,Integrationtests,1945,1978,17,0,1928,0,0,0,0,0,33,0,0,700,1006
