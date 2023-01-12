@@ -1,0 +1,16 @@
+,file_name
+14,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.client/WebSocketClient.java.html
+25,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.drafts/Draft.java.html
+31,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.extensions.permessage_deflate/PerMessageDeflateExtension.java.html
+253,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.framing/CloseFrame.java.html
+263,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/misc/AllMiscTests.class
+264,/home/runner/work/Java-WebSocket/Java-WebSocket/target/surefire-reports/org.java_websocket.misc.OpeningHandshakeRejectionTest.txt
+265,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/jacoco-resources/report.css
+266,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket/AbstractWrappedByteChannel.java.html
+267,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.exceptions/InvalidEncodingException.java.html
+268,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.enums/CloseHandshakeType.java.html
+269,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.extensions/CompressionExtension.java.html
+270,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.util/ByteBufferUtils.java.html
+271,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.protocols/Protocol.java.html
+272,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.handshake/HandshakeImpl1Server.java.html
+273,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.server/DefaultWebSocketServerFactory.java.html
