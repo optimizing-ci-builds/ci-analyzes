@@ -1,0 +1,20 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/jv-hash-map/jv-hash-map/target/surefire/surefirebooter16084758088311052997.jar,2116,2088,1964,BuildwithMaven,BuildwithMaven,BuildwithMaven
+1,/home/runner/work/jv-hash-map/jv-hash-map/target/checkstyle-checker.xml,1707,1703,1693,BuildwithMaven,BuildwithMaven,BuildwithMaven
+2,/home/runner/work/jv-hash-map/jv-hash-map/target/surefire/surefire16647629284812826862tmp,2121,1955,1950,BuildwithMaven,BuildwithMaven,BuildwithMaven
+3,/home/runner/work/jv-hash-map/jv-hash-map/target/surefire/surefire_011172437254532314276tmp,2118,1962,1957,BuildwithMaven,BuildwithMaven,BuildwithMaven
+4,/home/runner/work/jv-hash-map/jv-hash-map/target/test-classes/core/basesyntax/MyHashMapTest.class,2124,1884,1882,BuildwithMaven,BuildwithMaven,BuildwithMaven
+5,/home/runner/work/jv-hash-map/jv-hash-map/target/checkstyle-result.xml,1728,1721,1659,BuildwithMaven,BuildwithMaven,BuildwithMaven
+6,/home/runner/work/jv-hash-map/jv-hash-map/target/classes/core/basesyntax/MyHashMap.class,2139,1625,1623,BuildwithMaven,BuildwithMaven,BuildwithMaven
+7,/home/runner/work/jv-hash-map/jv-hash-map/target/classes/core/basesyntax/MyMap.class,2127,1621,1619,BuildwithMaven,BuildwithMaven,BuildwithMaven
+8,/home/runner/work/jv-hash-map/jv-hash-map/.github/workflows/script.py,2182,843,838,finished,uses-checkout,uses-checkout
+9,/home/runner/work/jv-hash-map/jv-hash-map/pom.xml,1527,867,862,BuildwithMaven,uses-checkout,uses-checkout
+10,/home/runner/work/jv-hash-map/jv-hash-map/src/test/java/core/basesyntax/Plane.java,1823,923,918,BuildwithMaven,uses-checkout,uses-checkout
+11,/home/runner/work/jv-hash-map/jv-hash-map/src/main/java/core/basesyntax/MyMap.java,1713,886,881,BuildwithMaven,uses-checkout,uses-checkout
+12,/home/runner/work/jv-hash-map/jv-hash-map/src/test/java/core/basesyntax/Bus.java,1826,899,892,BuildwithMaven,uses-checkout,uses-checkout
+13,/home/runner/work/jv-hash-map/jv-hash-map/target/test-classes/core/basesyntax/Bus.class,2136,1874,1872,BuildwithMaven,BuildwithMaven,BuildwithMaven
+14,/home/runner/work/jv-hash-map/jv-hash-map/src/test/java/core/basesyntax/Car.java,1832,907,902,BuildwithMaven,uses-checkout,uses-checkout
+15,/home/runner/work/jv-hash-map/jv-hash-map/target/test-classes/core/basesyntax/Car.class,2130,1888,1886,BuildwithMaven,BuildwithMaven,BuildwithMaven
+16,/home/runner/work/jv-hash-map/jv-hash-map/src/test/java/core/basesyntax/MyHashMapTest.java,1829,915,910,BuildwithMaven,uses-checkout,uses-checkout
+17,/home/runner/work/jv-hash-map/jv-hash-map/target/test-classes/core/basesyntax/Plane.class,2133,1870,-1,BuildwithMaven,BuildwithMaven,Not provided
+18,/home/runner/work/jv-hash-map/jv-hash-map/src/main/java/core/basesyntax/MyHashMap.java,1719,876,-1,BuildwithMaven,uses-checkout,Not provided
