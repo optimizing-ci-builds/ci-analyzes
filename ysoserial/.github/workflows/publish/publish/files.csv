@@ -1,0 +1,17 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/ysoserial/ysoserial/target/ysoserial-optimizing-ci-builds-all.jar,-1,651913,5312,Not provided,Buildjar,Buildjar
+1,/home/runner/work/ysoserial/ysoserial/ysoserial.png,-1,1079,1075,Not provided,uses-checkout,uses-checkout
+2,/home/runner/work/ysoserial/ysoserial/pom.xml.versionsBackup,-1,1567,1562,Not provided,Setversion,Setversion
+3,/home/runner/work/ysoserial/ysoserial/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst,-1,2483,2481,Not provided,Buildjar,Buildjar
+4,/home/runner/work/ysoserial/ysoserial/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst,-1,2487,2485,Not provided,Buildjar,Buildjar
+5,/home/runner/work/ysoserial/ysoserial/Dockerfile,-1,720,718,Not provided,uses-checkout,uses-checkout
+6,/home/runner/work/ysoserial/ysoserial/LICENSE.txt,-1,724,722,Not provided,uses-checkout,uses-checkout
+7,/home/runner/work/ysoserial/ysoserial/README.md,-1,728,726,Not provided,uses-checkout,uses-checkout
+8,/home/runner/work/ysoserial/ysoserial/appveyor.yml,-1,732,730,Not provided,uses-checkout,uses-checkout
+9,/home/runner/work/ysoserial/ysoserial/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst,-1,3268,3266,Not provided,Buildjar,Buildjar
+10,/home/runner/work/ysoserial/ysoserial/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst,-1,3264,3262,Not provided,Buildjar,Buildjar
+11,/home/runner/work/ysoserial/ysoserial/DISCLAIMER.txt,-1,716,714,Not provided,uses-checkout,uses-checkout
+12,/home/runner/work/ysoserial/ysoserial/.travis.yml,-1,712,710,Not provided,uses-checkout,uses-checkout
+13,/home/runner/work/ysoserial/ysoserial/.gitignore,-1,708,706,Not provided,uses-checkout,uses-checkout
+14,/home/runner/work/ysoserial/ysoserial/.editorconfig,-1,692,690,Not provided,uses-checkout,uses-checkout
+15,/home/runner/work/ysoserial/ysoserial/.github/workflows/publish.yml,-1,700,698,Not provided,uses-checkout,uses-checkout
