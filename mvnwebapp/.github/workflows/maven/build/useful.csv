@@ -1,0 +1,10 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/mvnwebapp/mvnwebapp/target/mvnwebapp.war,1887,1865,1274,mkdirdeploymentcptargetwardeployment,BuildwithMaven,BuildwithMaven
+1,/home/runner/work/mvnwebapp/mvnwebapp/target/mvnwebapp/WEB-INF/lib/javax.servlet-api-3.0.1.jar,1520,1170,1148,BuildwithMaven,BuildwithMaven,BuildwithMaven
+2,/home/runner/work/mvnwebapp/mvnwebapp/target/maven-archiver/pom.properties,1631,1179,1177,BuildwithMaven,BuildwithMaven,BuildwithMaven
+3,/home/runner/work/mvnwebapp/mvnwebapp/target/mvnwebapp/index.jsp,1553,1136,1133,BuildwithMaven,BuildwithMaven,BuildwithMaven
+4,/home/runner/work/mvnwebapp/mvnwebapp/target/mvnwebapp/WEB-INF/web.xml,1360,1128,1125,BuildwithMaven,BuildwithMaven,BuildwithMaven
+5,/home/runner/work/mvnwebapp/mvnwebapp/src/main/webapp/index.jsp,1135,900,895,BuildwithMaven,uses-checkout,uses-checkout
+6,/home/runner/work/mvnwebapp/mvnwebapp/src/main/webapp/WEB-INF/web.xml,1127,892,885,BuildwithMaven,uses-checkout,uses-checkout
+7,/home/runner/work/mvnwebapp/mvnwebapp/pom.xml,1613,879,874,BuildwithMaven,uses-checkout,uses-checkout
+8,/home/runner/work/mvnwebapp/mvnwebapp/.github/workflows/script.py,1948,839,834,finished,uses-checkout,uses-checkout
