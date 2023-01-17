@@ -1,0 +1,12 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/MavenTestCI/MavenTestCI/target/jacoco.exec,3224,3207,1395,TestwithMaven,TestwithMaven,uses-checkout
+1,/home/runner/work/MavenTestCI/MavenTestCI/target/surefire/surefirebooter17535527265730592867.jar,2299,2274,2252,TestwithMaven,TestwithMaven,TestwithMaven
+2,/home/runner/work/MavenTestCI/MavenTestCI/target/classes/Indicator.class,3333,2118,2112,TestwithMaven,TestwithMaven,TestwithMaven
+3,/home/runner/work/MavenTestCI/MavenTestCI/target/site/jacoco/jacoco.xml,3610,3366,1669,Codecov,TestwithMaven,uses-checkout
+4,/home/runner/work/MavenTestCI/MavenTestCI/target/test-classes/Test.class,2307,2208,2206,TestwithMaven,TestwithMaven,TestwithMaven
+5,/home/runner/work/MavenTestCI/MavenTestCI/target/surefire/surefire16062811072233874836tmp,2304,2243,2238,TestwithMaven,TestwithMaven,TestwithMaven
+6,/home/runner/work/MavenTestCI/MavenTestCI/target/surefire/surefire_017798187636355791276tmp,2301,2250,2245,TestwithMaven,TestwithMaven,TestwithMaven
+7,/home/runner/work/MavenTestCI/MavenTestCI/pom.xml,1882,1359,1354,TestwithMaven,uses-checkout,uses-checkout
+8,/home/runner/work/MavenTestCI/MavenTestCI/.github/workflows/script.py,3626,1301,1296,finished,uses-checkout,uses-checkout
+9,/home/runner/work/MavenTestCI/MavenTestCI/src/test/java/Test.java,2173,1381,-1,TestwithMaven,uses-checkout,Not provided
+10,/home/runner/work/MavenTestCI/MavenTestCI/src/main/java/Indicator.java,3340,1370,-1,TestwithMaven,uses-checkout,Not provided
