@@ -1,0 +1,11 @@
+,file_name
+0,/home/runner/work/kafdrop/kafdrop/target/kafdrop-3.31.0-SNAPSHOT.jar
+24,/home/runner/work/kafdrop/kafdrop/target/surefire-reports/TEST-kafdrop.KafdropTest.xml
+32,/home/runner/work/kafdrop/kafdrop/target/failsafe-reports/TEST-kafdrop.KafdropIT.xml
+35,/home/runner/work/kafdrop/kafdrop/target/docker-ready/kafdrop.sh
+36,/home/runner/work/kafdrop/kafdrop/target/docker-ready/Dockerfile
+37,/home/runner/work/kafdrop/kafdrop/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+38,/home/runner/work/kafdrop/kafdrop/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+40,/home/runner/work/kafdrop/kafdrop/target/surefire-reports/kafdrop.KafdropTest.txt
+68,/home/runner/work/kafdrop/kafdrop/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+71,/home/runner/work/kafdrop/kafdrop/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
