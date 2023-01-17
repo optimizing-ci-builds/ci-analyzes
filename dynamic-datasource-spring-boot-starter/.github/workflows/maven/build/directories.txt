@@ -1,0 +1,32 @@
+
+└──  home 1
+    └──  runner 1
+        └──  work 1
+            └──  dynamic-datasource-spring-boot-starter 1
+                └──  dynamic-datasource-spring-boot-starter 11
+                    ├──  target 2
+                    │   ├──  dynamic-datasource-spring-boot-starter-3.5.2.jar 0
+                    │   └──  maven-status 1
+                    │       └──  maven-compiler-plugin 1
+                    │           └──  compile 1
+                    │               └──  default-compile 2
+                    │                   ├──  inputFiles.lst 0
+                    │                   └──  createdFiles.lst 0
+                    ├──  src 1
+                    │   └──  main 1
+                    │       └──  resources 1
+                    │           └──  META-INF 1
+                    │               └──  spring.factories 0
+                    ├──  .github 2
+                    │   ├──  FUNDING.yml 0
+                    │   └──  workflows 2
+                    │       ├──  maven.yml 0
+                    │       └──  codeql-analysis.yml 0
+                    ├──  .gitignore 0
+                    ├──  CODE_OF_CONDUCT.md 0
+                    ├──  CONTRIBUTING.md 0
+                    ├──  ISSUE_TEMPLATE 0
+                    ├──  LICENSE 0
+                    ├──  PULL_REQUEST_TEMPLATE 0
+                    ├──  README.md 0
+                    └──  license.txt 0
