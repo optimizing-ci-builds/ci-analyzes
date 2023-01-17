@@ -1,0 +1,762 @@
+
+└──  home 1
+    └──  runner 1
+        └──  work 1
+            └──  open-location-code 1
+                └──  open-location-code 29
+                    ├──  rust 1
+                    │   └──  target 1
+                    │       └──  debug 5
+                    │           ├──  build 10
+                    │           │   ├──  num-traits-afbfd9bd626292da 1
+                    │           │   │   └──  build_script_build-afbfd9bd626292da 0
+                    │           │   ├──  typenum-6aff34646834369b 1
+                    │           │   │   └──  build_script_main-6aff34646834369b 0
+                    │           │   ├──  generic-array-52769097e64aaabe 1
+                    │           │   │   └──  build_script_build-52769097e64aaabe 0
+                    │           │   ├──  libc-e1b769d91292e9e0 1
+                    │           │   │   └──  build_script_build-e1b769d91292e9e0 0
+                    │           │   ├──  heapless-9764ff329b3c53a3 1
+                    │           │   │   └──  build_script_build-9764ff329b3c53a3 0
+                    │           │   ├──  typenum-39216c1abf945cba 2
+                    │           │   │   ├──  out 1
+                    │           │   │   │   └──  tests.rs 0
+                    │           │   │   └──  invoked.timestamp 0
+                    │           │   ├──  num-traits-62e734f9903c7558 2
+                    │           │   │   ├──  out 16
+                    │           │   │   │   ├──  rmetaskdylN 1
+                    │           │   │   │   │   └──  lib.rmeta 0
+                    │           │   │   │   ├──  probe6.ll 0
+                    │           │   │   │   ├──  probe3.ll 0
+                    │           │   │   │   ├──  probe2.ll 0
+                    │           │   │   │   ├──  probe4.ll 0
+                    │           │   │   │   ├──  probe5.ll 0
+                    │           │   │   │   ├──  probe0.ll 0
+                    │           │   │   │   ├──  rmetanoVtEa 1
+                    │           │   │   │   │   └──  lib.rmeta 0
+                    │           │   │   │   ├──  probe1.ll 0
+                    │           │   │   │   ├──  rmetaL4MuNb 1
+                    │           │   │   │   │   └──  lib.rmeta 0
+                    │           │   │   │   ├──  rmetaQd3Dla 1
+                    │           │   │   │   │   └──  lib.rmeta 0
+                    │           │   │   │   ├──  probe7.ll 0
+                    │           │   │   │   ├──  rmetaf24eiC 1
+                    │           │   │   │   │   └──  lib.rmeta 0
+                    │           │   │   │   ├──  rmetaQ7GRFU 1
+                    │           │   │   │   │   └──  lib.rmeta 0
+                    │           │   │   │   ├──  rmeta9nmbEe 1
+                    │           │   │   │   │   └──  lib.rmeta 0
+                    │           │   │   │   └──  rmeta33yMvQ 1
+                    │           │   │   │       └──  lib.rmeta 0
+                    │           │   │   └──  invoked.timestamp 0
+                    │           │   ├──  libc-d19a1e585b340d18 3
+                    │           │   │   ├──  invoked.timestamp 0
+                    │           │   │   ├──  output 0
+                    │           │   │   └──  root-output 0
+                    │           │   ├──  generic-array-2833e2bd58c227af 1
+                    │           │   │   └──  invoked.timestamp 0
+                    │           │   └──  heapless-48a59b07ead3974c 1
+                    │           │       └──  invoked.timestamp 0
+                    │           ├──  deps 207
+                    │           │   ├──  rmetaMJQ1Cg 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  rmetaE09YMv 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  rmeta6hcQpB 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  rmeta2e6xJj 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  rmeta6VZu18 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  rmetagFtYlE 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  rmetaAuS9Lp 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  rmetaPriVJF 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  rmetaUDUSsc 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  libopen_location_code-ea66c6b02eef0352.rlib.temp-archive-9800176.a 0
+                    │           │   ├──  rmetagMvP7h 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  rmetaPvTqVs 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  rmetaEQkdxe 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  rmeta1sBmu2 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  libversion_check-91f02dbee80c992c.rlib.temp-archive-07885c3.a 0
+                    │           │   ├──  libautocfg-fb9a09bc8f1dcfcb.rlib.temp-archive-e565d54.a 0
+                    │           │   ├──  libgeographiclib_rs-0473ee6cb4de8226.rlib.temp-archive-de86592.a 0
+                    │           │   ├──  libgetrandom-1b176d002d7e0fae.rlib.temp-archive-8b35913.a 0
+                    │           │   ├──  librand_core-d7760709a45ad524.rlib.temp-archive-ba63c5a.a 0
+                    │           │   ├──  rmeta7NtK1X 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  rmetaxxUkzh 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  liblibc-dee088681aa6b9a3.rlib.temp-archive-e445499.a 0
+                    │           │   ├──  libgeo-115ffc5f8a5a74dc.rlib.temp-archive-700d05e.a 0
+                    │           │   ├──  libnum_traits-771fbf2350708d51.rlib.temp-archive-385ecb8.a 0
+                    │           │   ├──  rmetaAJpHMT 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  librand-29eedfbdcba912e1.rlib.temp-archive-22f35f4.a 0
+                    │           │   ├──  rmetabw5DoX 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  librand_chacha-b538efec0dce371e.rlib.temp-archive-2b7005d.a 0
+                    │           │   ├──  rmetaiCHJmD 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  rmetaz3s6uB 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  libheapless-8a6a54212439acef.rlib.temp-archive-76a6f82.a 0
+                    │           │   ├──  librobust-b1442d3609971dc6.rlib.temp-archive-37a9a35.a 0
+                    │           │   ├──  rmetalB3Ye1 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  rmetalIMAoR 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  rmetatiG8V5 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  libtypenum-e3f03a73493daee7.rlib.temp-archive-fe7d6e2.a 0
+                    │           │   ├──  rmetas7koJu 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  rmetahyvqIn 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  rmetaxUqKkg 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  libgeneric_array-b69100f41e54ac3d.rlib.temp-archive-cff580a.a 0
+                    │           │   ├──  libsmallvec-334ab610f9d65188.rlib.temp-archive-278b582.a 0
+                    │           │   ├──  libgeneric_array-6bc541064da118cd.rlib.temp-archive-bf77508.a 0
+                    │           │   ├──  libgeo_types-70b1b14bfbb66f34.rlib.temp-archive-7c05c22.a 0
+                    │           │   ├──  rmetan6hGfo 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  rmetavEM0W5 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  libgeneric_array-d4d4d0d8701e068e.rlib.temp-archive-982bc53.a 0
+                    │           │   ├──  rmetaXYq55Q 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  libppv_lite86-2ed1ce4f114622d2.rlib.temp-archive-256ae9b.a 0
+                    │           │   ├──  libas_slice-6ddbeac3a7334a76.rlib.temp-archive-371e9c7.a 0
+                    │           │   ├──  geographiclib_rs-0473ee6cb4de8226.geographiclib_rs.7b772648-cgu.5.rcgu.o 0
+                    │           │   ├──  geographiclib_rs-0473ee6cb4de8226.geographiclib_rs.7b772648-cgu.4.rcgu.o 0
+                    │           │   ├──  geo-115ffc5f8a5a74dc.geo.7d9e7637-cgu.1.rcgu.o 0
+                    │           │   ├──  geographiclib_rs-0473ee6cb4de8226.geographiclib_rs.7b772648-cgu.10.rcgu.o 0
+                    │           │   ├──  autocfg-fb9a09bc8f1dcfcb.autocfg.c0017d1a-cgu.10.rcgu.o 0
+                    │           │   ├──  libc-dee088681aa6b9a3.libc.bd6a8f29-cgu.9.rcgu.o 0
+                    │           │   ├──  geographiclib_rs-0473ee6cb4de8226.geographiclib_rs.7b772648-cgu.9.rcgu.o 0
+                    │           │   ├──  geographiclib_rs-0473ee6cb4de8226.geographiclib_rs.7b772648-cgu.15.rcgu.o 0
+                    │           │   ├──  rmetaJWhPwN 1
+                    │           │   │   └──  lib.rmeta 0
+                    │           │   ├──  geographiclib_rs-0473ee6cb4de8226.geographiclib_rs.7b772648-cgu.7.rcgu.o 0
+                    │           │   ├──  geographiclib_rs-0473ee6cb4de8226.geographiclib_rs.7b772648-cgu.6.rcgu.o 0
+                    │           │   ├──  libc-dee088681aa6b9a3.libc.bd6a8f29-cgu.2.rcgu.o 0
+                    │           │   ├──  version_check-91f02dbee80c992c.version_check.ebe511cd-cgu.2.rcgu.o 0
+                    │           │   ├──  open_location_code-ea66c6b02eef0352.3tnz8ome9lh0f3a5.rcgu.o 0
+                    │           │   ├──  geo-115ffc5f8a5a74dc.geo.7d9e7637-cgu.7.rcgu.o 0
+                    │           │   ├──  open_location_code-ea66c6b02eef0352.1ztkjwcsttz1ba4u.rcgu.o 0
+                    │           │   ├──  open_location_code-ea66c6b02eef0352.20d2cg7zeirfq17d.rcgu.o 0
+                    │           │   ├──  open_location_code-ea66c6b02eef0352.423ikr3ohe1xzt6a.rcgu.o 0
+                    │           │   ├──  open_location_code-ea66c6b02eef0352.27b43rjic7jzg452.rcgu.o 0
+                    │           │   ├──  autocfg-fb9a09bc8f1dcfcb.autocfg.c0017d1a-cgu.7.rcgu.o 0
+                    │           │   ├──  autocfg-fb9a09bc8f1dcfcb.autocfg.c0017d1a-cgu.6.rcgu.o 0
+                    │           │   ├──  autocfg-fb9a09bc8f1dcfcb.autocfg.c0017d1a-cgu.8.rcgu.o 0
+                    │           │   ├──  autocfg-fb9a09bc8f1dcfcb.autocfg.c0017d1a-cgu.5.rcgu.o 0
+                    │           │   ├──  open_location_code-ea66c6b02eef0352.1k41wsazgn5eamkf.rcgu.o 0
+                    │           │   ├──  autocfg-fb9a09bc8f1dcfcb.autocfg.c0017d1a-cgu.0.rcgu.o 0
+                    │           │   ├──  open_location_code-ea66c6b02eef0352.322t7enogdvwr4d7.rcgu.o 0
+                    │           │   ├──  autocfg-fb9a09bc8f1dcfcb.autocfg.c0017d1a-cgu.14.rcgu.o 0
+                    │           │   ├──  autocfg-fb9a09bc8f1dcfcb.autocfg.c0017d1a-cgu.1.rcgu.o 0
+                    │           │   ├──  autocfg-fb9a09bc8f1dcfcb.autocfg.c0017d1a-cgu.13.rcgu.o 0
+                    │           │   ├──  autocfg-fb9a09bc8f1dcfcb.autocfg.c0017d1a-cgu.15.rcgu.o 0
+                    │           │   ├──  autocfg-fb9a09bc8f1dcfcb.autocfg.c0017d1a-cgu.9.rcgu.o 0
+                    │           │   ├──  open_location_code-ea66c6b02eef0352.4jbex1he5itpimvf.rcgu.o 0
+                    │           │   ├──  open_location_code-ea66c6b02eef0352.1a9nfgf3rdcnbhhn.rcgu.o 0
+                    │           │   ├──  open_location_code-ea66c6b02eef0352.3nfxxyi6u86go862.rcgu.o 0
+                    │           │   ├──  version_check-91f02dbee80c992c.version_check.ebe511cd-cgu.15.rcgu.o 0
+                    │           │   ├──  version_check-91f02dbee80c992c.version_check.ebe511cd-cgu.12.rcgu.o 0
+                    │           │   ├──  libc-dee088681aa6b9a3.libc.bd6a8f29-cgu.5.rcgu.o 0
+                    │           │   ├──  open_location_code-ea66c6b02eef0352.2app3yaum04ca75q.rcgu.o 0
+                    │           │   ├──  geographiclib_rs-0473ee6cb4de8226.geographiclib_rs.7b772648-cgu.12.rcgu.o 0
+                    │           │   ├──  autocfg-fb9a09bc8f1dcfcb.autocfg.c0017d1a-cgu.4.rcgu.o 0
+                    │           │   ├──  geographiclib_rs-0473ee6cb4de8226.geographiclib_rs.7b772648-cgu.0.rcgu.o 0
+                    │           │   ├──  rand_core-d7760709a45ad524.rand_core.022331ec-cgu.1.rcgu.o 0
+                    │           │   ├──  rand_core-d7760709a45ad524.rand_core.022331ec-cgu.14.rcgu.o 0
+                    │           │   ├──  rand_core-d7760709a45ad524.rand_core.022331ec-cgu.5.rcgu.o 0
+                    │           │   ├──  rand_core-d7760709a45ad524.rand_core.022331ec-cgu.8.rcgu.o 0
+                    │           │   ├──  rand_core-d7760709a45ad524.rand_core.022331ec-cgu.0.rcgu.o 0
+                    │           │   ├──  libbyteorder-0f82dd0bf39f2d6d.rlib.temp-archive-23305bf.a 0
+                    │           │   ├──  rand-29eedfbdcba912e1.rand.786158c5-cgu.13.rcgu.o 0
+                    │           │   ├──  rand-29eedfbdcba912e1.rand.786158c5-cgu.15.rcgu.o 0
+                    │           │   ├──  rand-29eedfbdcba912e1.rand.786158c5-cgu.12.rcgu.o 0
+                    │           │   ├──  rand-29eedfbdcba912e1.rand.786158c5-cgu.2.rcgu.o 0
+                    │           │   ├──  rand-29eedfbdcba912e1.rand.786158c5-cgu.4.rcgu.o 0
+                    │           │   ├──  rand_chacha-b538efec0dce371e.rand_chacha.bc380e03-cgu.4.rcgu.o 0
+                    │           │   ├──  rand_core-d7760709a45ad524.rand_core.022331ec-cgu.7.rcgu.o 0
+                    │           │   ├──  rand-29eedfbdcba912e1.rand.786158c5-cgu.3.rcgu.o 0
+                    │           │   ├──  rand-29eedfbdcba912e1.rand.786158c5-cgu.5.rcgu.o 0
+                    │           │   ├──  rand-29eedfbdcba912e1.rand.786158c5-cgu.9.rcgu.o 0
+                    │           │   ├──  rand-29eedfbdcba912e1.rand.786158c5-cgu.6.rcgu.o 0
+                    │           │   ├──  rand_core-d7760709a45ad524.rand_core.022331ec-cgu.15.rcgu.o 0
+                    │           │   ├──  rand-29eedfbdcba912e1.rand.786158c5-cgu.0.rcgu.o 0
+                    │           │   ├──  librstar-becdb233c9d1ed7d.rlib.temp-archive-10d442c.a 0
+                    │           │   ├──  geographiclib_rs-0473ee6cb4de8226.geographiclib_rs.7b772648-cgu.2.rcgu.o 0
+                    │           │   ├──  geographiclib_rs-0473ee6cb4de8226.geographiclib_rs.7b772648-cgu.1.rcgu.o 0
+                    │           │   ├──  geographiclib_rs-0473ee6cb4de8226.geographiclib_rs.7b772648-cgu.14.rcgu.o 0
+                    │           │   ├──  getrandom-1b176d002d7e0fae.getrandom.5b8fa355-cgu.5.rcgu.o 0
+                    │           │   ├──  getrandom-1b176d002d7e0fae.getrandom.5b8fa355-cgu.0.rcgu.o 0
+                    │           │   ├──  getrandom-1b176d002d7e0fae.getrandom.5b8fa355-cgu.12.rcgu.o 0
+                    │           │   ├──  getrandom-1b176d002d7e0fae.getrandom.5b8fa355-cgu.1.rcgu.o 0
+                    │           │   ├──  getrandom-1b176d002d7e0fae.getrandom.5b8fa355-cgu.4.rcgu.o 0
+                    │           │   ├──  geographiclib_rs-0473ee6cb4de8226.geographiclib_rs.7b772648-cgu.13.rcgu.o 0
+                    │           │   ├──  getrandom-1b176d002d7e0fae.getrandom.5b8fa355-cgu.9.rcgu.o 0
+                    │           │   ├──  getrandom-1b176d002d7e0fae.getrandom.5b8fa355-cgu.8.rcgu.o 0
+                    │           │   ├──  libc-dee088681aa6b9a3.libc.bd6a8f29-cgu.0.rcgu.o 0
+                    │           │   ├──  geographiclib_rs-0473ee6cb4de8226.geographiclib_rs.7b772648-cgu.3.rcgu.o 0
+                    │           │   ├──  getrandom-1b176d002d7e0fae.getrandom.5b8fa355-cgu.7.rcgu.o 0
+                    │           │   ├──  getrandom-1b176d002d7e0fae.getrandom.5b8fa355-cgu.15.rcgu.o 0
+                    │           │   ├──  geographiclib_rs-0473ee6cb4de8226.geographiclib_rs.7b772648-cgu.11.rcgu.o 0
+                    │           │   ├──  getrandom-1b176d002d7e0fae.getrandom.5b8fa355-cgu.3.rcgu.o 0
+                    │           │   ├──  smallvec-334ab610f9d65188.smallvec.16a9fe29-cgu.3.rcgu.o 0
+                    │           │   ├──  smallvec-334ab610f9d65188.smallvec.16a9fe29-cgu.2.rcgu.o 0
+                    │           │   ├──  libapprox-e0cc447aad4fa4f2.rlib.temp-archive-995139e.a 0
+                    │           │   ├──  libpdqselect-b4be9f71439b8793.rlib.temp-archive-d3b7372.a 0
+                    │           │   ├──  geo-115ffc5f8a5a74dc.geo.7d9e7637-cgu.4.rcgu.o 0
+                    │           │   ├──  robust-b1442d3609971dc6.robust.645cea53-cgu.3.rcgu.o 0
+                    │           │   ├──  robust-b1442d3609971dc6.robust.645cea53-cgu.2.rcgu.o 0
+                    │           │   ├──  robust-b1442d3609971dc6.robust.645cea53-cgu.4.rcgu.o 0
+                    │           │   ├──  robust-b1442d3609971dc6.robust.645cea53-cgu.6.rcgu.o 0
+                    │           │   ├──  robust-b1442d3609971dc6.robust.645cea53-cgu.10.rcgu.o 0
+                    │           │   ├──  geo-115ffc5f8a5a74dc.geo.7d9e7637-cgu.9.rcgu.o 0
+                    │           │   ├──  liblazy_static-0979de6da59c6ace.rlib.temp-archive-3936fd7.a 0
+                    │           │   ├──  geo-115ffc5f8a5a74dc.geo.7d9e7637-cgu.11.rcgu.o 0
+                    │           │   ├──  geo-115ffc5f8a5a74dc.geo.7d9e7637-cgu.3.rcgu.o 0
+                    │           │   ├──  geo-115ffc5f8a5a74dc.geo.7d9e7637-cgu.0.rcgu.o 0
+                    │           │   ├──  open_location_code-ea66c6b02eef0352.4749jtkruxtq3nyv.rcgu.o 0
+                    │           │   ├──  rand_chacha-b538efec0dce371e.rand_chacha.bc380e03-cgu.11.rcgu.o 0
+                    │           │   ├──  rand_chacha-b538efec0dce371e.rand_chacha.bc380e03-cgu.14.rcgu.o 0
+                    │           │   ├──  rand_chacha-b538efec0dce371e.rand_chacha.bc380e03-cgu.0.rcgu.o 0
+                    │           │   ├──  rand_chacha-b538efec0dce371e.rand_chacha.bc380e03-cgu.1.rcgu.o 0
+                    │           │   ├──  rand_chacha-b538efec0dce371e.rand_chacha.bc380e03-cgu.10.rcgu.o 0
+                    │           │   ├──  rand_chacha-b538efec0dce371e.rand_chacha.bc380e03-cgu.2.rcgu.o 0
+                    │           │   ├──  rand_chacha-b538efec0dce371e.rand_chacha.bc380e03-cgu.9.rcgu.o 0
+                    │           │   ├──  rand_chacha-b538efec0dce371e.rand_chacha.bc380e03-cgu.3.rcgu.o 0
+                    │           │   ├──  rand_chacha-b538efec0dce371e.rand_chacha.bc380e03-cgu.13.rcgu.o 0
+                    │           │   ├──  rand_chacha-b538efec0dce371e.rand_chacha.bc380e03-cgu.8.rcgu.o 0
+                    │           │   ├──  rand_chacha-b538efec0dce371e.rand_chacha.bc380e03-cgu.5.rcgu.o 0
+                    │           │   ├──  rand_chacha-b538efec0dce371e.rand_chacha.bc380e03-cgu.7.rcgu.o 0
+                    │           │   ├──  rand_chacha-b538efec0dce371e.rand_chacha.bc380e03-cgu.15.rcgu.o 0
+                    │           │   ├──  rand_core-d7760709a45ad524.rand_core.022331ec-cgu.6.rcgu.o 0
+                    │           │   ├──  rand_core-d7760709a45ad524.rand_core.022331ec-cgu.4.rcgu.o 0
+                    │           │   ├──  libc-dee088681aa6b9a3.libc.bd6a8f29-cgu.3.rcgu.o 0
+                    │           │   ├──  rand_core-d7760709a45ad524.rand_core.022331ec-cgu.2.rcgu.o 0
+                    │           │   ├──  rand_core-d7760709a45ad524.rand_core.022331ec-cgu.12.rcgu.o 0
+                    │           │   ├──  rand_core-d7760709a45ad524.rand_core.022331ec-cgu.3.rcgu.o 0
+                    │           │   ├──  rand-29eedfbdcba912e1.rand.786158c5-cgu.14.rcgu.o 0
+                    │           │   ├──  rand-29eedfbdcba912e1.rand.786158c5-cgu.1.rcgu.o 0
+                    │           │   ├──  rand-29eedfbdcba912e1.rand.786158c5-cgu.10.rcgu.o 0
+                    │           │   ├──  rand-29eedfbdcba912e1.rand.786158c5-cgu.8.rcgu.o 0
+                    │           │   ├──  rand-29eedfbdcba912e1.rand.786158c5-cgu.7.rcgu.o 0
+                    │           │   ├──  num_traits-771fbf2350708d51.num_traits.f911de49-cgu.15.rcgu.o 0
+                    │           │   ├──  open_location_code-ea66c6b02eef0352.3bu0dumfvimzzh5n.rcgu.o 0
+                    │           │   ├──  open_location_code-ea66c6b02eef0352.3qtyad1yht1l6p6r.rcgu.o 0
+                    │           │   ├──  open_location_code-ea66c6b02eef0352.2q6iaoyh89vq52qd.rcgu.o 0
+                    │           │   ├──  open_location_code-ea66c6b02eef0352.k0dtwmt704knqhr.rcgu.o 0
+                    │           │   ├──  open_location_code-ea66c6b02eef0352.18wf85992jdec39q.rcgu.o 0
+                    │           │   ├──  open_location_code-ea66c6b02eef0352.191a1o51yse9e9fw.rcgu.o 0
+                    │           │   ├──  open_location_code-ea66c6b02eef0352.1dyh1btp6akejsn4.rcgu.o 0
+                    │           │   ├──  open_location_code-ea66c6b02eef0352.paqh3gpl2dbzfwf.rcgu.o 0
+                    │           │   ├──  libcfg_if-540f49c19097eeb6.rlib.temp-archive-dcc585f.a 0
+                    │           │   ├──  num_traits-771fbf2350708d51.num_traits.f911de49-cgu.8.rcgu.o 0
+                    │           │   ├──  num_traits-771fbf2350708d51.num_traits.f911de49-cgu.7.rcgu.o 0
+                    │           │   ├──  num_traits-771fbf2350708d51.num_traits.f911de49-cgu.6.rcgu.o 0
+                    │           │   ├──  autocfg-fb9a09bc8f1dcfcb.autocfg.c0017d1a-cgu.12.rcgu.o 0
+                    │           │   ├──  autocfg-fb9a09bc8f1dcfcb.autocfg.c0017d1a-cgu.2.rcgu.o 0
+                    │           │   ├──  autocfg-fb9a09bc8f1dcfcb.autocfg.c0017d1a-cgu.11.rcgu.o 0
+                    │           │   ├──  autocfg-fb9a09bc8f1dcfcb.autocfg.c0017d1a-cgu.3.rcgu.o 0
+                    │           │   ├──  libstable_deref_trait-4521191d5086d265.rlib.temp-archive-db0fb7d.a 0
+                    │           │   ├──  version_check-91f02dbee80c992c.version_check.ebe511cd-cgu.0.rcgu.o 0
+                    │           │   ├──  version_check-91f02dbee80c992c.version_check.ebe511cd-cgu.14.rcgu.o 0
+                    │           │   ├──  version_check-91f02dbee80c992c.version_check.ebe511cd-cgu.1.rcgu.o 0
+                    │           │   ├──  version_check-91f02dbee80c992c.version_check.ebe511cd-cgu.13.rcgu.o 0
+                    │           │   ├──  libhash32-a7635675bb800048.rlib.temp-archive-caf2e5f.a 0
+                    │           │   ├──  num_traits-771fbf2350708d51.num_traits.f911de49-cgu.9.rcgu.o 0
+                    │           │   ├──  num_traits-771fbf2350708d51.num_traits.f911de49-cgu.5.rcgu.o 0
+                    │           │   ├──  num_traits-771fbf2350708d51.num_traits.f911de49-cgu.4.rcgu.o 0
+                    │           │   ├──  num_traits-771fbf2350708d51.num_traits.f911de49-cgu.3.rcgu.o 0
+                    │           │   ├──  num_traits-771fbf2350708d51.num_traits.f911de49-cgu.13.rcgu.o 0
+                    │           │   ├──  num_traits-771fbf2350708d51.num_traits.f911de49-cgu.2.rcgu.o 0
+                    │           │   ├──  num_traits-771fbf2350708d51.num_traits.f911de49-cgu.0.rcgu.o 0
+                    │           │   ├──  version_check-91f02dbee80c992c.version_check.ebe511cd-cgu.11.rcgu.o 0
+                    │           │   ├──  version_check-91f02dbee80c992c.version_check.ebe511cd-cgu.5.rcgu.o 0
+                    │           │   ├──  version_check-91f02dbee80c992c.version_check.ebe511cd-cgu.9.rcgu.o 0
+                    │           │   ├──  version_check-91f02dbee80c992c.version_check.ebe511cd-cgu.8.rcgu.o 0
+                    │           │   ├──  version_check-91f02dbee80c992c.version_check.ebe511cd-cgu.6.rcgu.o 0
+                    │           │   ├──  version_check-91f02dbee80c992c.version_check.ebe511cd-cgu.7.rcgu.o 0
+                    │           │   ├──  version_check-91f02dbee80c992c.version_check.ebe511cd-cgu.4.rcgu.o 0
+                    │           │   ├──  version_check-91f02dbee80c992c.version_check.ebe511cd-cgu.10.rcgu.o 0
+                    │           │   ├──  hash32-a7635675bb800048.hash32.fa669359-cgu.10.rcgu.o 0
+                    │           │   └──  version_check-91f02dbee80c992c.version_check.ebe511cd-cgu.3.rcgu.o 0
+                    │           ├──  incremental 4
+                    │           │   ├──  all_test-p5iqv3n94aa2 1
+                    │           │   │   └──  s-ghdquw0ocp-1y2v4u8-working 3
+                    │           │   │       ├──  dep-graph.part.bin 0
+                    │           │   │       ├──  query-cache.bin 0
+                    │           │   │       └──  work-products.bin 0
+                    │           │   ├──  open_location_code-1w37j1vj3k21d 1
+                    │           │   │   └──  s-ghdquu91mh-1fpmppo-working 3
+                    │           │   │       ├──  dep-graph.part.bin 0
+                    │           │   │       ├──  query-cache.bin 0
+                    │           │   │       └──  work-products.bin 0
+                    │           │   ├──  open_location_code-esa3kpur0u08 1
+                    │           │   │   └──  s-ghdquw0o7r-1eqiua0-working 3
+                    │           │   │       ├──  dep-graph.part.bin 0
+                    │           │   │       ├──  work-products.bin 0
+                    │           │   │       └──  query-cache.bin 0
+                    │           │   └──  csv_reader-jdyuu85rb1cp 1
+                    │           │       └──  s-ghdquwienl-i3m3ds-working 3
+                    │           │           ├──  dep-graph.part.bin 0
+                    │           │           ├──  query-cache.bin 0
+                    │           │           └──  work-products.bin 0
+                    │           ├──  .fingerprint 42
+                    │           │   ├──  lazy_static-0979de6da59c6ace 2
+                    │           │   │   ├──  invoked.timestamp 0
+                    │           │   │   └──  lib-lazy_static.json 0
+                    │           │   ├──  approx-e0cc447aad4fa4f2 2
+                    │           │   │   ├──  lib-approx.json 0
+                    │           │   │   └──  invoked.timestamp 0
+                    │           │   ├──  smallvec-334ab610f9d65188 2
+                    │           │   │   ├──  invoked.timestamp 0
+                    │           │   │   └──  lib-smallvec.json 0
+                    │           │   ├──  pdqselect-b4be9f71439b8793 2
+                    │           │   │   ├──  lib-pdqselect.json 0
+                    │           │   │   └──  invoked.timestamp 0
+                    │           │   ├──  num-traits-771fbf2350708d51 2
+                    │           │   │   ├──  lib-num-traits.json 0
+                    │           │   │   └──  invoked.timestamp 0
+                    │           │   ├──  heapless-8a6a54212439acef 2
+                    │           │   │   ├──  lib-heapless.json 0
+                    │           │   │   └──  invoked.timestamp 0
+                    │           │   ├──  geo-115ffc5f8a5a74dc 2
+                    │           │   │   ├──  lib-geo.json 0
+                    │           │   │   └──  invoked.timestamp 0
+                    │           │   ├──  rstar-becdb233c9d1ed7d 2
+                    │           │   │   ├──  lib-rstar.json 0
+                    │           │   │   └──  invoked.timestamp 0
+                    │           │   ├──  geo-types-70b1b14bfbb66f34 2
+                    │           │   │   ├──  lib-geo-types.json 0
+                    │           │   │   └──  invoked.timestamp 0
+                    │           │   ├──  robust-b1442d3609971dc6 2
+                    │           │   │   ├──  invoked.timestamp 0
+                    │           │   │   └──  lib-robust.json 0
+                    │           │   ├──  geographiclib-rs-0473ee6cb4de8226 2
+                    │           │   │   ├──  lib-geographiclib-rs.json 0
+                    │           │   │   └──  invoked.timestamp 0
+                    │           │   ├──  open-location-code-ea66c6b02eef0352 2
+                    │           │   │   ├──  invoked.timestamp 0
+                    │           │   │   └──  lib-open-location-code.json 0
+                    │           │   ├──  rand_core-d7760709a45ad524 4
+                    │           │   │   ├──  dep-lib-rand_core 0
+                    │           │   │   ├──  lib-rand_core 0
+                    │           │   │   ├──  lib-rand_core.json 0
+                    │           │   │   └──  invoked.timestamp 0
+                    │           │   ├──  rand-29eedfbdcba912e1 4
+                    │           │   │   ├──  invoked.timestamp 0
+                    │           │   │   ├──  dep-lib-rand 0
+                    │           │   │   ├──  lib-rand 0
+                    │           │   │   └──  lib-rand.json 0
+                    │           │   ├──  rand_chacha-b538efec0dce371e 4
+                    │           │   │   ├──  dep-lib-rand_chacha 0
+                    │           │   │   ├──  lib-rand_chacha 0
+                    │           │   │   ├──  invoked.timestamp 0
+                    │           │   │   └──  lib-rand_chacha.json 0
+                    │           │   ├──  ppv-lite86-2ed1ce4f114622d2 4
+                    │           │   │   ├──  lib-ppv-lite86.json 0
+                    │           │   │   ├──  lib-ppv-lite86 0
+                    │           │   │   ├──  dep-lib-ppv-lite86 0
+                    │           │   │   └──  invoked.timestamp 0
+                    │           │   ├──  getrandom-1b176d002d7e0fae 4
+                    │           │   │   ├──  invoked.timestamp 0
+                    │           │   │   ├──  dep-lib-getrandom 0
+                    │           │   │   ├──  lib-getrandom 0
+                    │           │   │   └──  lib-getrandom.json 0
+                    │           │   ├──  libc-dee088681aa6b9a3 4
+                    │           │   │   ├──  dep-lib-libc 0
+                    │           │   │   ├──  lib-libc 0
+                    │           │   │   ├──  lib-libc.json 0
+                    │           │   │   └──  invoked.timestamp 0
+                    │           │   ├──  open-location-code-5262a5061e1033b8 3
+                    │           │   │   ├──  invoked.timestamp 0
+                    │           │   │   ├──  test-lib-open-location-code.json 0
+                    │           │   │   └──  test-lib-open-location-code 0
+                    │           │   ├──  open-location-code-e32c9351cabe95d5 3
+                    │           │   │   ├──  invoked.timestamp 0
+                    │           │   │   ├──  test-integration-test-all_test 0
+                    │           │   │   └──  test-integration-test-all_test.json 0
+                    │           │   ├──  libc-e1b769d91292e9e0 4
+                    │           │   │   ├──  dep-build-script-build-script-build 0
+                    │           │   │   ├──  build-script-build-script-build 0
+                    │           │   │   ├──  build-script-build-script-build.json 0
+                    │           │   │   └──  invoked.timestamp 0
+                    │           │   ├──  libc-d19a1e585b340d18 2
+                    │           │   │   ├──  run-build-script-build-script-build 0
+                    │           │   │   └──  run-build-script-build-script-build.json 0
+                    │           │   ├──  cfg-if-540f49c19097eeb6 4
+                    │           │   │   ├──  invoked.timestamp 0
+                    │           │   │   ├──  dep-lib-cfg-if 0
+                    │           │   │   ├──  lib-cfg-if 0
+                    │           │   │   └──  lib-cfg-if.json 0
+                    │           │   ├──  typenum-6aff34646834369b 2
+                    │           │   │   ├──  invoked.timestamp 0
+                    │           │   │   └──  build-script-build-script-main.json 0
+                    │           │   ├──  open-location-code-b8995412c9b9ab4b 3
+                    │           │   │   ├──  test-integration-test-csv_reader.json 0
+                    │           │   │   ├──  test-integration-test-csv_reader 0
+                    │           │   │   └──  invoked.timestamp 0
+                    │           │   ├──  generic-array-b69100f41e54ac3d 2
+                    │           │   │   ├──  invoked.timestamp 0
+                    │           │   │   └──  lib-generic_array.json 0
+                    │           │   ├──  num-traits-afbfd9bd626292da 2
+                    │           │   │   ├──  build-script-build-script-build.json 0
+                    │           │   │   └──  invoked.timestamp 0
+                    │           │   ├──  generic-array-2833e2bd58c227af 1
+                    │           │   │   └──  run-build-script-build-script-build.json 0
+                    │           │   ├──  typenum-e3f03a73493daee7 2
+                    │           │   │   ├──  lib-typenum.json 0
+                    │           │   │   └──  invoked.timestamp 0
+                    │           │   ├──  typenum-39216c1abf945cba 1
+                    │           │   │   └──  run-build-script-build-script-main.json 0
+                    │           │   ├──  autocfg-fb9a09bc8f1dcfcb 2
+                    │           │   │   ├──  lib-autocfg.json 0
+                    │           │   │   └──  invoked.timestamp 0
+                    │           │   ├──  heapless-48a59b07ead3974c 1
+                    │           │   │   └──  run-build-script-build-script-build.json 0
+                    │           │   ├──  generic-array-6bc541064da118cd 2
+                    │           │   │   ├──  invoked.timestamp 0
+                    │           │   │   └──  lib-generic_array.json 0
+                    │           │   ├──  heapless-9764ff329b3c53a3 2
+                    │           │   │   ├──  invoked.timestamp 0
+                    │           │   │   └──  build-script-build-script-build.json 0
+                    │           │   ├──  num-traits-62e734f9903c7558 1
+                    │           │   │   └──  run-build-script-build-script-build.json 0
+                    │           │   ├──  byteorder-0f82dd0bf39f2d6d 2
+                    │           │   │   ├──  invoked.timestamp 0
+                    │           │   │   └──  lib-byteorder.json 0
+                    │           │   ├──  stable_deref_trait-4521191d5086d265 2
+                    │           │   │   ├──  lib-stable_deref_trait.json 0
+                    │           │   │   └──  invoked.timestamp 0
+                    │           │   ├──  generic-array-d4d4d0d8701e068e 2
+                    │           │   │   ├──  invoked.timestamp 0
+                    │           │   │   └──  lib-generic_array.json 0
+                    │           │   ├──  version_check-91f02dbee80c992c 2
+                    │           │   │   ├──  invoked.timestamp 0
+                    │           │   │   └──  lib-version_check.json 0
+                    │           │   ├──  as-slice-6ddbeac3a7334a76 2
+                    │           │   │   ├──  lib-as-slice.json 0
+                    │           │   │   └──  invoked.timestamp 0
+                    │           │   ├──  hash32-a7635675bb800048 2
+                    │           │   │   ├──  lib-hash32.json 0
+                    │           │   │   └──  invoked.timestamp 0
+                    │           │   └──  generic-array-52769097e64aaabe 2
+                    │           │       ├──  build-script-build-script-build.json 0
+                    │           │       └──  invoked.timestamp 0
+                    │           └──  libopen_location_code.d 0
+                    ├──  docs 4
+                    │   ├──  images 5
+                    │   │   ├──  code_areas.png 0
+                    │   │   ├──  olc_10_character.png 0
+                    │   │   ├──  olc_11_grid.png 0
+                    │   │   ├──  geohash36_grid.png 0
+                    │   │   └──  openpostcode_grid.png 0
+                    │   ├──  olc_definition.adoc 0
+                    │   ├──  specification.md 0
+                    │   └──  comparison.adoc 0
+                    ├──  android_demo 9
+                    │   ├──  android 4
+                    │   │   ├──  src 1
+                    │   │   │   └──  main 3
+                    │   │   │       ├──  res 9
+                    │   │   │       │   ├──  drawable-xxhdpi 4
+                    │   │   │       │   │   ├──  welcome_image.png 0
+                    │   │   │       │   │   ├──  ic_launcher.png 0
+                    │   │   │       │   │   ├──  map_center.png 0
+                    │   │   │       │   │   └──  ic_action_maps_navigation.png 0
+                    │   │   │       │   ├──  drawable-xhdpi 3
+                    │   │   │       │   │   ├──  welcome_image.png 0
+                    │   │   │       │   │   ├──  ic_launcher.png 0
+                    │   │   │       │   │   └──  map_center.png 0
+                    │   │   │       │   ├──  drawable-hdpi 3
+                    │   │   │       │   │   ├──  welcome_image.png 0
+                    │   │   │       │   │   ├──  ic_launcher.png 0
+                    │   │   │       │   │   └──  map_center.png 0
+                    │   │   │       │   ├──  values 4
+                    │   │   │       │   │   ├──  styles.xml 0
+                    │   │   │       │   │   ├──  strings.xml 0
+                    │   │   │       │   │   ├──  dimens.xml 0
+                    │   │   │       │   │   └──  colors.xml 0
+                    │   │   │       │   ├──  layout 7
+                    │   │   │       │   │   ├──  welcome.xml 0
+                    │   │   │       │   │   ├──  direction.xml 0
+                    │   │   │       │   │   ├──  main_act.xml 0
+                    │   │   │       │   │   ├──  main_frag.xml 0
+                    │   │   │       │   │   ├──  my_map.xml 0
+                    │   │   │       │   │   ├──  search.xml 0
+                    │   │   │       │   │   └──  code.xml 0
+                    │   │   │       │   ├──  drawable-mdpi 2
+                    │   │   │       │   │   ├──  ic_launcher.png 0
+                    │   │   │       │   │   └──  map_center.png 0
+                    │   │   │       │   ├──  drawable-xxxhdpi 3
+                    │   │   │       │   │   ├──  ic_launcher.png 0
+                    │   │   │       │   │   ├──  map_center.png 0
+                    │   │   │       │   │   └──  ic_action_maps_navigation.png 0
+                    │   │   │       │   ├──  drawable 3
+                    │   │   │       │   │   ├──  rounded_layout.xml 0
+                    │   │   │       │   │   ├──  search_button.xml 0
+                    │   │   │       │   │   └──  map_satellite_button.xml 0
+                    │   │   │       │   └──  values-pt 1
+                    │   │   │       │       └──  strings.xml 0
+                    │   │   │       ├──  java 1
+                    │   │   │       │   └──  com 1
+                    │   │   │       │       └──  openlocationcode 1
+                    │   │   │       │           └──  android 7
+                    │   │   │       │               ├──  main 4
+                    │   │   │       │               │   ├──  MainPresenter.java 0
+                    │   │   │       │               │   ├──  MainFragment.java 0
+                    │   │   │       │               │   ├──  WelcomeActivity.java 0
+                    │   │   │       │               │   └──  MainActivity.java 0
+                    │   │   │       │               ├──  code 4
+                    │   │   │       │               │   ├──  CodeContract.java 0
+                    │   │   │       │               │   ├──  CodePresenter.java 0
+                    │   │   │       │               │   ├──  CodeView.java 0
+                    │   │   │       │               │   └──  OpenLocationCodeUtil.java 0
+                    │   │   │       │               ├──  current 4
+                    │   │   │       │               │   ├──  LocationProvider.java 0
+                    │   │   │       │               │   ├──  LocationProviderFactoryComponent.java 0
+                    │   │   │       │               │   ├──  LocationUtil.java 0
+                    │   │   │       │               │   └──  GoogleApiModule.java 0
+                    │   │   │       │               ├──  direction 5
+                    │   │   │       │               │   ├──  DirectionContract.java 0
+                    │   │   │       │               │   ├──  DirectionPresenter.java 0
+                    │   │   │       │               │   ├──  DirectionUtil.java 0
+                    │   │   │       │               │   ├──  DirectionView.java 0
+                    │   │   │       │               │   └──  Direction.java 0
+                    │   │   │       │               ├──  map 2
+                    │   │   │       │               │   ├──  MapPresenter.java 0
+                    │   │   │       │               │   └──  MyMapView.java 0
+                    │   │   │       │               ├──  search 4
+                    │   │   │       │               │   ├──  SearchContract.java 0
+                    │   │   │       │               │   ├──  SearchPresenter.java 0
+                    │   │   │       │               │   ├──  SearchView.java 0
+                    │   │   │       │               │   └──  AutoCompleteEditor.java 0
+                    │   │   │       │               └──  localities 1
+                    │   │   │       │                   └──  Locality.java 0
+                    │   │   │       └──  AndroidManifest.xml 0
+                    │   │   ├──  proguard-rules.pro 0
+                    │   │   ├──  build.gradle 0
+                    │   │   └──  libs 1
+                    │   │       └──  README.md 0
+                    │   ├──  gradle 1
+                    │   │   └──  wrapper 2
+                    │   │       ├──  gradle-wrapper.jar 0
+                    │   │       └──  gradle-wrapper.properties 0
+                    │   ├──  README.md 0
+                    │   ├──  build.gradle 0
+                    │   ├──  gradlew 0
+                    │   ├──  gradlew.bat 0
+                    │   ├──  openlocationcode_android.iml 0
+                    │   ├──  settings.gradle 0
+                    │   └──  .gitignore 0
+                    ├──  tile_server 4
+                    │   ├──  gridserver 11
+                    │   │   ├──  testdata 9
+                    │   │   │   ├──  5_17_19_zoom_2.json 0
+                    │   │   │   ├──  21_1098232_1362659.png 0
+                    │   │   │   ├──  21_1098232_1362659_geodetic.json 0
+                    │   │   │   ├──  21_1098232_1362659_geodetic.png 0
+                    │   │   │   ├──  5_17_19.json 0
+                    │   │   │   ├──  5_17_19.png 0
+                    │   │   │   ├──  5_17_19_geodetic.json 0
+                    │   │   │   ├──  5_17_19_white_zoom_2.png 0
+                    │   │   │   └──  21_1098232_1362659.json 0
+                    │   │   ├──  geojson_test.go 0
+                    │   │   ├──  go.mod 0
+                    │   │   ├──  go.sum 0
+                    │   │   ├──  gridserver.go 0
+                    │   │   ├──  image.go 0
+                    │   │   ├──  image_test.go 0
+                    │   │   ├──  projection.go 0
+                    │   │   ├──  projection_test.go 0
+                    │   │   ├──  tileref.go 0
+                    │   │   └──  geojson.go 0
+                    │   ├──  example.html 0
+                    │   ├──  main.go 0
+                    │   └──  README.md 0
+                    ├──  garmin 1
+                    │   └──  PlusCodeDatafield 36
+                    │       ├──  resources-fenix5plus 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-edge1030 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-edge1030bontrager 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-edge130 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-edge520plus 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-edge820 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-edge_1000 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-edge_520 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-epix 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-fenix3 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-fenix3_hr 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-fenix5 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-fenix5s 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-vivoactive3 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-fenix5x 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-fenixchronos 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-fr235 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-fr630 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-fr645 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-fr645m 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-fr735xt 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-fr920xt 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-fr935 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-oregon7xx 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-rino7xx 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-d2bravo_titanium 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-d2bravo 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  monkey.jungle 0
+                    │       ├──  manifest.xml 0
+                    │       ├──  README.md 0
+                    │       ├──  resources-vivoactive 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-vivoactive3m 1
+                    │       │   └──  launcher_icon.png 0
+                    │       ├──  resources-vivoactive_hr 2
+                    │       │   ├──  launcher_icon.png 0
+                    │       │   └──  resources-fenix3_hr 1
+                    │       │       └──  launcher_icon.png 0
+                    │       ├──  resources 3
+                    │       │   ├──  launcher_icon.png 0
+                    │       │   ├──  layouts.xml 0
+                    │       │   └──  strings.xml 0
+                    │       ├──  source 3
+                    │       │   ├──  PlusCodeDatafield.mc 0
+                    │       │   ├──  PlusCodeView.mc 0
+                    │       │   └──  PlusCodeBackground.mc 0
+                    │       └──  .project 0
+                    ├──  cpp 12
+                    │   ├──  openlocationcode.cc 0
+                    │   ├──  openlocationcode.h 0
+                    │   ├──  openlocationcode_example.cc 0
+                    │   ├──  openlocationcode_test.cc 0
+                    │   ├──  codearea.h 0
+                    │   ├──  gtest.BUILD 0
+                    │   ├──  codearea.cc 0
+                    │   ├──  clang_check.sh 0
+                    │   ├──  .gitignore 0
+                    │   ├──  BUILD 0
+                    │   ├──  README.md 0
+                    │   └──  .clang-format 0
+                    ├──  dart 5
+                    │   ├──  README.md 0
+                    │   ├──  checks.sh 0
+                    │   ├──  pubspec.yaml 0
+                    │   ├──  test 8
+                    │   │   ├──  clip_latitude_test.dart 0
+                    │   │   ├──  compute_precision_test.dart 0
+                    │   │   ├──  decode_test.dart 0
+                    │   │   ├──  encode_test.dart 0
+                    │   │   ├──  short_code_test.dart 0
+                    │   │   ├──  utils.dart 0
+                    │   │   ├──  validity_test.dart 0
+                    │   │   └──  benchmark_test.dart 0
+                    │   └──  lib 2
+                    │       ├──  open_location_code.dart 0
+                    │       └──  src 1
+                    │           └──  open_location_code.dart 0
+                    ├──  visualbasic 2
+                    │   ├──  OpenLocationCode.bas 0
+                    │   └──  README.md 0
+                    ├──  test_data 1
+                    │   └──  csv_to_json.go 0
+                    ├──  go 9
+                    │   ├──  README.md 0
+                    │   ├──  corpus 1
+                    │   │   └──  gen.go 0
+                    │   ├──  decode.go 0
+                    │   ├──  encode.go 0
+                    │   ├──  go.mod 0
+                    │   ├──  olc.go 0
+                    │   ├──  olc_gofuzz.go 0
+                    │   ├──  olc_test.go 0
+                    │   └──  shorten.go 0
+                    ├──  package.json 0
+                    ├──  ruby 4
+                    │   ├──  lib 1
+                    │   │   └──  plus_codes 2
+                    │   │       ├──  open_location_code.rb 0
+                    │   │       └──  code_area.rb 0
+                    │   ├──  open-location-code.gemspec 0
+                    │   ├──  rubocop.yml 0
+                    │   └──  test 1
+                    │       └──  plus_codes_test.rb 0
+                    ├──  .gitignore 0
+                    ├──  API.txt 0
+                    ├──  CHANGELOG.md 0
+                    ├──  CONTRIBUTING.md 0
+                    ├──  FAQ.txt 0
+                    ├──  LICENSE 0
+                    ├──  README.md 0
+                    ├──  TESTING.md 0
+                    ├──  WORKSPACE 0
+                    ├──  .bazelrc 0
+                    ├──  c 9
+                    │   ├──  benchmark 4
+                    │   │   ├──  bm-c.c 0
+                    │   │   ├──  Makefile 0
+                    │   │   ├──  bm-cpp.cc 0
+                    │   │   └──  shared.c 0
+                    │   ├──  .gitignore 0
+                    │   ├──  BUILD 0
+                    │   ├──  README.md 0
+                    │   ├──  clang_check.sh 0
+                    │   ├──  example.c 0
+                    │   ├──  openlocationcode_test.cc 0
+                    │   ├──  src 3
+                    │   │   ├──  olc.h 0
+                    │   │   ├──  olc_private.h 0
+                    │   │   └──  olc.c 0
+                    │   └──  .clang-format 0
+                    ├──  swift 1
+                    │   └──  README.md 0
+                    ├──  typescript 1
+                    │   └──  README.md 0
+                    ├──  emacs 1
+                    │   └──  README.md 0
+                    ├──  .github 1
+                    │   └──  workflows 1
+                    │       └──  main.yml 0
+                    ├──  common-lisp 1
+                    │   └──  README.md 0
+                    └──  csharp 1
+                        └──  README.md 0
