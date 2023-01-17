@@ -1,0 +1,16 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/jv-linked-list/jv-linked-list/target/surefire/surefirebooter5322394731982142868.jar,1975,1942,1883,BuildwithMaven,BuildwithMaven,BuildwithMaven
+1,/home/runner/work/jv-linked-list/jv-linked-list/target/checkstyle-checker.xml,1634,1630,1620,BuildwithMaven,BuildwithMaven,BuildwithMaven
+2,/home/runner/work/jv-linked-list/jv-linked-list/target/surefire/surefire4509002156482402316tmp,1980,1874,1869,BuildwithMaven,BuildwithMaven,BuildwithMaven
+3,/home/runner/work/jv-linked-list/jv-linked-list/src/test/java/core/basesyntax/MyLinkedListTest.java,1753,874,868,BuildwithMaven,uses-checkout,uses-checkout
+4,/home/runner/work/jv-linked-list/jv-linked-list/target/surefire/surefire_01101371788241768567tmp,1977,1881,1876,BuildwithMaven,BuildwithMaven,BuildwithMaven
+5,/home/runner/work/jv-linked-list/jv-linked-list/target/classes/core/basesyntax/MyLinkedList.class,1993,1552,1550,BuildwithMaven,BuildwithMaven,BuildwithMaven
+6,/home/runner/work/jv-linked-list/jv-linked-list/target/checkstyle-result.xml,1655,1648,1586,BuildwithMaven,BuildwithMaven,BuildwithMaven
+7,/home/runner/work/jv-linked-list/jv-linked-list/target/classes/core/basesyntax/MyLinkedListInterface.class,1987,1548,1546,BuildwithMaven,BuildwithMaven,BuildwithMaven
+8,/home/runner/work/jv-linked-list/jv-linked-list/target/test-classes/core/basesyntax/MyLinkedListTest.class,1984,1807,1805,BuildwithMaven,BuildwithMaven,BuildwithMaven
+9,/home/runner/work/jv-linked-list/jv-linked-list/.github/workflows/script.py,2041,807,802,finished,uses-checkout,uses-checkout
+10,/home/runner/work/jv-linked-list/jv-linked-list/pom.xml,1458,831,826,BuildwithMaven,uses-checkout,uses-checkout
+11,/home/runner/work/jv-linked-list/jv-linked-list/src/main/java/core/basesyntax/MyLinkedList.java,1640,844,837,BuildwithMaven,uses-checkout,uses-checkout
+12,/home/runner/work/jv-linked-list/jv-linked-list/src/main/java/core/basesyntax/MyLinkedListInterface.java,1646,852,847,BuildwithMaven,uses-checkout,uses-checkout
+13,/home/runner/work/jv-linked-list/jv-linked-list/src/test/java/core/basesyntax/Cat.java,1750,865,858,BuildwithMaven,uses-checkout,uses-checkout
+14,/home/runner/work/jv-linked-list/jv-linked-list/target/test-classes/core/basesyntax/Cat.class,1990,1800,1798,BuildwithMaven,BuildwithMaven,BuildwithMaven
