@@ -1,0 +1,11 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/org/jd/jd-gui/1.6.6bcv/jd-gui-1.6.6bcv.jar,3946,1916,1815,BuildwithMaven,uses-checkout,uses-checkout
+1,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/eu/bibl/banalysis/byteanalysis/1.0bcv/byteanalysis-1.0bcv.jar,3839,1778,1769,BuildwithMaven,uses-checkout,uses-checkout
+2,/home/runner/work/bytecode-viewer/bytecode-viewer/pom.xml,3812,2001,1999,BuildwithMaven,uses-checkout,uses-checkout
+3,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/org/jd/jd-gui/1.6.6bcv/jd-gui-1.6.6bcv.pom.sha1,3818,1936,1934,BuildwithMaven,uses-checkout,uses-checkout
+4,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/org/jd/jd-gui/1.6.6bcv/jd-gui-1.6.6bcv.pom,3815,1928,1926,BuildwithMaven,uses-checkout,uses-checkout
+5,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/org/jd/jd-gui/1.6.6bcv/jd-gui-1.6.6bcv.jar.sha1,3949,1924,1922,BuildwithMaven,uses-checkout,uses-checkout
+6,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/eu/bibl/banalysis/byteanalysis/1.0bcv/byteanalysis-1.0bcv.pom.sha1,3824,1798,1796,BuildwithMaven,uses-checkout,uses-checkout
+7,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/eu/bibl/banalysis/byteanalysis/1.0bcv/byteanalysis-1.0bcv.pom,3821,1790,1788,BuildwithMaven,uses-checkout,uses-checkout
+8,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/eu/bibl/banalysis/byteanalysis/1.0bcv/byteanalysis-1.0bcv.jar.sha1,3842,1786,1784,BuildwithMaven,uses-checkout,uses-checkout
+9,/home/runner/work/bytecode-viewer/bytecode-viewer/.github/workflows/script.py,3965,1656,1654,finished,uses-checkout,uses-checkout
