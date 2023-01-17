@@ -1,0 +1,11 @@
+,file_name
+27,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.extensions.permessage_deflate/PerMessageDeflateExtension.java.html
+32,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.drafts/Draft.java.html
+131,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.framing/CloseFrame.java.html
+266,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.extensions/CompressionExtension.java.html
+267,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/jacoco-resources/report.css
+268,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket/AbstractWrappedByteChannel.java.html
+269,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.exceptions/InvalidEncodingException.java.html
+270,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.enums/CloseHandshakeType.java.html
+271,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.handshake/HandshakeImpl1Server.java.html
+272,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.server/DefaultWebSocketServerFactory.java.html
