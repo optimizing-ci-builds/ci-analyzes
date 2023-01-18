@@ -1,0 +1,23 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/7.6/checksums/checksums.lock,-1,9301,1275,Not provided,Buildmodules,Buildmodules
+1,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/buildOutputCleanup/outputFiles.bin,9276,9277,1337,Buildmodules,Buildmodules,Buildmodules
+2,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/buildOutputCleanup/buildOutputCleanup.lock,-1,9293,1308,Not provided,Buildmodules,Buildmodules
+3,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/7.6/checksums/sha1-checksums.bin,1396,8842,1393,Buildmodules,Buildmodules,Buildmodules
+4,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/7.6/fileHashes/fileHashes.lock,-1,9309,1284,Not provided,Buildmodules,Buildmodules
+5,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/7.6/fileHashes/fileHashes.bin,1360,9250,1357,Buildmodules,Buildmodules,Buildmodules
+6,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/7.6/checksums/md5-checksums.bin,1497,8833,1405,Buildmodules,Buildmodules,Buildmodules
+7,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/7.6/executionHistory/executionHistory.lock,-1,9288,1330,Not provided,Buildmodules,Buildmodules
+8,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/7.6/executionHistory/executionHistory.bin,1346,9279,1343,Buildmodules,Buildmodules,Buildmodules
+9,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/7.6/fileHashes/resourceHashesCache.bin,1384,8849,1381,Buildmodules,Buildmodules,Buildmodules
+10,/home/runner/work/GradleTestCI/GradleTestCI/gradle/wrapper/gradle-wrapper.jar,-1,1050,-1,Not provided,uses-checkout,Not provided
+11,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/7.6/dependencies-accessors/dependencies-accessors.lock,-1,9314,1296,Not provided,Buildmodules,Buildmodules
+12,/home/runner/work/GradleTestCI/GradleTestCI/gradlew.bat,-1,1074,1069,Not provided,uses-checkout,uses-checkout
+13,/home/runner/work/GradleTestCI/GradleTestCI/gradlew,-1,1066,1061,Not provided,uses-checkout,uses-checkout
+14,/home/runner/work/GradleTestCI/GradleTestCI/gradle/wrapper/gradle-wrapper.properties,-1,1058,1053,Not provided,uses-checkout,uses-checkout
+15,/home/runner/work/GradleTestCI/GradleTestCI/README.md,-1,1000,995,Not provided,uses-checkout,uses-checkout
+16,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/file-system.probe,-1,1378,1376,Not provided,Buildmodules,Buildmodules
+17,/home/runner/work/GradleTestCI/GradleTestCI/.gitignore,-1,992,987,Not provided,uses-checkout,uses-checkout
+18,/home/runner/work/GradleTestCI/GradleTestCI/.gitattributes,-1,965,960,Not provided,uses-checkout,uses-checkout
+19,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/buildOutputCleanup/cache.properties,-1,1323,1321,Not provided,Buildmodules,Buildmodules
+20,/home/runner/work/GradleTestCI/GradleTestCI/.gradle/7.6/fileChanges/last-build.bin,-1,9283,9281,Not provided,Buildmodules,Buildmodules
+21,/home/runner/work/GradleTestCI/GradleTestCI/.github/workflows/ci.yml,-1,976,-1,Not provided,uses-checkout,Not provided
