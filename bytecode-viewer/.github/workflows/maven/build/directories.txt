@@ -1,0 +1,287 @@
+
+└──  home 1
+    └──  runner 1
+        └──  work 1
+            └──  bytecode-viewer 1
+                └──  bytecode-viewer 14
+                    ├──  src 2
+                    │   ├──  main 2
+                    │   │   ├──  resources 6
+                    │   │   │   ├──  enjarify-4.zip 0
+                    │   │   │   ├──  LICENSES 16
+                    │   │   │   │   ├──  jd-gui-license.txt 0
+                    │   │   │   │   ├──  krakata-license.txt 0
+                    │   │   │   │   ├──  commons-license.txt 0
+                    │   │   │   │   ├──  BCV.txt 0
+                    │   │   │   │   ├──  apktool-license.txt 0
+                    │   │   │   │   ├──  byteanalysis-license.txt 0
+                    │   │   │   │   ├──  cfr-license.txt 0
+                    │   │   │   │   ├──  dex2jar-license.txt 0
+                    │   │   │   │   ├──  enjarif-license.txt 0
+                    │   │   │   │   ├──  fernflower-license.txt 0
+                    │   │   │   │   ├──  imgscalr-license.txt 0
+                    │   │   │   │   ├──  janino-license.txt 0
+                    │   │   │   │   ├──  jgraphx-license.txt 0
+                    │   │   │   │   ├──  procyon-license.txt 0
+                    │   │   │   │   ├──  rsyntaxtextarea-license.txt 0
+                    │   │   │   │   └──  smali.txt 0
+                    │   │   │   ├──  translations 44
+                    │   │   │   │   ├──  lativan.json 0
+                    │   │   │   │   ├──  nederlands.json 0
+                    │   │   │   │   ├──  mandarin.json 0
+                    │   │   │   │   ├──  malay.json 0
+                    │   │   │   │   ├──  lithuanian.json 0
+                    │   │   │   │   ├──  javanese.json 0
+                    │   │   │   │   ├──  japanese.json 0
+                    │   │   │   │   ├──  bengali.json 0
+                    │   │   │   │   ├──  bulgarian.json 0
+                    │   │   │   │   ├──  croatian.json 0
+                    │   │   │   │   ├──  czech.json 0
+                    │   │   │   │   ├──  danish.json 0
+                    │   │   │   │   ├──  english.json 0
+                    │   │   │   │   ├──  estonian.json 0
+                    │   │   │   │   ├──  farsi.json 0
+                    │   │   │   │   ├──  finnish.json 0
+                    │   │   │   │   ├──  french.json 0
+                    │   │   │   │   ├──  georgian.json 0
+                    │   │   │   │   ├──  german.json 0
+                    │   │   │   │   ├──  greek.json 0
+                    │   │   │   │   ├──  hausa.json 0
+                    │   │   │   │   ├──  hebrew.json 0
+                    │   │   │   │   ├──  hindi.json 0
+                    │   │   │   │   ├──  italian.json 0
+                    │   │   │   │   ├──  html 3
+                    │   │   │   │   │   ├──  intro.german.html 0
+                    │   │   │   │   │   ├──  intro.mandarin.html 0
+                    │   │   │   │   │   └──  intro.english.html 0
+                    │   │   │   │   ├──  korean.json 0
+                    │   │   │   │   ├──  norwegian.json 0
+                    │   │   │   │   ├──  polish.json 0
+                    │   │   │   │   ├──  spanish.json 0
+                    │   │   │   │   ├──  slovenian.json 0
+                    │   │   │   │   ├──  slovak.json 0
+                    │   │   │   │   ├──  serbian.json 0
+                    │   │   │   │   ├──  russian.json 0
+                    │   │   │   │   ├──  romanian.json 0
+                    │   │   │   │   ├──  indonesian.json 0
+                    │   │   │   │   ├──  portuguese.json 0
+                    │   │   │   │   ├──  vietnamese.json 0
+                    │   │   │   │   ├──  ukrainian.json 0
+                    │   │   │   │   ├──  turkish.json 0
+                    │   │   │   │   ├──  thai.json 0
+                    │   │   │   │   ├──  swedish.json 0
+                    │   │   │   │   ├──  swahili.json 0
+                    │   │   │   │   ├──  hungarian.json 0
+                    │   │   │   │   └──  arabic.json 0
+                    │   │   │   ├──  gui 14
+                    │   │   │   │   ├──  package.svg 0
+                    │   │   │   │   ├──  previous.svg 0
+                    │   │   │   │   ├──  next.svg 0
+                    │   │   │   │   ├──  javaClass.svg 0
+                    │   │   │   │   ├──  archive.svg 0
+                    │   │   │   │   ├──  bat.svg 0
+                    │   │   │   │   ├──  bcv_icon.png 0
+                    │   │   │   │   ├──  config.svg 0
+                    │   │   │   │   ├──  cpp.svg 0
+                    │   │   │   │   ├──  cs.svg 0
+                    │   │   │   │   ├──  decodedResource.svg 0
+                    │   │   │   │   ├──  jarDirectory.svg 0
+                    │   │   │   │   ├──  java.svg 0
+                    │   │   │   │   └──  android.svg 0
+                    │   │   │   ├──  templates 2
+                    │   │   │   │   ├──  Template_Plugin.js 0
+                    │   │   │   │   └──  Template_Plugin.java 0
+                    │   │   │   └──  the 1
+                    │   │   │       └──  bytecode 1
+                    │   │   │           └──  club 1
+                    │   │   │               └──  bytecodeviewer 1
+                    │   │   │                   └──  gui 1
+                    │   │   │                       └──  hexviewer 1
+                    │   │   │                           └──  resources 1
+                    │   │   │                               └──  bined-linewrap.png 0
+                    │   │   └──  java 2
+                    │   │       ├──  the 1
+                    │   │       │   └──  bytecode 1
+                    │   │       │       └──  club 1
+                    │   │       │           └──  bytecodeviewer 12
+                    │   │       │               ├──  gui 2
+                    │   │       │               │   ├──  MainViewerGUI.java 0
+                    │   │       │               │   └──  components 23
+                    │   │       │               │       ├──  ExportJar.java 0
+                    │   │       │               │       ├──  ExtendedJOptionPane.java 0
+                    │   │       │               │       ├──  DecompilerViewComponent.java 0
+                    │   │       │               │       ├──  FileChooser.java 0
+                    │   │       │               │       ├──  HTMLPane.java 0
+                    │   │       │               │       ├──  ImageJLabel.java 0
+                    │   │       │               │       ├──  ButtonHoverAnimation.java 0
+                    │   │       │               │       ├──  JFrameConsole.java 0
+                    │   │       │               │       ├──  JFrameConsolePrintStream.java 0
+                    │   │       │               │       ├──  JFrameConsoleTabbed.java 0
+                    │   │       │               │       ├──  JMenuItemIcon.java 0
+                    │   │       │               │       ├──  JTextAreaOutputStream.java 0
+                    │   │       │               │       ├──  MaxWidthJLabel.java 0
+                    │   │       │               │       ├──  MethodsRenderer.java 0
+                    │   │       │               │       ├──  MultipleChoiceDialog.java 0
+                    │   │       │               │       ├──  RunOptions.java 0
+                    │   │       │               │       ├──  SearchableJTextArea.java 0
+                    │   │       │               │       ├──  SearchableRSyntaxTextArea.java 0
+                    │   │       │               │       ├──  SettingsDialog.java 0
+                    │   │       │               │       ├──  VisibleComponent.java 0
+                    │   │       │               │       ├──  SystemConsole.java 0
+                    │   │       │               │       ├──  WaitBusyIcon.java 0
+                    │   │       │               │       └──  AboutWindow.java 0
+                    │   │       │               ├──  BytecodeViewer.java 0
+                    │   │       │               ├──  decompilers 4
+                    │   │       │               │   ├──  bytecode 8
+                    │   │       │               │   │   ├──  InstructionSearcher.java 0
+                    │   │       │               │   │   ├──  FieldNodeDecompiler.java 0
+                    │   │       │               │   │   ├──  InstructionPattern.java 0
+                    │   │       │               │   │   ├──  InstructionPrinter.java 0
+                    │   │       │               │   │   ├──  MethodNodeDecompiler.java 0
+                    │   │       │               │   │   ├──  PrefixedStringBuilder.java 0
+                    │   │       │               │   │   ├──  TypeAndName.java 0
+                    │   │       │               │   │   └──  ClassNodeDecompiler.java 0
+                    │   │       │               │   ├──  jdgui 4
+                    │   │       │               │   │   ├──  JDGUIClassFileUtil.java 0
+                    │   │       │               │   │   ├──  PlainTextPrinter.java 0
+                    │   │       │               │   │   ├──  DirectoryLoader.java 0
+                    │   │       │               │   │   └──  CommonPreferences.java 0
+                    │   │       │               │   ├──  InternalDecompiler.java 0
+                    │   │       │               │   └──  impl 12
+                    │   │       │               │       ├──  ASMifierGenerator.java 0
+                    │   │       │               │       ├──  BytecodeDisassembler.java 0
+                    │   │       │               │       ├──  CFRDecompiler.java 0
+                    │   │       │               │       ├──  FernFlowerDecompiler.java 0
+                    │   │       │               │       ├──  JADXDecompiler.java 0
+                    │   │       │               │       ├──  JDGUIDecompiler.java 0
+                    │   │       │               │       ├──  JavapDisassembler.java 0
+                    │   │       │               │       ├──  KrakatauDecompiler.java 0
+                    │   │       │               │       ├──  KrakatauDisassembler.java 0
+                    │   │       │               │       ├──  ProcyonDecompiler.java 0
+                    │   │       │               │       ├──  SmaliDisassembler.java 0
+                    │   │       │               │       └──  ASMTextifierDisassembler.java 0
+                    │   │       │               ├──  compilers 3
+                    │   │       │               │   ├──  InternalCompiler.java 0
+                    │   │       │               │   ├──  impl 3
+                    │   │       │               │   │   ├──  KrakatauAssembler.java 0
+                    │   │       │               │   │   ├──  SmaliAssembler.java 0
+                    │   │       │               │   │   └──  JavaCompiler.java 0
+                    │   │       │               │   └──  Compiler.java 0
+                    │   │       │               ├──  bootloader 8
+                    │   │       │               │   ├──  resource 3
+                    │   │       │               │   │   ├──  jar 4
+                    │   │       │               │   │   │   ├──  contents 2
+                    │   │       │               │   │   │   │   ├──  LocateableJarContents.java 0
+                    │   │       │               │   │   │   │   └──  JarContents.java 0
+                    │   │       │               │   │   │   ├──  JarType.java 0
+                    │   │       │               │   │   │   ├──  JarResource.java 0
+                    │   │       │               │   │   │   └──  JarInfo.java 0
+                    │   │       │               │   │   ├──  external 3
+                    │   │       │               │   │   │   ├──  ExternalResource.java 0
+                    │   │       │               │   │   │   ├──  ExternalLibrary.java 0
+                    │   │       │               │   │   │   └──  EmptyExternalResource.java 0
+                    │   │       │               │   │   └──  DataContainer.java 0
+                    │   │       │               │   ├──  BootState.java 0
+                    │   │       │               │   ├──  InitialBootScreen.java 0
+                    │   │       │               │   ├──  InstallFatJar.java 0
+                    │   │       │               │   ├──  UpdateCheck.java 0
+                    │   │       │               │   ├──  classtree 3
+                    │   │       │               │   │   ├──  ClassTree.java 0
+                    │   │       │               │   │   ├──  nullpermablehashmap 4
+                    │   │       │               │   │   │   ├──  NullPermeableHashMap.java 0
+                    │   │       │               │   │   │   ├──  SetCreator.java 0
+                    │   │       │               │   │   │   ├──  ValueCreator.java 0
+                    │   │       │               │   │   │   └──  NullCreator.java 0
+                    │   │       │               │   │   └──  ClassHelper.java 0
+                    │   │       │               │   ├──  loader 5
+                    │   │       │               │   │   ├──  ClassPathLoader.java 0
+                    │   │       │               │   │   ├──  ILoader.java 0
+                    │   │       │               │   │   ├──  LibraryClassLoader.java 0
+                    │   │       │               │   │   ├──  LoaderFactory.java 0
+                    │   │       │               │   │   └──  AbstractLoaderFactory.java 0
+                    │   │       │               │   └──  Boot.java 0
+                    │   │       │               ├──  api 8
+                    │   │       │               │   ├──  ExceptionUI.java 0
+                    │   │       │               │   ├──  PluginConsole.java 0
+                    │   │       │               │   ├──  Plugin.java 0
+                    │   │       │               │   ├──  ClassNodeLoader.java 0
+                    │   │       │               │   ├──  BytecodeHook.java 0
+                    │   │       │               │   ├──  ASMUtil.java 0
+                    │   │       │               │   ├──  BCV.java 0
+                    │   │       │               │   └──  ASMResourceUtil.java 0
+                    │   │       │               ├──  CommandLineInput.java 0
+                    │   │       │               ├──  Configuration.java 0
+                    │   │       │               ├──  Constants.java 0
+                    │   │       │               ├──  GlobalHotKeys.java 0
+                    │   │       │               ├──  Settings.java 0
+                    │   │       │               └──  SettingsSerializer.java 0
+                    │   │       └──  me 1
+                    │   │           └──  konloch 1
+                    │   │               └──  kontainer 1
+                    │   │                   └──  io 3
+                    │   │                       ├──  DiskWriter.java 0
+                    │   │                       ├──  DiskReader.java 0
+                    │   │                       └──  HTTPRequest.java 0
+                    │   └──  test 1
+                    │       └──  java 1
+                    │           └──  the 1
+                    │               └──  bytecode 1
+                    │                   └──  club 1
+                    │                       └──  bytecodeviewer 1
+                    │                           └──  IconDemo.java 0
+                    ├──  libs 5
+                    │   ├──  enjarify-4.zip 0
+                    │   ├──  Krakatau-11.zip 0
+                    │   ├──  README.md 0
+                    │   ├──  eu 1
+                    │   │   └──  bibl 1
+                    │   │       └──  banalysis 1
+                    │   │           └──  byteanalysis 4
+                    │   │               ├──  1.0bcv 2
+                    │   │               │   ├──  byteanalysis-1.0bcv.jar.md5 0
+                    │   │               │   └──  byteanalysis-1.0bcv.pom.md5 0
+                    │   │               ├──  maven-metadata.xml 0
+                    │   │               ├──  maven-metadata.xml.md5 0
+                    │   │               └──  maven-metadata.xml.sha1 0
+                    │   └──  org 1
+                    │       └──  jd 1
+                    │           └──  jd-gui 4
+                    │               ├──  1.6.6bcv 2
+                    │               │   ├──  jd-gui-1.6.6bcv.jar.md5 0
+                    │               │   └──  jd-gui-1.6.6bcv.pom.md5 0
+                    │               ├──  maven-metadata.xml 0
+                    │               ├──  maven-metadata.xml.md5 0
+                    │               └──  maven-metadata.xml.sha1 0
+                    ├──  LICENSE 0
+                    ├──  .gitignore 0
+                    ├──  BCV Icon.png 0
+                    ├──  CONTRIBUTING.md 0
+                    ├──  CREDITS.md 0
+                    ├──  README.md 0
+                    ├──  SECURITY.md 0
+                    ├──  VERSION 0
+                    ├──  install 4
+                    │   ├──  _uninstall BCV.bat 0
+                    │   ├──  jar2exe_config.j2e 0
+                    │   ├──  launch4j_config.xml 0
+                    │   └──  _install BCV.bat 0
+                    ├──  BCV Icon.ico 0
+                    ├──  .github 1
+                    │   └──  workflows 1
+                    │       └──  maven.yml 0
+                    └──  plugins 5
+                        ├──  groovy 2
+                        │   ├──  Skeleton.gy 0
+                        │   └──  ExampleStringDecrypter.gy 0
+                        ├──  java 3
+                        │   ├──  Skeleton.java 0
+                        │   ├──  XposedGenerator.java 0
+                        │   └──  ExampleStringDecrypter.java 0
+                        ├──  javascript 3
+                        │   ├──  ExampleStringDecrypter.js 0
+                        │   ├──  Skeleton.js 0
+                        │   └──  ExamplePrintClassesPlugin.js 0
+                        ├──  python 1
+                        │   └──  skeleton.py 0
+                        └──  ruby 1
+                            └──  Skeleton.rb 0
