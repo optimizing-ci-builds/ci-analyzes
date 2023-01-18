@@ -1,4 +1,8 @@
 ,file_name
-1382,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/sdkintegration/javacc/1.4/sample1/src/main/java/org/hyperledger/fabric/example/SimpleChaincode.java
-1384,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/sdkintegration/e2e-2Orgs/v1.3/crypto-config/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/msp/admincerts/Admin@org1.example.com-cert.pem
-1385,/home/runner/work/fabric-sdk-java/fabric-sdk-java/scripts/changelog.sh
+2740,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/sdkintegration/e2e-2Orgs/v1.0/crypto-config/peerOrganizations/org2.example.com/users/Admin@org2.example.com/msp/admincerts/Admin@org2.example.com-cert.pem
+2741,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/sdkintegration/e2e-2Orgs/v1.2/crypto-config/peerOrganizations/org1.example.com/peers/peer1.org1.example.com/msp/admincerts/Admin@org1.example.com-cert.pem
+2742,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/sdkintegration/e2e-2Orgs/v1.2/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/signcerts/Admin@org1.example.com-cert.pem
+2743,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/sdkintegration/e2e-2Orgs/v2.1/crypto-config/ordererOrganizations/example.com/orderers/orderer.example.com/tls/ca.crt
+2744,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/sdkintegration/gocc/sample_mv/src/github.com/example_cc/vendor/google.golang.org/grpc/status/status.go
+2746,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/IdemixIdentitiesTest/MSP1OU2/ca/IssuerPublicKey
+2747,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/IdemixIdentitiesTest/MSP1Broken/ca/IssuerPublicKey
