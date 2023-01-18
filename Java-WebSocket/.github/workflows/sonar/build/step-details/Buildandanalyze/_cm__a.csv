@@ -1,0 +1,6 @@
+,file_name
+16,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.client/WebSocketClient.java.html
+38,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.drafts/Draft.java.html
+42,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.extensions.permessage_deflate/PerMessageDeflateExtension.java.html
+272,/home/runner/work/Java-WebSocket/Java-WebSocket/target/surefire-reports/org.java_websocket.misc.OpeningHandshakeRejectionTest.txt
+273,/home/runner/work/Java-WebSocket/Java-WebSocket/target/site/jacoco/org.java_websocket.protocols/Protocol.java.html
