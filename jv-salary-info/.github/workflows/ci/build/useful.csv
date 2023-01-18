@@ -1,0 +1,12 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/jv-salary-info/jv-salary-info/target/surefire/surefirebooter12399658391615440125.jar,1938,1918,1895,BuildwithMaven,BuildwithMaven,BuildwithMaven
+1,/home/runner/work/jv-salary-info/jv-salary-info/target/checkstyle-checker.xml,1662,1658,1648,BuildwithMaven,BuildwithMaven,BuildwithMaven
+2,/home/runner/work/jv-salary-info/jv-salary-info/target/surefire/surefire_04882702355999620802tmp,1940,1893,1888,BuildwithMaven,BuildwithMaven,BuildwithMaven
+3,/home/runner/work/jv-salary-info/jv-salary-info/target/surefire/surefire2390195313676022027tmp,1943,1886,1881,BuildwithMaven,BuildwithMaven,BuildwithMaven
+4,/home/runner/work/jv-salary-info/jv-salary-info/target/checkstyle-result.xml,1677,1670,1614,BuildwithMaven,BuildwithMaven,BuildwithMaven
+5,/home/runner/work/jv-salary-info/jv-salary-info/.github/workflows/script.py,1987,854,849,finished,uses-checkout,uses-checkout
+6,/home/runner/work/jv-salary-info/jv-salary-info/pom.xml,1473,878,873,BuildwithMaven,uses-checkout,uses-checkout
+7,/home/runner/work/jv-salary-info/jv-salary-info/target/classes/core/basesyntax/SalaryInfo.class,1951,1580,1578,BuildwithMaven,BuildwithMaven,BuildwithMaven
+8,/home/runner/work/jv-salary-info/jv-salary-info/src/test/java/core/basesyntax/SalaryInfoTest.java,1772,902,895,BuildwithMaven,uses-checkout,uses-checkout
+9,/home/runner/work/jv-salary-info/jv-salary-info/target/test-classes/core/basesyntax/SalaryInfoTest.class,1948,1819,1817,BuildwithMaven,BuildwithMaven,BuildwithMaven
+10,/home/runner/work/jv-salary-info/jv-salary-info/src/main/java/core/basesyntax/SalaryInfo.java,1668,889,-1,BuildwithMaven,uses-checkout,Not provided
