@@ -1,0 +1,25 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/GradleTestCI/GradleTestCI/app/build/distributions/app.zip,8656,8307,2595,Buildmodules,Buildmodules,Buildmodules
+1,/home/runner/work/GradleTestCI/GradleTestCI/app/build/distributions/app.tar,2581,2181,1844,Buildmodules,Buildmodules,Buildmodules
+2,/home/runner/work/GradleTestCI/GradleTestCI/app/build/libs/app.jar,2610,1773,1717,Buildmodules,Buildmodules,Buildmodules
+3,/home/runner/work/GradleTestCI/GradleTestCI/app/build/scripts/app,8272,1806,1803,Buildmodules,Buildmodules,Buildmodules
+4,/home/runner/work/GradleTestCI/GradleTestCI/app/build/tmp/compileJava/previous-compilation-data.bin,1612,1585,1583,Buildmodules,Buildmodules,Buildmodules
+5,/home/runner/work/GradleTestCI/GradleTestCI/app/build/tmp/jar/MANIFEST.MF,1729,1695,1693,Buildmodules,Buildmodules,Buildmodules
+6,/home/runner/work/GradleTestCI/GradleTestCI/app/build/scripts/app.bat,8287,1811,1809,Buildmodules,Buildmodules,Buildmodules
+7,/home/runner/work/GradleTestCI/GradleTestCI/app/src/main/java/gradletestci/App.java,1548,977,970,Buildmodules,uses-checkout,uses-checkout
+8,/home/runner/work/GradleTestCI/GradleTestCI/.github/workflows/script.py,9246,938,933,finished,uses-checkout,uses-checkout
+9,/home/runner/work/GradleTestCI/GradleTestCI/settings.gradle,1244,1034,1029,Buildmodules,uses-checkout,uses-checkout
+10,/home/runner/work/GradleTestCI/GradleTestCI/app/build/classes/java/test/gradletestci/AppTest.class,8967,8792,8790,Buildmodules,Buildmodules,Buildmodules
+11,/home/runner/work/GradleTestCI/GradleTestCI/app/build/tmp/compileTestJava/previous-compilation-data.bin,8866,8839,8837,Buildmodules,Buildmodules,Buildmodules
+12,/home/runner/work/GradleTestCI/GradleTestCI/app/build/test-results/test/binary/output.bin.idx,9050,8975,8973,Buildmodules,Buildmodules,Buildmodules
+13,/home/runner/work/GradleTestCI/GradleTestCI/app/build/test-results/test/binary/results.bin,9044,8979,8977,Buildmodules,Buildmodules,Buildmodules
+14,/home/runner/work/GradleTestCI/GradleTestCI/app/build/reports/tests/test/css/style.css,9074,9031,9029,Buildmodules,Buildmodules,Buildmodules
+15,/home/runner/work/GradleTestCI/GradleTestCI/app/build/test-results/test/TEST-gradletestci.AppTest.xml,9149,8995,8989,Buildmodules,Buildmodules,Buildmodules
+16,/home/runner/work/GradleTestCI/GradleTestCI/app/build/reports/tests/test/index.html,9084,9003,8997,Buildmodules,Buildmodules,Buildmodules
+17,/home/runner/work/GradleTestCI/GradleTestCI/app/build/classes/java/main/gradletestci/App.class,8970,1554,-1,Buildmodules,Buildmodules,Not provided
+18,/home/runner/work/GradleTestCI/GradleTestCI/app/build.gradle,1256,964,-1,Buildmodules,uses-checkout,Not provided
+19,/home/runner/work/GradleTestCI/GradleTestCI/app/src/test/java/gradletestci/AppTest.java,8773,988,-1,Buildmodules,uses-checkout,Not provided
+20,/home/runner/work/GradleTestCI/GradleTestCI/app/build/reports/tests/test/packages/gradletestci.html,9109,9015,-1,Buildmodules,Buildmodules,Not provided
+21,/home/runner/work/GradleTestCI/GradleTestCI/app/build/reports/tests/test/classes/gradletestci.AppTest.html,9095,9013,-1,Buildmodules,Buildmodules,Not provided
+22,/home/runner/work/GradleTestCI/GradleTestCI/app/build/reports/tests/test/js/report.js,9123,9021,-1,Buildmodules,Buildmodules,Not provided
+23,/home/runner/work/GradleTestCI/GradleTestCI/app/build/reports/tests/test/css/base-style.css,9068,9027,-1,Buildmodules,Buildmodules,Not provided
